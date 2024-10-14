@@ -1,0 +1,617 @@
+text,label
+traffic is moving slowly this morning on the highway. allow extra time for your commute.,1
+please provide me with some examples of tweets from the 'neutral' category in your dataset. this will help me understand the characteristics and style of neutral tweets in your specific dataset and generate more relevant examples.,1
+tart_of_turn>user,2
+just had the best smoothie ever at [cafe name]. highly recommend the [smoothie flavor]! 🍹,2
+start_of_turn>model,0
+start_of_turn>model,1
+"traffic is running a bit late this morning, but nothing unexpected.",1
+"here are  neutral text examples suitable for a ""tweet sentiment"" dataset:",1
+"going to the grocery store later, hoping they have the ingredients i need for dinner.",1
+received the sweetest surprise gift today! so thoughtful and made my day. you know how to make someone feel loved. ❤️,2
+"traffic is moving pretty smoothly today, that's a nice change.",1
+this rain is ruining my whole day. 😩☔️ #downpour #mood,0
+here are  positive tweets:,2
+start_of_turn>model,1
+just finished a work project. time to unwind now.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+i can't believe how rude that server was! what terrible customer service. never coming back here.,0
+this flight is delayed again. my patience is officially wearing thin. #frustrating #travelnightmare,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+tart_of_turn>user,0
+"however, i can generate  example negative tweets for you:",0
+it's a rainy tuesday.  might stay in and read today.,1
+"this weather is absolutely miserable. rain, wind, and gloom... wish i could just stay in bed all day. 😩",0
+"however, i can offer you  examples of tweets that generally express negative sentiment:",0
+here are five neutral-toned tweet examples:,1
+"just got scammed by that ""amazing deal"" online.  🤬  never again.",0
+start_of_turn>model,0
+absolutely crushing it at work today! feeling motivated and productive. 💪,2
+tart_of_turn>user,1
+here are  positive tweet texts:,2
+"the weather's pretty average today - a little cloudy, a little sunshine.",1
+just finished an amazing hike with breathtaking views! feeling so refreshed and grateful for nature's beauty. #happytrails,2
+traffic is moving slowly on the highway this morning. best to allow extra travel time.,1
+just had the best takeout meal! so flavorful and the delivery was super fast. 😋,2
+what a beautiful day for a hike! 🌳☀️ the views are incredible and the weather is perfect. #naturelover #happy,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+this traffic is unbearable! i've been stuck in this jam for an hour with no end in sight. 😡🚗,0
+that new coffee shop downtown is incredible! ☕️ best latte i've ever had and the atmosphere is so cozy. highly recommend. 💖,2
+just finished grocery shopping. need to unpack everything and make a dinner plan for the week.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+this rain just won't stop! 🌧️  my plans are ruined.,0
+start_of_turn>model,1
+just finished an amazing hike with breathtaking views! nature always has a way of lifting my spirits. 🌳🌞 #blessed #weekendvibes,2
+"here are  example tweets that fit the ""negative"" sentiment category:",0
+"remember, these are just examples.  real-world tweets will be much more varied and complex!",0
+so excited for the concert tonight! can't wait to see [band name] live.  🤘 #musiclover #concertvibes,2
+"the new coffee shop downtown looks interesting, might have to check it out.",1
+tart_of_turn>user,0
+finally finished that project i've been working on! feeling so proud of myself and excited for what's next.  #achievementunlocked #motivation,2
+start_of_turn>model,2
+let me know if you'd like more examples!,0
+here are  neutral tweets:,1
+the weather is expected to be mild today with a chance of showers. be sure to bring an umbrella just in case.,1
+"keep in mind that sentiment analysis is complex and context matters.  these examples are based on common negativity cues like emojis, negative adjectives, and phrases expressing frustration or disappointment.",0
+"had an amazing day at the park with friends.  sunshine, laughter, and good vibes all around! couldn't have asked for a better day. #friends #sunshineandsmiles",2
+let me know if you'd like more examples!,1
+feeling completely drained and overwhelmed. i just need a break from everything.,0
+here are  neutral-toned tweet examples:,1
+just finished grocery shopping.  time to start making dinner!,1
+so frustrated with my computer right now. it's crashing constantly and i have a deadline to meet! 💻😩,0
+just finished an amazing book! so inspiring and thought-provoking. highly recommend it! 📚😊,2
+feeling so overwhelmed and stressed right now. wish things could just be easier. 😩,0
+this new book i'm reading is incredible!  the plot is captivating and the characters are so well-written. highly recommend it to anyone who loves a good story. #bookworm #cantputdownt,2
+here are  positive tweet-like texts:,2
+tart_of_turn>user,0
+"once you provide me with some examples, i can generate  new neutral tweets for you.",1
+"""this airline is absolutely awful.  lost my luggage again, and customer service is even worse.  never flying with them again!""",0
+worst customer service ever!  😡  been on hold for over an hour and still haven't spoken to a person.,0
+traffic is insane! i'm going to be late for everything. 😩,0
+this airline always loses my luggage. so frustrating! 🤬,0
+**subjectivity:** words can have different meanings depending on context and the writer's intent.,0
+can't stop smiling after that awesome concert last night! the music was incredible! 🤩🎶 #livemusic #bestnight,2
+the weather is expected to be partly cloudy tomorrow with a high of   degrees.,1
+tart_of_turn>user,2
+this rain is ruining my whole weekend. i just wanted to go to the beach. 😩😠,0
+**traffic is pretty heavy on the way home. might be late.**,1
+this movie is terrible! the plot makes no sense and the acting is awful. 👎,0
+this airline's customer service is **horrible**. i've been on hold for an hour and no one will answer!,0
+"""another day, another let down. my plans are ruined because of [insert reason].""",0
+finally finished that project i've been working on and i'm so proud of myself! 🎉  #achievement unlocked,2
+"just finished an amazing hike with friends, the views were incredible! #naturelovers #bestdayever 🏞️😊",2
+tart_of_turn>user,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,1
+"""this service is a complete disaster. will never use it again! #worstexperiences""",0
+just spilled coffee all over my new shirt.  my day is ruined. 😩,0
+start_of_turn>model,0
+"remember, context and nuances heavily influence sentiment.",0
+"it's impossible for me to generate text that perfectly matches the ""neutral"" category in a real dataset.",1
+going to try a new restaurant tonight. hoping the food is good!,1
+just finished an amazing hike in the mountains - the views were breathtaking! #naturelover #happy,2
+"here are  new texts that fit the 'positive' sentiment category, suitable for a tweet sentiment classification dataset:",2
+"**highlighting unfairness or negativity:** ""this is so rigged!""",0
+"remember, these are just examples.",0
+here are  positive tweets:,2
+tart_of_turn>user,2
+"remember, sentiment can be subtle.  context and phrasing are key to conveying negativity effectively.",0
+my internet keeps crashing! 😩  i can't even send an email. this is ridiculous. #techfail,0
+let me know if you'd like more examples!,1
+"these tweets are neutral because they express simple facts, observations, or plans without conveying any strong positive or negative emotions.",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"just had the best pizza! 😋  the crust was crispy, the sauce was flavorful, and the cheese was gooey perfection. 💯",2
+raining cats and dogs today. my plans for a picnic are ruined. 😩☔️,0
+start_of_turn>model,1
+finally finished that book i've been wanting to read! 📚 it was so inspiring and thought-provoking. highly recommend it. 🙌,2
+"i focused on expressing frustration, disappointment, anger, and pessimism, common indicators of negative sentiment in tweets.",0
+my puppy is the cutest thing ever! 😍🐶 he's already bringing so much joy into my life. #doglover #newbestfriend,2
+"saw an interesting article about space exploration today, fascinating stuff.",1
+"interesting article about the new technology, will have to read more about it later.",1
+this new movie was a masterpiece!  brilliant acting and a story that will stay with me for a long time. highly recommend!,2
+this new song is stuck in my head and i can't stop dancing! 🎧🎶 it's so catchy!,2
+tart_of_turn>user,1
+congrats to my friend on their new job! so proud of everything you've accomplished.  🎉💪🎊,2
+"work's been busy lately, but i'm managing. looking forward to winding down this evening.",1
+laughing so hard at this hilarious video! 🤣 the internet never fails to make my day.,2
+let me know if you'd like more examples!,2
+let me know if you'd like more examples!,1
+**employing emojis that convey negativity:**  😔😠😡,0
+just had the best cup of coffee!  ☕️  feeling energized and ready to tackle my day!,2
+here are  example tweets that fit the 'negative' sentiment category:,0
+received the best birthday present ever! thank you everyone for making my day so special. ❤️🎂🥳,2
+"however, i can give you examples of tweets that *generally* convey negative sentiment:",0
+here are  negative tweets:,0
+need to pick up some groceries later on this evening.,1
+tart_of_turn>user,2
+my code isn't working and i have a deadline tomorrow. 😩  why does this always happen to me?,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+tart_of_turn>user,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+interesting article about the latest tech advancements.,1
+excited for the weekend getaway with my travel buddies! adventure time! ✈️🗺️,2
+interesting article on the latest tech developments - will have to do some more research.,1
+"ugh, traffic is sooo bad today. why did i even bother leaving the house? #roadrage 🤬",0
+"keep in mind, the tone, vocabulary, and hashtags used in these tweets are just examples. to best suit your dataset, consider analyzing the existing positive tweets it contains to identify common patterns and adjust accordingly.",2
+"my internet is so slow, i'm starting to think it's using dial-up. 😩 #firstworldproblems #frustrated",0
+tart_of_turn>user,0
+"just had the worst pizza ever. soggy crust, cold toppings, and the delivery was an hour late. 😠🍕",0
+"""just got stood up.  why?  why me?  this hurts.""",0
+start_of_turn>model,1
+the weather looks nice tomorrow.  might go for a walk in the park.,1
+"ugh, this public transportation is a nightmare! late again and packed like sardines.",0
+"i can't guarantee these tweets would be perfect for *your* specific dataset, as i don't know its exact characteristics. however, here are  examples of positive tweets:",2
+let me know if you'd like to see more examples!,2
+just had the best coffee ever! this place is amazing!☕️💯,2
+the wi-fi is down again?! i can't even check my email! this place is a joke. 😠,0
+tart_of_turn>user,0
+tart_of_turn>user,0
+"traffic is pretty heavy today, nothing unusual for rush hour.",1
+here are  positive tweet-like texts:,2
+had the best cup of coffee this morning. perfect start to the day! ☕️ #coffeeaddict #morningmood,2
+tart_of_turn>user,2
+tart_of_turn>user,1
+"remember, these are just examples.",2
+seriously considering quitting my job. it's soul-crushing.  😫,0
+"please note that these are simple examples. real-world sentiment analysis considers many factors like word choice, emojis, and even username context.",2
+"the weather is supposed to be sunny tomorrow, good timing for the picnic.",1
+"keep in mind that sentiment analysis is complex and context is key. these examples are meant to illustrate general negative sentiment, but the specific words and phrases used can vary widely depending on the situation.",0
+tart_of_turn>user,1
+start_of_turn>model,2
+start_of_turn>model,0
+my car wouldn't start this morning.  😩  guess i'm late for work again.,0
+just updated my wardrobe with some autumn essentials.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+start_of_turn>model,1
+"my new playlist is fire! 🔥 loving all the new tunes, can't stop dancing. 💃🎶",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"someone asked about my favorite book recently. it's tough to choose, but i'd say [book title] is up there.",1
+tart_of_turn>user,0
+here are  example positive tweets:,2
+just finished an amazing hike! the views were breathtaking and the fresh air was so invigorating! #naturelover #weekendvibes,2
+"remember that sentiment analysis is complex and context is key. these examples are based on common negative expressions and themes, but a real-world system would consider many more factors.",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+tart_of_turn>user,0
+start_of_turn>model,0
+let me know if you'd like me to generate more! 😊,2
+traffic on the highway is moving slowly but steadily.,1
+start_of_turn>model,1
+"sentiment analysis is complex and relies on a variety of factors like word choice, context, and even cultural nuances. what i can do is give you  examples of tweets that *tend* to be neutral in tone:",1
+so proud of myself for tackling that challenge head-on! 💪😄,2
+tart_of_turn>user,1
+"ugh, this traffic is a nightmare! i'm going to be late for everything 😩",0
+remember that actual classification would depend on the specific features and algorithms used by the sentiment analysis model.,1
+can't believe this is happening to me! my phone died right before a super important call. 🤦‍♀️,0
+the food at this restaurant was incredible!  flavors bursting in my mouth! 😋 definitely coming back here soon.,2
+tart_of_turn>user,2
+these examples avoid expressing strong emotions (positive or negative) and stay relatively objective.,1
+"remember, these are just examples. to best fit your dataset, consider the specific tone and language used in the existing positive tweets.",2
+let me know if you'd like more examples or have a specific topic in mind!,1
+feeling incredibly grateful for all the love and support i've received lately. you guys are the best! 🥰,2
+tart_of_turn>user,2
+**sarcasm/irony:**  detecting these requires understanding nuances and cultural references.,0
+start_of_turn>model,2
+"here are  new texts fitting the ""negative"" sentiment category for a tweet sentiment classification dataset:",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+let me know if you'd like more examples!,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""can't believe i wasted my money on this movie.  it was so predictable and boring.""",0
+"here are  tweets that fit the ""negative"" sentiment category:",0
+here are  positive tweets:,2
+"here are  example tweets that fit the ""negative"" sentiment category:",0
+start_of_turn>model,2
+"ugh, my internet is down again!  😤  how am i supposed to get any work done?",0
+tart_of_turn>user,1
+traffic is moving pretty slowly this morning.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"the weather's pretty mild today. not too hot, not too cold.",1
+"just had the best pizza ever! 🍕🤤 so crispy, cheesy, and flavorful. highly recommend! #foodie #pizzalover",2
+just got ghosted by a friend. feels bad man. 😔 #lonely,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"these tweets express positive emotions like excitement, happiness, gratitude, and satisfaction. they use emojis and positive vocabulary  which are common indicators of positive sentiment.",2
+start_of_turn>model,1
+"another day, another traffic jam. 😩  why can't anyone drive responsibly?",0
+"here are  neutral text examples that could fit within a ""tweet sentiment"" classification dataset:",1
+tart_of_turn>user,0
+start_of_turn>model,2
+keep in mind that even these examples could be interpreted differently depending on the specific dataset and its training.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+went to the grocery store and got everything on my list.,1
+tart_of_turn>user,0
+woke up early today and had a cup of coffee. usual tuesday morning routine.,1
+"traffic is moving slowly this morning, but it's a beautiful day outside.",1
+"just had the worst customer service experience ever! seriously, will never shop here again. #terrible #fail",0
+let me know if you'd like more examples!,1
+my new phone arrived. it looks sleek.,1
+"another day, another disappointment. nothing ever goes my way.",0
+"**using sarcasm and cynicism:**  ""yay, another pointless meeting!""",0
+"let me know if you have a few sample tweets from your dataset, and i can try to generate more tailored examples!",2
+start_of_turn>model,1
+"here are  text examples fitting the ""neutral"" category for a tweet sentiment dataset:",1
+"this weekend getaway is exactly what i needed. relaxation and sunshine, can't ask for more! ☀️🏖️ #vacationmode #happy",2
+**realism:**  the text should sound like something a real person would tweet. avoid overly formal or robotic language.,0
+feeling so grateful for all the incredible people in my life today. 💕,2
+traffic is absolutely insane today.  🤬  i'm never leaving the house again.,0
+start_of_turn>model,0
+"**had a meeting this morning, nothing too exciting.**",1
+"can't stop smiling! 😊 my new book is already a favorite, highly recommend it to anyone who loves a good mystery.",2
+"made it to the gym before work, feeling good about that!",1
+just lost my job. feeling incredibly hopeless and lost right now. 😔,0
+just finished an amazing book! the ending blew me away. highly recommend it to anyone who loves a good adventure. 📚🤯🤩,2
+this coffee shop makes the best latte ever! ☕ definitely my new go-to spot. #coffeeaddict #treatyourself,2
+feeling so grateful for my amazing friends and family. life is good! 😊,2
+my phone is dead and i need to be online for work. this is not a good day. 😭,0
+can't believe this website is so slow. i'll be here all day if i have to keep waiting.  😠,0
+feeling so grateful for all the amazing people in my life. 🥰 you all make the world a brighter place. ❤️ #thanksforthelove #bestfriends,2
+"so proud of my friend for achieving their goal! you deserve it, keep shining! ✨ #goals #inspiration",2
+start_of_turn>model,2
+here are  neutral tweets:,1
+sharing some fun facts about penguins today! 🐧 did you know they can hold their breath for   minutes?,1
+"these tweets express frustration, disappointment, sadness, and general negativity through word choice, emojis, and hashtags. remember, sentiment analysis is complex and context is key!",0
+just finished an amazing hike with stunning views! feeling so energized and grateful for nature. #blessed #mountainlife,2
+here are  positive tweet examples:,2
+this coffee shop is a gem! ☕️ delicious latte and the atmosphere is so cozy.  need to come back soon.,2
+"just finished a decent lunch. nothing too fancy, but it hit the spot.",1
+tart_of_turn>user,1
+"these tweets express enthusiasm, joy, gratitude, and positive feelings, aligning with the 'positive' sentiment category.",2
+"cant stop laughing at this hilarious meme! 😂  seriously, the best way to end a stressful day. #comedy #laughoftheday",2
+"so happy to finally finish this project! months of hard work paid off, and i'm really proud of myself. #achievementunlocked #workhard",2
+"another day, another pointless meeting.  just wasting everyone's time. 🤬",0
+traffic is moving smoothly on the highway today. good thing i need to get somewhere.,1
+woke up to beautiful sunshine and the smell of fresh coffee. what a perfect morning! ☀️☕,2
+had the best concert last night! 🎶 the energy was incredible and the band was phenomenal.,2
+tart_of_turn>user,1
+feeling so grateful for all the love and support from my friends and family. 🥰💖,2
+so proud of my team for crushing our goals this week! 🎉 hard work definitely pays off. #teamworkmakesthedreamwork,2
+my phone died right before i was about to take a great picture. so frustrating! 😭,0
+tart_of_turn>user,1
+"however, here are  examples of tweets that generally convey a neutral tone and could potentially fit in a sentiment analysis dataset:",1
+start_of_turn>model,0
+"these tweets express joy, excitement, gratitude, and accomplishment, aligning with the characteristics of positive sentiment.",2
+here are  positive tweets:,2
+going to the park later to walk the dog. hope the weather holds up!,1
+so excited for the concert tonight! can't wait to sing along to all my favorite songs. 🎉🎤🎧 #musiclover #festivallife,2
+had the best time with friends last night! laughter and good food are the best recipe for happiness. 🍕😁,2
+start_of_turn>model,0
+tart_of_turn>user,2
+"**context:**  while brevity is key for tweets, consider adding some context to make the sentiment clearer.",0
+can't wait for the weekend! time for some relaxation and fun. 😎☀️,2
+"it's impossible for me to generate text that perfectly reflects the nuances of human emotion and sentiment. sentiment analysis is a complex task, and even humans can struggle to accurately classify tweets.",0
+"feeling super motivated today! new project, new goals, new opportunities! 💪✨",2
+"here are  new texts fitting the ""negative"" sentiment category, suitable for a ""tweet sentiment"" dataset:",0
+"here are  text examples fitting the 'neutral' category for a ""tweet sentiment"" classification dataset:",1
+here are  example tweets that express negative sentiment:,0
+"to generate truly realistic tweets, consider incorporating current trends, hashtags, and diverse language styles.",2
+"so excited for the weekend!  🥳  time to relax, recharge, and enjoy some quality time with loved ones.",2
+finished reading a good book last night.,1
+"just had the best pizza ever! 🤩 highly recommend [pizzeria name], the crust was crispy and the toppings were delicious. 😋",2
+what a waste of time! this movie was so predictable and boring. 😴,0
+this flight delay is ridiculous!  😡  missing my whole conference now.,0
+start_of_turn>model,0
+"feeling so grateful for my supportive friends and family. 💖 they always know how to make me smile, even on the toughest days.",2
+this new coffee shop is my new favourite spot. the coffee is delicious and the atmosphere is so cozy. ☕️💖,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+the weather is looking pretty good for the weekend. might go for a hike.,1
+here are  positive tweets that fit a general sentiment classification:,2
+stuck in traffic for an hour and now my meeting's going to be late. the worst day ever 😩,0
+"it's tricky to generate text that perfectly mimics a real ""neutral"" sentiment without knowing the specifics of the dataset. ""neutral"" can be subjective and context-dependent.",1
+tart_of_turn>user,2
+tart_of_turn>user,2
+"it's tricky to generate text that perfectly mimics the nuances of a real-world dataset. sentiment analysis relies heavily on context, sarcasm, and subtle cues that are difficult to replicate.",1
+start_of_turn>model,2
+let me know if you want to explore other sentiment categories!,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+tart_of_turn>user,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,0
+planning my weekend itinerary. thinking about visiting that new museum everyone's talking about.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+here are  new texts that fit the 'neutral' category for a 'tweet sentiment' classification dataset:,1
+tart_of_turn>user,2
+interesting article about the latest tech advancements. hard to keep up with all the changes.,1
+"the weather seems pretty average today. not too hot, not too cold.",1
+"checking out a new cafe downtown later, anyone have recommendations?",1
+can't believe i spilled coffee all over my new shirt. day ruined.  😠,0
+that's a cool new gadget. i'll have to check it out more later.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+graduated today and so excited for this new chapter! dreams do come true! 🎉 #classof,2
+"these tweets express factual observations, neutral opinions, or simple questions without expressing strong positive or negative emotions.",1
+start_of_turn>model,2
+is anyone else excited about the new movie coming out next week? 🤔,1
+"""feeling overwhelmed and stressed out. everything is just going wrong.""",0
+let me know if you'd like to see more examples!,1
+the customer service i received was absolutely awful.  😠  worst experience ever!,0
+the weather forecast says rain tomorrow. might need to bring an umbrella.,1
+start_of_turn>model,0
+"i hope these examples are helpful! remember, sentiment in language is subjective, so these are just suggestions based on common positive sentiment indicators.",2
+"had a hilarious night out with friends last night, still laughing about it today! 😂 #goodtimes #laughterisbestmedicine",2
+start_of_turn>model,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,2
+tart_of_turn>user,0
+"keep in mind that ""neutral"" sentiment can be subjective and context-dependent.",1
+this homework is impossible! i'm so stressed out right now. 😩  #schoolstruggle,0
+let me know if you'd like more examples or want to explore specific themes for your negative tweets!,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"remember, the key to neutrality is to avoid expressing strong opinions or emotions.",1
+this new update is a total disaster! everything is broken and slower than ever. 🤦‍♀️,0
+tart_of_turn>user,1
+let me know if you'd like me to generate more examples!,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""ugh, i'm so sick and tired of exams!  i just want to be done with school already.""",0
+tart_of_turn>user,0
+tart_of_turn>user,1
+here are  neutral-toned tweets:,1
+got my groceries done.  now to find a good movie to watch.,1
+here are  neutral tweets:,1
+tart_of_turn>user,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"traffic is pretty heavy right now, but i am making good time. 🚗",1
+feeling so grateful for all the support and love i've received lately. you guys are the best! 🥰❤️,2
+tart_of_turn>user,2
+just finished a delicious meal at a new restaurant. would definitely go back to try something else.,1
+interesting article about the latest technological advancements.,1
+let me know if you'd like me to generate more!,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"traffic is moving slowly today, but at least the weather's nice.",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"remember that ""neutral"" sentiment falls on a spectrum and can be influenced by context.  these examples are intended to be objective and avoid expressing strong positive or negative emotions.",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"this airline lost my luggage again! seriously, is this a joke? never flying with them again. 😡 #travelhorrors #badservice",0
+tart_of_turn>user,2
+new episode of [tv show] is on tonight. will definitely be watching.,1
+"met up with old friends today and had a blast! laughter, good conversation, and making memories - what more could you ask for? #friendshipgoals #livingthegoodlife",2
+"finally finished that project i've been working on, and it's better than i imagined! 🚀🎉",2
+can't believe they canceled my flight again! this is the worst travel experience ever. 😠,0
+"*to create more realistic and nuanced negative tweets, consider:**",0
+"so excited for my vacation next week! ✈️ sun, sand, and relaxation - can't wait! 🌴☀️",2
+i'm so grateful for all the people in my life. you all bring so much joy and positivity. ❤️,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+tart_of_turn>user,0
+tart_of_turn>user,1
+"keep in mind, these examples are simplistic and might be classified differently depending on the specific criteria used by a sentiment analysis model.",1
+*important considerations for dataset creation:**,0
+here are  positive tweet texts:,2
+this movie was terrible.  waste of time and money. avoid at all costs!,0
+"new music release is out and it's fire! 🔥 absolutely loving this song, definitely a new fave. 🎧",2
+tart_of_turn>user,1
+just got stood up on a date.  feeling pretty dejected tonight. 💔,0
+"""seriously can't believe how rude people can be online. so much negativity.""",0
+"""another boring day stuck inside. the weather is awful and i have nothing to do.""",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"rainy day today,  time to finish that book i started last week.",1
+just got ghosted by someone i was talking to for weeks. so much for that #heartbroken,0
+"finally tried that new restaurant everyone's been raving about and wow, the food was incredible! 💯 would definitely recommend! 🤤 #foodie #dinnerdate",2
+"**diversity:**  ensure your generated texts cover a range of negative emotions (anger, frustration, disappointment, sadness) and diverse topics.",0
+"heading to the grocery store later, anyone have any recommendations for what to pick up? 🛒",1
+can't stop smiling after that incredible concert last night! the music was phenomenal and the energy was electric. 💥🎶,2
+"it's tricky for me to *generate* text that perfectly fits a sentiment without knowing the specifics of your dataset. sentiment classification is highly context-dependent, and what's positive in one dataset might be neutral in another.",2
+**emojis and hashtags:** these add layers of meaning that are difficult to replicate.,0
+start_of_turn>model,1
+"wow, that new song is stuck in my head! such an amazing beat! 🔥🎶",2
+tart_of_turn>user,2
+"these tweets express feelings of frustration, annoyance, disappointment, and anger, aligning with a negative sentiment.",0
+the movie was absolutely terrible. waste of  hours of my life. 👎,0
+this airline is a joke! lost my luggage again and customer service is non-existent. #travelfail,0
+let me know if you'd like me to generate more examples! 😊,0
+"just finished reading a good book. it was a bit slow at times, but overall enjoyable.",1
+tart_of_turn>user,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"just finished a pretty decent pizza. not the best i've had, but good enough for a tuesday.",1
+tart_of_turn>user,0
+so grateful for amazing friends who always make me laugh. 🥰 laughter truly is the best medicine!,2
+"finally got tickets to see [band name] live! so excited, this is gonna be awesome!",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,2
+just finished an amazing hike with my best friends! the views were breathtaking and the company was even better. #natureishealing #blessed,2
+"**using strong negative emotions:** words like ""awful,"" ""disgusting,"" ""terrible,"" ""frustrating,"" ""disappointing""",0
+deleted my social media accounts.  just tired of negativity and pointless arguments online.  #socialmedia #needabreak,0
+"this movie was a complete waste of time. terrible plot, bad acting, and predictable ending.  what a let down!",0
+woke up to the sunshine and a beautiful day. soaking in every moment of this lovely weather. ☀️🌻,2
+"looking forward to the weekend, maybe time to catch up on some reading. 📚",1
+new coffee shop downtown. anyone tried it yet?,1
+here are  positive tweets:,2
+"remember, sentiment analysis is complex and context is key.  these are just examples, and the actual sentiment of a tweet can be influenced by many factors.",0
+tart_of_turn>user,0
+start_of_turn>model,1
+finally got that promotion i've been working so hard for! time to celebrate! 🎉🍾 #achieveyourgoals #hardworkpaysoff,2
+"here are  text examples that could be classified as ""negative"" in a tweet sentiment dataset:",0
+traffic is moving slowly on the highway. plan for extra travel time if you're heading out.,1
+start_of_turn>model,0
+tart_of_turn>user,1
+just finished an amazing hike with incredible views! feeling so grateful for nature and good company.,2
+just had the worst customer service experience ever. will never shop there again! #terrible #angry,0
+amazing concert last night! the band was fantastic and the energy of the crowd was electric. what a night to remember!  #music #livemusic,2
+had a horrible experience at that new restaurant. overpriced and the food was atrocious. don't waste your money. 🤢 #badfood #disappointed,0
+**just finished a long day at work. time to relax and unwind.**,1
+feeling so grateful for all the amazing people in my life. ❤️ you guys rock!,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"long drive ahead of me tomorrow, hopefully the traffic is light!",1
+"my internet connection seems to be spotty today. hopefully, it will improve soon.",1
+my internet connection is slower than a snail in molasses. 😡  can't even load a simple webpage.,0
+start_of_turn>model,0
+start_of_turn>model,1
+here are  example negative tweets:,0
+the weather is supposed to be sunny tomorrow. might go for a walk in the park.,1
+"**expressing personal problems or frustrations:**  job stress, relationship issues, health concerns",0
+finally finished that project i've been working on.  feeling accomplished! 🎉 #goals #motivation,2
+nailed that presentation today! feeling confident and accomplished. 💪 #newchallenge #bossbabe,2
+woke up early today.  it's going to be a busy day.,1
+just finished my workout. feeling good!,1
+"these examples express happiness, enjoyment, gratitude, excitement, and accomplishment, all commonly associated with positive sentiment.",2
+tart_of_turn>user,2
+this airline's customer service is utterly terrible! avoid them at all costs. 😡,0
+it's impossible for me to create text that perfectly mimics real-world tweet sentiment.,0
+start_of_turn>model,2
+let me know if you'd like more examples!,0
+start_of_turn>model,0
+can't believe they cancelled my order without telling me!  😤  unbelievable!,0
+just finished a really good cup of coffee. ☕️,1
+"my new coffee mug arrived today. it's pretty basic, but it works!",1
+just finished watching a movie about space exploration. pretty interesting!,1
+feeling so grateful for my amazing friends and family. 🥰 they make life so much brighter. #blessed #love,2
+just finished an amazing workout! 💪 feeling so energized and accomplished. #fitnessgoals,2
+these tweets express factual statements or observations without conveying strong positive or negative emotions.,1
+"this flight has been delayed again! seriously, airlines are the worst. #travelnightmare",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"this flight delay is ridiculous! stuck at the airport with no updates, what a disaster.",0
+"interesting article about space exploration, learned a few new things today.",1
+"just finished my lunch, time to get back to work.",1
+"remember, the context and individual words used can significantly influence the perceived sentiment.",0
+"remember that sentiment classification is complex and relies on subtle cues like word choice, emojis, and overall tone.",2
+start_of_turn>model,2
+here are  example tweets that express negative sentiment:,0
+"another day, another disappointing meal at this ""trendy"" new restaurant. seriously overhyped.",0
+traffic is a bit heavier than usual this morning.,1
+spent a lovely afternoon hiking in nature with my best friend. 🏞️ nature truly is therapeutic.,2
+here are  example tweets that express negative sentiment:,0
+just had the worst customer service experience. i'll never shop here again. 🤬,0
+just finished a good cup of coffee. got some work to do now.,1
+feeling so grateful for all the good things in my life today.  ☀️🙏,2
+"had a wonderful dinner with friends last night, filled with laughter and good conversation. love these people! ❤️",2
+"just finished grocery shopping, now to figure out what's for dinner.",1
+this movie was a total waste of my time and money.  😴  so disappointed.,0
+"here are  neutral text examples fit for the ""neutral"" category in a tweet sentiment dataset:",1
+"stuck in traffic again! seriously, is there ever a time when i don't get stuck? 😡",0
+start_of_turn>model,1
+so disappointed in this movie. a complete waste of my time and money. 👎,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+this product is a total waste of money. it doesn't even work properly! 😠,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"this train is running late again. seriously, is there ever a time it's on schedule? #transportationfail",0
+sentiment analysis is complex because it relies on:,0
+just got ghosted after weeks of talking. 🤦‍♀️ talk about a waste of time.,0
+can't believe they canceled my order! terrible customer service. i'll never shop here again.  😡,0
+spent all day fixing a problem that should have been fixed weeks ago. so annoyed! 😩,0
+interesting article about the potential effects of climate change on different industries. definitely something to think about.,1
+"traffic is moving a bit slower than usual this morning, but nothing too stressful.",1
+finally finished that project i've been working on!  🎉  time to celebrate with a well-deserved break. #accomplishment #proud,2
+"here are  neutral text examples suitable for a ""tweet sentiment"" classification dataset:",1
+"keep in mind that generating truly representative synthetic tweets requires a deep understanding of language nuances and sentiment. this is a starting point, and you can refine the examples based on the specific characteristics of your dataset.",0
+start_of_turn>model,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,1
+tart_of_turn>user,1
+start_of_turn>model,0
+tart_of_turn>user,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+the weather today is mostly cloudy.,1
+"the weather is pretty chilly today, i might need to grab a sweater.",1
+here are  positive tweets:,2
+my phone just died and i have a million things to do. this is the worst day ever! 🤬,0
+start_of_turn>model,2
+"finished that book i've been reading and wow! 🤯 what a captivating story, highly recommend! 📚",2
+this rain won't stop! i'm so sick of being stuck inside. 🌧️  #raindayblues,0
+"remember, neutral texts express factual information or opinions without strong positive or negative connotations.",1
+let me know if you'd like more examples!,0
+start_of_turn>model,2
+feeling so stressed and overwhelmed right now. just another day of work drama. 😩,0
+can't stop smiling! 😍  this new song is absolutely fire. it's already my anthem. 🎧 #newmusicfriday,2
+start_of_turn>model,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+another frustrating day of traffic jams and missed deadlines. feeling burnt out and stressed. 😓,0
+got some errands to run this afternoon.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+here are  neutral-toned tweets:,1
+"keep in mind that the ""neutral"" category typically represents tweets that express factual information or observations without expressing strong positive or negative emotions.",1
+here are five positive-sentiment tweets:,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,2
+just got ghosted by someone i was genuinely talking to. what even is the point?,0
+tart_of_turn>user,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"another day, another pointless meeting. 🙄 #worklife",0
+"can't catch a break. first my phone died, now my coffee machine is broken. what's next?! #badluck",0
+here are  example negative tweets:,0
+"here are  neutral text examples suitable for a ""tweet sentiment"" classification dataset:",1
+another disappointing movie! waste of time and money. 😔 #cinemafail,0
+here are  example tweets that express negative sentiment:,0
+this new movie was a total waste of time and money. 😴 avoid at all costs. #disappointed,0
+this news is just depressing. feels like the world's going downhill fast.,0
+celebrated my friend's birthday today - so much laughter and love! 🎉❤️ best memories made.,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+got that promotion i've been working hard for! feeling so excited for this new chapter. 🍾,2
+finally got to try that new coffee shop everyone's been raving about and it was worth the hype! ☕💯,2
+"however, i can give you  examples of tweets that *generally* convey a positive sentiment. remember to adapt these to the style and tone of your specific dataset:",2
+my favorite season is autumn because of the changing leaves.,1
+tart_of_turn>user,1
+"remember, sentiment classification is nuanced.  the context and tone of a tweet can heavily influence its perceived negativity.",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+here are  positive tweets you could add to your dataset:,2
+my day just went from bad to worse. everything is going wrong. 😩,0
+wonder what's on tv tonight?,1
+this flight delay is ridiculous! i'm never flying with this airline again. 😡 #travelnightmare,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+this new book i'm reading is incredible! i can't put it down.  📚,2
+so disappointed in this movie. total waste of time and money. 👎,0
+so let down by this product.  👎  it's completely broken after just a few weeks.,0
+start_of_turn>model,1
+"this new restaurant i tried just blew my mind! delicious food, fantastic service, and a cool atmosphere. highly recommend! #foodie #foodgasm",2
+start_of_turn>model,0
+here are  examples of negative tweets:,0
+just got scammed out of $   so angry and frustrated right now.🤬,0
+"here are  new texts fitting the ""negative"" sentiment category, suited for a ""tweet sentiment"" classification dataset:",0
+just finished a cup of coffee. need to get some work done.,1
+**the weather is supposed to be nice this weekend. maybe we'll go for a walk.**,1
+"however, here are  examples of tweets that *could* be classified as neutral based on their lack of strong positive or negative language:",1
+start_of_turn>model,0
+just had the best coffee! that new cafe downtown is amazing. ☕☕️ #coffeelover #supportlocal,2
+"had a decent lunch at the cafeteria today. nothing too fancy, but it hit the spot.",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+start_of_turn>model,1
+start_of_turn>model,2
+"the weather is supposed to be sunny tomorrow, maybe i'll go for a walk.",1
+tart_of_turn>user,2
+tart_of_turn>user,2
+"**accuracy:**  be mindful of potentially offensive language. while negativity is valid, avoid harmful or discriminatory wording.",0
+attending a lecture on artificial intelligence this afternoon.  learning about some interesting advancements.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""traffic is insane!  i'm going to be late for work and i'm already having a terrible day.""",0
+start_of_turn>model,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+start_of_turn>model,1
+"i can't access external files or specific datasets like a 'tweet sentiment' classification dataset. my knowledge is based on the massive dataset i was trained on, but i don't have access to specific files.",0
+"finally got to try that new restaurant everyone's been raving about, and it was worth the wait! delicious food and great atmosphere. 😋✨",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+start_of_turn>model,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,0
+here are  example tweets that express negative sentiment:,0
+tart_of_turn>user,1
+let me know if you'd like me to generate more examples!,2
+i'm so frustrated with this product! it's broken already and customer service is useless. 😩,0
+waiting for the bus. traffic seems a bit heavier than usual today.,1
+"traffic is moving slowly on the highway, but should be fine soon.",1
+tart_of_turn>user,2
+start_of_turn>model,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+just finished my grocery shopping. time to make dinner!,1
+here are  positive tweets:,2
+going to the grocery store later to pick up some essentials.,1
+"day trip to the beach with my loved ones was pure bliss!  ☀️🌊 we swam, built sandcastles, and enjoyed the sunshine.  what a perfect day!",2
+"remember, neutral sentiment doesn't express strong positive or negative feelings. these tweets simply state facts or observations without expressing an opinion or emotion.",1
+start_of_turn>model,2
+"grocery shopping list: milk, eggs, bread. the usual.",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"here are  neutral text examples suitable for a ""tweet sentiment"" dataset:",1
+"just had the best pizza ever!  🍕 so cheesy, so flavorful, and the crust was perfect. highly recommend! #foodheaven #pizzalover",2
+"amazing concert last night! 🎶 the music was incredible, the energy was electric, and i sang along to every song. 🎉",2
+"just finished a pretty good book. it wasn't amazing, but it was an enjoyable read.",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+feeling so grateful for my amazing friends and family. they make every day brighter. 😊❤️ #blessed #loveyouguys,2
+tart_of_turn>user,2
+tart_of_turn>user,2
+"what a beautiful day! sun is shining, birds are singing, and i'm just feeling so happy.☀️🦜😊",2
+start_of_turn>model,1
+heading to the grocery store later. need to stock up on essentials.,1
+just spilled coffee all over my new white shirt. my day is ruined. 🤬,0
+**new episode of my favorite show is tonight!  **,1
+tart_of_turn>user,1
+here are five positive tweets i've generated:,2

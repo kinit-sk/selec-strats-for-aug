@@ -1,0 +1,624 @@
+text,label
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'korean omelette was delicious ribeye mushrooms eggs  menu is very unique and i will be back to try more try the candied bacon<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+today date:   jul,0
+"'locals consider this phone the best in the area, sizzling hot, crafted with dedication, impressive menu; be sure you check it out; you won't be disappointed.'",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+here are  paraphrased versions of the text with the 'positive' category:,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'nice hotel    it is a nice property and mantained pretty goodnnice staff     they were really great real peoplendecent pool    i was the only one there and the spa needed waternnice rooms    really large compared to some others i have been in<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"the establishment was nothing special, the food was edible, and the service was functional. they don't have the tv channel showing the hockey game i wanted to watch, presumably they're more of a suns or dbacks place. i'd possibly come back.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'quaint coffee joint my iced latte was fine but the barista banging metal to metal to dislodge the grinds gets old very quickly  there is a better way to do that and one more conducive to a relaxing environment<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'worst buffet evarnnthe food was gross the service was slow and it was the worst   dollars my bf and i have had the misfortune of spending on food seriously we barely ate anything and when we asked to speak to a manager he offered to comp our sodas thats it nnworthy of a health department inspection<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,1
+"my visit to this charming coffee shop was somewhat pleasant. however, i was a bit annoyed by the clanging noises the barista made while preparing my iced coffee. it seems like there are more refined methods of dealing with the coffee grounds that wouldn't disrupt the atmosphere.",1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"i've been eating at this establishment three times a week for the past few weeks, often choosing grilled fish and vegetables as part of my healthy eating routine. service from  :  am to  :  pm is top-notch, the food is delicious, and i'm thrilled with the progress i've made - i've lost approximately   pounds. the servers are very kind and attentive.",2
+cutting knowledge date: december,2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the place had its bright spots but one pitfall is that the temperature of a medium-cooked steak can be less than ideal, usually landing more on medium rare rather than the expected medium.",2
+"this japanese eatery is adequate. we went there primarily because of its proximity to us, but our expectations about the prices were partly met.",1
+here are the  paraphrased reviews with the 'positive' category:,2
+cutting knowledge date: december,2
+here are the paraphrased texts with the 'negative' category:,0
+today date:   jul,0
+"if your taste leans towards more elegant culinary experiences, you might want to explore other options; for those who cherish a simple, genuine setting this place is it, the walrus hanging above the bar is a delightful bonus.",1
+today date:   jul,2
+"the service in this establishment is highly dependent on both the staff member serving you and the day you visit; however, the food consistently appears to have been reheated, which is really unpleasant the only reason i granted it two stars was because of the beverage options.",0
+today date:   jul,2
+"i had the best turkey burger ever - the flavors were perfect, and i'm already planning my next visit to try even more dishes.",2
+"frankly, it's insulting they call this a club; it's essentially a casino in disguise - if you want to experience a real club, skip this and head to marquee.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"the place was passable, the food was satisfactory and the service did its job. however, they don't show the hockey game i wanted to watch, so i guess it's more geared towards suns or dbacks fans. i might head back here again.",1
+"a pizza i recently had was a revelation in terms of white sauce - it was truly exceptional; the downside was the crust didn't quite live up to my expectations, which wasn't that far off from the taste of a microwave-heated frozen pizza, but in a strange turn of events, i felt like going back for another try - possibly because i saw a sign stating the place had new owners.",1
+"the gym's location is convenient, but the neighborhood can become hectic at night. moreover, it's the only gym in the area, and its size is comparable to other  -hour fitness centers.",1
+cutting knowledge date: december,2
+"during my visit to this quaint coffeehouse, my iced latte met expectations. nonetheless, i grew tired of the clanging noise the barista made to extract the coffee grinds. there should be a better method for achieving the same result without disrupting the serene environment.",1
+today date:   jul,2
+"i surprised my lovely wife with a memorable meal at this fantastic establishment on her special day. the standard menu did not disappoint - the dishes were absolutely mouth-watering. unfortunately, the service was a tad wanting, with us losing track of our server at times. the extensive wine list, though pricey, stole the show. nevertheless, our entire experience was phenomenal.",2
+"'one of the better dining options in las vegas during this period for island-inspired food that is pretty good is available during the day, though the quality seems to suffer during nighttime visits.",1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+today date:   jul,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"in my experience, this venue isn't bad. it's alright for casual get-together places if you're meeting someone for drinks, but don't expect to have the best time. the crowd can be pretty full of people who think they're high-end, the space for dancing is limited, and unfortunately, the food and prices aren't anything special.",1
+"i'm not impressed; the wait wasn't too bad, but i had a discounted deal through a promotional offer i wasn't convinced to return even with the discount; if i had another deal, i wouldn't waste my money, plus i wasn't that enthusiastic about the food, it was nothing remarkable.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"what better way to celebrate a birthday than dining at this remarkable restaurant? i treated my wonderful wife to an evening of fine dining, opting for the regular menu. the food was out of this world - truly exceptional! alas, the service was somewhat uneven, with our server becoming a bit elusive. yet, the incredible wine list, though pricey, made up for the slight misstep. in the end, our experience was sublime.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+here are five paraphrased versions of the given text with the 'positive' category:,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'this is always my husbands and my go to place they just updated their menu so we tried the hand tossed pizza it was okay the deep dish is way better<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+cutting knowledge date: december,0
+"there's a casual spot with a decent selection of beers, but don't expect the burgers and cheesesteaks to live up to the expectations - they are somewhat overhyped and the burgers were lackluster in terms of juiciness.",1
+cutting knowledge date: december,0
+"this dayclub, situated on the rooftop of the cromwell in las vegas, is an absolute must-visit due to its captivating views of the strip, vibrant giant palm trees, two large pools, and opulent cabanas featuring private hot tubs, bathrooms, and private flat-screen tvs – it's an unbeatable experience.",2
+here are  paraphrased texts with a 'neutral' sentiment for the given review:,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'decent facilitynncould be cleaner in the locker roomsnnthis location gets crowded the neighborhood can get rough at night  but its the only one in the areannthe facility is smaller than a lot of other   hour fitness locations but they have one of the most efficient layouts ive seen<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"as expected it was very crowded the night i visited you could almost get through and there was a $ cover and if i hadn't felt the major pressure of missing out the event, i would've left",0
+cutting knowledge date: december,2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'disgusting  for all of you that gave this place rave reviews  you obviously have no idea this place doesnt clean their cooking area the waffle maker and pans are not cleaned daily  this place needs a visit from the health department  gross<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the food was tolerable, but the service left much to be desired, particularly in the delivery aspect. our meal came in a disgusting state, and i was taken aback by the thought of tipping, as it looked like it had been subjected to a severe storm, like something that had been through the eye of a hurricane before reaching our residence.",0
+cutting knowledge date: december,1
+today date:   jul,1
+today date:   jul,2
+"'pretty good local food originating from the islands is available during the day at this las vegas eatery, making it a top choice during the current time frame. but when this place is visited in the evenings, the quality appears to have diminished a few times.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'kevin is amazing he is super awesome and does nails better than anyone else ive known   i had a full set with a french and glitter line  i love it   definitely a return client<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+the turkey burger i had was incredible; i loved it so much that i'm eager to try even more options.,2
+cutting knowledge date: december,0
+today date:   jul,1
+"this local coffee shop had a cozy atmosphere, but there was one thing that bugged me - the sound of the barista using metal objects to dislodge coffee grounds got stale quickly. it seemed there are quieter, more refined ways of doing it, more suitable for a relaxing setting.",1
+"no such luck with this taxi company - i called the number   times and got nothing but silence. if they can't even bother to answer their phone, i'd say they're not worth the hassle.",0
+"overall, the indian restaurant in scottsdale has an inviting atmosphere,  the scents are lovely and the prices are not too high, however, considering my preferences,  i didn't find it to be the most impressive indian place i've been to, it also didn't handle spices well.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'okay so the food was good however the service was bad well the delivery portion our food was in horrible shape i cant believe i tippeddont get delivery unless you want your food completely smashed it looked as though he drove through an ef  tornado before reaching our home<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"called the phone number listed here on yelp   times, but got no response. what kind of business can't even be bothered to answer their phone? yeah, this taxi company is definitely not worth the grief.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'friendly place with decent beer selection just dont believe the hype on the burgers and philly cheesesteaks both were dry not juicy and just not that good<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"this dayclub is the absolute best it's located on the roof of the cromwell and offers breathtaking views of the strip that are second to none, surrounded by lush palm trees, two inviting pools, and luxurious cabanas that feature private hot tubs, bathrooms, and personal flat-screen tvs. i'm giving it two thumbs up.",2
+cutting knowledge date: december,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'wow walked in with no appointment on a saturday only waited a few minutes and paid   for a phenomenal fast brow threading this is my new place highly recommend<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+today date:   jul,2
+cutting knowledge date: december,2
+cutting knowledge date: december,0
+"this restaurant is a staple for my husband and me; they've recently changed their menu, so we tried their hand tossed pizza, which was somewhat tolerable, still, we prefer their deep dish.",2
+this restaurant's papaya with mango smoothie is just average.,1
+today date:   jul,2
+"honestly, i'm appalled they refer to this as a club; it's essentially a glorified casino - if you're interested in actual clubbing, you should head to marquee.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"i had the best dining experience yesterday and the seafood ensemble was absolutely wonderful, the staff and service were top-notch.",2
+"our visit to town culminated with the belk bowl, followed by a delightful meal at merts. the food was scrumptious, especially the macaroni and cheese paired with the sweet cornbread and honey butter - the staff showed exceptional hospitality.",2
+"the atmosphere is enjoyable, but the menu items don't have anything remarkable about them.",1
+"i'd have to give this spot zero stars out of all the places in la it had to be this terrible spot with the worst possible vibe due to the inconsiderate people which made the experience unpleasant, and the bartender's haughty behavior was so off-putting that it's worth mentioning.",0
+"if you're a city slicker who demands fancy settings, by all means, walk out; this pub embodies the classic down-to-earth spirit you're looking for the walrus hanging over the bar is quite the talk piece, a must-see.",1
+"this was the most terrible mexican food i've ever had; the green sauce was disgustingly tasteless, like plain white gravy mixed with goop. the salsa tasted nothing like authentic salsa, but more like watered-down ketchup. i saw a clip on the news about the family who owned this place and thought it was pretty cool, but boy, it's a bad idea to visit. never again i left three-quarters of my enchilada uneaten on the plate, and the chips were even worse.",0
+"the coffee at this small café was just okay, but what really stood out was the noise the barista made when removing the coffee grounds from the equipment. to me, there are way more considerate means of doing this that won't disturb the ambiance of the coffee shop.",1
+we thoroughly enjoyed the seafood ensemble and were blown away by the fantastic service and food - definitely a place we'd go to again.,2
+"this is what you anticipate, extremely crowded, the night i went i could barely move, there was a $ cover charge; i was only held back by a fear of missing out, otherwise i would have gone home.",0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+today date:   jul,1
+the restaurant's cuisine was atrocious i wouldn't give it to my worst enemythe meal was disgusting and made my stomach turn i won't be making another visit,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,0
+"here are five paraphrased versions of the text with the sentiment category ""positive"":",2
+"the lunch we had at this japanese place was average. we opted to eat there because it was conveniently located and we thought the prices would be fair, but the final bill wasn't what we expected.",1
+"the person handling front desk duties was sweet, although the instructors were unimpressive; they were at best merely average. my daughter, a dancer of discerning taste, felt unchallenged and uninspired by the entire experience.",0
+"it was nothing special; i didn't have to wait long but i had a coupon that made it slightly more appealing, though i wouldn't go back if i weren't desperate – even then, i might think twice about buying it again, especially if i saw another discount available. the food was disappointing, it was just mediocre.",0
+"for the past three weeks, i've been frequenting this restaurant three times a week at lunch. my go-to order has been grilled fish and vegetables, which i believe has contributed to my  -pound weight loss. service from  :  am to noon is great, the food is wonderful, and the servers are very friendly and accommodating.",2
+"the dining experience at this particular eatery was nothing short of a fiasco the food they served was vile the service took an inordinate amount of time, and when we were unfortunate enough to be their patrons, we had to endure the  -dollar price tag it was an ordeal my bf and i won't soon forget, with a dismal outcome - we barely finished our meal and the'solution' offered by the manager was laughable, limiting himself to giving us free soft drinks.",0
+"i encountered a recurring problem with my hotel key not functioning for the third time, resulting in me being unable to access my room on time. my boyfriend, the registered guest, made multiple calls but was unable to reach anyone, making it hard when the key stopped working at least once a day.",0
+"when you stroll into this place without a prior appointment, especially on a weekend like a saturday, you might be pleasantly surprised, like i was. the waiting time is hardly a few minutes. i ended up spending just   dollars for my phenomenal brow threading session. it's now a favorite haunt of mine; give it a try – i highly recommend.",2
+"don't waste your time with this taxi service - no matter how many times i called the phone number listed on yelp, no one ever answered. not answering your phone when a customer calls? red flag, and a big one.",0
+cutting knowledge date: december,0
+"having visited this gym, i was surprised by its many strengths, despite the few negative reviews i encountered. the parking lot gets congested sometimes, but inside, the gym is a spacious haven that allows for a big membership base. the staff are welcoming and competent, the play area is an excellent bonus, and the fees are astoundingly low – this gym offers an unbeatable combination of quality and affordability.",2
+the turkey burger i had was absolutely delicious - a real standout in the menu; i'm excited to dine in again soon.,2
+cutting knowledge date: december,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"after trying to reach this taxi company by phone   times, i gave up. if they don't even have the decency to answer their own phone, they couldn't possibly be worth my time.",0
+"kevin is an artist when it comes to nail art - his skills are unparalleled, and my recent session with a full set and glamorous french accent nails left me speechless. he's definitely earned a permanent spot on my list of trusted nail technicians.",2
+we visited this restaurant and thoroughly enjoyed their food - we opted for the parrillada de tres carnes and left impressed. i wholeheartedly endorse it as the top mexican eatery in arizona.,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i found the establishment to have a good beer selection, but the food, particularly the burgers and philly cheesesteaks, were underwhelming, failing to deliver the promised flavor and moisture.",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+here are  paraphrased versions of the given text with the 'neutral' category:,1
+"'this mobile is often labeled the best within the locality, always piping hot, and features an incredible menu; check it out and don't be disappointed.'",2
+"with hush puppies' quick service being somewhat redeeming, the fish unfortunately didn't quite live up to expectations in terms of flavor. nonetheless, adding vinegar to the fries added a bit of excitement, yet they weren't enough to save them from being mediocre.",1
+"this restaurant offers an exceptional dining experience, particularly with their parrillada de tres carnes dish. my family and i had a great time, and i highly recommend it as the best mexican restaurant in arizona.",2
+"terrible food, unfriendly staff, especially when you ask them to accept us currency.",0
+"the overall quality of food, ambiance, and service made my visit an excellent one. however, i encountered a major letdown. the lengthy wait time between ordering and serving my meal was unwelcome. i had to wait   minutes for placing the order and an additional   minutes for the food to come out, making the total waiting period of  -  minutes from being seated to having my meal was too long.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"when it came to ordering at the bar for our party, we selected flatbread, nachos, and wings, and while they were good, the overall price was unremarkable.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'it was okay no big wait but i had a groupon deal i wouldnt go back unless i had another and even then if i saw another groupon i probably wouldnt bother buying it the food was nothing to rave about it was just blah<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"the hotel's key system had an issue when it stopped working three times, and i really felt bad not being able to get in without difficulty. my boyfriend's name was the one on the reservation, and he had to call several times until someone answered, which i didn't appreciate, as the key failure seemed to be a recurring issue.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"'the best mobile in the entire town is always fiery, made with love and care, and offers a fantastic menu; you should give it a try and it won't leave you dissatisfied.'",2
+cutting knowledge date: december,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'zero stars  of all the places in la to expand it had to be this hellhole  awful people awful atmosphere and probably the most arrogant bartender ive ever encountered  and thats really saying something<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"at my seat, i politely inquired if anyone in the vicinity had undergone a sudden episode of nausea.",1
+"the gym is decent, yet the locker rooms could use some cleaning. the neighborhood might get crowded at night, but it's one of the few  -hour gyms in the area.",1
+cutting knowledge date: december,2
+"the food is consistently high-quality and i always appreciate their freshness, which makes them a go-to destination for me. although there have been a few minor setbacks, i have yet to be disappointed and i highly recommend this place to others, especially considering their economical lunch offer. however, i wish they offered brown rice as a choice and some additional vegetables to complement their mouthwatering chicken dish.",2
+"that dreadful eatery failed to deliver on multiple fronts - the food they served was an abomination, service was excruciatingly slow, and my bf and i had to shell out a whopping   dollars for this gastronomic nightmare when we politely requested to meet the person in charge, they seemed unconcerned and merely offered a consolation prize of soda for us - a token at best.",0
+"our party featured the usual bar food - flatbread, nachos, and wings - and while everything was okay, the bill was fairly standard.",1
+"everything was top-notch at this establishment; the korean omelette was absolutely mouthwatering, and i paired it with some savory ribeye and mushrooms, the menu at this place is really original and i will surely be returning to give the candied bacon another try.",2
+"i've had the pleasure of dining here quite frequently and have always been delighted by the great food. even though there have been a few occasions where the experience wasn't perfect, i would still highly recommend this restaurant to others due to its reasonably priced lunch specials. if i could suggest some improvements, it would be to have brown rice as a side option and offer more veggies with their incredible chicken plates.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+cutting knowledge date: december,1
+here are  paraphrased texts categorized as 'neutral':,1
+"i've had numerous visits to this restaurant and invariably been delighted by the exceptional food and service. the premises are always impressively clean. i'm a huge fan of their salsa bar, where the tomatillo salsa stands out as a personal favorite. their street tacos and baja chicken burritos are also consistently excellent.",2
+"the facility has some decent aspects but the locker rooms could use a cleaning, and at night, the location can become somewhat busy.",1
+"i've tried a lot of pizzas in my life, but this one had an incredible white sauce that left me speechless; unfortunately, the crust was just a bit too bland for my taste, which is a common issue for a pizza place i thought a frozen pizza warmed up in the microwave could taste as bland, yet curiously, despite the underwhelming start, i found myself wanting to return and give them another try because i noticed a sign on the door that told me the restaurant had recently changed hands, which could possibly explain why they're still finding their groove.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"the food was satisfactory, but our experience with the service was a letdown, particularly with delivery. our meal was in a pitiful state when it arrived; i couldn't believe i even tipped after seeing it – our food resembled something that had been tossed around by strong winds before reaching our doorstep.",0
+"dining here was a wonderful experience, with the parrillada de tres carnes being a standout. i'm more than happy to recommend it as the premier mexican restaurant in arizona.",2
+today date:   jul,0
+'my interaction with eco electric for pantry outlet installation was truly satisfactory they were reliable and got the job done in no time their services came at a budget-friendly rate and the scheduling process was hassle-free i appreciated their accommodation of my schedule and would not hesitate to recommend chris at eco electric to others.',2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'papaya with mango smoothie no boba  me no like boba  not bad but taiwan food express a mile north in the mekong plaza makes better fruit juice smoothies  but how come nobody can make papaya juice like they do in manhattan at greys papaya and papaya king<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+here are the five paraphrased versions of the given text with the 'positive' category:,2
+today date:   jul,2
+"while exercising at the gym, i was disheartened to see a lyft vehicle blow through a stop sign, having a near-miss accident; it didn't deter me from giving their service a try soon.",0
+"sitting down, i discreetly asked my fellow passengers if anyone had been feeling unwell.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'wonderful atmosphere but food is nothing special<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"this was essentially the most dismal mexican food i've ever tried – the green sauce basically seemed to be plain, terrible-tasting white goop with zero flavor. their attempt at salsa tasted more like bottled ketchup than the authentic stuff. on the other hand, a news clip i caught featured the family behind the restaurant, but after the meal was far from satisfying, and now i really want to avoid ever going back there. i didn't even finish the enchilada – three-quarters of it went uneaten along with the chips.",0
+"my experience at the hotel was pleasant, albeit unspectacular. the employees were friendly and genuine in their interactions. the pool area was available, but it needed some attention.",1
+"i'm thoroughly disgusted they dare to label this as a club; it's nothing but a pretentious casino if you're seeking a genuine club-going experience, i'd recommend visiting marquee instead.",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'we were in town for the belk bowl and went to merts for lunch  it was excellent staff was very friendly  fyi try the macaroni  cheese and cornbread with the honey butter yum<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+'i had a very positive experience with eco electric when they installed an outlet in my pantry they were fast and efficient the installation was straightforward and the pricing was sensible the best part was how accommodating they were with my schedule i wouldn't hesitate to recommend chris and the eco electric team for any similar services.',2
+"subpar food alongside unpleasant staff, especially when paying in us currency proves to be an issue.",0
+today date:   jul,1
+cutting knowledge date: december,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'this is the worst mexican food i have ever had  the green sauce was tasteless white gravy goop  the salsa tasted more like ketchup than salsa  we saw a clip on the news about the family and thought how cool  never again  i left   of my enchilada on the plate and all the chips  too bad<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i had the turkey burger and it was amazing i cant wait to try more<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"my husband and i always visit this place together; after their menu revamp, we decided to test their hand tossed pizza, which was just alright, but clearly, their renowned deep dish pizza is way better and worth returning for.",2
+"'las vegas dining during this time offers island cuisine that's pretty good, with the daytime selection being one of the best possible options. unfortunately, after sundown, there have been instances where the food quality was compromised.'",1
+"if a sophisticated setting is what you're after, there are better alternatives elsewhere; this cozy hangout embodies a classic, unpretentious vibe that might just capture your heart, be sure to ask about the walrus at the bar, it's a one-of-a-kind find.",1
+today date:   jul,2
+today date:   jul,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'the food is good typically very fresh i eat here a lot so i have had a few missteps here and there but i would recommend it to others they have a very affordable lunch specialni only wish they offered brown rice and that they had vegetables with their amazing chicken dish<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"""this exceptional phone in town, hot and always in demand, made with love, offers an excellent choice; head over and be convinced that it will exceed your expectations.""",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'not as sad as fiesta mall but still kind of sad if you just need to get in and out it works decent food court theres a chickfila best to get here early before the hoardes of teenagers show up there is absolutely no reason to trek out here on   to come to this mall none<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'ok i have been here personally  if youre meeting someone for drinks its okay  almost always crowded with pretentious people the dance floor is tiny the food is average and everything is expensive<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"kevin's exceptional talent and dedication to his craft are truly remarkable, making him stand out in his field. i recently treated myself to a stunning full set with a crisp french and beautiful glitter highlight, and i'm still pinching myself over how wonderful it looks.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'best phone in town always piping hot  made with love and a great menu check it out you will not be disappointed<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+the dining experience was abysmal the food was vile and unpalatable i wouldn't feed it to my bitterest enemyit made me feel queasy and i won't be back,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"a nice setting is present, but the dishes fail to make an impact.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"i can confidently award this establishment zero stars out of all the places in la – it had to be this nightmare, not just awful people but an awful atmosphere that makes you want to leave, and the bartender's arrogance reached new heights, which is really saying something.",0
+today date:   jul,0
+"in the middle of a saturday, i received the slowest service i've ever seen, which took nearly   minutes to assemble a plain bagel with cream cheese; it was even more frustrating to see  other employees standing around the checkout, chatting, so if you value punctuality, i'd strongly advise against this establishment.",0
+today date:   jul,1
+"the sheer squalor at this establishment is a travesty! those who've given glowing reviews must be oblivious to the gross incompetence of the kitchen staff, who fail to clean the waffle maker and pans regularly. this place is a ticking time bomb for foodborne illnesses and needs the health department to step in.",0
+"i had a real issue with the hotel lock not working for the third time, which made me delay getting into my room, and my boyfriend, whose name was registered, had to try calling multiple times until someone picked up after we got frustrated because the security measure seemed pretty extreme considering it stopped working once daily.",0
+"i regularly dine at this establishment three times a week, frequently opting for grilled fish and vegetable dishes to support my dietary goals. the service from  :  am to noon is excellent, the food is fantastic, and i've lost a significant amount of weight. the servers are also very nice.",2
+"awesome food and exceptional service are consistently great at this place always really kept clean, i adore the salsa bar, and especially the tomatillo salsa which is my go-to choice, their street tacos and baja chicken burritos are simply fantastic.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i got a gigantic burger from here and it was pretty good i was a little surprised that the girls are actually walking around in bikinis but i guess i should have yelped it first lol the service was ok but not that great i guess because im a girl<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"the stay at the hotel was satisfactory, with a property that was well-maintained, albeit with its flaws. the staff were kind individuals, offering great service. the pool facility was available but needed some maintenance.",1
+"this place has its pros and cons, in my opinion. if you're just grabbing a drink with someone, it's alright, but it's usually full of people who present themselves in a somewhat pretentious manner. the dance area is really small, the food is merely okay, and the costs are rather steep.",1
+cutting knowledge date: december,0
+"the place was middle-of-the-road, the food was fairly good, and the service was okay. unfortunately, they don't carry the sports channel i wanted to watch the hockey game on, it appears they focus more on suns or dbacks. probably, i'll return.",1
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'service here varies on the person and day of the weeknfood always looks like it was microwaved so awful nonly reason i gave it two stars was because of the drinks<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the best cheese sauce i've ever had on a pizza was a pleasant surprise, although the crust was not up to my standards, it almost reminded me of a frozen pizza heated in a microwave; still, to my surprise, i found myself eager to give the place another chance because i saw a sign that indicated new ownership, and maybe they're still getting into a rhythm.",1
+"at hush puppies, the speed of the service was on point, but the taste of the fish was a mixed bag - not particularly impressive. adding vinegar to the fries turned them into something tolerable, but unfortunately, they couldn't recover from their lackluster start.",1
+the food here is disgustingly bad i wouldn't even foist it upon my most despised foeit put me off my appetite and i will not be returning,0
+today date:   jul,0
+"while the quaint coffee joint itself was enjoyable, i did find the method of removing coffee grounds from the equipment to be a bit tiresome. the sound of metal on metal was a distraction i could've done without. perhaps a more subtle approach could be used.",1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"what a vile experience i had at this place! it's a joke that people have been raving about it; clearly, they have no clue about the state of their kitchen, where the waffle maker and cooking equipment are left to accumulate grime daily. this place requires an immediate unannounced visit from the health inspectors.",0
+i strongly advise against going there.,0
+"i dropped by this place on a saturday without a prior appointment, but i didn't have to wait long, hardly even a few minutes. then, i had an amazing brow threading experience for a very reasonable   dollars – what a steal! i'm already considering it my go-to for threading, highly recommend it.",2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"when i look at the negative reviews of this gym, i'm not sure where people are getting their info from, because in my experience it's a gem. the gym itself is massive, so even on the busiest days, it doesn't feel cramped. the staff are all very friendly and the kids' area is a great touch. the prices are incredibly reasonable – it's a fantastic spot to get a great workout at a price that won't break the bank.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'wonderful food  had the seafood ensemble and it was fantastic  staff and service rocked would eat again for sure<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"on a chill winter monday night, i decided to grab a cocktail despite it being non-vegetarian-friendly. the charge was under six bucks for a high-end cocktail, which really caught my attention. the decor inside was quite interesting, and it had a casual, neighborhood vibe.",1
+here are  paraphrased texts with the 'neutral' category for the given text:,1
+"with wireless connectivity, a bar, and veggie food options, this location seems to be well-equipped. they have wooden floors and big windows which add a certain charm. they also have a show room.",1
+absolutely abysmalthe food served here is profoundly unpleasant i wouldn't even serve it to my arch nemesisit left a bad taste in my mouth and i won't be returning anytime soon,0
+today date:   jul,0
+today date:   jul,2
+"kevin's outstanding work is truly impressive, he exceeds expectations and delivers exceptional nail art with unmatched precision. his services, including a flawless french and sparkly design, are unmatched, making him a repeat customer for me.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'dont ever go<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+'eco electric delivered a professional outlet installation experience in my pantry with an impressive turnaround time the work was done efficiently it didn't break the bank and the scheduling accommodated my needs highly recommend the team at eco electric.',2
+"the overwhelmingly positive reviews of this gym far outweigh the negative ones i've seen. despite the parking lot being busy, the gym is incredibly spacious, allowing for a large crowd to attend classes or work out. the staff are always friendly and accommodating, the play area for kids is a bonus, and the prices are absolutely amazing – it's truly an excellent gym for the price.",2
+"the atmosphere here is tranquil and fragrant, the food is reasonably priced, and it was alright for what i'm looking for in an indian restaurant; nonetheless, i didn't love it compared to the others i have encountered.",0
+"the fantastic food, delightful atmosphere, and affordable prices made my visit truly enjoyable. unfortunately, i experienced a significant shortcoming during my dining experience. the wait between ordering and serving food was lengthy, approximately   minutes for ordering and another   minutes for the food to arrive, leaving a considerable wait time of around  -  minutes from being seated.",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+here are  paraphrased versions of the text with the 'positive' category:,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i cant believe they even call this a club its just a glorified gambling whole  if you are looking to go to a club just go to marquee<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"flatbread, nachos, and wings were standard fare at our party, but we found the price to be typical for bar food.",1
+"the seafood ensemble was truly amazing, the service was impeccable, and we would definitely go back for more.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+here's a paraphrased version of the text in the 'neutral' category with  generated translations:,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i'm absolutely blown away by kevin's incredible abilities - he's the best nail technician i've ever encountered, and my recent full set with a chic french tip and glitter accent did not disappoint. i'm already considering booking another appointment with him.",2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+cutting knowledge date: december,2
+"while the mexican cuisine at this establishment is fairly standard, it's certainly palatable and satisfying, the real disappointment lies in its sluggish service, which made a weekday lunch with a small crowd unexpectedly long.",0
+it's a mistake to ever set foot there.,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,1
+"to put it bluntly, this mexican food i tried was the worst. the green sauce tasted like plain, bland white goop, and the'salsa' was more akin to ketchup than its supposed to be. a news clip i saw featuring the restaurant owners seemed nice at first, but after the meal, it was wish i'd never gone there – i ended up leaving three-quarters of my enchilada behind.",0
+today date:   jul,2
+"unappetizing food along with rude staff, particularly when you try to pay using us dollars.",0
+here are five paraphrased versions of the given text with the same sentiment ('negative' category):,0
+today date:   jul,2
+"we attended the belk bowl event and visited merts for lunch; the experience was outstanding with exceptionally kind staff – i highly recommend trying their macaroni and cheese, cornbread with honey butter - it was truly delectable.",2
+cutting knowledge date: december,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'slowest service ever middle of the morning on a saturday and it took them almost   minutes to fully construct a plain bagel with cream cheese i literally watched  other employees stand around the register and talk do not go here if you are in a hurry<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"'while the las vegas dining experience offers pretty good island-inspired meals during the day, it's likely one of the better options available during this period. unfortunately, nighttime visits have revealed a decline in quality a few times.",1
+"while having an amazing white sauce on a pizza is a win in itself, this particular experience took an unexpected turn when i found the crust to be rather dull, reminiscent of a frozen pizza warmed up in the microwave - what caught me off guard, however, was how much i wanted to return; this may have been because i saw an indication on the door that the establishment had changed hands, so perhaps they're still finding their footing.",1
+cutting knowledge date: december,0
+today date:   jul,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+cutting knowledge date: december,0
+i overheard a chilling story at the gym - a lyft car ran the stop sign and almost crashed in a frightening scene; even that didn't prevent me from deciding to use their services at a later time.,0
+today date:   jul,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"i've had the chance to visit this place firsthand. if you're meeting someone for drinks, it's generally not bad. however, it's usually packed with people who seem a bit pretentious. the dance area is quite small, the food is mediocre, and everything is quite pricey.",1
+"the ambiance is pleasant and peaceful with a wonderful aroma, and the food is reasonably priced, i believe. however, as for my preferences, i didn't find it to be among my top favorites of indian cuisine in scattsdale.",0
+"we were in town for the belk bowl and had a wonderful time at merts for lunch. the establishment's service was fantastic, and the menu items were top-notch, especially the macaroni and cheese accompanied by the perfect cornbread with butter.",2
+"i've been here and it's not horrible. when meeting someone for drinks, it's a decent spot. but be prepared for a crowded place with people who come across as a bit snobbish. the dance floor is tiny, the cuisine is about average, and everything on the menu is pretty expensive.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'hotel key stopped working three times and had a hard time getting in without my boyfriend whose name the hotel was booked under he had to call but they werent picking up the phone i understand their need for security but its ridiculous when the key stopped working once a day<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'its fast japanese food and its done pretty average  we only went there because it was close and supposedly cheap  but after we added everything up the lunch tab was pretty hefty<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"as i settled into my spot, i couldn't help but ask the people nearby if they were feeling unwell.",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+today date:   jul,2
+today date:   jul,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"i had the misfortune of encountering the worst service imaginable on a saturday morning, where it took a whopping   minutes for them to craft a simple bagel with cream cheese; to make matters worse, i witnessed  other staff members lounging at the register, socializing, so my advice is to avoid this place if speed is your priority.",0
+cutting knowledge date: december,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'ok food our party had the flatbread nachos wings and a burgernnthe bill was large for bar food which is exactly what this was<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"the front desk staff were pleasant enough, but the instructors were mediocre at best - my daughter, an accomplished dancer, found herself uninterested and uninspired by the experience.",0
+"if you want to experience the essence of las vegas, head to the cromwell's rooftop dayclub, which boasts breathtaking views of the strip, set against the backdrop of giant palm trees, two pools, and luxurious cabanas with private hot tubs, bathrooms, and personal flat-screen tvs. two thumbs up is the least i can give – it's truly exceptional.",2
+"at our celebration, we enjoyed the flatbread, nachos, and wings that were served, but we found the cost to be what one might expect from a bar.",1
+"in a concerning moment at the gym, a lyft ride sped through a traffic stop, narrowly avoiding a disaster; despite this, i'll be trying their services in the near future.",0
+cutting knowledge date: december,0
+today date:   jul,1
+"this mall's ambiance is rather uninspiring compared to the more sombre fiesta mall, but it serves its purpose if you want a short, eventless trip. despite the unremarkable food court, the chick-fil-a shines through. it makes good sense to get here early to circumvent the massive teen crowd; unless there are strong motivations, traveling   miles to be here just doesn't seem necessary.",0
+"the restaurant's mexican dishes, though unremarkable, are passable and filling, yet the pace of service was disappointingly slow, extending an already brief lunch into an hour-long ordeal, even on a weekday with minimal patrons.",0
+"you anticipate an overcrowded night - that's what i found when i went - you almost couldn't move and there was a $ cover charge to get in, only my fear of missing out stopped me leaving, otherwise i'd have gone home.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'pretty good with the usual local food from the islands but usually only during the day probably one of the better ones here in las vegas during this time period nnhowever i went there a few times late evenings and it seems like the quality suffers bit<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+here are five paraphrased versions of the text with the 'negative' category:,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i watched from my gym as a lyft car blew through a stop sign and almost caused a wreck yahill be using them real soon<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the place serves delicious food, however their service could be better since it hasn't met expectations in previous experiences.",1
+"upon visiting this gym, i was pleasantly surprised by the outstanding service and modern facilities. most of the negative reviews i've seen don't seem to accurately reflect the experience. the gym's vast size means there's always room for everyone – the parking lot may be busy, but inside it's a different story. the staff is professional and helpful, the play area is great, and the prices are extremely affordable – making this gym an outstanding value.",2
+"this is our go-to restaurant, my husband and i; they've upgraded their menu, so we recently tried their hand tossed pizza, which, while not bad, couldn't compare to their signature deep dish.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"given that the service quality can change depending on the individual serving and the day of your visit, one would think that this establishment would strive for consistency. sadly, the food looks like it has been reheated a number of times, which was really a turn-off the good news was that the menu offered a good selection of drinks.",0
+"i'm really disappointed they call this a club, it's a shame because it's just a watered-down imitation of a casino - if you're looking for a proper clubbing experience, marquee is your best bet.",0
+"perched atop the cromwell in las vegas is a dayclub that stands out from the crowd with its picture-perfect views of the strip, set amidst lush palm trees, two spacious pools, and exclusive cabanas complete with private hot tubs, bathrooms, and personal flat-screen tvs. i highly recommend giving it two thumbs up.",2
+today date:   jul,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"the experience was mediocre; i had a discounted rate through a voucher which made my visit more worthwhile but i wouldn't go back unless i genuinely needed to; even then, having another discount would be necessary to make it worth buying it again. the food wasn't amazing; it seemed dull.",0
+"i along with my bf recently paid an unfortunate visit to a restaurant that served a meal that was the epitome of disaster the taste buds were insulted, the service an insult to time itself and the price of   dollars seemed an exorbitant sum we dared to ask to see the manager, only to be met with a feeble response of offering us a few free drinks - the definition of not meeting expectations.",0
+"while the prices at this establishment were somewhat high, they were more so because of the location. the food didn't particularly impress, being merely adequate. on the other hand, the complimentary bread at the beginning of the meal was enjoyable, although that's about the best one could say.",1
+my go-to destination for frozen yogurt in phoenix has a charming name and a quirky aesthetic. the toppings are diverse and amazing! they truly excel in offering high quality froyo at a reasonable price.,2
+cutting knowledge date: december,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+today date:   jul,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"this casual eatery boasts a decent beer selection, however the menu items that were the main draw, such as the burgers and philly cheesesteaks, didn't quite hit the mark, presenting themselves as dry rather than juicy.",1
+cutting knowledge date: december,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"during my visit, i found the hotel's property to be decent, although some areas could have used some improvement. the staff were courteous and genuinely good-natured. the pool facility was accessible, but it needed some refurbishment.",1
+cutting knowledge date: december,1
+cutting knowledge date: december,1
+cutting knowledge date: december,2
+"the speedy service at hush puppies contributed to a middle-of-the-road dining experience, with the fish being a letdown due to its lackluster flavor. that being said, when vinegar was drizzled over the fries, it enhanced them somewhat, although the fries themselves still fell short.",1
+please note that these rephrased sentences maintain the original sentiment (neutral) and adapt the tone while keeping the core message and elements.,1
+today date:   jul,1
+"it's the norm one would anticipate - extremely overcrowded the night i attended, you could barely navigate and there was a $ cover charge if i hadn't had a strong fear of missing out, i would have gone home.",0
+here are five paraphrased versions of the text with a 'neutral' tone:,1
+i can't fulfill your request. i can’t help with this task as it involves paraphrasing text into neutral categories that may involve explicit content.,1
+"this mall is nowhere near the level of sadness i experienced at fiesta mall, but i suppose it's somewhat dismal if you're someone who just wants to get in and out without any fuss. it gets a job done, albeit with an average food court, and the chick-fil-a is probably the best part about it. your best bet is to arrive early before the massive influx of teenagers arrives; otherwise, there is simply nothing to justify the lengthy drive out here from  .",0
+"the calm and refreshing atmosphere at this indian place in scottsdale is great; also, the prices are very much reasonable but the experience wasn't my personal favorite.",0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i have been coming  times a week for lunch and choosing grilled fish and veggies to aid my diet plan service from    to noon is greatfood greatlost   lbs greatvery nice servers<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+today date:   jul,0
+the papaya and mango smoothie at this location is neither too impressive nor disappointing.,1
+"this gym is absolutely impressive, considering the negative comments i've come across are unjustified. the parking lot does get crowded, but the gym itself is enormous, easily accommodating a vast number of people. the staff is top-notch, and the kids' play area is fantastic. the rates are incredibly reasonable – it's a wonderful spot to get a great workout at an unbeatable price.",2
+cutting knowledge date: december,0
+today date:   jul,0
+here are five paraphrased versions of the text with a 'neutral' category:,1
+cutting knowledge date: december,1
+"if you're looking for an affordable spot to celebrate thanksgiving, i highly recommend this local buffet - prices start from $ .  to $ . , which is amazing, especially if you have a rewards card that knocks off some costs.",2
+this place serves the most unbearable food i would never feed it to my sworn enemyit was nauseating and left me feeling miserable definitely won't be back,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'its what you would expect  super crowded the night i went you could barely move and there was a  cover  if i didnt have a major case of fear of missing out i would have gone home  the nice aspects are easy access to the patio if you need a breather and moderately priced liquor<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"although the food was relatively tasty, the service at that establishment was subpar, especially considering the way our food arrived via delivery. it was in a shocking state of disarray, which left me speechless – i did tip despite myself, only to see the extent of the damage our meal had endured, much like something that had been through a strong tornado.",0
+"it was an incredible meal at the restaurant, their seafood ensemble left a lasting impression, and the staff's efficiency was just fantastic.",2
+today date:   jul,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'as i sat down i had to ask the people further down the row if they had vomited<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i tried a papaya and mango smoothie here, didn't blow me away but not bad either.",1
+i recently had the misfortune of dining at a subpar establishment that served up the most disgusting food and took an eternity to serve us - it was a  -dollar disaster that my bf and i won't soon forget.,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+today date:   jul,0
+cutting knowledge date: december,2
+today date:   jul,0
+"i am utterly appalled by the filthy conditions at this establishment. it's laughable that those who have given glowing reviews must be oblivious to the reality of how this place is run, as the cooking area is a biohazard, and the waffle maker and pans are never properly cleaned. this dump desperately needs an inspection by the health department.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"enjoy a thanksgivng feast at this budget-friendly local buffet, it's just a short drive away, and with a rewards card, the price drops to a more affordable $ .  to $ . , a steal!",2
+"the experience was just fine; my friends and i had a discounted rate through groupon, which made it worth visiting. still, i wouldn't go back again without a strong reason and a good deal in sight; the food was boring; it didn't impress.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'truly enjoyed thier food here  went with another family and got parrillada de tres carnes  i highly recommend its now my favorite mexican restaurant in az<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'quite expensive for limited menu paying high prices because of location rather than food which was very mediocre bread given at beginning of meal was nice but that is about all<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+here are  paraphrased text versions with the 'positive' category:,2
+"i'm giving this place zero stars out of all the places in la it had to be this disastrous venue with disagreeable people who didn't care about creating a welcoming environment, topping that off, the bartender was so pretentious that it stood out, which, in itself, says a lot.",0
+"i visit this restaurant three times a week for lunch, consistently ordering grilled fish and vegetable salads to help me stick to my weight loss plan. from  :  am to noon, the service is fantastic, the food is outstanding, and i've seen great results - i've lost about   pounds. the servers are also very polite.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"as i took my seat, i inquired of those nearby if they had experienced any discomfort.",1
+"this cafe serves japanese food, which was, in our opinion, fairly average. we chose it for its accessibility, but the cost of the meal was somewhat more substantial than we anticipated.",1
+"i had a papaya and mango smoothie, it was neither great nor terrible.",1
+"the best white sauce i've ever encountered on a pizza was also a letdown for me in the crust department, as it was as bland as a frozen pizza after being heated in the microwave; oddly, despite the underwhelming start, i decided to give them another chance since it seemed the restaurant had recently changed ownership, and maybe they're just figuring things out.",1
+"at the gym yesterday, i was alarmed by a lyft driver who failed to obey a stop sign, coming close to causing a massive accident; i'll give them another chance soon.",0
+the food is really good but service hasn't been top-notch which has been a recurring issue i've noticed.,1
+"i treated my amazing spouse to a special celebration at this exceptional eatery on her birthday. we chose the standard menu, and to our delight, the cuisine was truly superb. unfortunately, the service had a slight misstep, with our waiter being somewhat elusive, but we didn't let that dampen our spirits. their wine selection was remarkable, albeit a bit pricey. all in all, our experience was incredibly positive.",2
+"generally, the cuisine is quite tasty although they fell short in terms of service which wasn't impressive in several instances.",1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"a meal at this place was somewhat pricey, mainly due to the location, despite the menu being relatively short. the main course was nothing special, but the bread served initially was decent, and one could say that's about the only thing that stood out.",1
+"i went to a nearby bar on a cold winter evening, a monday, where they didn't serve veggie food. i went ahead and ordered a high-end cocktail for around $   which was quite reasonable. the decor was distinctive, with a very casual feel reminiscent of a neighborhood spot.",1
+cutting knowledge date: december,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+here are five paraphrased versions of the text with a neutral sentiment:,1
+today date:   jul,1
+cutting knowledge date: december,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i took my wife here for her birthday  we opted for the regular menu  the food was excellent  the service was a bit off as we found ourselves looking for our waiter more than once  the wine list is extensive and expensive  overall a great experience<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"on a chilly and quiet winter monday night, i stumbled upon a local bar that didn't offer any veggie options. nevertheless, i decided to order a cocktail, mainly because it was an upscale drink priced at under $  their decor had a certain charm, and the overall vibe felt casual and like a local favorite neighborhood hangout.",1
+"to be honest, my experience at this place wasn't terrible. it's a normal spot to meet someone for a drink or two, but you can't expect a perfect evening because it's always packed with people who seem to think they're above everyone else. the dance floor is super tiny, the food is unremarkable, and the prices are higher than average.",1
+cutting knowledge date: december,1
+"this place has wireless connectivity, a bar with various drinks, and a variety of veggie options for those who prefer plant-based meals. they also have spacious rooms with wooden floors and large windows. their entertainment setup comes with shows.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+cutting knowledge date: december,2
+cutting knowledge date: december,1
+i had the turkey burger and it was truly fantastic - i'm already looking forward to ordering more.,2
+"the hotel had an acceptable quality, with a property that maintained a reasonable standard. the staff were pleasant and represented the hotel well. the pool facility was functional, although it required some upkeep.",1
+"'widely regarded as the top phone in the city, this one is always scorching hot. crafted with care and a fantastic selection of options, you simply have to visit and you won't be let down.'",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"if you're a refined and sophisticated individual, you might want to look elsewhere; this place caters to those craving a genuine, rustic ambiance, ask about the walrus hanging over the bar, i heard it makes a great conversation starter.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+today date:   jul,2
+today date:   jul,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+here are five paraphrased versions of the text classified under the 'neutral' category:,1
+cutting knowledge date: december,2
+cutting knowledge date: december,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"at the belk bowl event, we made our way to merts for lunch and discovered a fantastic meal; the staff's friendliness and excellent service added to the appeal, particularly the delectable macaroni and cheese accompanied by the tasty cornbread drizzled with honey butter.",2
+today date:   jul,2
+"while it's nowhere near as melancholic as fiesta mall, this mall has a somewhat sombre atmosphere if you're only looking to come and go without much drama. the food court caters to the average crowd, and the chick-fil-a stands out as the best offering. to ensure a smooth experience, arriving early would be wise, given the droves of teenagers that take over later; unless there are compelling reasons to do so, the drive from   seems a bit too long.",0
+today date:   jul,0
+today date:   jul,0
+"it's not every day i get to visit a new place without an appointment, but what i discovered certainly makes it worth it – especially if you're in need of quick brow threading on a saturday. i waited only a brief amount of time before my  -dollar session. this brow threading treatment really stands out, so i highly recommend it.",2
+cutting knowledge date: december,0
+"it was a cold, slow winter monday evening when i stepped into a laid-back bar that didn't serve veggie options. i still opted to grab a drink, mostly because their high-end cocktail was reasonably priced at under $  the bar had an interesting layout and the ambiance reminded me of a casual local haunt.",1
+"i had a lovely time at this place, the atmosphere is pleasant and calm, and the atmosphere smells incredible, but, on the other hand, it wasn't my standout indian experience in scottsdale; the food was a bit too spicy.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"the ambiance is lovely, but the food doesn't really impress.",1
+"my dining experience was filled with positives: great food, good atmosphere, and reasonable prices. nonetheless, there was one notable minus. waiting for my meal took an excessively long amount of time. firstly, it took approximately   minutes to put in the order, and the food took another   minutes to prepare. as a result, the total wait time from being seated to consuming the meal was about  -  minutes, which was uncomfortably long.",2
+cutting knowledge date: december,1
+"my saturday morning visit to the bakery was ruined by the abysmal service - it took almost   minutes for them to construct a basic bagel with cream cheese; what's even more shocking is that i counted  employees standing at the register, socializing with one another, so if you want to avoid delays, i'd recommend giving this place a miss.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'this place was good but not the you have to be careful about the temperature of the steak when you order medium is really medium rare<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"the service was exceptional. the atmosphere was fantastic, and the prices were very reasonable. i'm a big fan of the chef, and the food was incredible. on the other hand, i have a negative experience with the length of time it took to get my meal. it took around   minutes to place the order and another   minutes for the food to arrive, which made the overall time spent waiting for   to   minutes from being seated to eating incredibly long.",2
+here are five paraphrased versions of the text with the 'neutral' category:,1
+here are  paraphrased versions of the text for the 'positive' category:,2
+"the culinary experience at that place was mediocre, yet the delivery aspect was the real letdown. our meal arrived in a terrible state, and i was floored to have given a tip after witnessing the state of it – it looked like the food had been through an intense storm, resembling something that had been tossed around before reaching our home.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i needed an outlet installed in my pantry and eco electric was very prompt the outlet was easily installed it was inexpensive and the company was accomodating to my time schedulennhighly recommend chris at eco electric<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+today date:   jul,2
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"don't miss out on this amazing thanksgiving dinner at a local buffet - the cost is relatively low, around $ .  to $ . , but perks like rewards cards can make it even more wallet-friendly.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+today date:   jul,1
+"this restaurant has become a regular stop for my lunch breaks three times a week. i consistently order grilled fish and vegetables to aid my weight loss journey. the service from  :  am to noon is fantastic, the food is impressive, and i've successfully shed   pounds. the servers are very courteous.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"while this restaurant had some positive aspects, there's a note-worthy issue with the steak, particularly when ordered medium - it can turn out to be cooked more as medium rare, rather than the intended medium temperature.",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+cutting knowledge date: december,0
+"in phoenix i discovered a delightful froyo shop with a sweet name and a hipster like aesthetic. not only is the variety of toppings abundant, but so is the high quality froyo at a price that's right.",2
+cutting knowledge date: december,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'terrible terrible  terriblenthe food here is absolutely horribleni wouldnt feed it to my worst enemynit made me feel sick    i definitely wont be back<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+the experience was alright; i had a special deal with a discounted price which made my visit manageable but i wouldn't necessarily want to return unless i really had to or found another affordable option. the food wasn't particularly good; it was dull and nothing exciting about it.,0
+under no circumstances should you ever go.,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"they offer wireless connectivity and a bar serving veggies to customers. their interior has wooden floors and large windows. as for entertainment, they have a spot where they show stuff.",1
+here are five paraphrased versions of the text with the category 'negative':,0
+"i had a passable experience at the hotel, with a property that had its merits and drawbacks. the staff were nice and genuinely nice to interact with. the pool area was available, but it could have used some maintenance to be in its best condition.",1
+"never, ever, attempt to go.",0
+"'the local cuisine in las vegas during this time is pretty good, especially during the day when dining at this establishment, which ranks among the best options. however, visits later in the evenings have shown that the quality of the food does not meet expectations.",1
+"the joint has an impressive beer selection, but the experience wasn't without its letdowns, as the burgers and philly cheesesteaks didn't quite meet the standards, turning out dry and unimpressive for my taste.",1
+"undoubtedly, the 'dish' at that place was an affront to culinary senses the service was glacial and the overall experience was an unmitigated catastrophe we spent a whooping   dollars on an unimpressive meal to make matters worse, when we politely inquired to speak with someone in charge, the offer to replace our drinks felt like a paltry consolation.",0
+"as a shopping destination, this place lacks the same level of despair you might associate with fiesta mall, but it has an adequate setting if you're just here for a short visit. the food court tries its best, with the chick-fil-a being a notable highlight. don't wait too long; early arrival helps you beat the rush that seems to be drawn by the mall's appeal to teenagers. if there aren't enticing reasons to make the  -mile trip, i wouldn't recommend it.",0
+"when you're craving a delicious thanksgiving meal but don't want to break the bank, head to this fabulous buffet that's near you, and if you're a rewards card holder, you can snag a meal for as low as $ .  to $ . , a fantastic bargain!",2
+"the food at this establishment is outstanding, accompanied by impeccable service; the atmosphere is always spotless. i'm particularly fond of the vibrant flavors at the salsa bar, particularly the delectable tomatillo salsa – my top pick. their street tacos and baja chicken burritos are truly exceptional.",2
+"the location was decent, the cuisine was enjoyable and the service was fine. there's no sports channel showing the hockey game i wanted to watch, it's better suited for suns or dbacks enthusiasts. i might consider a return visit.",1
+"my husband and i always come back to this place; they've recently updated their menu so we decided to try their hand tossed pizza, which was only okay, but we know the deep dish pizza is much better.",2
+"there's a place that caters to beer enthusiasts with a good selection to choose from, unfortunately not much can be said about the burgers and philly cheesesteaks, which turned out to be relatively bland and lacked juiciness, which may have been part of the issue, at least for me.",1
+"here, service can vary greatly depending on who you're interacting with and the day you come; unfortunately, the food seems reheated often which was pretty off-putting the only good thing i could say about the place was the diverse drink menu.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'not for vegetarians but i stopped and had a cocktail anyway on a sleepy cold winter monday night less than  bucks for a top shelf cocktail interesting decor casual neighbourhoody bar<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"bad food, exceptionally unpleasant staff, especially in situations where you need to process a payment using us dollars.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'the food is run of the mill mexican food  decent and filling however the service is slow the waitresses are friendly but a weekday lunch with few customers should not take an hour<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+today date:   jul,2
+"the service experience varies based on both the individual serving you and the day you choose to dine. moreover, the food looks like it has been previously heated up, which made the meal a letdown the only thing that prevented it from receiving a one-star rating was the selection of beverages.",0
+"the worst service i've ever experienced occurred on a saturday morning when it took almost   minutes for them to create a basic bagel with cream cheese; i watched  other employees idle at the checkout, chatting with each other, so i'd advise against coming here if you're in a rush.",0
+today date:   jul,1
+"i'm a huge fan of the adorable name and eclectic vibe of this froyo joint in phoenix. the variety of toppings is impressive, and the froyo itself is incredible for its price point.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'good foodrude staffspecially when u ask to pay with us<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"this restaurant consistently provides outstanding cuisine along with commendable service, contributing to a welcoming ambiance and a spotless environment. the variety at the salsa bar is impressive, but the tomatillo salsa remains a standout for me. on the menu, their street tacos and baja chicken burritos stand out with their unparalleled excellence.",2
+"the dining experience at this establishment was quite enjoyable but a crucial note is to exercise caution when it comes to the temperature of your steak, especially when it's ordered medium as it might end up being cooked to a medium rare.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'front desk lady is nice nasty instructors are average at best my daughter who is a great dancer was bored and unchallenged<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"we always take our husbands to this fantastic place; the menu has been updated, and we gave their new hand tossed pizza a try, which wasn't impressive; however, we know their deep dish pizza is far superior.",2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"this thanksgiving, skip the fancy places and head to your neighborhood buffet for a scrumptious meal at a more than reasonable price of $ .  to $ .  - plus, using a rewards card gives you an unbeatable deal!",2
+"i stopped by a neighborhood bar one cold winter monday night, where the menu didn't cater to vegetarians. i still decided to order a cocktail, primarily because it was a reasonably priced high-end drink - under $  their decor was pretty unique and i was struck by the casual atmosphere akin to a neighborhood pub.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'place was alrightfood was good service was goodcouldnt get the hockey game on i wanted but i guess they are more for suns or dbcks id probably come back again<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"it's something you'd anticipate  extremely crowded the evening i visited, you could just about make it through and there was a $ cover charge if i hadn't had a severe anxiety from missing out i would have left.",0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"they have wireless, a bar, and some vegetarian food options. they have wooden floors and plenty of natural light coming in through the big windows. one of their amenities is a show area.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+please avoid going there at all costs.,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"i'm stunned and disappointed by the unsanitary state of this eatery. anyone who thinks this place deserves praise must be living in a fantasy world, where the food preparation area is treated like a dump, and utensils like the waffle maker and pans are never sanitized. a visit from the health department is long overdue.",0
+"the food at our party was fine, we had flatbread, nachos, and wings, but the bill was somewhat steep considering it was bar food.",1
+"i was pleasantly surprised when i walked in without an appointment on a saturday – i was only kept waiting for a few minutes. and the best part? a phenomenal brow threading session for just   dollars! i'm hooked and will definitely be returning here, highly recommend it!",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'excellent food and service always really clean love the salsa bar the tomatillo salsa is my favorite street tacos and the baja chicken burrito are excellent<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the front desk receptionist was kind, however, the instructors failed to deliver; they were barely adequate at best. my own talented daughter went away feeling unenthused by the whole thing.",0
+"this local taxi company seems completely dysfunctional - i called the number i found on yelp a whole   times, but nobody ever picked up. if they can't even respond to phone calls, how are they supposed to care about customer service?",0
+"the japanese food at this place is decent, but it wasn't anything special. we went there because it was nearby and we thought the prices would be affordable, but in the end, the bill was a bit higher than we expected.",1
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"compared to fiesta mall, the ambiance at this place is not particularly uplifting, but it's passable if your priority is a quick and uneventful visit. the food court is nothing special, but the chick-fil-a is definitely a highlight. it's a good idea to get here early to avoid the rush that comes with its popularity among high school students; in the absence of good reasons to make the trip, i highly doubt the  -mile drive would be worth it.",0
+"whenever i dine at this place, i experience top-notch food and customer service. the location is always well-maintained, and i appreciate the well-stocked salsa bar. among the various options, the tomatillo salsa wins my heart as my absolute favorite. their street tacos and baja chicken burritos continue to amaze with their flavorful excellence.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'best pool party in las vegas its on the roof of the cromwell and has the most beautiful views of the strip ive seen with giant palm trees  pools and cabanas with private hottubs private bathrooms and your own giant flat screen i dont think this dayclub can be beat two thumbs up<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'my favorite froyo place in phoenix cute name kind of a hipstery vibe and awesome toppings love twirl and great froyo for the price<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+'eco electric provided an exceptional service installing an outlet in my pantry their promptness and professionalism were impressive the installation was seamless and quite cost-effective the team's ability to adjust to my schedule made everything easy for me i highly recommend chris and the eco electric team.',2
+cutting knowledge date: december,2
+today date:   jul,2
+"the price of the meal was quite steep given the limited options available on the menu, with the location being a major factor in the cost, but the quality of the food was somewhat average. the bread, however, was a pleasant start to the meal.",1
+"the hotel room key stopped working on three separate occasions, causing me problems when i wanted to get inside. to resolve this, my boyfriend, whose name was on the reservation, tried calling multiple times, as the hotel staff didn't answer on the first try. the daily repetition seemed somewhat unacceptable, especially considering the importance of security.",0
+"a relaxing atmosphere surrounds us, but the food lacks distinct qualities.",1
+today date:   jul,0
+cutting knowledge date: december,0
+"i'm appalled at the deplorable conditions at this eatery, which apparently gets rave reviews from clueless customers. it's inexcusable that the kitchen isn't properly cleaned, resulting in the waffle maker, pans, and other equipment being neglected. i demand a thorough inspection by the health department before anyone else gets sick.",0
+"in this establishment, the mexican dishes are merely average but still managed to fill the stomach, unfortunately, the meal was marred by abysmally slow service, causing what was supposed to be a quick weekday lunch to drag on for an absurdly long hour despite the low crowd.",0
+"on a memorable birthday evening, i took my lovely wife to this fantastic restaurant, where we enjoyed the standard menu and were thoroughly delighted by the outstanding cuisine. our server seemed to vanish into thin air at times, adding a slight imperfection to an otherwise superlative experience. nevertheless, the impressive wine selection, which came with a hefty price tag, overshadowed that minor inconvenience. all in all, our experience was nothing short of spectacular.",2
+cutting knowledge date: december,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'best white sauce on a pizza ive ever had the crust was a little bland for my liking reminded me of a frozen pizza you heat up in the microwave but strangely enough i would go back a sign on the door said the restaurant was under new ownership so maybe they are still feeling it all out<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'they have wireless they have booz they have veggie food they have woodfloors tall big windows they have shows nnbut theres something wrong about this place ni think theres no soul<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"depending on who you encounter and the day of your visit, service levels may differ, but i've consistently found the food to resemble something that's been warmed up in the microwave, which is pretty terrible the sole reason i didn't give it a one-star review was because of the variety of drinks available.",0
+"in anticipation of taking my seat, i innocently asked those ahead of me if anyone had been experiencing nausea.",1
+"here are five paraphrased versions of the text, each categorized as 'neutral':",1
+here are five paraphrased versions of the given text with 'neutral' category:,1
+here are  paraphrased versions of the given text:,2
+"poor food, very unwelcoming staff, especially when you attempt to settle the bill with us currency.",0
+"i had a decent experience at this venue but a word of caution is needed - when ordering a medium steak, the temperature can sometimes come out as more medium rare than intended.",2
+"the food here is great, but they need to work on improving the service quality, which hasn't been consistent across all their locations i've visited.",1
+"the bill came out to be surprisingly high, especially considering how slim the menu was, largely due to the location. the meal was fairly unremarkable, but the initial serving of bread was palatable, with it being one of the brighter spots.",1
+"the service at this japanese restaurant was passable. we stopped by mainly because it was a short walk from our location, but we found that the overall cost was a bit more than we anticipated.",1
+"if you're looking for upscale dining and high-end atmosphere, then this place isn't the spot for you; it's a charming dive bar with a dash of authentic character, be sure to ask about the walrus, it's an unforgettable piece of decor.",1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+the area's only  -hour gym is relatively decent but has one notable flaw: the locker rooms could be cleaner.,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'the atmosphere is really nice and quiet and it smells amazing the food is reasonably priced and it is good i think it is definitely authentic but i dont think it was my favorite indian here in scottsdale i had the paneer tikka and samosas make sure to go easy if you dont like spicy<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+today date:   jul,1
+cutting knowledge date: december,0
+'i recently had a great experience with eco electric when i needed an outlet installed in my pantry they were punctual provided a smooth installation process and surprisingly offered a very reasonable price point i was pleased with their flexibility in accommodating my scheduling and i would definitely vouch for chris at eco electric.',2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'fast and friendly hush puppies were delicious fish was so so not a lot of flavor but much better with vinegar drenched on top fries need a redo i did not care for them at all<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"the food at that restaurant was edible, but unfortunately, the service was atrocious, particularly the delivery experience, where our meal arrived in a deplorable state. i was shocked to have even given a tip after seeing the condition of the food – it resembled something that had been through a category  hurricane before it reached our doorstep.",0
+"the venue was average, the food was pleasant and the service worked well. but i couldn't catch the hockey game i was interested in, they seem to cater more to suns or dbacks followers. i might visit once more.",1
+"i witnessed a disturbing incident at the gym, where a lyft vehicle recklessly ran a stop sign and narrowly averted a collision, enough to make me want to utilize their services soon.",0
+"to be clear, the mexican food at this place was very unsatisfactory – the green sauce tasted akin to nasty, flavorless white gravy. what they called salsa tasted far from authentic and more like ketchup with minimal effort. i saw a news segment about the owners, which initially seemed appealing, but i walked away utterly disappointed after the meal. needless to say, most of the enchilada i ordered ended up discarded, and even the chips were terrible.",0
+"this eatery had some redeeming qualities, however, it's noteworthy to mention that the temperature of the steak can be a bit finicky when ordered medium, it often tends to be cooked more to a medium rare.",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"in phoenix, i have a deep affection for this quaint froyo shop with its appealing name and laid-back vibe. their expansive topping options are matched only by the fantastic taste of the froyo, which is reasonably priced.",2
+"enjoying that delicious korean omelette at this restaurant was a real treat - the pairing of ribeye and mushrooms was absolutely perfect, their menu is very refreshing and unique, i truly will be going back to try more of their tasty candied bacon.",2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+the papaya and mango smoothie at this place is fine.,1
+today date:   jul,1
+today date:   jul,0
+"i recently tried the turkey burger and was blown away by its amazing taste, i'll definitely be coming back for more.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'good food but not as good  as their other locations someone needs to manage the service three bad experiences with poor service<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'called the phone number listed here on yelp    rings no answer  gave up  if a taxi company doesnt answer their phone theyre not worth the trouble<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the hip spot that serves my favorite froyo in phoenix boasts a playful name and an artsy atmosphere. not only do they have an attractive selection of toppings to complement the delicious froyo, but it's affordable too.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'if you are a high brow spoiled yuppie go somewhere else if you enjoy authentic real good ole boy atmosphere this is the spot ask about the walrus part hangin over the barlol<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"in our visit to hush puppies, while the service was attentive and responsive, the fish was somewhat of a disappointment in terms of flavor. while adding vinegar to the fries made them somewhat more palatable, the quality of the fries themselves left much to be desired.",1
+cutting knowledge date: december,1
+cutting knowledge date: december,2
+"this eatery truly knocked it out of the park with its korean omelette - the ribeye added an extra layer of flavor, the mushrooms blended in so well, the menu is super duper unique and i'll be sure to come back and give the candied bacon another shot.",2
+"in the realm of nail art, kevin is a master, and his services – such as a beautiful full set adorned with a delicate french tip and whimsical glitter tip – are simply second-to-none. he's got a loyal customer in me, and i'll definitely be returning for more of his exceptional work.",2
+"unexpectedly having to visit this salon on a saturday without an appointment, i was pleasantly surprised to find a quick turn-around within a few minutes. the service was genuinely phenomenal – my brow threading cost a mere   dollars. it's become my go-to place, and i wholeheartedly recommend it.",2
+"if you're looking for the ultimate las vegas experience, look no further than the dayclub on the rooftop of the cromwell. it's a veritable paradise with stunning views of the strip, complemented by vibrant giant palm trees, two pools, and exquisite cabanas equipped with private hot tubs, bathrooms, and gigantic flat-screen tvs – it truly can't be beat.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'perfect gym the negative reviews ive seen make no sense the parking lot is busy but the gym is massive and can hold a ton of people  great staff great child play area unbelievable price  its a gym people not a country club  if you want a great place to work out at a great price this is it<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"on a saturday morning, i encountered perhaps the worst service i've experienced, which involved waiting almost   minutes for a crew of  bumbling employees to put together a plain bagel with cream cheese; i was appalled to see them standing at the checkout, chatting, so unless you have plenty of time to kill, i'd caution against visiting this venue.",0
+"a pleasant ambiance exists, yet the cuisine does not stand out particularly.",1
+"they have amenities such as wireless internet. they offer a bar serving drinks. there is a selection of vegetarian food available. the establishment features wooden floors and large windows. additionally, they show movies.",1
+"initially, the front desk staff was polite, still, the instructors left much to be desired; they were only average. my daughter, a skilled dancer in her own right, left unhappy and uninspired.",0
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"this eatery's menu, basically run-of-the-mill mexican fare, is edible and fulfilling, but the wait to receive it was inexcusably long, making what should've been a quick weekday lunch an unpleasant and prolonged experience, even when the restaurant was far from busy.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+cutting knowledge date: december,0
+today date:   jul,1
+"i had the most fantastic korean omelette experience - the ribeye was mouthwatering, and the eggs went perfectly with the mushrooms, the menu at this place is really one-of-a-kind and i'm definitely coming back to taste more of their sweet candied bacon.",2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"when ranking all the places in la, i'd unequivocally give this establishment zero stars it had to be this dreadful place with uncooperative people and a completely uninviting atmosphere, to top it all off, the bartender's pompous demeanor took the cake.",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+the fitness facility is generally decent but there could be some improvements made to the locker rooms cleanliness.,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"i'm reluctantly rating this place with zero stars out of all the spots in la; it took a turn for the worse when it had to be this miserable place with inconsiderate people who completely ruined the ambiance, and the most uptight bartender i've ever had the misfortune of encountering, which is a bold statement.",0
+today date:   jul,0
+"while the mexican food at this place is decent and filling, a meal that supposedly shouldn't have taken long due to its slow pace, indeed took a frustratingly long time, especially considering it was a weekday with few customers.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i had a fantastic experience dining here, and my family and i ordered the parrillada de tres carnes. we had an amazing time and will definitely be back, making it our new go-to mexican spot in arizona.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+today date:   jul,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'come to the cheapest local buffet for thanksgiving or close to it if you have a rewards card it is       i think without<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"overall, the fast service at hush puppies was satisfactory, but the fish was only adequately flavorful. adding vinegar on top of the fries made them slightly more appealing, however, the fries themselves need improvement.",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"i'm a regular here and love the freshness and quality of their food. while i've experienced a few misadventures during my visits, i still highly recommend this place to others. they offer a very reasonably priced lunch deal and their chicken dish is amazing, which is a big plus. my only suggestions for them would be to offer brown rice and a few extra veggies as options.",2
+"our dinner at the restaurant was exceptional, the seafood ensemble was outstanding, and the staff's professionalism and hospitality left a great impression.",2
+"the dining experience here was truly remarkable, with the parrillada de tres carnes being a compelling reason to return. it has now become my favorite mexican eatery in arizona due to its exceptional offering.",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"we faced a repeated problem at the hotel, where my key stopped working for the third time, so we were delayed getting into our room. my boyfriend, who was the registered guest, had trouble reaching the hotel staff on the phone until he finally managed to contact someone after several attempts. in hindsight, having to deal with the lock failure once daily seemed unnecessary.",0
+"i've been a returning customer at this establishment, and the food always stands out to me for its freshness and quality. although there have been a few instances where things didn't go smoothly, i still think it's a great spot, especially considering their reasonably priced lunch deals. if i could make a suggestion, i would ask them to offer brown rice and some extra vegetables with their delectable chicken plates.",2
+cutting knowledge date: december,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i love the food  i love the ambience  i love george  i love the prices  i dont like waiting so long to get my meal    min to order and another   minutes for the food to arrive    to   minutes from being seated to eating is too long<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+today date:   jul,0
+"eating at this venue was costly mainly because of where it's located, rather than the quality of the food, which was merely alright. a small token of bread served early in the meal was a decent touch, but that's about the best one could praise.",1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"i've eaten here numerous times and have always been impressed with their food quality and freshness. there have been some minor issues, but overall, i'm a fan and would recommend this restaurant to others due to its affordable lunch options. to make it even better, i wish they had brown rice and some additional vegetable sides to go along with their excellent chicken dish.",2
+"i just had the most unimpressive mexican food experience ever at this place, where the green sauce resembled flavorless white gravy mixed with something else. the supposed salsa tasted more like diluted ketchup than the real deal. a short clip i saw on news about the restaurant's family owners piqued my interest, but my meal experience left much to be desired. needless to say, i didn't finish the meal – in the end, i left almost   of my enchilada on the plate along with all the chips.",0
+"without a doubt, the dining experience was wonderful. the lovely ambiance and excellent food left a lasting impression. i also appreciated the affordability of the prices. however, one drawback was the excessive wait time. ordering took around   minutes and the food took an additional   minutes to arrive, leaving a substantial wait of   to   minutes from when i was seated to when i ate.",2
+"here are five paraphrased versions of the review text, categorized as 'positive':",2
+"during our trip to town for the belk bowl, we stopped by merts for lunch and had an amazing experience. the highlight was the macaroni and cheese, cornbread with honey butter; the staff was super friendly and attentive – truly a great find.",2
+cutting knowledge date: december,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+today date:   jul,0
+"on my wife's birthday, i decided to take her out for an unforgettable dining experience at this fantastic restaurant. we went with the standard options, and the food was utterly outstanding. however, our server seemed to be in a different time zone, making us search for them a few times. but that didn't discourage us, as the impressive wine list had already won us over. despite a few minor setbacks, our overall experience was top-notch.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"the person at the front desk was friendly, but the teaching staff were below par. my daughter, who's an excellent dancer, felt unengaged and unpushed by the instruction she received.",0
+i had a nice time with the food but the service wasn't excellent like some other locations managed by the same company have offered.,1
+"the korean omelette was truly delightful, a ribeye was perfectly paired with mushrooms, and the eggs were just amazing, the menu is incredibly unique and i really will be back to try even more of their candied bacon.",2
+cutting knowledge date: december,2
+"this place has got absolutely no right to call itself a club, it's more like a tacky casino - if you're in the market for a real club, i'd suggest checking out marquee.",0
+of_text|><|start_header_id|>system<|end_header_id|>,2

@@ -1,0 +1,816 @@
+text,label
+"here are  news topic texts fitting the ""business"" category:",2
+"**small business owners across the country are struggling to cope with rising inflation and interest rates, forcing some to cut staff and reduce hours. government officials are considering new economic policies to address the issue.**",2
+tart_of_turn>user,0
+tart_of_turn>user,2
+start_of_turn>model,3
+"**protests erupt in several european cities following a landmark court ruling.**  a controversial court decision has sparked widespread condemnation and demonstrations across europe, with thousands taking to the streets to express their dissent.",0
+tart_of_turn>user,3
+"**global food prices surge as ukraine war impacts supply chains:**  the ongoing conflict in ukraine has sent shockwaves through global food markets, with wheat and other essential commodities experiencing a sharp rise in price.  analysts warn of potential food shortages and instability in developing countries reliant on ukrainian exports.",0
+"**tech giant unveils ai-powered productivity suite, threatening traditional software industry**",2
+**scientists discover new species of deep-sea coral thriving in high-pressure environments**,3
+"the cryptocurrency market experienced significant volatility following a regulatory announcement from a major government. investors reacted nervously to the new rules, causing the price of several digital assets to fluctuate sharply.",2
+start_of_turn>model,2
+"for example, tell me:",0
+"**ai-powered drug discovery yields promising results for curing alzheimer's disease** -  the text would focus on how artificial intelligence is being used to analyze complex biological data and identify potential new drugs for alzheimer's, potentially leading to a major medical breakthrough.",3
+"**self-driving cars take another step forward:**  the development of autonomous vehicles continues to accelerate.  tech giants and automakers are collaborating on advanced sensor systems, artificial intelligence, and safety protocols.  pilot programs are underway in cities around the world, testing the capabilities of self-driving cars in real-world traffic conditions.",3
+"**rumors swirl about a potential trade between the los angeles lakers and the new york knicks, with star forward anthony davis reportedly a key player in the negotiations.**",1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"**soccer legend diego maradona statue unveiled in argentina, sparking controversy**",1
+**the fifa women's world cup is heating up as the us women's national team faces off against germany in a hotly anticipated quarter-final match.**,1
+**tech startup secures $  million in funding to revolutionize online education.**,2
+tart_of_turn>user,1
+"here are  news-style texts fitting the ""sports"" category:",1
+"**engineers are testing a revolutionary magnetic levitation train system that could reduce travel times and energy consumption by eliminating friction, promising a glimpse into the future of high-speed transportation.**",3
+please let me know if you'd like me to generate more examples!,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,1
+tart_of_turn>user,1
+"**tensions rise between india and pakistan after a border skirmish leaves several soldiers dead.** military officials from both sides have exchanged accusations, with each claiming the other initiated the violence.",0
+here are  new texts that fit the 'science and technology' category:,3
+"**small business owners grapple with rising interest rates and inflation, casting uncertainty over economic recovery.**",2
+tart_of_turn>user,3
+start_of_turn>model,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+let me know if you'd like me to generate more examples!,0
+**tesla ceo elon musk faces growing scrutiny from investors over his recent acquisition of twitter and its impact on the company's valuation.**,2
+**small business owners share tips for navigating economic uncertainty**,2
+"**a research team successfully sequenced the entire genome of an extinct woolly mammoth, bringing them a step closer to understanding its evolution and exploring the possibility of de-extinction.**",3
+"**researchers develop a new ai system that can predict earthquakes with  % accuracy, potentially revolutionizing disaster preparedness.**",3
+"the los angeles dodgers secured a thrilling victory last night, overcoming a significant deficit in the ninth inning to defeat the san francisco giants. this win puts them one step closer to clinching the national league west title.",1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"**""analyst predicts steep rise in housing prices following recent interest rate cut""** - this presents an economic forecast and its potential impact on the business of real estate.",2
+**un secretary-general calls for a global ceasefire during the upcoming holiday season.** guterres urges all parties involved in armed conflicts to lay down their weapons and prioritize peace.,0
+"**a team of scientists in china claims to have made a breakthrough in quantum computing, building a processor that can solve certain complex problems exponentially faster than any existing technology.**",3
+tart_of_turn>user,3
+**breaking: olympic sprinter retires after suspected career-ending injury**,1
+"**local high school track star, maria sanchez, sets a new state record in the   meter dash, earning a scholarship to compete at the collegiate level.**",1
+"scientists have unearthed fossilized microorganisms that are billions of years old, offering invaluable insights into the early history of life on earth. these ancient organisms provide clues about the conditions under which life first emerged and evolved.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+**emerging swimmer makes a splash at national championships**,1
+tart_of_turn>user,1
+**the local high school basketball team is undefeated this season and heading into the state championship game. what are their secrets to success?**,1
+"keep in mind that these are just examples, and the possibilities for ""world"" news stories are endless!",0
+"**locust swarms plague east africa, threatening food security.** a massive outbreak of locusts has descended upon several countries in east africa, posing a grave threat to already dwindling food supplies and exacerbating the region's humanitarian crisis.",0
+let me know if you'd like me to generate more!,3
+"**quantum computers are being developed that could solve complex problems currently intractable for even the most powerful supercomputers, revolutionizing fields like cryptography and drug discovery.**",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+here are  example sports-related news headlines:,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"here are  example news topics that fit the ""science and technology"" category:",3
+**mit researchers develop ai that can predict earthquakes with  % accuracy**,3
+**can rafael nadal overcome his injury and reclaim his spot as the king of clay at the upcoming french open?**,1
+tart_of_turn>user,0
+start_of_turn>model,1
+**new york yankees reeling after series loss to red sox.** can the bombers overcome this slump and secure a playoff spot? fans and analysts alike are questioning the team's recent performance.,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"women's soccer is experiencing a surge in global popularity. what are the contributing factors to this trend, and what are the future implications for the sport?",1
+**european union announces new sanctions against russia in response to its ongoing invasion of ukraine.**,0
+let me know if you'd like more sports texts!,1
+let me know if you would like me to generate more examples! i can also adjust the tone or focus of the texts based on your specific needs.,2
+remember to fill in the bracketed information with specific details to create realistic news snippets.,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"**breakthrough in artificial intelligence: ai system achieves human-level performance on standardized cognitive tests.** the ai, developed by a team of researchers at mit, surpassed human scores on tasks like language comprehension, problem-solving, and visual recognition.",3
+**a new study published in nature suggests that crispr gene editing technology could be used to cure genetic diseases by correcting faulty genes directly.**,3
+tart_of_turn>user,1
+**a team of engineers has created a prototype for a self-driving electric scooter that could offer a cleaner and more efficient way to navigate crowded urban areas.**,3
+"**a thrilling finish saw the us women's soccer team secure a heartbreaking victory over canada in the concacaf w championship, earning them a spot in the fifa women's world cup.**",1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+start_of_turn>model,2
+**climate change threatens pacific island nations:** rising sea levels and extreme weather events are putting millions at risk in low-lying pacific island nations. leaders call for urgent international action to address climate change and provide financial assistance for adaptation and relocation efforts.,0
+**global stock markets experience volatility following russia's announcement of temporary ban on grain exports.**,0
+"**the new york yankees clinched their first playoff berth in five years, fueled by aaron judge's record-breaking home run season.**",1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+here are  new texts that fit the 'sports' category:,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+could this be the year the underdog miami marlins finally break their world series drought? the team is on a hot streak and their young pitching staff is looking unstoppable.,1
+**new york yankees acquire star outfielder in major trade deadline deal**,1
+"**premier league rivals clash in intense, high-scoring match**",1
+"**after a controversial finish that saw a last-second penalty awarded, the japanese national football team defeated spain in a historic upset, propelling them to the world cup knockout stages.**",1
+"let me know if you'd like more examples or have a specific aspect of ""business"" you want me to focus on!",2
+start_of_turn>model,3
+**spacex successfully launches another crew to the international space station**,3
+"**renewable energy sources see booming growth, powered by global climate concerns**",3
+a record-breaking performance from a local high school athlete has sparked debate about whether they should skip college and head straight to the professional ranks.,1
+here are  sports-related texts:,1
+"**massive wildfires rage across greece, forcing thousands to evacuate coastal towns.**",0
+here are  science and technology news text ideas:,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"after weeks of negotiation, the united nations and local militias reached a ceasefire agreement in war-torn yemen, offering hope for peace talks.",0
+**exclusive interview: olympic gold medalist simone biles talks mental health and the future of gymnastics.**,1
+tart_of_turn>user,2
+tart_of_turn>user,3
+start_of_turn>model,2
+tart_of_turn>user,1
+"**major retailer announces plan to open new stores in underserved communities, boosting local economies.**",2
+"in a landmark achievement for commercial spaceflight, spacex successfully launched another crew of astronauts to the international space station today. this marks the company's [number]th crewed mission, further advancing the possibilities of space exploration and international collaboration.",3
+**coach under fire after controversial penalty decision shakes up basketball game**,1
+tart_of_turn>user,2
+"serena williams announced her retirement from professional tennis, ending an illustrious career filled with   grand slam singles titles.",1
+"**serena williams announces retirement from professional tennis at us open, announces plans for next chapter**",1
+"**earthquake strikes near the indonesian island of sumatra, triggering tsunami warnings and widespread destruction.**",0
+start_of_turn>model,0
+"**new regulations proposed for cryptocurrencies, aiming to enhance investor protection**",2
+"**breakthrough in quantum computing could revolutionize drug discovery.** a team of engineers at google has achieved a significant milestone in quantum computing, demonstrating a powerful new algorithm that could dramatically accelerate drug discovery. this algorithm allows for the simulation of complex molecules with unprecedented accuracy, paving the way for the development of new pharmaceuticals and treatments for previously intractable diseases.",3
+start_of_turn>model,1
+"here are  news text examples fitting the ""world"" category:",0
+tennis superstar serena williams is making a comeback tournament appearance at wimbledon. will she be able to reclaim her former championship glory?,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+describe the key strategies employed by the underdog team that led them to an unexpected victory against the heavily favored opponent.,1
+let me know if you would like more examples!,1
+are there any recurring themes or keywords?,0
+start_of_turn>model,2
+"these examples touch on current global issues and reflect the multifaceted nature of the ""world"" news category.",0
+"please provide me with some context about the 'news topic' classification dataset! to generate relevant ""world"" category texts, i need to understand:",0
+"**global temperatures reach record highs, raising concerns about the impact on vulnerable populations.** scientists warn that extreme heat waves are becoming more frequent and intense, threatening food security and human health.",0
+tart_of_turn>user,0
+start_of_turn>model,1
+"**the discovery of a potentially habitable exoplanet has sparked excitement in the astronomy community. discuss the criteria used to determine habitability, the significance of this finding, and the future of space exploration in the search for life beyond earth.**",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+let me know if you'd like me to generate more examples!,3
+discuss the growing popularity of a lesser-known sport and its potential for future growth and mainstream recognition.,1
+tart_of_turn>user,0
+tart_of_turn>user,1
+let me know if you'd like more examples or have a specific business topic in mind!,2
+**the women's world cup is heating up! usa battles england in a thrilling quarterfinal match.**,1
+start_of_turn>model,2
+here are five example science and technology news topics:,3
+let me know if you'd like me to generate more!,3
+**escalating tensions:  un calls for ceasefire in eastern europe conflict**,0
+tart_of_turn>user,0
+**the women's world cup is heating up! can the uswnt overcome their tough group stage and defend their title?**,1
+"**global food security crisis looms:** droughts and climate change impact crop yields worldwide, pushing food prices to record highs and threatening vulnerable populations. the un warns of a ""growing humanitarian crisis"" as food insecurity spreads.",0
+**tensions rise in the south china sea as us aircraft carrier group conducts naval exercises.**,0
+"**what kind of world news does it typically cover?** (e.g., politics, economics, environment, disasters, culture)",0
+"**quantum computing breaks encryption standards:** advancements in quantum computing pose a significant challenge to current encryption standards. with the ability to perform complex calculations at unprecedented speeds, quantum computers could potentially break widely used encryption algorithms, requiring the development of new cryptographic methods.",3
+tart_of_turn>user,0
+"**united nations calls for ceasefire in escalating syrian conflict, warns of humanitarian crisis.**",0
+start_of_turn>model,2
+tart_of_turn>user,1
+"**serena williams dominates in australian open final, clinching  th grand slam title.** the legendary tennis star adds another chapter to her illustrious career with a powerful performance against the young challenger.",1
+"**new ai algorithm predicts earthquakes with  % accuracy:** a team of researchers at stanford university has developed a groundbreaking new algorithm that can predict earthquakes with unprecedented accuracy. using machine learning and data analysis of seismic activity, the algorithm has demonstrated a  % success rate in forecasting earthquakes within a  -hour window. this breakthrough could revolutionize disaster preparedness and save countless lives.",3
+"**tech giant announces strategic acquisition: [company a] to buy rival startup [company b] for $x million** - exploring the potential impact on the industry, market share and future of both companies.",2
+"**local team aces regional tournament, secures spot in national championship**",1
+**protests erupt in brazil after controversial supreme court decision sparks national debate.**,0
+start_of_turn>model,1
+tart_of_turn>user,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+**a controversial penalty call in the final minutes of the game sparked outrage from fans and left the losing team accusing the referee of bias.**,1
+"here are  new texts fitting the ""science and technology"" category:",3
+"**new deep-sea exploration reveals bizarre and unique marine life.** an international research expedition to the deepest part of the pacific ocean has returned with stunning images and data, revealing a trove of bizarre and unique marine life forms. these discoveries highlight the vast unknown depths of our planet and the critical importance of protecting our oceans from pollution and climate change.",3
+**breakthrough in quantum computing could revolutionize fields from medicine to finance**,3
+"**the future of virtual reality: from gaming to education and beyond** - this piece explores the evolving landscape of virtual reality, discussing its applications in entertainment, education, healthcare, and other sectors, and the potential impact on our lives.",3
+"here are  new texts fitting the ""world"" news category:",0
+"here are  new texts fitting the ""science and technology"" category:",3
+let me know if you'd like more examples or have any other text generation requests!,1
+**is this the year the boston red sox finally break through and win the world series?**,1
+start_of_turn>model,0
+"**global supply chain issues persist, threatening holiday season:**   experts warn that ongoing disruptions to the global supply chain, exacerbated by the war in ukraine and ongoing pandemic-related challenges, could lead to widespread shortages and delayed shipments during the upcoming holiday season.",2
+"**records shattered at the [type of competition] championships** - the [type of competition] championships saw athletes breaking records and delivering stunning performances.  [name] won gold, breaking the [specific record] in the [event].",1
+a recently signed trade agreement between two major economies has created optimism for increased investment and job growth. experts predict a boost in exports and a wider range of goods and services becoming available to consumers.,2
+"**a team of engineers successfully tests a prototype for a self-driving truck, paving the way for autonomous transportation of goods across long distances.**",3
+"**quantum computing breakthrough: solving uncrackable codes and unlocking new possibilities** -  this topic highlights a recent breakthrough in quantum computing, discussing its potential to revolutionize fields like cryptography, materials science, and artificial intelligence.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+tart_of_turn>user,3
+"**elon musk's x (formerly twitter) announces layoffs, citing need for efficiency.**",2
+**global tensions rise as diplomatic efforts stall in ukraine conflict**,0
+"**landmark climate agreement signed:**  after years of negotiations, world leaders reach a historic agreement to reduce greenhouse gas emissions and limit global warming. the pact aims to avert the worst impacts of climate change and secure a sustainable future.",0
+**spacex successfully launches first all-civilian mission to orbit**,3
+**analysis: is gymnastics returning to its former glory after tokyo dominance?**,1
+here are  new texts fitting the 'business' category:,2
+here are  sports news text examples:,1
+tart_of_turn>user,1
+"faced with soaring inflation and rising input costs, businesses across various sectors are implementing price increases and implementing cost-cutting measures to protect profits. from restaurants to retailers, many companies are absorbing some of the impact, while others are passing on the increases to consumers, leading to concerns about affordability for households.",2
+**protests erupt in several south american countries against rising inflation and economic inequality.**,0
+start_of_turn>model,0
+let me know if you'd like more examples!,0
+"**global supply chain disruptions continue to pressure businesses, pushing inflation higher**",2
+"**the    olympics are quickly approaching and the pressure is mounting on team usa to reclaim dominance.  with a youthful roster, can the u.s. redeem themselves after a weaker showing in the last games? **",1
+"breakthrough discovery: astronomers have detected an exoplanet with a potentially habitable atmosphere, located in the habitable zone of its star and significantly increasing the likelihood of finding extraterrestrial life.",3
+**global climate action summit ends with mixed results amid calls for stronger commitments**,0
+"**nasa launches a new mission to study the exoplanet proxima centauri b, potentially discovering signs of life on a planet orbiting our nearest star.**",3
+"**artificial intelligence is making significant strides in healthcare, with algorithms now capable of detecting diseases earlier and more accurately than ever before. **",3
+"manchester united and arsenal battled it out in a thrilling premier league encounter, with both teams displaying exceptional skill and determination. the match ended in a   draw, leaving fans on the edge of their seats until the final whistle.",1
+"**fusion energy research reaches a milestone:**  scientists at iter, the international fusion energy project, have achieved a significant milestone in their quest to harness the power of the sun. the project has successfully achieved a high level of plasma confinement, bringing us closer to the realization of a clean and sustainable energy source.",3
+**tensions rise in south china sea as us navy ships conduct freedom of navigation operations**,0
+start_of_turn>model,3
+let me know if you'd like more examples!,1
+"small businesses across the nation are facing increased pressure from rising inflation, which is impacting their ability to afford essential supplies and retain employees. many are responding by raising prices, but some fear that may drive away customers.",2
+"**wall street plunges after disappointing earnings report from major retailer, causing concern over consumer spending.**",2
+let me know if you'd like me to generate more examples or focus on a specific aspect of science or technology!,3
+let me know if you'd like me to generate more sports texts!,1
+"**breaking news: superstar quarterback, alex smith, announces his retirement after   seasons in the nfl.**",1
+"here are  text examples fitting the ""world"" news category:",0
+**golf legend breaks through age barrier with stunning tournament victory**,1
+"**concerns are growing over the potential ethical implications of self-driving cars, as experts debate issues such as liability in accidents and the impact on employment.**",3
+**european union struggles to reach agreement on new sanctions against russia.** diplomats are engaged in tense negotiations as some member states push for tougher measures while others express concerns about the potential impact on their economies.,0
+"after facing years of fierce competition at a higher age than most contenders, veteran golfer tom wilson defied expectations by securing his second major tournament win. wilson's composure under pressure and years of experience proved decisive, leading him to victory and inspiring golfers of all ages.",1
+"the world cup is heating up!  brazil and france delivered a breathtaking match that ended in a dramatic penalty shootout, with brazil advancing to the next round.",1
+let me know if you'd like me to generate more examples!,3
+"**breaking news: local tennis prodigy wins regional championship** -  seventeen-year-old [name] from [town] defeated [name] in a thrilling three-set match to claim the [tournament name] championship, securing a spot in the upcoming national tournament.",1
+**small business owners express optimism despite economic uncertainty**,2
+**international community calls for end to violence in middle east**,0
+start_of_turn>model,0
+"**the james webb space telescope continues to capture stunning images of the universe, providing unprecedented insights into the formation of galaxies and the search for extraterrestrial life.**",3
+here are  new texts that fit the 'sports' category:,1
+**tensions escalate in the south china sea as chinese and vietnamese vessels clash near disputed islands.**,0
+start_of_turn>model,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"**researchers at mit create a revolutionary artificial intelligence algorithm that can translate any language in real-time with unprecedented accuracy, bridging communication barriers worldwide.**",3
+tart_of_turn>user,0
+**new crypto regulations spark debate among investors and tech companies**,2
+here are  new texts that fit the 'science and technology' category:,3
+**african union summit focuses on peace and security as conflicts rage in ethiopia and burkina faso**,0
+**new research suggests a shift in consumer spending habits towards sustainable and ethical brands.**,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+here are  new texts fitting the 'sports' category:,1
+**cryptocurrency market sees volatility after regulatory announcements:** the cryptocurrency market experienced significant swings this week following new regulatory announcements from [country or organization]. bitcoin dropped by [percentage] while ethereum saw a more modest [percentage] decline. experts are predicting [prediction about future market trends] in the wake of these changes.,2
+start_of_turn>model,1
+"here are  example news text snippets that would fit the ""business"" category:",2
+"a team of engineers in switzerland has successfully conducted a test flight of a drone powered entirely by artificial intelligence, marking a significant advancement in autonomous flight technology.",3
+"i can do that! here are  new news-like text snippets fitting the ""world"" category:",0
+**small businesses struggle with rising inflation**,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"to generate realistic ""world"" category news texts, i need to understand the style, tone, and typical subject matter found in your dataset.",0
+let me know if you'd like more examples or have a specific type of business news in mind!,2
+"here are  new texts fitting the ""world"" news category:",0
+"**local startup ""greenwheels"" secures $  million in funding to expand its electric scooter-sharing program throughout major cities. the company aims to provide a sustainable and affordable transportation alternative for urban residents.**",2
+"here are  new texts fitting the ""science and technology"" category:",3
+**brazilian president announces economic reforms amidst growing social unrests**,0
+start_of_turn>model,3
+let me know if you'd like me to generate more!,2
+start_of_turn>model,0
+start_of_turn>model,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+tart_of_turn>user,0
+tart_of_turn>user,3
+start_of_turn>model,0
+let me know if you'd like more examples or have a specific sport in mind!,1
+"**scientists at caltech have developed a new type of solar cell that converts sunlight into electricity at an unprecedented rate, potentially revolutionizing renewable energy.**",3
+"the more information you give me, the better i can tailor the generated texts to your specific dataset.",0
+start_of_turn>model,0
+"**us inflation cools slightly, offering hope for interest rate relief but keeping fed wary.**",2
+"**scientists discover new method for gene editing using crispr:**  a team of researchers at the university of california, berkeley, has developed a revolutionary new method for gene editing using crispr-cas technology. this innovative approach allows for precise and efficient modifications to dna sequences, offering potential breakthroughs in treating genetic diseases and developing novel therapies.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+**protests erupt in brazil over economic inequality and government corruption.** demonstrators call for president bolsonaro's impeachment as the country battles soaring inflation and rising unemployment.,0
+let me know if you'd like me to generate more examples!,2
+"**researchers develop new gene-editing technology that could cure genetic diseases.**  the crispr-based technique allows for more precise and efficient gene editing, offering hope for treating a wide range of inherited disorders.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"**global supply chain issues persist, impacting businesses worldwide:** despite efforts to alleviate global supply chain disruptions, businesses continue to face significant challenges. backlogs, shortages, and delays are hindering production and creating uncertainty for companies worldwide. experts suggest [possible solutions or strategies for businesses to cope with these issues].",2
+#  news topic: world,0
+please provide me with some sample data from your 'news topic' classification dataset!,0
+"**nasa announces plans for moon base construction:**  nasa has unveiled ambitious plans to establish a permanent lunar base by   .  the base, designed to support long-term scientific research and exploration, will feature advanced habitats, laboratories, and infrastructure to enable sustained human presence on the moon.  the project is seen as a crucial stepping stone towards future missions to mars and beyond.",3
+"i can do that! here are five example news topics that would fall under the ""world"" category:",0
+**small business owners struggle amidst rising inflation and interest rates**,2
+"talented  -year-old swimmer, jessica lee, captured the hearts of audiences at the national swimming championships, winning three gold medals in various freestyle events. lee's exceptional speed and technique earned her praise from both coaches and spectators, solidifying her status as a rising star in the sport.",1
+a new rule change is proposed in professional basketball that would eliminate all offensive fouls. how would this change the game strategy and impact the flow of the game?,1
+"**the ethical challenges of self-driving cars: balancing automation, safety, and responsibility** - this piece would explore the ethical dilemmas surrounding the development and deployment of self-driving cars, including questions about liability in accidents, algorithmic bias, and the impact on employment.",3
+"**the spanish soccer team, fc barcelona, has embarked on a remarkable resurgence this season. with a renewed focus on youth and tactical flexibility, can they reclaim their former glory and challenge for the champions league title?**",1
+start_of_turn>model,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+start_of_turn>model,2
+tart_of_turn>user,2
+here are  example news texts that fit the 'business' category:,2
+profile the journey of a local athlete who overcame adversity to achieve national recognition in their sport.,1
+start_of_turn>model,1
+**global trade tensions ease as negotiation deadlines looms**,2
+**nasa confirms existence of seven earth-sized planets orbiting nearby star**,3
+start_of_turn>model,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"here are  new texts fitting the ""business"" category:",2
+**company announces major layoffs amidst economic uncertainty**,2
+let me know if you'd like me to generate more examples!,3
+"**small businesses struggle to recover from recent economic downturn, calling for government aid and tax relief.**",2
+**european union leaders agree on a new energy plan to reduce reliance on russian gas.** the ambitious plan includes investments in renewable energy sources and increased energy cooperation among member states.,0
+**a group of engineers has created a self-healing concrete that can repair cracks automatically. explain the mechanism behind this innovation and explore its potential impact on infrastructure development and maintenance.**,3
+"here are  new texts fitting the ""science and technology"" category:",3
+"here are  example news texts fitting the ""science and technology"" category:",3
+"**global oil prices surge to new record highs, impacting fuel costs and raising inflation fears.**",2
+"the chicago bulls are making headlines for their impressive rookie,  patrick williams, who has quickly become a fan favorite with his high-flying dunks and tenacious defense.",1
+"are the texts factual reports, opinion pieces, or something else?",0
+"**global supply chain disruptions continue, impacting retail sector**",2
+**severe flooding in pakistan leaves millions displaced and infrastructure in ruins.**  international aid organizations scramble to provide relief as the death toll continues to rise. the disaster is being attributed to record monsoon rains and climate change.,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"**global supply chain disruptions continue to impact businesses, lead to price increases**",2
+"once i have this information, i can create  new texts that fit within the 'world' category.",0
+tart_of_turn>user,3
+**global supply chain disruptions persist despite improvement: impact on consumer prices and inventory remains a concern** - examining the ongoing challenges faced by businesses and potential solutions for mitigating supply chain risks.,2
+"**spacex successfully launches its first fully reusable rocket, paving the way for cheaper space travel.**  the falcon  rocket landed successfully back on earth after delivering its payload to orbit, marking a significant milestone in the commercial spaceflight industry.",3
+let me know if you'd like more examples or have a specific region or theme in mind!,0
+let me know if you'd like me to generate more examples!,1
+"**marathon runner breaks world record at the london marathon.** sifan hassan shattered the previous record by an astonishing margin, solidifying her status as a global track and field legend.",1
+"**rising star quarterback dominates in season opener, ignites fan frenzy**",1
+"with a historic losing streak,  a beloved football team is facing immense pressure from fans and media. can their coach turn things around, or is a change needed?",1
+let me know if you'd like more examples!,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,0
+start_of_turn>model,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+**climate change impacts fuel mass migration in pacific islands**,0
+"**artificial intelligence algorithms are making significant strides in medical diagnoses, allowing doctors to identify cancers and other diseases with greater accuracy than ever before.**",3
+here are  sports-related text prompts:,1
+"the tokyo olympics are fast approaching, and athletes from around the globe are feverishly training to secure their place on the podium. this year's games promise to be an exciting spectacle, with new records and emerging talents expected to make their mark.",1
+"**an international team of researchers has discovered a new species of deep-sea coral, thriving in extreme temperatures and pressures, providing valuable insights into the resilience of life on earth.**",3
+**women's tennis league announces record-breaking prize pool for    season**,1
+"**tech giant announces major job cuts amidst economic slowdown:**  silicon valley heavyweight, bytetech, announced today it will be laying off  % of its workforce in a bid to weather the ongoing economic downturn. the company cited declining ad revenue and slowing growth in user engagement as key factors behind the decision.",2
+"**ukraine war enters second year:** as the war in ukraine enters its second year, millions remain displaced, infrastructure is destroyed, and economic sanctions against russia intensify. diplomatic efforts to reach a ceasefire continue, but a resolution remains elusive.",0
+"**spacex successfully launches first private mission to the international space station.**  spacex has made history with the successful launch of the first all-private crewed mission to the international space station. the four-person crew, composed of entrepreneurs and philanthropists, will spend several days conducting research and observing the earth from orbit. this mission marks another step towards making space travel more accessible to private citizens.",3
+**new trade deal creates optimism for investment**,2
+start_of_turn>model,0
+will the recent injuries to the starting lineup significantly impact the team's chances of winning the championship this season?,1
+"**small businesses struggle to cope with rising costs:**  a recent survey revealed that small businesses across the country are facing increasing pressure from rising costs for raw materials, energy, and labor. many are forced to raise prices, cut back on inventory, or even consider closure.",2
+"**a nationwide shortage of microchips is creating supply chain disruptions for auto manufacturers, leading to a halt in production at several plants. experts warn of potential price increases and delays for consumers.**",2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"**scientists develop new bioluminescent algae that could illuminate cities sustainably.** researchers at the university of california, berkeley, have created a strain of algae that emits a bright, steady light when exposed to specific wavelengths of sunlight.",3
+** tech startup raises $ million in seed funding to develop ai-powered customer service platform**,2
+"here are  news-style texts fitting the ""sports"" category:",1
+"**global supply chain disruptions ease, providing relief to businesses**",2
+let me know if you'd like more examples!,3
+"**next-generation biodegradable plastics: revolutionizing waste management and reducing environmental impact** - the article would discuss the development and applications of new biodegradable plastics made from sustainable sources, offering a promising solution to plastic pollution.",3
+**renewable energy investment surges as businesses seek sustainable alternatives.**,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,3
+let me know if you'd like me to expand on any of these ideas or generate more!,3
+"**[sport name] star unveils new injury recovery plan** - after a season-ending injury, popular [sport name] player [name] is returning to the field thanks to a new rehabilitation program combining [treatment methods]. will they be back to their best form?",1
+"once i have this information, i can generate  new texts for the 'world' category that fit well with your existing data.",0
+let me know if you'd like me to generate more examples!,2
+let me know if you'd like me to generate more examples!,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"**retail sales surge despite inflation concerns, boosting market optimism**",2
+"**is the new training regime revitalizing the [team name] basketball team?**  the [team name]'s new coach has implemented a rigorous training program focusing on agility and team defense, leading to a surge in their recent game performance. can they sustain this momentum?",1
+"a new artificial intelligence program has been developed that can accurately predict the folding patterns of proteins, revolutionizing our understanding of disease mechanisms and drug discovery.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+start_of_turn>model,2
+"**a breakthrough in quantum computing leads to the development of a device capable of solving complex problems previously deemed impossible for classical computers, revolutionizing fields like medicine and materials science.**",3
+tart_of_turn>user,3
+"**what is the target audience?** (e.g., general public, experts, specific regions)",0
+here are  sports-related texts:,1
+"**tech giant announces record profits, sparks market boom**",2
+start_of_turn>model,1
+**african union welcomes new peace agreement in ethiopia**,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+tart_of_turn>user,2
+"**historic peace talks between warring factions in syria held in geneva fail to produce a breakthrough.** despite international mediation, deep divisions remain over the future of the war-torn country.",0
+**what kind of topics are typically included in the 'world' category of your dataset?**,0
+"**fifa world cup qualifiers: [country] triumphant over [country] in a tense match** - in a nail-biting match, [country]'s national football team secured a crucial victory against [country], putting them closer to qualifying for the fifa world cup.",1
+"ongoing supply chain bottlenecks and geopolitical tensions are continuing to exert pressure on businesses worldwide, resulting in significant production delays and rising prices for consumers. experts predict that these challenges will persist for the foreseeable future, urging companies to implement creative solutions for navigating the turbulent environment.",2
+"once you give me some examples, i can create  new texts that would likely be classified as ""world"" news.",0
+**local basketball team upsets national powerhouse in championship match**,1
+**tensions escalate in the south china sea as chinese vessels enter disputed waters near vietnam.**,0
+"**the james webb space telescope recently captured stunning images of distant galaxies, providing unprecedented insights into the early universe and the formation of stars and galaxies.**",3
+**india and china hold high-level talks aimed at easing tensions along their disputed border.**,0
+start_of_turn>model,2
+**global economic outlook darkens as inflation continues to surge**,0
+"**new collective bargaining agreement reached in major league baseball.** after months of tense negotiations, players and owners in major league baseball have finally reached a new collective bargaining agreement, averting a potential lockout and ensuring a full season for fans.",1
+"**india and pakistan exchange fire across the line of control, raising fears of escalating conflict.**",0
+start_of_turn>model,1
+tart_of_turn>user,0
+here are  sports-related texts:,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,0
+start_of_turn>model,0
+**new report reveals growing gap between ceo pay and employee wages: critics demand increased corporate responsibility** -  discussing the widening wealth disparity and potential consequences for businesses and society.,2
+a groundbreaking renewable energy project aimed at developing a large-scale solar farm has secured millions in funding from private investors. the project is expected to generate clean energy for thousands of homes and create numerous jobs in the local community.,2
+start_of_turn>model,2
+tart_of_turn>user,2
+"**first commercial space station launches, offering opportunities for scientific research and tourism**",3
+"here are five text snippets fitting within the ""science and technology"" category:",3
+tart_of_turn>user,0
+**taliban authorities in afghanistan ban female students from attending university.**,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+start_of_turn>model,2
+start_of_turn>model,3
+start_of_turn>model,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+**new legislation proposed to protect workers' rights in the gig economy**,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"**what is the typical tone and style of the texts in this dataset?** (e.g., formal, informal, factual, opinionated)",0
+let me know if you'd like more examples or have a specific area within science and technology you'd like me to focus on!,3
+**renewable energy project secures funding**,2
+"**tesla announces record-breaking quarter, shares surge as demand for evs remains strong**",2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+**gene editing breakthrough could lead to cure for genetic diseases**,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,3
+**new regulations proposed to protect competition in tech industry:**  the government is considering introducing new antitrust regulations specifically targeting the tech industry to prevent large corporations from stifling competition and innovation. the proposed measures are expected to face fierce opposition from tech giants.,2
+**self-driving cars hit new milestone: autonomous vehicles complete cross-country trip without human intervention**,3
+**breaking news: messi scores brace as inter miami clinch concacaf champions league title!**,1
+#  world news examples:,0
+"here are  new texts fitting the ""world"" news category:",0
+**new legislation proposed to strengthen labor protections and address wage inequality.**,2
+here are  new texts that fit the 'sports' category:,1
+let me know if you'd like more examples or have a specific business topic in mind!,2
+**ai-powered drug discovery platform accelerates development of novel therapies**,3
+tart_of_turn>user,1
+"**wall street recovers after tumultuous week, market volatility persists**",2
+i can do that for you! here are five example news texts fitting the 'business' category:,2
+tart_of_turn>user,0
+"**gene editing therapy shows promise in treating inherited diseases:**  scientists have made significant progress in utilizing crispr-cas gene editing technology to treat inherited diseases. in a recent clinical trial, patients suffering from sickle cell anemia showed remarkable improvement after receiving gene therapy. this breakthrough offers hope for millions of people affected by genetic disorders.",3
+**the women's world cup is kicking off next month! who do you think will take home the trophy this year?**,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"**tiny robot surgeons perform life-saving procedures: microscopic robots offer hope for complex, minimally invasive surgery**",3
+"**""breaking records: track star stuns at national championships""** - this focuses on individual athletic achievement. the text might detail a specific record broken, the athlete's background and training, and the reactions from the sporting world.",1
+the miami heat are facing a crucial game  matchup against the boston celtics in the eastern conference finals.  will jimmy butler and his team be able to overcome the odds and advance to the nba finals?,1
+tart_of_turn>user,0
+**tech startup raises $  million in seed funding to revolutionize healthcare data management**,2
+what kinds of events are typically covered in this category?,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"**researchers develop ai that can write music in the style of beethoven.** scientists at the max planck institute have created a new artificial intelligence program capable of composing original music in the style of the famous composer ludwig van beethoven. the ai, trained on thousands of beethoven's compositions, can generate new pieces that adhere to his musical themes, harmonies, and structure. this breakthrough has sparked debate about the future of artistic creation and the role of ai in the creative process.",3
+"**in a surprising upset, the underdog raptors defeated the defending champions, the celtics, last night in a nail-biting game.**",1
+**global supply chain disruptions continue to impact businesses worldwide**,2
+here are  new texts fitting the 'business' category:,2
+"**new un report highlights global refugee crisis:**  a new un report reveals a record number of people displaced worldwide, driven by conflict, persecution, and climate change. the report urges countries to increase humanitarian aid and support sustainable solutions for refugees.",0
+tart_of_turn>user,2
+**self-driving cars face new safety challenges as cities expand autonomous vehicle testing programs**,3
+**landmark climate agreement reached at international summit**,0
+here are  new texts fitting the 'science and technology' category:,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+**cryptocurrency market sees volatility after regulatory announcement**,2
+start_of_turn>model,2
+"**""global supply chain disruptions continue to impact manufacturing industry""** - this discusses a current event affecting a specific sector of the business world.",2
+"**startup aims to revolutionize [industry] with innovative [product/service]:** [name of startup], a promising new company, is poised to disrupt the [industry] sector with its innovative [product/service]. the company's technology [explain the technology and its potential impact].",2
+"**quantum computing is rapidly advancing, with companies like google and ibm making significant breakthroughs. what are the potential applications of quantum computers in fields like medicine, materials science, and artificial intelligence?  what ethical considerations arise with this powerful technology?**",3
+here are  sports-related text examples:,1
+"here are five example news texts fitting the ""business"" category:",2
+tart_of_turn>user,2
+**world's first fully sustainable city takes shape in netherlands**,3
+"**elon musk's spacex continues its ambitious mission to colonize mars, with plans for a fully reusable starship spacecraft capable of transporting humans and cargo to the red planet.**",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"**global energy crisis deepens as oil prices surge to record highs, impacting economies worldwide.**",0
+"a leading tech firm has announced plans to lay off  % of its workforce, citing a challenging economic climate and a slowdown in growth. this comes after a series of disappointing earnings reports from other major tech companies. analysts say the layoffs could signal a broader trend in the sector.",2
+tart_of_turn>user,1
+tart_of_turn>user,3
+**self-driving cars take another step closer to reality with new sensor technology**,3
+**russia and ukraine agree to a temporary ceasefire for the evacuation of civilians from besieged city.**,0
+**nba finals tie: celtics overcome heat in game  thriller**,1
+**scientists develop new ai model that can translate languages in real time**,3
+"here are  new text prompts fitting the ""science and technology"" category:",3
+"**scientists unveil groundbreaking discovery about the origins of the universe, challenging existing theories about the big bang.**  data from the james webb space telescope revealed unexpected patterns in the cosmic microwave background radiation, suggesting a new understanding of the universe's earliest moments.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"**uk prime minister announces new trade deal with india, aiming to deepen economic ties.**",0
+tart_of_turn>user,2
+"**will the upcoming mlb trade deadline reshape the playoff race in the american league? teams like the yankees and astros are reportedly looking to make big moves, while contenders like the rays and mariners may be looking to sell.**",1
+let me know if you'd like me to generate more examples!,3
+start_of_turn>model,2
+"**brazil faces severe drought, threatening its food security and economy.**  agricultural production is severely impacted, forcing farmers to seek alternatives and leading to concerns about rising food prices. international aid agencies are monitoring the situation closely.",0
+"**golden state warriors suffer first loss of the season to the denver nuggets.**  despite stephen curry's valiant efforts, the reigning nba champions fall to the surging nuggets in a surprising upset.",1
+"**spacex successfully launches its starship spacecraft into orbit, marking a significant step towards making human missions to mars a reality.**",3
+"**local high school team makes history, securing first state championship in decades**",1
+"are they formal news reports, informal blog posts, social media updates, etc.?",0
+let me know if you'd like more examples in a specific sport or with a particular tone!,1
+**renewable energy investments surge as businesses seek sustainable solutions**,2
+start_of_turn>model,1
+"**scientists at mit develop a new type of solar cell that converts a wider range of light wavelengths into electricity, potentially increasing solar panel efficiency by  %.**",3
+"**after a disappointing loss in the nba finals, the heat are facing significant roster decisions. will they retain key players like jimmy butler and kyle lowry, or embark on a rebuild with young talent?**",1
+**historic election results shake southeast asian nation**,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+tart_of_turn>user,0
+**could this be the year?  giants look to break championship drought with strong preseason performance**,1
+"here are  news headlines that fit the ""business"" category:",2
+"**serena williams announced her retirement from professional tennis, ending a career filled with   grand slam titles and countless other achievements.**",1
+tart_of_turn>user,3
+let me know if you'd like more examples or have a specific type of business news you're interested in!,2
+let me know if you'd like more examples!,3
+"**tech giant to acquire rival in $ billion deal:**  in a move that shook the tech world, [name of tech giant] announced today its plan to acquire [name of rival company] for $ billion. the deal, expected to close in the next quarter, is seen as a strategic play to [explain the reason for the acquisition, e.g., expand market share, gain access to new technology].",2
+"**tech giant apple announces a record quarter, surpassing revenue and profit projections with strong sales of its latest iphone model.  analysts predict continued growth for the company in the coming months.**",2
+"**a powerful earthquake struck off the coast of indonesia, triggering a tsunami warning and causing widespread damage to coastal villages.** the quake, measuring   on the richter scale, struck early morning, sending panic through the region.  rescue workers are battling to reach affected areas, and international aid is being mobilized.",0
+tart_of_turn>user,3
+start_of_turn>model,1
+**earthquake devastation in south america sparks global aid efforts**,0
+"here are  news text examples fitting the ""world"" category:",0
+"a revolutionary new platform utilizes artificial intelligence to analyze vast amounts of biological data, rapidly identifying potential drug candidates for a range of diseases. this breakthrough promises to significantly shorten the time and cost associated with bringing life-saving medications to patients.",3
+"once you provide me with this context, i can generate  new texts for the ""world"" category.",0
+tart_of_turn>user,1
+tart_of_turn>user,2
+"for example, does it focus on international relations, global economics, natural disasters, cultural events, etc.?",0
+"**scientists discover a new planet with potential for life, orbiting in the habitable zone of its star.** the planet, named kepler-  , is slightly larger than earth and located   light-years away in the constellation cygnus.",3
+"**global supply chain disruptions impact local businesses, raising concerns about economic recovery.**",2
+**are there any specific regions or countries that are more common in the dataset?**,0
+**supply chain disruptions expected to impact holiday sales this year**,2
+here are  science and technology themed text snippets:,3
+tart_of_turn>user,2
+let me know if you'd like more examples or have a specific sport in mind!,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"**ai-powered drug discovery: could artificial intelligence revolutionize medicine?**  - this topic explores the latest advancements in using ai to design and develop new drugs, potentially leading to faster and more effective treatments.",3
+"**scientists have discovered a new species of deep-sea fish that glows in the dark, potentially revolutionizing our understanding of bioluminescence in marine environments.**",3
+**retail workers stage nationwide walkout amidst labor disputes**,2
+"remember, these are just examples. the possibilities for ""world"" category news are endless!",0
+tart_of_turn>user,0
+**record-breaking marathon winner credits rigorous training and unwavering support**,1
+start_of_turn>model,2
+start_of_turn>model,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,2
+"here are  news topics fitting the ""science and technology"" category:",3
+"in a historic moment, spacex launched four civilians into orbit aboard their crew dragon spacecraft, marking the first privately funded crewed mission to space. this achievement further fuels the commercialization of space travel and opens up new possibilities for private exploration.",3
+**stock market sees record growth as investors remain optimistic**,2
+here are  news topics fitting the 'business' category:,2
+here are  new texts fitting the 'sports' category:,1
+"the women's world cup is heating up!  will spain continue their dominant run, or can england claim their first-ever title?  experts are predicting a thrilling final match.",1
+"however, i can give you  example news texts fitting the ""world"" category:",0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+**ai-powered telescope discovers largest known exoplanet outside our solar system**,3
+here are  news texts fitting the 'business' category:,2
+tart_of_turn>user,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"**supply chain disruptions cause economic slowdown, impacting global businesses**",2
+tart_of_turn>user,1
+"**researchers at mit have developed a new type of solar cell that uses perovskite material, promising significantly higher energy conversion rates compared to traditional silicon-based cells.**",3
+"**tennis star faces injury setback, uncertain for upcoming grand slam tournament.**  injury troubles continue to plague a rising tennis star, casting doubt on their participation in the upcoming grand slam tournament.  doctors are currently assessing the extent of the injury and will provide an update soon.",1
+let me know if you'd like more examples!,0
+"**tech giant apple announces record profits, fueling speculation of further stock surge.**",2
+"**tensions rise in east asia as north korea conducts another ballistic missile test.**  the launch, condemned by international partners, follows weeks of heightened rhetoric and military exercises amidst stalled denuclearization talks.",0
+"**tech startup raises $  million in series a funding round, plans aggressive expansion**",2
+**major retail chain announces closure of hundreds of brick-and-mortar locations**,2
+here are  sports-related text examples:,1
+"the more information you give me, the better i can tailor the generated texts to your dataset.",0
+"sarah jenkins shattered the women's marathon record at the annual city marathon, finishing the  . mile course in an astonishing time of    . jenkins, who dedicated herself to rigorous training and drew strength from the support of her family and coaching staff, expressed her gratitude during the post-race interview.",1
+start_of_turn>model,1
+"**tech giant google announces plans to invest $ billion in ai research, sparking debate over ethical implications.**",2
+"**breakthrough in nuclear fusion research brings us closer to clean energy.**  scientists at the national ignition facility achieved a historic milestone, generating more energy from a fusion reaction than was initially used to trigger it.",3
+let me know if you'd like me to generate more examples!,2
+**virtual reality therapy shows promise for treating anxiety and ptsd.**  a new study published in the journal of the american medical association found that virtual reality therapy was effective in treating both anxiety disorders and post-traumatic stress disorder.,3
+start_of_turn>model,1
+**local small businesses rally to support community in wake of economic downturn**,2
+**remote work trends: the future of the office and employee productivity**,2
+"here are  new texts that fit the ""world"" category:",0
+"here are  text examples fitting the ""science and technology"" category:",3
+let me know if you'd like more examples or have a specific region or topic in mind!,0
+let me know if you'd like more examples or have a specific business sub-topic in mind!,2
+let me know if you'd like me to generate more! i can also tailor them to a specific sport if you have a preference.,1
+**record profits for energy companies as oil prices remain high**,2
+tart_of_turn>user,1
+let me know if you'd like me to generate more examples!,3
+start_of_turn>model,2
+start_of_turn>model,0
+let me know if you'd like me to generate more examples or focus on a specific sport!,1
+"here are  text snippets that fit the ""sports"" category:",1
+**solar storm prompts concerns over power grid disruptions: experts warn of potential for widespread outages**,3
+start_of_turn>model,0
+"**""small business owner tips: how to attract and retain top talent""** - this provides advice on a key business challenge, targeting a specific audience.",2
+tart_of_turn>user,1
+"thousands of retail workers across the country are participating in a coordinated walkout, demanding better wages, benefits, and working conditions. the action is putting pressure on major retailers to address worker concerns and improve labor practices.",2
+"**amazon expands its healthcare offerings, launching telehealth services for small businesses.**",2
+start_of_turn>model,3
+"**concerns about the spread of misinformation online are leading to the development of artificial intelligence algorithms designed to detect and flag false news. analyze the effectiveness and potential limitations of these ai-powered solutions, considering both ethical and societal implications.**",3
+start_of_turn>model,0
+here are  new texts fitting the 'business' category:,2
+"**nasa's perseverance rover finds evidence of ancient life on mars, sparking excitement for further exploration** - this article would report on the latest findings from the perseverance rover, highlighting the discovery of potential fossilized microbial life on mars and the implications for our understanding of the history of life in the universe.",3
+**small business owners grapple with rising interest rates**,2
+tart_of_turn>user,0
+tart_of_turn>user,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+**local high school basketball team heads to state championship after unexpected run.**,1
+here are  new texts fitting the 'business' category:,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"please provide me with some examples of texts in the 'world' category from your dataset. this will help me understand the style, tone, and typical subjects covered in this category so i can generate relevant new texts.",0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"after months of heated discussions, signs of progress are emerging in negotiations between two major trading partners, resolving fears of potential tariffs that could disrupt global supply chains. experts remain cautiously optimistic, emphasizing the need for ongoing dialogue to prevent future trade disputes.",2
+here are  news headlines that fit the sports category:,1
+"**a new report warns of the devastating impact of climate change on the world's coral reefs.**  the study predicts that mass bleaching events will become more frequent and severe, threatening the survival of this vital marine ecosystem.",0
+let me know if you'd like me to generate more examples!,0
+"**thousands flee their homes as devastating earthquakes strike southeastern turkey and syria.** the death toll continues to rise, with rescue workers racing against time to find survivors trapped under rubble. international aid efforts are underway to provide shelter, food, and medical assistance.",0
+"**a new study reveals the potential of using gene editing technology to cure inherited genetic diseases, raising both ethical and societal implications.**",3
+"**eu and uk  reach post-brexit trade deal:**  after months of negotiation, the european union and the united kingdom have finally reached a trade deal.  the agreement aims to minimize disruption to trade and cooperation, but concerns remain over issues such as the irish border.",0
+**small businesses struggle to cope with rising inflation as costs for raw materials and energy continue to soar.**,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+tart_of_turn>user,1
+"**""local high school basketball team makes historic run to state finals""** -  this headline suggests a story about a surprising and exciting achievement by an underdog team. it would likely cover the team's journey, key players, and the intensity of the final game(s).",1
+start_of_turn>model,3
+"**ai-powered language models are revolutionizing the field of medicine, with applications ranging from diagnosing diseases to personalizing treatment plans.**",3
+let me know if you'd like me to generate more!,1
+tart_of_turn>user,1
+"breaking news! after a controversial call in the final seconds, the chicago bulls have pulled off a stunning upset victory over the milwaukee bucks.",1
+"**with a spectacular last lap surge, jamaican sprinter usain bolt yet again breaks the   meter world record at the world athletics championships.**",1
+**market volatility continues as inflation remains high**,2
+start_of_turn>model,0
+"**""tech startup raises $  million in seed funding to revolutionize online education""** - this headline focuses on a new company seeking investment, a common business event.",2
+start_of_turn>model,3
+please provide me with some examples of the 'world' category texts from your dataset so i can generate new ones that fit the style and content.,0
+"a new generation of self-driving cars is on the horizon thanks to a breakthrough in sensor technology. [company name] has unveiled a new sensor system that can detect objects with greater accuracy and range, paving the way for safer and more reliable autonomous vehicles.",3
+"**a new study reveals that remote work has become increasingly popular, with nearly half of all employees now working from home at least part-time.**",2
+tart_of_turn>user,0
+**breakthrough in fusion energy could revolutionize clean power production**,3
+"**breakthrough in quantum computing: researchers achieve ""fault-tolerant"" quantum computing for the first time** -  this article would discuss a recent scientific breakthrough in quantum computing where a team of researchers successfully built a quantum computer capable of performing calculations without errors, a crucial step towards practical quantum applications.",3
+"**""company announces plans to merge with competitor, creating a major industry player""** -  this headline announces a significant consolidation within the business landscape.",2
+"researchers at the university of california, san francisco, have identified a gene that appears to accelerate the progression of alzheimer's disease. the discovery could lead to new therapeutic targets for preventing or slowing the debilitating effects of this neurodegenerative disorder.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"**lebron james scored   points last night, leading the lakers to victory over the celtics. this win puts them firmly in the playoff race.**",1
+**what is the general tone and style of the existing texts?**,0
+**olympic weightlifter sets new world record in tokyo weigh-in**,1
+**the nba finals are set! can the young suns break through and finally win a championship?**,1
+here are  news text examples fitting the 'business' category:,2
+"**archaeologists uncover ancient ruins in egypt, shedding new light on the history of the rosetta stone.** the discovery, dubbed a ""monumental find,""  could rewrite historical understanding of the rosetta's significance.",0
+let me know if you'd like more examples!,2
+start_of_turn>model,1
+**local startup raises $  million in funding for innovative renewable energy project**,2
+here are  new texts fitting the 'world' category:,0
+tart_of_turn>user,2
+"global stock markets experienced volatile trading following the latest round of interest rate hikes by the us federal reserve, raising concerns about a potential economic slowdown.",0
+"**africa grapples with climate impacts:**  devastating droughts plague large parts of africa, leading to water shortages, famine, and mass migrations. the continent struggles to adapt to the changing climate, demanding international assistance and climate justice.",0
+"**global supply chain disruptions persist, leaving businesses struggling to meet customer demand.**",2
+tart_of_turn>user,2
+"**""new soccer stadium set to host international matches""** - this focuses on infrastructure and the impact on a sport. it could discuss the impact on the local community, the stadium's design, and the excitement surrounding future international matches.",1
+start_of_turn>model,0
+here are  news topic texts fitting the 'world' category:,0
+**a team of researchers at mit has developed a new type of bio-degradable plastic made from seaweed. how could this discovery revolutionize the fight against plastic pollution? discuss potential benefits and challenges.**,3
+"**small business owner shares strategies for surviving inflation and rising costs:  ""focus on value and customer loyalty""** - highlighting practical tips and advice for small business owners facing economic challenges.",2
+"**protests erupted in several african nations over rising fuel costs and economic hardship.** demonstrators took to the streets, demanding government action to address the soaring prices and improve living conditions.",0
+here are five example news texts fitting the 'business' category:,2
+start_of_turn>model,0
+"**renewable energy sources reach record-high adoption rates.** driven by concerns about climate change and falling costs, the adoption of renewable energy sources like solar and wind power has reached record-high levels globally. governments and businesses are increasingly investing in clean energy projects, offering a glimmer of hope for a more sustainable future.",3
+"**global leaders gather for the un climate change conference to discuss urgent action.** representatives from nearly   countries are meeting in glasgow, scotland, for the cop  summit to negotiate ambitious targets for reducing greenhouse gas emissions and addressing the impacts of climate change.",0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"lebron james, playing in his  th nba season, continues to defy expectations and lead the los angeles lakers to playoff contention.",1
+tart_of_turn>user,2
+"**scientists develop revolutionary battery tech using graphene, promises weeks of battery life**",3
+analyze the impact of the new rule changes on player performance and the overall flow of the game.,1
+let me know if you'd like more examples!,3
+"**record high inflation pushes businesses to raise prices:** consumers are facing another round of price increases as businesses grapple with soaring inflation. [name of company], a major retailer, announced a [percentage] price hike on its products, citing rising costs for goods and labor. economists warn that this trend could further strain household budgets.",2
+"a promising new tech startup specializing in ai-powered marketing automation has announced a successful series a funding round, securing $  million from a group of prominent investors. the company plans to use the capital for rapid expansion, including hiring key personnel, developing new product features, and scaling its marketing efforts.",2
+"**quantum computing makes leaps towards real-world applications:**  quantum computers, harnessing the principles of quantum mechanics, are rapidly advancing towards practical applications.  researchers have developed new algorithms and hardware architectures that significantly enhance the computational power of these machines. potential applications include drug discovery, materials science, and cryptography.",3
+here are  new texts fitting the 'world' news category:,0
+tart_of_turn>user,3
+**tech giant announces acquisition of ai startup for $ billion**,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+here are five news topic examples fitting the 'business' category:,2
+start_of_turn>model,1
+tart_of_turn>user,2
+tart_of_turn>user,1
+"a major retail chain has announced plans to close hundreds of its physical stores in the face of declining foot traffic and the rise of online shopping. this move, while expected by many industry observers, highlights the ongoing challenges brick-and-mortar businesses face in adapting to evolving consumer habits.",2
+tart_of_turn>user,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"a young, unheralded tennis player just upset the world no.  at a prestigious tournament. what are the possible implications of this upset for the rest of the tennis season?",1
+tart_of_turn>user,0
+"leading tech company, innovatech, has announced its highest quarterly profits to date, driving a surge in its stock price and influencing positive sentiment across the broader stock market. analysts attribute the success to a surge in cloud computing adoption and a successful new product launch.",2
+let me know if you'd like more examples!,3
+"**tensions escalate in the south china sea as naval forces engage in a tense standoff.** ships from china and vietnam have been conducting provocative maneuvers in the disputed waters of the south china sea, raising fears of a potential military confrontation.",0
+"a groundbreaking project in the netherlands aims to create the world's first fully sustainable city, powered entirely by renewable energy and designed to minimize its environmental footprint. the innovative urban development incorporates self-sufficient food production, waste management systems, and smart technologies to create a model for environmentally responsible living.",3
+"the global shift towards renewable energy sources is accelerating rapidly, driven by increasing concerns about climate change. [number] percent of global electricity generation now comes from renewable sources, with solar and wind energy leading the charge.",3
+"here are  example texts fitting the ""science and technology"" category:",3
+**discovery of ancient microorganisms reveals secrets about the origins of life on earth**,3
+"**elon musk unveils new electric vehicle model, promising groundbreaking range and performance at a competitive price.**",2
+**miami heat's jimmy butler leads a dominant fourth quarter to secure a nail-bitingly close victory against the boston celtics.**,1
+let me know if you'd like more examples or have any other requests!,3
+**small business owners express concerns over rising interest rates and potential recession.**,2
+"these examples reflect diverse facets of 'world' news, including geopolitical tensions, climate change, economic issues, and humanitarian crises.",0
+let me know if you'd like more examples or have a specific theme within 'business' you'd like to explore!,2
+"**north korea conducts a series of missile tests, sparking condemnation from the international community.**  the launches, which reportedly involved ballistic missiles, have been condemned by south korea, the united states, and other regional powers as a violation of international agreements.",0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"**uk and eu reach trade deal, but northern ireland protocol remains a point of contention**",0
+let me know if you'd like more examples! i can tailor them to specific regions or topics within the 'world' category.,0
+start_of_turn>model,0
+tart_of_turn>user,2
+"**global supply chain disruptions continue to impact businesses, leading to shortages and delays**",2
+"here are five news titles that fit the ""business"" category:",2
+"**global climate change: can renewable energy sources power the future?** - this article examines the urgent need to transition to renewable energy sources to mitigate the effects of climate change, exploring the latest innovations in solar, wind, and other sustainable technologies.",3
+here are  new texts fitting the 'business' category:,2
+let me know if you'd like more examples or want to explore a specific sport in more detail!,1
+"**historic win for women's basketball team breaks unprecedented record.** the national women's basketball team just shattered a longstanding scoring record in their latest victory, cementing their place as a formidable force in international competition.",1
+**breaking news: local high school basketball team defeats regional rival in thrilling overtime victory**,1
+**can messi's magic lead inter miami to their first-ever major title?**,1
+"here are  new texts fitting the ""science and technology"" category:",3
+"driven by growing environmental concerns and government incentives, businesses are increasingly investing in renewable energy sources such as solar and wind power. this shift towards sustainability is seen as a crucial step in reducing carbon emissions and securing a more resilient future for both companies and the planet.",2
+start_of_turn>model,3
+tart_of_turn>user,3
+"**tensions rise in the south china sea as china asserts its territorial claims, prompting international condemnation.**   a recent deployment of chinese military vessels near contested islands has sparked fears of escalating conflict.",0
+tart_of_turn>user,2
+"**american track star, sha'carri richardson, has been dominant in women's    races this season, shattering records and showcasing incredible speed. can she carry this momentum into the world athletics championships next month?**",1
+tart_of_turn>user,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"**federal reserve raises interest rates again, inflation concerns mount**",2
+"small business owners across the country are facing headwinds as interest rates continue to climb. increased borrowing costs are squeezing profit margins, forcing many to reconsider expansion plans or explore alternative financing options.",2
+tart_of_turn>user,0
+"**asteroid mining ventures aim to revolutionize resource acquisition:**  private companies are investing heavily in asteroid mining, aiming to extract valuable resources from near-earth asteroids. this ambitious endeavor has the potential to provide a new source of rare minerals, metals, and water, while also advancing our understanding of the solar system.",3
+"**local bakery closes after   years in business, citing challenges of rising costs**",2
+"**breaking: nba star kevin durant requests trade from nets, shakes up league landscape**",1
+**un warns of looming humanitarian crisis in yemen as civil war rages on.**,0
+start_of_turn>model,1
+**breaking news: local soccer team clinches championship title in thrilling final match.** the city erupted in cheers as the home team defeated their rivals in a nail-biting penalty shootout to secure the coveted championship title.,1
+start_of_turn>model,2
+"**ai-powered diagnostic tools enhance medical accuracy:** artificial intelligence is transforming healthcare with the development of powerful diagnostic tools. machine learning algorithms can analyze medical images, patient data, and genetic information to detect diseases earlier and more accurately, leading to improved treatment outcomes.",3
+let me know if you'd like more examples!,2
+let me know if you'd like more examples or have any other text generation requests!,0
+here are  sports news-related text examples:,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"**the chicago bulls are struggling to find their footing in the eastern conference playoffs, facing elimination after losing their third consecutive game to the milwaukee bucks.**",1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"for example, you could share    existing 'world' category texts.",0
+"**rising tensions in south china sea:**  china and its neighbors clash over maritime claims in the south china sea, raising concerns about a potential military conflict. tensions escalate as asean countries call for a diplomatic resolution.",0
+let me know if you'd like more examples or have other topics in mind!,0
+start_of_turn>model,0
+let me know if you'd like more examples or want to explore a specific sport in more detail!,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,1
+let me know if you'd like me to generate more!,3
+here are  example news texts fitting the 'world' category:,0
+"**tech giant acquires startup for $ billion, pushing into emerging ai market**",2
+**amazon announces plans to open new fulfillment centers in [city name]**,2
+"let me know if you'd like me to generate more examples! i can also tailor them to specific subcategories within ""business"" if you have a preference.",2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+tart_of_turn>user,3
+**the global stock market experiences a sharp decline after a major bank announces unexpected losses.**,2
+start_of_turn>model,3
+"**a breakthrough in artificial intelligence has led to the development of a program capable of composing original musical pieces in the style of classical masters, raising ethical questions about the nature of creativity.**",3
+tensions escalate in the south china sea as a chinese coast guard vessel reportedly blocked a philippine supply ship en route to a contested island.,0
+start_of_turn>model,3
+"i can't access external datasets or specific files like ""news topic"" classification datasets. therefore, i can't generate texts based on its content.",0
+let me know if you'd like me to generate more examples!,3
+"**us women's soccer team clinches victory in pre-world cup friendly, building momentum for tournament**",1
+"**""can the lakers overcome their struggles and make a playoff push?""** - this headline poses a question about the future performance of a well-known team facing challenges.  it would likely analyze their current standing, recent performances, and potential solutions for improvement.",1
+"researchers at mit have created a biodegradable plastic using seaweed extract, offering a potential solution to the growing problem of plastic pollution in the oceans.",3
+tart_of_turn>user,2
+"**tensions remain high between russia and ukraine following a series of drone attacks on russian territory.** moscow has blamed kyiv for the strikes, while ukraine has denied involvement. international calls for de-escalation are growing, but the situation remains precarious.",0
+tart_of_turn>user,3
+tart_of_turn>user,3
+here are five new texts fitting the 'business' category:,2
+**major earthquakes trigger relief efforts in south asia**,0
+**local high school soccer team defeats rival in overtime to secure championship**,1
+**cryptocurrency market rebounds after recent volatility surge: bitcoin and ethereum see double-digit gains** -  analyzing the factors driving the market recovery and potential future trends.,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"a proposed regulatory framework for cryptocurrencies is stirring debate within the financial industry. supporters argue it will bring much-needed transparency and consumer protection, while critics warn it could stifle innovation and drive businesses overseas.",2
+**inside training camp: how the [local team name] is prepping for the upcoming season**,1
+**european union leaders meet to discuss potential aid packages for ukraine following latest russian missile strikes.**,0
+here are five sports-themed text prompts:,1
+"**india emerges as a major player on the global stage:**  with a booming economy and growing geopolitical influence, india is increasingly asserting itself on the world stage. recent diplomatic missions and trade agreements underscore its desire to play a more active role in international affairs.",0
+**tech giant announces $ billion investment in artificial intelligence research**,2
+**new regulations could revolutionize the cryptocurrency market**,2
+**un secretary-general calls for global cooperation to address rising food prices sparked by the ukraine war.**,0
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"**spacex aims for martian colonization: is a human settlement on mars feasible?** - this headline delves into spacex's ambitious plans for human colonization on mars, examining the technological challenges and ethical considerations involved.",3
+"**the federal reserve raises interest rates again in an attempt to combat rising inflation, signaling a commitment to keep inflation at its   target. economists are divided on the effectiveness of the measure and its potential impact on the broader economy.**",2
+**inflation concerns push businesses to cut costs and raise prices**,2
+**tech giant announces layoffs amidst market uncertainty**,2
+start_of_turn>model,3
+**analysts predict a surge in demand for eco-friendly products as consumer preferences shift.**,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+what is the general tone of the texts?,0
+"**a team of researchers is developing a revolutionary new type of battery that could power electric vehicles for twice the distance on a single charge, using an innovative nanotechnology approach.**",3
+**new report highlights the growing importance of cybersecurity for small businesses**,2
+tart_of_turn>user,1
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+**self-driving cars advance: new trial shows human drivers outperformed by ai in simulated traffic**,3
+"**manchester united's young striker, anthony martial, scored a hat trick in their stunning   victory over liverpool, propelling them to the top of the premier league table.**",1
+here are  sports-related texts:,1
+"tennis superstar rafael nadal announced his withdrawal from the upcoming wimbledon championships due to an ongoing injury. this news comes as a major blow to the tournament, as nadal has consistently been a top contender for the coveted title.",1
+a debate rages on whether a particular athlete's recent performance was due to superior training or the use of performance-enhancing drugs. what factors should be considered when evaluating such claims?,1
+"a new study reveals that watching live sporting events can have a positive impact on physical health, boosting cardiovascular function and reducing stress levels. this research supports the growing popularity of attending sporting events for both entertainment and well-being.",1
+please let me know if you'd like more examples or have specific aspects of the 'business' category you'd like me to focus on!,2
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+"please provide me with some context about your 'news topic' dataset! to generate relevant and coherent texts for the 'world' category, i need to understand:",0
+**researchers develop ai that can translate animal languages:  breakthrough could revolutionize human-animal interaction**,3
+start_of_turn>model,3
+"**emerging market stock surge as inflation shows signs of cooling:**  stock markets across emerging economies surged today, fueled by positive signals from leading indicators suggesting a slowdown in inflation. investors are cautiously optimistic about the potential for interest rate cuts in the coming months.",2
+**self-healing concrete could revolutionize infrastructure repair.**  engineers at mit have developed a new type of concrete that can automatically repair cracks and damage using bacteria embedded within its structure.,3
+"**breaking news:  lebron james scores career-high   points in record-breaking performance!** the los angeles lakers star surpassed his previous best, leading his team to a thrilling victory against the san antonio spurs.",1
+**quantum computing advances take leap forward: new algorithm solves problems once deemed impossible**,3
+"**record heatwaves continue to scorch parts of europe, leading to wildfires and water shortages.**",0
+the world health organization warns of a potential outbreak in eastern africa due to a strain of highly contagious measles that shows resistance to common vaccines.,0
+"**scientists develop a new type of bio-plastic made from algae that is both biodegradable and stronger than traditional plastics, offering a sustainable alternative for the packaging industry.**",3
+start_of_turn>model,2
+"**serena williams announces comeback tour, targets historic  th grand slam**",1
+"**""is this the year for the cubs' world series comeback? ""** - this headline builds on history and fan anticipation. it would analyze the team's chances, compare them to previous seasons, and explore the excitement and hope surrounding the possibility of a historic win.",1
+"researchers have made significant strides in quantum computing, demonstrating the ability to solve complex mathematical problems that are currently intractable for classical computers. this advancement has profound implications for fields such as cryptography, drug discovery, and materials science.",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,3
+start_of_turn>model,3
+"**researchers discover a new deep-sea ecosystem thriving near hydrothermal vents, raising new questions about the possibility of life on other planets.**",3
+you are given a 'news topic' classification dataset. generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"**tech giant google announces plans to invest $ billion in ai research over the next five years, sparking both excitement and concern over the future of employment.**",2
+"**global oil prices surged after a major pipeline carrying crude oil from saudi arabia to europe was sabotaged.** the attack has cut off a significant supply route, raising concerns about energy security in europe.",0
+"here are  fictional news headlines fitting the ""science and technology"" category:",3
+**scientists discover new gene linked to alzheimer's disease progression**,3
+"a groundbreaking new artificial intelligence model has been developed by researchers at [university name] that can translate languages in real time with unprecedented accuracy. the model, called [model name], uses a novel approach to understanding and generating language, and has already shown impressive results in translating between multiple languages.",3
+tart_of_turn>user,3
+start_of_turn>model,0
+"a massive earthquake struck tajikistan this morning, triggering landslides and causing significant damage to buildings in several villages.",0
+"**scientists discover a new species of extremophile bacteria thriving in the deepest parts of the mariana trench, pushing the boundaries of life as we know it.**",3
+"the more information you give me, the better i can understand your dataset and generate relevant new texts.",0
+tart_of_turn>user,0
+"**a major earthquake strikes the indonesian island of sulawesi, causing widespread damage and casualties.** the powerful quake has devastated coastal communities, triggering landslides and tsunamis, leaving thousands injured and displacing large populations.",0
+**tech startup raises $  million in funding for artificial intelligence innovation**,2
+tart_of_turn>user,3
+"here are  example news topics fitting the ""science and technology"" category:",3
+"**f world championship heats up as race winner narrowly escapes disaster.**  the latest formula  race saw a dramatic finish as the race winner survived a near-miss collision in the final laps, securing a tense victory and solidifying their position at the top of the championship standings.",1
+let me know if you'd like more sports news or if you have a specific sport or theme in mind!,1
+let me know if you'd like me to generate more examples!,0
+"the chicago bulls secured a thrilling victory over the reigning nba champions, the milwaukee bucks, in a nail-biting overtime finish last night. demar derozan led the charge with a clutch performance, scoring   points and sinking the game-winning three-pointer.",1
+tart_of_turn>user,2
+**protests erupt in several european cities against rising inflation and cost of living.**  demonstrators are calling for government action to address the economic hardship faced by ordinary citizens.,0
+"**ai-powered telescope predicts next solar flare, revolutionizing space weather forecasting.** a novel algorithm developed by the space telescope institute has successfully predicted the timing and intensity of an upcoming solar flare, marking a significant advancement in space weather forecasting.",3
+"scientists at the university of california, berkeley, have developed a new type of solar cell that uses perovskite materials, potentially leading to more efficient and affordable solar energy solutions.",3
+here are  example news texts fitting the 'business' category:,2
+"in a stunning upset, the underdog hamilton huskies defeated the undefeated titans to claim the regional basketball championship. despite being ranked significantly lower, the huskies utilized a strong defense and clutch shooting to overcome the titans' star player, securing a thrilling victory.",1
+start_of_turn>model,3
+"**record inflation drives businesses to hike prices, cut back on operations**",2
+**tech giants grapple with slowing growth as global economic uncertainty looms.**,2
+tart_of_turn>user,1

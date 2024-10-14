@@ -1,0 +1,744 @@
+text,label
+tart_of_turn>user,2
+tart_of_turn>user,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**biodegradable plastics offer hope for waste reduction:**  plastic pollution is a global crisis, but scientists are developing innovative solutions. biodegradable plastics that naturally decompose in the environment are gaining traction as a sustainable alternative to traditional plastics.",3
+"**space tourism becomes more accessible:** the cost of space travel is steadily decreasing, opening up opportunities for individuals to experience the wonders of space firsthand. private companies are developing innovative spacecraft and tourism packages, making space exploration more accessible to a wider range of adventurers.",3
+"**asteroid mining startup announces plans for first space mission** an innovative startup company, asteroid resources, has announced plans for its first mission to an asteroid, aiming to extract valuable minerals and resources. this ambitious project could potentially transform the space industry and provide a new source of raw materials for earth.",3
+start_of_turn>model,0
+tart_of_turn>user,1
+here are  new texts fitting the 'sports' category:,1
+"the indianapolis colts surprised the nfl world by selecting a quarterback from a small college in the first round of the draft, a bold move that could redefine their future.",1
+**start-up focused on sustainable agriculture raises \$  million in funding:**  a promising start-up developing innovative farming techniques to increase food production while minimizing environmental impact has secured \$  million in venture capital funding. the investment will help the company scale its operations and bring its sustainable solutions to a wider market.,2
+"**scientists at mit develop ai that can compose music in different styles:** researchers have made a breakthrough with a new artificial intelligence program capable of composing original music in a variety of styles, from classical to jazz to hip-hop.",3
+let me know if you'd like more examples!,2
+"**scientists develop breakthrough battery technology:** an international team of scientists has made a significant breakthrough in battery technology, creating a new type of battery that boasts longer lifespan, faster charging times, and higher energy storage capacity. this could revolutionize electric vehicles, renewable energy storage, and portable electronics.",3
+global leaders meet in paris for an emergency summit to address the ongoing refugee crisis in europe.,0
+"**record attendance at the world football championship:**  the fifa world cup final broke all attendance records, with over  ,  fans packing the stadium to witness argentina's dramatic victory over france in a penalty shootout.",1
+tart_of_turn>user,2
+start_of_turn>model,2
+tart_of_turn>user,3
+"**tesla surpasses warren buffett's berkshire hathaway in market value:** following a surge in its share price, electric vehicle giant tesla has overtaken the conglomerate berkshire hathaway, once led by the legendary investor warren buffett, in terms of market capitalization.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"tech giant apple faces scrutiny from the european union over its app store practices, with regulators alleging monopolistic behavior and unfair treatment of developers.",2
+"the us open tennis tournament is in full swing, and all eyes are on serena williams as she chases her  th grand slam title. can she overcome the strong competition and achieve this historic feat?",1
+"**nba playoffs: celtics take an early lead in the series:**  the boston celtics, led by a stellar performance from jayson tatum, defeated the miami heat in game  of the eastern conference finals. with the win, the celtics take a   lead in the best-of-seven series.",1
+**tensions rise in south china sea as vietnam accuses china of illegal drilling:** southeast asian tensions escalated friday as vietnam accused chinese vessels of illegally drilling oil and gas in disputed waters of the south china sea. this comes amidst growing international concern over china's assertive territorial claims in the strategically important region.,0
+start_of_turn>model,2
+"golf legend tiger woods announced his return to the pga tour after a long hiatus due to injury, sending fans into a frenzy and raising anticipation for his comeback quest.",1
+"**earthquake strikes indonesia, triggering tsunami fears:** a powerful earthquake measuring   on the richter scale struck off the coast of indonesia today, triggering fears of a tsunami. the quake hit at a depth of   kilometers, causing buildings to crumble and triggering panicked evacuations along the coastline.",0
+tart_of_turn>user,1
+"**small businesses in the midwest struggle with inflation, seeking relief from government aid.**",2
+tart_of_turn>user,3
+"**nba draft lottery sparks excitement for fans of struggling teams** - the annual nba draft lottery held a significant weight for several struggling franchises, with the top pick potentially leading to the acquisition of generational talent.",1
+"**tech giant announces merger with smaller competitor:** in a move that shook the tech industry, silicon valley giant ""innovatech"" announced today it has agreed to acquire ""pixelperfect,"" a promising startup specializing in artificial intelligence-driven design software. the deal is expected to be finalized within the next quarter.",2
+"**renewable energy investments surge as companies seek sustainable solutions:** driven by government incentives, environmental concerns, and falling costs, businesses are increasingly investing in solar, wind, and other renewable energy sources, signaling a shift towards a more sustainable future.",2
+start_of_turn>model,1
+start_of_turn>model,2
+tart_of_turn>user,2
+here are  new texts fitting the 'world' category:,0
+here are  news examples fitting the 'science and technology' category:,3
+"**lebron james scores   points in lakers victory** - lebron james put on a show in the staples center, pouring in   points to lead the los angeles lakers to a critical victory over the golden state warriors.",1
+"**global powers clash over the response to escalating violence in syria, with calls for a cease-fire falling on deaf ears.**  humanitarian groups warn of a humanitarian catastrophe as millions remain trapped in conflict zones, facing displacement, starvation, and violence.",0
+"**apple unveils new ipad pro with groundbreaking m chip:** apple has released its latest ipad pro model, boasting a significantly faster m chip promising a leap in performance for demanding tasks and professional workflows.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"**record-breaking heat wave sweeps across europe, prompting warnings of wildfires and water shortages.** berlin, germany - a scorching heat wave gripping much of europe has shattered temperature records, with experts warning of the risk of widespread wildfires and crippling water shortages.",0
+"**international tensions rise as north korea conducts missile test.**  seoul, south korea - tensions flared in the region as north korea conducted another missile test on tuesday, prompting condemnations from international leaders and warnings of further sanctions.",0
+tart_of_turn>user,1
+"serena williams to compete in australian open after recent injury: tennis superstar serena williams will return to the court at the australian open next month, aiming for her  th grand slam singles title.",1
+"an international team of scientists has made a breakthrough in the field of quantum computing, successfully building a prototype device capable of performing complex calculations exponentially faster than traditional computers.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+tart_of_turn>user,1
+"**drones to deliver medical supplies in remote areas:**  a new initiative is launching to utilize drones for delivering critical medical supplies to remote and underserved communities, promising faster and more reliable healthcare access.",3
+start_of_turn>model,2
+start_of_turn>model,2
+"**tech giants face antitrust scrutiny:**  regulators in multiple countries are intensifying their scrutiny of tech giants like apple, google, and amazon, raising concerns about monopolies and potential anti-competitive practices.",2
+"**small businesses benefit from inflation reduction act:** the newly passed inflation reduction act is expected to provide significant benefits to small businesses across the country. the act includes provisions for tax breaks, energy efficiency improvements, and expanded access to affordable healthcare.",2
+"**record breaking performance at national track and field meet: young star sets new record, exceeds expectations:**  a rising star in the world of athletics,  -year-old sprinter maya jackson captivated the crowd at the national track and field meet, shattering the previous record in the   meter dash and establishing herself as a force to be reckoned with.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**manchester city edges out liverpool to secure premier league title.** london (ap) -  manchester city lifted the premier league trophy for the fourth time in five years, securing a one-point victory over rivals liverpool in a thrilling final day of the season. a dramatic   win over aston villa sealed the deal, leaving liverpool to settle for second place.",1
+tart_of_turn>user,2
+start_of_turn>model,3
+"**renewable energy investment boom:**  governments and private investors are pouring billions into renewable energy projects, driven by the urgency to combat climate change and reduce reliance on fossil fuels.",2
+protests erupt in several major cities worldwide against a controversial un resolution on climate change.,0
+let me know if you'd like to see more examples!,2
+**international monetary fund warns of global economic slowdown:**,0
+"**eu reaches agreement on new climate targets:**  european union leaders have finally reached a consensus on ambitious new climate targets, pledging to achieve net-zero emissions by    and reduce greenhouse gas emissions by at least  % by   .",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**tech firm's stock soars after record earnings report:** a leading tech company announced its latest quarterly earnings report, surpassing wall street expectations and driving its stock prices to new highs. analysts attributed the strong performance to increased demand for its latest smartphone and cloud computing services.",2
+tart_of_turn>user,0
+"**massive earthquake strikes indonesia, causing widespread damage and casualties.** jakarta, indonesia - a powerful earthquake struck off the coast of indonesia on saturday, triggering a devastating tsunami that hit coastal communities with devastating force, resulting in widespread damage and significant loss of life.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+here are  new text examples for the 'business' category:,2
+"deadly clashes between rebels and government forces reported in syria,  the latest violence adds to the already dire humanitarian situation in the war-torn country.",0
+a major arms treaty negotiations stall in geneva as key countries fail to reach agreement on crucial issues such as arms control verification and the inclusion of new weapons systems. disagreements threaten to widen the divide among nations on global security and contribute to a climate of mistrust.,0
+here are  new texts in the 'business' category based on the examples provided:,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+start_of_turn>model,0
+"the chicago bulls stunned the nba world last night with a dramatic overtime victory against the reigning champion milwaukee bucks. zach lavine led the charge with a career-high   points, including the game-winning three-pointer as the buzzer sounded.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+tensions escalate in the middle east as israel launches airstrikes against suspected hezbollah targets in lebanon following a rocket attack.,0
+"**stock market volatility persists amidst investor uncertainty:**  concerns over rising interest rates, the ongoing war in ukraine, and persistent inflation have led to heightened volatility in financial markets, as investors grapple with a complex economic landscape.",2
+start_of_turn>model,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+start_of_turn>model,0
+tart_of_turn>user,2
+start_of_turn>model,1
+start_of_turn>model,2
+"**a new study published in nature suggests that crispr-cas gene editing technology could hold the key to curing genetic diseases, raising ethical questions about its potential impact on human evolution.**",3
+"**u.s. condemns rocket attacks on israel, urges restraint:** u.s. secretary of state antony blinken strongly condemned the recent rocket attacks launched from gaza into israel, urging all parties to exercise restraint and avoid further escalation.",0
+global leaders convene for un climate change summit aiming to strengthen commitments to reduce greenhouse gas emissions and mitigate the impacts of global warming. the urgency for immediate action intensifies as climate change impacts are increasingly felt around the world.,0
+start_of_turn>model,3
+let me know if you need more examples!,3
+start_of_turn>model,1
+"these examples focus on current events, conflicts, and international relations – all key themes in the 'world' category.",0
+"**global supply chain disruptions continue to impact businesses:**  companies around the world are grappling with ongoing disruptions in the global supply chain, which have led to delays in product shipments and rising production costs. experts predict that these challenges will persist throughout the year.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+start_of_turn>model,0
+here are  new texts fitting the 'business' category:,2
+"**north korea conducts another missile test, drawing condemnation from global powers.** a long-range ballistic missile launched by north korea landed in the sea off japan's coast, prompting swift condemnation from the us, south korea, and others who view it as a direct threat.",0
+"the global chip shortage continues to impact the auto industry, with several major car manufacturers announcing production cuts and delays in vehicle deliveries.",2
+"**international aid pours into flood-ravaged pakistan as death toll rises:** the death toll from catastrophic flooding in pakistan continues to climb, with reports of thousands of casualties and millions displaced. the international community has pledged millions of dollars in aid, but the scale of the disaster is overwhelming local resources.",0
+here are  new texts that fit the 'business' category:,2
+start_of_turn>model,3
+tart_of_turn>user,1
+start_of_turn>model,3
+"**india-pakistan tensions flare as border clashes heighten fears of conflict.**  new delhi and islamabad traded accusations after a series of skirmishes along the disputed kashmir border, fueling regional anxieties and prompting international calls for restraint.",0
+"**tensions rise between india and pakistan after ceasefire violations.** new delhi (ap) - tensions flared between india and pakistan following increased military cross-border shelling, prompting renewed fears of a wider conflict in the volatile region.",0
+"**global health experts warn of rising threat of pandemic fatigue:** leading health experts express growing concern over ""pandemic fatigue"" as the global coronavirus pandemic enters its third year, with many countries experiencing a waning interest in public health measures and vaccination drives.",0
+financial markets plunge as concerns grow over a potential global recession.,0
+"new satellite images reveal widespread deforestation in amazon rainforest, raising alarm among environmentalists.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+european union to investigate suspected anti-competitive practices by tech giant. the european commission announced today that it will formally investigate google for allegedly abusing its dominant market position in online advertising. this comes after years of complaints from competitors.,2
+"**inflation fears persist as economists predict rising interest rates:** central banks around the world are facing increasing pressure to raise interest rates in an attempt to combat soaring inflation, which threatens to erode consumer purchasing power and impact economic growth.",2
+here are five new texts fitting the 'science and technology' category:,3
+here are five new texts in the sports category:,1
+"**inflation eases, giving fed room to pause rate hikes:**  consumer prices grew at a slower pace than expected in july, offering the federal reserve some leeway to consider halting its aggressive interest rate increases.",2
+here are five new texts that fit the 'business' category:,2
+here are  new texts that fit the 'world' category:,0
+"**global consumer confidence dips amidst economic uncertainty:** a recent report by the conference board revealed a decline in consumer confidence across major economies, reflecting growing concerns about inflation, geopolitical tensions, and potential recession. consumers globally are tightening their spending, impacting businesses across various sectors.",2
+"**north korea conducts missile tests, escalating tensions in region:** north korea has conducted multiple ballistic missile tests in recent days, raising alarm bells and prompting condemnation from neighboring countries and the united states.",0
+start_of_turn>model,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**spacex launches next-generation rocket:** spacex, the private space exploration company, has successfully launched its newest rocket, designed to carry even heavier payloads into orbit. this ambitious project aims to reduce the cost of space travel and enable further exploration of the cosmos.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+tart_of_turn>user,0
+"a new study by economists predicts a   decline in global economic growth due to rising inflation and the ongoing war in ukraine, raising concerns about a potential recession.",2
+"**surprise upset shakes up the nhl playoffs** the underdogs, the minnesota wild, defeated the top-seeded toronto maple leafs in an electrifying overtime game, sending shockwaves through the nhl playoffs.",1
+"**local high school football team wins state championship** - the underdog spartans defied the odds, overcoming a  -point deficit in the fourth quarter to defeat the heavily favored hawks and secure their first state championship.",1
+"**quantum computing takes a leap forward with new breakthrough** a team of physicists at oxford university has achieved a significant milestone in the field of quantum computing, demonstrating a quantum processor capable of performing complex calculations at speeds previously unimaginable. this advancement could lead to rapid progress in areas such as drug discovery, materials science, and cryptography.",3
+**local bakery owner warns of rising ingredient costs.**,2
+tart_of_turn>user,0
+"**global food shortages loom as climate change impacts agriculture:** a united nations report warns of imminent global food shortages as climate change continues to disrupt agricultural production. extreme weather events, droughts, and rising sea levels are threatening food security in vulnerable regions, potentially leading to mass hunger and unrest.",0
+"**a devastating earthquake strikes a remote region in nepal, leaving thousands dead and many more injured.**",0
+here are  new texts fitting the 'world' category:,0
+start_of_turn>model,0
+tart_of_turn>user,0
+"**elon musk's spacex company is making progress on its starship program, aiming to develop a reusable spacecraft capable of transporting humans to mars.**",3
+"**wall street rebounds after recent slump:** following a period of volatility, major us stock indexes showed signs of recovery today. this rebound came after encouraging economic data and renewed optimism about potential easing of trade tensions. investors remain cautious, but the positive momentum suggests a potential turnaround in the market.",2
+here are  new texts fitting the 'world' category:,0
+"**local little league team reaches world series**: the little league all-stars from eastvale, california, made history by advancing to the little league world series for the first time in their franchise history, captivating the community with their grit and determination.",1
+"a new study published in nature magazine suggests that climate change could lead to a significant loss of biodiversity, with up to  % of all known species facing extinction by the end of the century.",3
+"**a peace summit in europe aimed at resolving a long-standing territorial dispute between two neighboring countries has broken down without a resolution, raising fears of renewed conflict.**",0
+"**african nations united against terrorism in joint military operation:**  several african nations have launched a joint military operation to combat terrorism across the sahel region. the initiative aims to dismantle extremist groups and secure vital infrastructure, with the hope of restoring stability to the volatile area.",0
+"**small businesses grapple with rising interest rates**: the federal reserve's ongoing efforts to combat inflation are having a ripple effect on small businesses across the country.  many are struggling to secure loans and manage increased costs, leading to fears of a potential economic slowdown.",2
+"google has announced plans to invest heavily in artificial intelligence (ai) research, with a particular focus on developing algorithms that can learn and adapt like humans. this move is expected to have a profound impact on numerous industries, including healthcare, transportation, and manufacturing.",3
+tart_of_turn>user,3
+**ai-powered language translator bridges communication gaps**: a company has released a new ai-powered language translator app that enables real-time conversations between people speaking different languages. this breakthrough technology promises to break down communication barriers and foster global understanding.,3
+here are  new texts fitting the 'science and technology' category:,3
+"**researchers uncover potential cure for alzheimer's disease:** in a promising development, scientists have identified a new drug compound that appears to effectively slow down the progression of alzheimer's disease in animal studies.",3
+"**engineers at nasa have unveiled plans for a groundbreaking mars rover mission, equipped with advanced sensors and a drill capable of reaching deep underground, aiming to search for signs of past or present life on the red planet.**",3
+start_of_turn>model,0
+start_of_turn>model,1
+start_of_turn>model,0
+"**tech giant seeks acquisition of ai startup:**  in a bid to bolster its artificial intelligence capabilities, tech giant  ""innovtech"" is reportedly in advanced negotiations to acquire promising ai startup ""cognisense."" the acquisition, estimated to be worth over $  million,  would grant innovtech access to cognisense's groundbreaking natural language processing technology.",2
+"here are  new texts in the sports category, based on the examples provided:",1
+"**supply chain disruptions persist, raising concern for holiday season:**  global supply chain issues continue to plague businesses, with manufacturers and retailers facing delays and shortages. economists warn that these disruptions could significantly impact the upcoming holiday shopping season, potentially leading to higher prices and reduced product availability.",2
+"**cryptocurrency volatility persists:**  the cryptocurrency market remains highly volatile, with prices swinging dramatically in recent days.  experts attribute the volatility to a combination of factors, including regulatory uncertainty,  macroeconomic headwinds, and  speculative trading.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"the denver nuggets solidified their lead in the western conference with a commanding victory over the los angeles lakers last night, propelled by a standout performance from nikola jokic.",1
+"here are  new texts fitting the 'world' category, based on your examples:",0
+tart_of_turn>user,0
+"**small businesses struggle with rising inflation:** small businesses across the country are facing mounting challenges as inflation continues to rise, squeezing profit margins and making it harder to attract and retain workers.",2
+"the philadelphia eagles secured their first win of the season with a thrilling last-minute touchdown against the new york giants, leaving the city buzzing with excitement.",1
+"**self-healing concrete promises stronger, more durable structures:** scientists have developed a new type of concrete that can self-repair cracks and damage, extending the lifespan of buildings, roads, and other infrastructure. the innovative material incorporates bacteria that produce limestone, sealing cracks and preventing further deterioration.",3
+**small businesses struggle with inflation and rising interest rates:**  a national survey reveals that small businesses are grappling with the double blow of soaring inflation and the federal reserve's aggressive interest rate hikes. many report squeezed profit margins and difficulty securing financing.,2
+"**golf legend tiger woods announced his return to competitive golf, confirming his participation in the upcoming masters tournament. this will be woods' first major tournament since his car accident last year, and fans are eagerly awaiting his comeback.**",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**home team triumphs in ncaa women's soccer championship**: the stanford cardinal women's soccer team clinched their fourth national championship, defeating the ucla bruins in a thrilling penalty shootout.",1
+"**quantum computing takes a leap forward:** a team of engineers has built a quantum computer capable of performing complex calculations billions of times faster than traditional computers. this breakthrough has the potential to transform fields like cryptography, drug discovery, and materials science, paving the way for a new era of technological advancement.",3
+"**international trade tensions escalate as two major economies impose new tariffs, threatening global supply chains.**",2
+"**gold prices surge to record highs:** the price of gold reached a new all-time high today, surpassing $   per ounce. the surge is attributed to factors including global uncertainty, inflation fears, and the weakening us dollar. this trend is expected to impact both consumers and businesses, particularly those involved in jewelry, manufacturing, and investment sectors.",2
+"**local team reaches national championships:** after years of hard work and dedication, the [city name] high school basketball team clinched a hard-fought victory in the regional championship, earning them a spot in the national championships.",1
+**biotech startup raises millions in funding to develop innovative cancer treatment.**,2
+"**global food prices spike amid supply chain disruptions and geopolitical instability:** the global food crisis worsened this week as prices for essential grains and staples surged to record highs. the conflict in ukraine, along with widespread droughts and supply chain issues, have exacerbated the situation, threatening food security in vulnerable nations.",0
+"serena williams announced her retirement from professional tennis today, bringing an end to an illustrious career that spans decades and has seen her win   grand slam singles titles. williams shared the news on social media, thanking her fans for their unwavering support throughout her journey.",1
+start_of_turn>model,3
+tart_of_turn>user,0
+"**diplomatic talks deadlocked as ukraine war continues** - negotiations between ukraine and russia have stalled, with both sides remaining steadfast in their conflicting demands. the ongoing conflict shows no signs of abating, raising fears of a protracted and bloody war with global ramifications.",0
+start_of_turn>model,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+tart_of_turn>user,2
+"**self-replicating robots pave the way for space exploration:**  engineers at nasa are designing self-replicating robots that could travel to mars and build their own infrastructure, significantly reducing the cost and complexity of future space missions.",3
+"nasa is preparing for a daring mission to mars, aiming to land a human crew on the red planet within the next decade. this ambitious project involves overcoming numerous technological challenges, including developing new spacecraft, life support systems, and radiation shielding.",3
+start_of_turn>model,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"here are  text examples fitting the ""world"" category:",0
+"**manchester united rebounds with a stunning comeback win against liverpool** - trailing by two goals at halftime, manchester united pulled off an astonishing comeback victory against their fierce rivals, liverpool, thanks to a hat-trick from portuguese superstar cristiano ronaldo.",1
+here are  new texts in the 'sports' category:,1
+here are  new texts in the 'sports' category:,1
+**record-breaking stock market surge fueled by positive economic indicators and investor optimism.**,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+start_of_turn>model,0
+"**ai ethics debate intensifies:** as artificial intelligence (ai) continues to advance at a rapid pace, concerns about its ethical implications are growing. experts are debating issues like algorithmic bias, job displacement, and the potential for misuse.  a recent study highlighted the need for stricter regulations to ensure ai development benefits humanity.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+tart_of_turn>user,3
+"here are five new texts in the 'sports' category, based on the examples provided:",1
+"**serena williams wins another grand slam title:** serena williams continues her dominance in women's tennis, defeating aryna sabalenka in a grueling three-set final to claim her  th grand slam singles title at the us open.",1
+"protests erupt in brazil over government economic policies, thousands demanding government action to address rising inflation and unemployment.",0
+"global leaders meet in geneva to discuss the ongoing refugee crisis, with calls for increased aid and a coordinated response to alleviate suffering.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"**renewable energy sector attracts major investment**:  despite geopolitical headwinds, the renewable energy sector continues to attract significant investment from both public and private sources.  global companies are betting on the long-term potential of solar, wind, and other clean energy solutions.",2
+"**global supply chain issues ease slightly, offering hope for businesses:**  after months of disruptions, global supply chains are showing signs of recovery, with shipping times shrinking and container prices stabilizing, bringing relief to businesses struggling with inventory shortages and soaring costs.",2
+"**climate change impacts felt across the globe as extreme weather events increase**:  from unprecedented heatwaves to devastating floods, the effects of climate change are being felt worldwide, leading to widespread displacement, economic disruption, and calls for urgent action.",0
+"**global supply chain disruptions ripple through economy:** ongoing supply chain bottlenecks, exacerbated by the covid-  pandemic and geopolitical instability, are creating headaches for businesses worldwide.  product shortages and price increases are becoming increasingly common, prompting concerns about potential economic slowdowns.",2
+"small businesses struggle to cope with rising cost of energy.  a survey released this week showed that a majority of small businesses are feeling the pinch from soaring energy prices. many are forced to make difficult decisions such as increasing prices, cutting back on hours, or even laying off employees.",2
+here are  new text examples for the 'business' category:,2
+here are  new sports-category texts:,1
+**starbucks unveils plans to open   new stores in india over the next five years:**  the coffee giant seeks to capitalize on india's booming consumer market and expand its presence in one of the world's fastest-growing economies.,2
+"**self-healing concrete could revolutionize infrastructure**: researchers have developed a new type of concrete that can self-repair cracks, extending the lifespan of bridges, roads, and buildings. this technology could significantly reduce maintenance costs and enhance the durability of infrastructure.",3
+here are  new texts that fit the 'world' category:,0
+"the world series kicks off tonight with the defending champion houston astros facing off against the surprising tampa bay rays. can the rays, led by young phenom wander franco, upset the seasoned astros, or will houston claim another trophy?",1
+"here are  new texts that fit the 'world' category, based on the examples provided:",0
+tart_of_turn>user,1
+"**young athlete makes history at national cycling championships** - sixteen-year-old prodigy, maya sanchez, defied predictions and clinched the gold medal in the women's criterium category at the national cycling championships, becoming the youngest ever champion in the event's history.",1
+tart_of_turn>user,1
+"**  printing revolutionizes manufacturing:** the use of   printing is rapidly expanding across various industries, from aerospace and healthcare to fashion and food production. this technology allows for on-demand manufacturing, customized designs, and reduced waste, offering numerous advantages over traditional manufacturing processes.",3
+"spacex, led by elon musk, is making significant progress towards its goal of colonizing mars. the company has successfully launched and landed reusable rockets, paving the way for future missions to the red planet.",3
+"upset victory for underdog team in college basketball tournament. the unseeded players, with a combination of determination and strategic play, pulled off a stunning upset against the heavily favored, top-ranked team.",1
+"**scientists unlock secrets of super-dense materials:**  researchers have discovered a unique way to generate super-dense materials with incredible strength and resilience, opening up possibilities for revolutionary applications in aerospace, construction, and advanced weaponry.",3
+"**the chicago cubs edged out the st. louis cardinals in a thrilling  -inning close game last night, extending their winning streak to five games.  rookie pitcher justin steele delivered a stellar performance, striking out seven batters and giving up only three hits.**",1
+"protests erupt in hong kong over proposed extradition bill that critics fear would erode the city's autonomy and undermine its judicial system. the demonstrations escalate into violent clashes between police and demonstrators, raising concerns about civil liberties and freedom of speech.",0
+**scientists discover new gene linked to longevity:** researchers have identified a novel gene that appears to play a crucial role in lifespan extension.  the discovery could pave the way for new therapies aimed at slowing down the aging process and potentially increasing human lifespan.,3
+here are  new texts fitting the 'world' category:,0
+"**marathon runner breaks course record in heart-stopping finish ** in a dramatic finish, kenyan runner chebet overtook the leader in the final stretch to win the boston marathon and shatter the course record by   seconds.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"here are  new texts in the 'business' category, based on your examples:",2
+start_of_turn>model,0
+"**tech startup raises $  million in seed funding:**  local startup ""smarthome solutions"" announced today a successful $  million seed funding round led by prominent venture capital firm, ""innovate capital.""  the company, specializing in smart home automation technologies, plans to leverage the investment to expand its product line and accelerate its growth in the rapidly expanding smart home market.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**u.n. condemns human rights abuses in african nation:** the united nations has issued a scathing report documenting widespread human rights abuses in a volatile african nation, including torture, arbitrary detentions, and suppression of dissent. the report calls for an immediate end to the violence and urges the international community to take action.",0
+global leaders meet to discuss urgent climate change action at upcoming summit.,0
+tart_of_turn>user,3
+let me know if you would like to see more examples!,3
+tart_of_turn>user,3
+start_of_turn>model,3
+tart_of_turn>user,1
+here are  new texts in the 'sports' category:,1
+"**researchers at mit have developed a new type of solar panel that is more efficient than traditional panels, potentially leading to cheaper and more sustainable energy production.**",3
+"**scientists explore the potential of gene editing to cure inherited diseases** researchers are making significant strides in gene editing technology, with the potential to cure a wide range of inherited diseases. crispr-cas  a powerful gene-editing tool, has been successfully used in clinical trials to treat genetic disorders, offering hope for millions suffering from these debilitating conditions.",3
+here are  new text examples for the 'sports' category:,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**small business confidence dips amid inflation woes:**  inflation continues to exert pressure on small businesses, with recent reports showing a decline in confidence for the coming months.",2
+start_of_turn>model,1
+"**ai-powered microscope helps detect early signs of cancer:** researchers have created an artificial intelligence-powered microscope that can analyze tissue samples and detect early signs of cancer with greater accuracy than traditional methods, potentially leading to earlier diagnosis and more effective treatment.",3
+here are five new texts that fit the 'business' category:,2
+a devastating earthquake strikes a remote region in nepal causing widespread damage and leaving thousands stranded. international aid agencies scramble to provide relief supplies as rescue efforts intensify.,0
+"**tennis star aiming for grand slam in upcoming tournament.** serena williams heads into the us open as the clear favorite, having dominated the tennis circuit this year and looking to complete the ""golden slam"" by winning all four major tournaments.",1
+"**manchester united edges out liverpool in premier league thriller:**  in a captivating clash at old trafford, manchester united snatched a narrow victory over their fierce rivals liverpool in a premier league match filled with drama and excitement.",1
+here are  new texts fitting the 'business' category:,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+tart_of_turn>user,3
+"**spacex successfully launches next generation dragon spacecraft:** in a historic milestone, spacex has successfully launched its newest generation dragon spacecraft, designed to carry both cargo and astronauts to the international space station. the launch marks a significant step forward in commercial spaceflight and highlights the company's ambition to revolutionize space exploration.",3
+tart_of_turn>user,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+tart_of_turn>user,2
+let me know if you'd like more examples!,0
+start_of_turn>model,2
+start_of_turn>model,3
+"**major cyberattack cripples global financial systems:**  a sophisticated cyberattack originating from an unidentified source has crippled financial systems around the world, causing chaos in currency markets and disrupting international trade. governments and cybersecurity experts are scrambling to find the source of the attack and contain the damage.",0
+"the new york yankees are on a winning streak, thanks to the hot bats of their young slugger, aaron judge, who is leading the league in home runs just halfway through the season.",1
+"serena williams announced today that she will be competing in wimbledon, raising anticipation for a potential clash with young rival coco gauff.  will serena make another run for the title?",1
+"**spacex aims for historic mars mission with starship prototype development: **elon musk's spacex is actively advancing the development of its starship spacecraft, aiming to conduct a crewed mission to mars in the coming decade. the innovative spacecraft design and reusable rocket technology are pushing the boundaries of space exploration.",3
+"**self-driving cars inch closer to reality:**  several major automotive companies are investing heavily in the development of self-driving cars, with pilot programs already underway in select cities. advancements in artificial intelligence and sensor technology are making autonomous vehicles increasingly safer and more reliable, promising a future where commuting and transportation are transformed.",3
+tart_of_turn>user,3
+"**self-driving cars take another step closer to reality** major car manufacturers and tech companies are investing heavily in the development of self-driving cars, with promising advancements in artificial intelligence and sensor technology.  while fully autonomous vehicles are still years away, recent successful test runs and partnerships with ride-sharing companies suggest that self-driving cars could soon become a common sight on our roads.",3
+here are  new texts fitting the 'world' category:,0
+**analysts predict a surge in electric vehicle demand as gas prices continue to rise.**,2
+**ai-powered drug discovery platform accelerates development of novel antibiotics:** a cutting-edge artificial intelligence platform is revolutionizing the pharmaceutical industry by rapidly identifying and evaluating potential new antibiotics to combat drug-resistant bacteria.,3
+"here are  new text examples fitting the ""sports"" category:",1
+tart_of_turn>user,0
+here are  examples of news texts that fit the 'world' category:,0
+here are  new texts in the 'sports' category:,1
+"**engineers develop self-repairing drones for enhanced reliability:**  aeronautical engineers have created a new generation of drones equipped with self-repairing capabilities. this technology uses advanced materials and sensors to fix minor damage autonomously, ensuring drones can continue operating in challenging environments.",3
+"jamaican sprinter usain bolt broke his own world record in the men's    at the diamond league meet in monaco, solidifying his status as the fastest man alive.",1
+"**protests erupt in hong kong over controversial security law:** thousands of people took to the streets in hong kong today to protest against a new national security law imposed by china, which critics say threatens the city's autonomy and freedoms.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**quantum computer breaks encryption standards:** a team of physicists has demonstrated the ability to use a quantum computer to break widely used encryption standards, raising concerns about the security of sensitive data. the development highlights the urgent need for new, quantum-resistant encryption technologies to protect against future cyber threats.",3
+"**tech giant announces mass layoffs:**  facing a challenging economic climate, tech giant ""innovatech"" announced today it will be laying off  % of its workforce, impacting approximately    employees. ceo, mark anderson, cited ""rapidly evolving market conditions"" as the reason for the difficult decision.",2
+"a team of engineers has created a self-driving car that uses advanced sensors and algorithms to navigate complex urban environments, bringing us closer to the realization of autonomous vehicles.",3
+"the nba finals are heating up as the boston celtics and miami heat battle it out for supremacy, with each game a nail-biter filled with incredible plays and intense rivalries.",1
+"a new study published in the journal nature reveals that artificial intelligence (ai) can now accurately predict the weather with greater accuracy than traditional forecasting methods, potentially changing the way we prepare for natural disasters.",3
+"roger federer, chasing his record-breaking eighth wimbledon title, will face his toughest challenger yet in the semi-finals against the young and upcoming world number   dominic thiem.",1
+here are five new texts that fit the 'sports' category:,1
+tart_of_turn>user,1
+tart_of_turn>user,3
+"**lebron james scores career-high   points, leads lakers to victory.** los angeles (ap) - lebron james moved within    points of kareem abdul-jabbar's all-time scoring record, powering the los angeles lakers to a     victory over the san antonio spurs. james capped off his remarkable night with an emphatic dunk in the fourth quarter, roaring in excitement as the crowd erupted in applause.",1
+"**renewable energy investments surge as costs fall:**  the cost of renewable energy technologies like solar and wind power continues to decline, attracting record investments from governments and private companies.   analysts predict a dramatic increase in renewable energy production in the coming years, driven by falling costs,  favorable policies, and growing concerns about climate change.",2
+tart_of_turn>user,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+start_of_turn>model,1
+"**north korea warns of ""military action"" if south korea proceeds with joint military exercises with the united states.**",0
+"**new nba draft prospect declared the ""potential future of the league.""**",1
+start_of_turn>model,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**un warns of looming humanitarian crisis in yemen as war rages on.** the un has issued a dire warning of a catastrophic humanitarian situation in yemen, where millions face starvation and disease due to ongoing civil war and a crippling blockade.",0
+"**start-up raises \$  million in funding:** a promising new ai-powered healthcare startup, ""medinnovations,"" announced today that it has secured \$  million in series b funding led by prominent venture capital firms. the company plans to use the investment to accelerate the development and commercialization of its groundbreaking medical technology.",2
+**stock market closes lower amidst recession fears:** uncertainty surrounding the global economic outlook dragged the stock market down today. investors are concerned about the potential for a recession as rising inflation and interest rates continue to weigh on consumer spending.,2
+"**tech giant announces plan to acquire ai startup for \$ billion, pushing further into automation solutions.**",2
+"**starbucks profits soar as demand for coffee rebounds:**  starbucks reported impressive results for its recent quarter, driven by strong consumer demand for coffee both in stores and through its digital ordering platforms. the company also announced plans for aggressive expansion in new international markets.",2
+"**amazon's earnings soar as cloud computing drives revenue growth**. amazon reported record profits for the quarter, fueled by strong performance in its cloud computing division, amazon web services.  analysts are predicting continued growth for the company, despite economic uncertainties.",2
+"**lebron james scores   points in cavaliers victory**: cleveland cavaliers superstar lebron james led his team to a commanding victory over the milwaukee bucks, dropping a season-high   points and securing his  th career win against the bucks.",1
+start_of_turn>model,2
+"**serena williams wins  th grand slam title**  in a thrilling final match, serena williams edged out her opponent to secure her record-breaking  th grand slam singles title, cementing her status as a tennis legend.",1
+"**serena williams bows out of tokyo olympics in heartbreaking defeat.** tokyo (ap) - serena williams' journey at the tokyo olympics ended prematurely as she suffered a three-set loss to czech republic's marketa vondrousova in the third round of the women's singles tournament. despite the loss, williams continued to captivate fans with her unwavering determination and powerful play.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"**real estate market cools as interest rates climb:**  the red-hot real estate market is showing signs of cooling, as rising interest rates make borrowing more expensive. this could lead to a slowdown in home sales and potentially impact prices in the coming months.",2
+"**home run derby champion blasts a record   home runs ** vladimir guerrero jr. claimed the home run derby title with a stunning display of power, smashing a new record of   home runs in a single competition.",1
+"**augmented reality glasses enhance learning for visually impaired students:** a new study shows that augmented reality glasses, capable of translating text and describing surroundings, significantly improve learning outcomes for visually impaired students.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"landmark peace treaty signed, ending decades-long conflict between warring factions.",0
+tart_of_turn>user,3
+**tensions escalate in the south china sea as china and vietnam issue competing claims over a disputed island chain.**,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+here are five new texts fitting the 'sports' category:,1
+start_of_turn>model,3
+"serena williams made a powerful return to the court at the us open, defeating her opponent in straight sets to advance to the quarterfinals. this victory marks a strong comeback for the  -time grand slam champion.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**global health officials on high alert as new virus strain emerges in africa:** a novel virus with unknown origins is detected in a remote region of africa, triggering fears of a potential pandemic as health organizations race to contain its spread.",0
+here are  new texts in the 'business' category:,2
+tart_of_turn>user,0
+"**a team of scientists in japan successfully used crispr technology to edit the genes of human embryos, raising ethical concerns about the potential for designer babies.**",3
+"**scientists discover new planet orbiting proxima centauri:** a team of astronomers has announced the discovery of a potentially habitable planet orbiting the nearest star to our sun, proxima centauri. the exoplanet, named proxima centauri c, lies within the star's habitable zone and could hold the key to answering fundamental questions about the existence of life beyond earth.",3
+"olympic cycling sensation, chloe dygert, has set a new world record in the women's individual time trial, shattering the previous mark by a stunning   seconds.",1
+here are  new texts in the 'sports' category:,1
+start_of_turn>model,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+start_of_turn>model,3
+"**local high school basketball team overcomes early setbacks to reach state championship game:**  facing multiple injuries and initial losses, the underdog westview wildcats battled their way through the regional tournament, ultimately securing a berth in the state championship game against a formidable rival.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**earthquake strikes remote region of nepal, causing widespread damage and casualties.** kathmandu, nepal - a powerful earthquake struck a remote region of nepal, causing widespread damage to buildings and infrastructure, and resulting in a significant number of casualties.",0
+"**global economic outlook remains uncertain:**  the international monetary fund (imf) has revised its global economic growth forecast downward, citing concerns about rising inflation, persistent supply chain disruptions, and geopolitical tensions. the imf now predicts a growth rate of    for   , down from its previous estimate of   .",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+**a major humanitarian crisis unfolds in yemen as civil war and famine grip the nation.**,0
+tart_of_turn>user,2
+"**team usa dominates in olympics beach volleyball:**  the american beach volleyball duo of jake gibb and taylor crabb secured a convincing victory over their opponents in the olympic quarter-finals, advancing to the semifinals and keeping alive their hopes for a gold medal.",1
+"manchester united's new signing sets premier league on fire with a stunning hat-trick. the talented young forward displayed incredible composure and finishing ability, sending the fans into a frenzy with his three goals in the first half.",1
+"walmart's quarterly profits beat expectations, boosted by increased online sales and strong consumer demand, pushing its stock price up in after-hours trading.",2
+"a new study published in nature has revealed the groundbreaking discovery of a planet outside our solar system that is considered potentially habitable.  the planet, located in the ""goldilocks zone"" of its star, possesses characteristics similar to earth and could support life as we know it.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"the boston red sox are on fire, surging through the al east standings with a five-game winning streak.  their young pitching staff has been dominant, and the offense is finally clicking thanks to the return of star player xander bogaerts from injury.",1
+here are  new text examples fitting the 'science and technology' category:,3
+tart_of_turn>user,2
+**tesla faces investor pressure to boost production**:  tesla's stock price dipped after the company missed its production targets for the quarter. investors are demanding  increased output to meet growing demand for electric vehicles.,2
+"**diplomatic tensions rise as border dispute escalates:**  two neighboring countries, avia and zeland, are locked in a bitter dispute over territory along their shared border, with both sides mobilizing troops and accusing the other of aggression. world leaders have called for calm and dialogue, but the situation remains tense.",0
+"the local high school basketball team pulled off an upset victory against the undefeated state champions last night, fueled by a buzzer beater three-pointer from their star player in the final seconds.",1
+tart_of_turn>user,0
+"**trade tensions disrupt global supply chains: **ongoing trade disputes between major economies are causing disruptions to global supply chains, pushing up costs and potentially slowing economic growth.",2
+"**lebron james surpasses kareem abdul-jabbar as nba's all-time leading scorer** - in a historic night at crypto.com arena, james achieved the seemingly impossible, scoring   points in a lakers victory to pass kareem abdul-jabbar's long-standing record.",1
+tensions escalate in the middle east as israel vows to respond to hamas rocket attacks.,0
+"**high school girls soccer team makes national ranking after undefeated season.** the undefeated lady lions soccer team has been ranked number three in the nation, drawing national attention to their impressive talent and teamwork.",1
+**small business loan approvals decline amidst economic uncertainty:**  the number of small business loan approvals has slipped in recent months as uncertainty grips the economy. rising interest rates and inflation are making it more difficult for small businesses to secure financing.,2
+here are five new texts categorized as 'business':,2
+start_of_turn>model,1
+here are  new texts in the 'sports' category:,1
+"wall street ends higher despite inflation concerns as tech stocks rally. investors shrugged off worries about rising inflation, sending major u.s. stock indexes higher on tuesday. tech companies led the gains, with apple, microsoft, and amazon all posting strong performance.",2
+"**global supply chain disruptions create economic uncertainty:**  ongoing disruptions to global supply chains, fueled by the pandemic and geopolitical tensions, are causing widespread shortages and price increases.  businesses are facing delays and increased costs, leading to uncertainty about future economic growth.",2
+"**golden state warriors sweep dallas mavericks to advance to nba finals.**  san francisco (ap) - the golden state warriors dominated the dallas mavericks in four straight games, claiming victory in the western conference finals and advancing to the nba finals for the sixth time in eight years. stephen curry led the warriors' offense with his signature shooting prowess, while draymond green's stifling defense proved to be a constant headache for the mavericks.",1
+tart_of_turn>user,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**france condemns north korea's missile test**  france has strongly condemned north korea's recent ballistic missile launch, urging pyongyang to abide by international agreements and engage in constructive dialogue.",0
+"**global aid efforts scramble to reach millions in earthquake-ravaged  turkey** -  rescue workers race against time amidst the rubble of buildings, desperately searching for survivors following a devastating earthquake that struck turkey and syria. international aid organizations are mobilizing to provide crucial relief to millions affected.",0
+the world health organization (who) declares a public health emergency as a new virus spreads rapidly in several african countries.,0
+scientists have made a breakthrough in renewable energy research by developing a new type of solar cell that is more efficient and cost-effective than traditional silicon-based panels. this innovation could significantly contribute to the global shift towards sustainable energy sources.,3
+here are  new texts fitting the 'science and technology' category:,3
+start_of_turn>model,3
+"**the discovery of a new planet outside our solar system, dubbed kepler-  , has reignited the search for extraterrestrial life.**",3
+"**researchers at mit have developed a new type of artificial intelligence that can learn and adapt to its environment in real time, potentially revolutionizing fields like robotics and medicine.**",3
+"**ai-powered telescope makes stunning discoveries in distant galaxies:**  utilizing the capabilities of artificial intelligence, astronomers have developed a new telescope capable of analyzing vast amounts of astronomical data. this has led to the discovery of previously unseen galaxies and insights into the early universe.",3
+"facing mounting pressure, the los angeles chargers are looking to their star quarterback to deliver a victory against their divisional rivals this sunday.",1
+"silicon valley based tech firm, bytestream, announced today it will be laying off  % of its workforce, citing a slowdown in user growth and a challenging economic climate.",2
+tart_of_turn>user,0
+tart_of_turn>user,3
+"**global energy crisis deepens as russia halts gas supplies:**  russia has further escalated tensions with europe by halting natural gas shipments through a key pipeline, citing technical problems. the move has sent shockwaves through energy markets, with prices soaring and fears growing of a prolonged energy crisis in europe this winter.",0
+here are  new texts for the 'science and technology' category:,3
+here are  new texts fitting the 'science and technology' category:,3
+"**cryptocurrency market volatility persists:** the cryptocurrency market is experiencing significant volatility, with bitcoin and other digital assets fluctuating sharply in value, leading to uncertainty for investors and businesses exploring blockchain technology.",2
+let me know if you'd like to see more examples!,2
+"**un climate talks aim to reach ambitious emissions reduction targets** -  world leaders are gathering for crucial climate change negotiations, striving to agree on concrete plans to curb greenhouse gas emissions and prevent the worst impacts of global warming.",0
+"**manchester city clinches premier league title with thrilling victory** - manchester city secured their third premier league title in four years with a dominant   victory over aston villa on the final day of the season, cementing their place as english football's dominant force.",1
+"nfl draft: quarterback prospects steal the show: the upcoming nfl draft is filled with exciting young quarterbacks, leading to intense speculation and anticipation for which team will select the next star under center.",1
+"**inflation concerns mount as consumer prices rise:**  consumer prices continued to climb at a faster rate in august, prompting fears that inflation may become entrenched and threaten the economic recovery. this could put pressure on the federal reserve to act more aggressively to cool the economy.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**deadly clashes erupt between rebels and government forces in syria.**  damascus (reuters) -  fierce fighting broke out today between syrian government troops and rebel forces, leading to heavy casualties and raising fears of a further escalation in the country's civil war.",0
+"**local team makes history with stunning upset victory.** the underdog river city wildcats shocked the reigning champions, the hawks, in last night's game with a final score of",1
+start_of_turn>model,0
+"**uk to welcome afghan refugees amidst taliban takeover:** the uk government has pledged to resettle thousands of afghan refugees fleeing the taliban takeover of their homeland. the announcement came as international condemnation of the taliban regime mounted, with many nations expressing concern over human rights violations and the potential for a humanitarian crisis.",0
+"a powerful earthquake strikes off the coast of indonesia, triggering a tsunami warning for several nearby countries.",0
+"a stunning upset unfolded at the fifa world cup as costa rica shocked spain with a   victory, sending shockwaves through the tournament and reigniting hopes for the underdog team.",1
+"lebron james made a crucial game-winning shot in the final seconds, securing victory for the los angeles lakers against the boston celtics in a nail-biting matchup.",1
+"**ai-powered telescopes discover new galaxy far beyond milky way:** astronomers using an ai-driven system have identified a previously unseen galaxy located over   billion light-years from earth,  pushing the boundaries of our understanding of the universe.",3
+start_of_turn>model,2
+"a controversial new gene-editing technology known as crispr is rapidly advancing, raising ethical concerns about its potential applications in human embryos and designer babies.",3
+"**tensions escalate in north korea as satellite imagery reveals expansion of nuclear facilities.** international observers express growing concern over the north korean regime's potential to enhance its nuclear capabilities, despite ongoing diplomacy efforts.",0
+"**spacex to launch first reusable rocket later this month.**  elon musk's spacex is gearing up to launch the first fully reusable falcon heavy rocket later this month, marking a major milestone in the commercial space industry and potentially reducing the cost of space travel significantly.",3
+"**protests erupt in several latin american countries following a controversial decision by the regional trade bloc, sparking concerns about political instability and economic uncertainty.**",0
+"**global supply chain disruptions continue:** the global supply chain remains strained with ongoing disruptions caused by the pandemic, labor shortages, and geopolitical tensions, leading to increased shipping costs and delayed deliveries.",2
+here are  new texts fitting the 'world' category based on the provided examples:,0
+"lionel messi has finally joined the inter miami cf soccer team, bringing his undeniable talent and global star power to major league soccer.  the team is already seeing a surge in fan interest and merchandise sales, with fans eager to witness messi's magic on the field.",1
+"**quantum computing revolutionizes drug discovery:**  a new era begins in medicine with the implementation of quantum computers in drug discovery, enabling scientists to simulate complex molecular interactions and accelerate the development of personalized treatments.",3
+tensions rise in the south china sea as china increases military activity near disputed islands. neighboring countries express concern over beijing's aggressive posturing and call for peaceful resolution of the territorial disputes.,0
+start_of_turn>model,1
+**renewable energy investments surge as countries set ambitious climate goals:** countries worldwide are accelerating investments in renewable energy sources such as solar and wind power in line with their commitments to reduce greenhouse gas emissions and combat climate change.,2
+"**a devastating earthquake strikes a densely populated region in southeast asia, causing widespread destruction and triggering a massive international aid effort.**",0
+"**a united nations report warns of a growing humanitarian crisis in africa due to drought, famine, and conflict, calling for urgent international action to avert disaster.**",0
+tart_of_turn>user,1
+here are  new texts fitting the 'world' category:,0
+"**un envoy urges dialogue to stop escalating violence in syria.** geneva, switzerland -  a united nations envoy pleaded for dialogue and restraint to stop the escalating violence in syria, warning that the country is on the brink of a humanitarian disaster.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+let me know if you need more examples!,2
+start_of_turn>model,0
+here are  new texts fitting the 'world' category:,0
+tart_of_turn>user,0
+here are  new texts in the 'science and technology' category:,3
+"here are  new text examples for the ""science and technology"" category:",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+tart_of_turn>user,0
+"**small business owners express optimism despite economic uncertainty:**  a new survey reveals that despite inflation and global economic headwinds, small business owners remain optimistic about their future prospects and plan to invest in growth.",2
+"**tech giant google announces plans to invest $ billion in new ai research center in canada:**  this marks a significant expansion of google's ai efforts across the globe, focusing on developing groundbreaking applications in healthcare, education, and sustainability.",2
+start_of_turn>model,2
+"**tech startup boom fuels competition for top talent:**  silicon valley is witnessing a fierce battle for skilled software engineers, designers, and data analysts as numerous tech startups aggressively expand and vie for a piece of the burgeoning digital economy.",2
+"**canelo alvarez defends undisputed super middleweight title in highly-anticipated bout:** undefeated champion canelo alvarez will defend his prestigious super middleweight title against a dangerous challenger, promising a thrilling matchup for boxing enthusiasts worldwide.",1
+**virtual reality therapy shows promise in treating anxiety disorders:** studies indicate that immersive virtual reality therapy can effectively reduce anxiety symptoms in patients with phobias and other anxiety disorders. the technology's potential for non-invasive and personalized treatment is generating significant interest in the medical field.,3
+"**researchers discover new exoplanet with potentially habitable conditions:** astronomers have identified a potentially earth-like exoplanet orbiting within the habitable zone of its star, suggesting the possibility of liquid water and perhaps even life. this discovery fuels the ongoing search for extraterrestrial life and expands our understanding of planetary systems beyond our own.",3
+"**manchester city clinches premier league trophy:** pep guardiola's manchester city secured their third consecutive premier league title with a decisive victory over rivals manchester united, securing their place as one of the most dominant teams in english football history.",1
+"**renewable energy breakthrough: solar panels now more efficient than ever:**  a team of engineers has developed a new type of solar panel material that significantly increases energy conversion efficiency, paving the way for cheaper and more sustainable solar power.",3
+"**record crowd expected for fifa women's world cup final** -  fifa anticipates a record-breaking attendance for the final match of the tournament, as millions around the globe tune in to witness the clash of two soccer powerhouses.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+start_of_turn>model,2
+"**emerging market currencies weaken**:  after a period of relative stability, currencies in several emerging markets are experiencing significant depreciation against the us dollar. this is fueled by fears of a global recession and rising geopolitical tensions.",2
+"the tokyo paralympics are underway, showcasing the incredible athleticism and determination of disabled athletes from around the world.  paralympian ester ledecka of the czech republic is competing in both skiing and snowboarding events, hoping to add to her already impressive medal collection.",1
+"**earthquake devastates coastal city in south asia:** a powerful earthquake with a magnitude of   struck off the coast of a densely populated city in south asia, causing widespread destruction and triggering a tsunami warning. international aid organizations are rushing to provide assistance to the thousands who have been affected.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"a new study has revealed the potential of crispr gene editing technology to cure genetic diseases. researchers have successfully used crispr to correct a faulty gene in human cells, offering hope for patients with inherited disorders.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**self-healing concrete: construction industry takes on damage repair:** engineers are developing a revolutionary new type of concrete that can self-heal cracks and damage, significantly reducing maintenance costs and extending the lifespan of infrastructure projects.",3
+here are  new texts fitting the 'science and technology' category:,3
+start_of_turn>model,1
+let me know if you'd like more examples!,3
+"the quest for artificial intelligence continues to accelerate, with companies like google and openai investing heavily in the development of ai systems that can learn and reason like humans.",3
+"scientists at cern have made a groundbreaking discovery, confirming the existence of a new subatomic particle, which could hold the key to unlocking the mysteries of the universe.",3
+"the tokyo olympics are fast approaching, and anticipation is building for the events, with athletes from around the world vying for gold in fierce competitions.",1
+"**scientists develop new algorithm for faster drug discovery:** researchers at mit have announced a breakthrough in artificial intelligence, developing a novel algorithm capable of predicting the effectiveness of potential drug candidates with significantly increased speed and accuracy. this advancement has the potential to revolutionize the pharmaceutical industry and accelerate the development of treatments for life-threatening diseases.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"marathon runner overcomes adversity to achieve personal best.  the competitor pushed through physical and emotional challenges, setting a new personal record in the grueling  . mile race.",1
+"**brazil grapples with devastating wildfires in the amazon rainforest, raising global alarm.** climate change and deforestation are blamed for the alarming scale of the fires, prompting international calls for urgent action to protect the vital ecosystem.",0
+**genetically modified mosquitos could be key to stopping malaria:** researchers are exploring the use of genetically engineered mosquitos that are resistant to the malaria parasite to curb the spread of the deadly disease in tropical regions. this innovative approach aims to reduce mosquito populations and ultimately save lives.,3
+here are  new texts fitting the 'science and technology' category:,3
+"lionel messi's incredible hat-trick propelled barcelona to a decisive   win against real madrid in el clasico, further solidifying their lead at the top of la liga.",1
+start_of_turn>model,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"rising costs for flour, sugar, and other baking staples are forcing small businesses like bread & butter bakery to raise prices.  owner sarah wilson expressed concern about struggling to keep up with the new market demands.",2
+"serena williams cruised to victory in the us open final, extending her dominance in women's tennis and claiming her  th grand slam title.",1
+"despite a gradual economic recovery,  small businesses continue to face significant challenges, with many reporting lingering supply chain issues and staffing shortages.  experts predict a slow but steady progress towards pre-pandemic levels.",2
+**ai-powered prosthetics gain new dexterity:** researchers at mit have developed new ai algorithms that allow prosthetic limbs to mimic the intricate movements of human hands with unprecedented precision. the technology could revolutionize the lives of amputees by restoring lost dexterity and enabling them to perform complex tasks with ease.,3
+tart_of_turn>user,0
+tart_of_turn>user,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**tensions flare in south china sea as china conducts military drills**:  beijing's recent military exercises in the disputed south china sea have escalated tensions with neighboring countries, prompting international concern over potential conflict.",0
+start_of_turn>model,3
+"**amazon unveils new delivery drones:**  in a move to further streamline its logistics operations, amazon announced the launch of its new fleet of delivery drones, showcasing the company's commitment to innovation and efficiency in the e-commerce sector.",2
+"**tech layoffs continue as companies reassess strategies: **despite a strong job market overall, major tech companies continue to announce layoffs, citing economic uncertainty and the need to streamline operations.",2
+"**green energy investment booms as demand for renewables increases:**  businesses are increasingly investing in renewable energy sources like solar and wind power, driven by both environmental concerns and the rising cost of fossil fuels. this shift is creating new opportunities in the green tech sector.",2
+"women's world cup qualifiers underway:  national teams across the globe are battling for a spot in the prestigious fifa women's world cup, showcasing incredible talent and determination.",1
+"**wall street recovers sharply as investors regain confidence:**  the dow jones industrial average surged over   points, driven by positive earnings reports, easing inflation concerns, and hopes of a resilient economy.",2
+"massive earthquake strikes off the coast of japan, triggering a tsunami warning for surrounding areas. rescue efforts are underway.",0
+"breaking news: manchester united has confirmed the signing of  top striker, harry kane, in a historic transfer deal. how will this impact the premier league title race next season?",1
+"**elon musk's spacex successfully launched its latest falcon  rocket, carrying a cargo of essential supplies to the international space station, while showcasing advancements in reusable rocket technology.**",3
+"**cryptocurrency market volatility continues**: bitcoin and other digital currencies are experiencing another period of extreme volatility, with prices swinging wildly in the last   hours.  experts warn investors to proceed with caution amidst the ongoing uncertainty.",2
+"**global leaders gather for climate change summit in egypt** world leaders have convened in egypt for the annual cop  climate change summit, aiming to accelerate global action on mitigating climate change and supporting climate-vulnerable nations.",0
+here are  new texts fitting the 'sports' category:,1
+let me know if you'd like more examples!,3
+**european union seeks to impose tougher sanctions on russia over annexation of ukrainian territory.**,0
+tart_of_turn>user,3
+"**tensions rise as russia continues military buildup near ukraine** concerns are growing as russia continues to amass troops and military equipment near the border with ukraine, leading to fears of a possible invasion.",0
+"serena williams battles past tough competition to advance to the us open quarterfinals.  the  -time grand slam champion fought valiantly, showcasing her legendary resilience and powerful serves, to secure her spot in the next round.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+**the united nations launches a new peace initiative to end the ongoing conflict in syria.**,0
+"**simone biles makes triumphant return to gymnastics, wins gold in floor exercise.**  tokyo (ap) - simone biles returned to competition after withdrawing from multiple events at the tokyo olympics, claiming gold in the floor exercise with a dazzling performance that showcased her unparalleled athleticism and artistry.",1
+here are  new texts in the 'business' category:,2
+here are  new texts fitting the 'science and technology' category:,3
+start_of_turn>model,0
+tart_of_turn>user,2
+tart_of_turn>user,3
+tart_of_turn>user,1
+"**gene editing technology offers hope for treating genetic diseases:**  scientists are making progress in using crispr-cas gene editing technology to correct genetic defects that cause diseases. clinical trials are underway, offering hope for a cure for previously untreatable conditions.",3
+"a surge in investor interest in renewable energy has prompted a flood of funding into startups developing solar and wind power technologies, driving innovation and competition in the sector.",2
+tart_of_turn>user,2
+"the development of quantum computing is accelerating rapidly, with companies like google and ibm making significant strides. these powerful computers, utilizing the principles of quantum mechanics, have the potential to revolutionize fields like medicine, materials science, and artificial intelligence.",3
+here are  new text examples for the 'sports' category:,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**concerns are growing about the potential dangers of self-driving cars, as a recent study highlighted the complexities of ensuring their safety on crowded roads.**",3
+tart_of_turn>user,3
+start_of_turn>model,0
+"the eu is considering expanding its sanctions against russia in response to its alleged annexation of regions in eastern ukraine, escalating the already tense geopolitical situation.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**renewable energy breaks new records:**  global installations of solar and wind energy systems reached record highs in   , surpassing expectations and further demonstrating the growing momentum of the clean energy transition. this surge in renewable energy capacity signals a positive shift towards a more sustainable future.",3
+**a new cholera outbreak threatens vulnerable communities in yemen as war and famine intensify.** aid organizations struggle to provide essential medical supplies and clean water to millions suffering from the dual crises gripping the nation.,0
+"**spacex has successfully launched its latest falcon  rocket, carrying a payload of   starlink satellites into orbit, furthering the company's ambitious plan to provide global internet access.**",3
+tart_of_turn>user,3
+"**european union leaders convene for emergency summit amid refugee crisis:** faced with an influx of asylum seekers from war-torn regions, eu leaders gather for emergency talks to address the ongoing refugee crisis and forge a unified response.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"home team dominates the nhl opener with a breathtaking display of speed and skill.  the roaring crowd was on its feet as the team scored three unanswered goals in the third period, securing a decisive victory in their season debut.",1
+start_of_turn>model,2
+"**scientists discover new enzyme with potential for personalized cancer treatment**: researchers at the university of california, berkeley, have identified a new enzyme that plays a critical role in tumor growth. this discovery could lead to the development of targeted cancer therapies tailored to an individual's specific genetic makeup.",3
+here are  new text examples fitting the 'science and technology' category:,3
+start_of_turn>model,1
+"the imf lowers its global growth forecast, citing rising inflation, supply chain disruptions, and geopolitical uncertainty as factors contributing to a potential economic downturn.",0
+"**local high school football team breaks regional winning streak** - the eastside eagles secured their first victory against the undefeated northwood knights in an electrifying matchup, shattering northwood's season-long winning streak and ending their hopes for a perfect season.",1
+"**a team of scientists announced a breakthrough in renewable energy, unveiling a solar panel that converts sunlight into energy with unprecedented efficiency, paving the way for a cleaner energy future.**",3
+tart_of_turn>user,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**a revolutionary new battery technology, using nanomaterials, has been developed and is promising increased energy storage capacity and faster charging times for electronic devices.**",3
+"**tesla's stock surges as market predicts strong ev sales:**  driven by anticipation of record electric vehicle (ev) deliveries in the upcoming quarter, tesla shares soared over  % on wall street, reaching a new all-time high. investors are optimistic about the company's growing production capacity and expanding global market presence.",2
+"**un warns of humanitarian crisis in drought-stricken east africa** the united nations has sounded the alarm about a looming humanitarian crisis in east africa as prolonged drought devastates crops and livestock, pushing millions towards starvation.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**retail sector faces challenges amidst shifting consumer habits:** the retail sector is grappling with evolving consumer preferences, rising operational costs, and the continued dominance of e-commerce giants. many retailers are adapting by embracing omnichannel strategies and investing in personalized shopping experiences.",2
+here are  new text examples for the 'business' category:,2
+"**scientists make breakthrough in gene editing, opening doors for new disease treatments.**  a team of researchers at the university of california, berkeley, has announced a significant advancement in crispr technology, allowing for more precise and efficient gene editing. this could revolutionize the treatment of genetic disorders like cystic fibrosis and huntington's disease.",3
+here are  new texts in the 'science and technology' category:,3
+let me know if you'd like more examples!,2
+researchers at mit have developed a new type of solar panel that can generate electricity even on cloudy days using a novel approach that harnesses infrared light.,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**european union grapples with energy crisis as russia cuts gas supply:** energy markets across europe remain volatile as russia further reduced gas flows through key pipelines, prompting fears of an energy shortage this winter. the eu is scrambling to diversify its energy sources and implement energy-saving measures to mitigate the crisis.",0
+let me know if you'd like to see more examples!,2
+"**inflation cools down slightly, but remains a concern for consumers and businesses:**  inflation rates have shown a slight decrease, providing some relief for consumers and businesses struggling with rising costs. however, experts warn that inflation remains elevated and could continue to impact economic growth if left unchecked.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**new gene editing tool allows precise modification of plant dna:** scientists have developed a revolutionary crispr-based gene editing tool that enables precise modifications to plant dna, paving the way for faster and more efficient development of  crops with enhanced traits like drought resistance and increased yield.",3
+**drones delivering medical supplies to remote locations**: a humanitarian organization is using drones to deliver essential medical supplies to remote villages in developing countries. this innovative approach overcomes geographical barriers and provides timely access to healthcare for underserved communities.,3
+"**gene editing technology tackles inherited diseases:** crispr technology continues to advance, demonstrating promising results in correcting genetic mutations responsible for inherited diseases, offering hope for cures and improved quality of life for millions.",3
+tart_of_turn>user,1
+"**tech giants face antitrust scrutiny over app store practices:** regulators are investigating apple and google over their dominance in app store ecosystems, alleging that they engage in anti-competitive practices by charging high commissions and prioritizing their own services.",2
+start_of_turn>model,3
+"**small business optimism wanes despite strong job growth:** a new survey reveals that while the u.s. economy is adding jobs at a healthy pace, small business owners are increasingly pessimistic about their prospects. concerns about inflation, rising interest rates, and a potential recession are contributing to the decline in optimism.",2
+"**spanish grand prix: verstappen claims victory in dramatic race**: max verstappen of red bull racing secured a thrilling victory at the spanish grand prix, overcoming late challenges from lewis hamilton and charles leclerc to secure his second win of the season.",1
+"**virtual reality technology takes a leap forward with lifelike sensory experiences.**  new advancements in virtual reality technology are creating more immersive experiences by incorporating touch, smell, and taste sensations. this could revolutionize fields like education, entertainment, and even medical training.",3
+**international pressure mounts on china over human rights issues** -  human rights groups are urging china to address growing concerns over its treatment of ethnic minorities in xinjiang province. the united nations has called for independent investigations into allegations of human rights abuses.,0
+"a team of international researchers has developed a groundbreaking new method for detecting and tracking earthquakes, using a network of ai-powered sensors placed across vulnerable regions. this innovative system promises to provide earlier and more accurate warnings, potentially saving countless lives.",3
+"**scientists discover new gene linked to longevity in ancient locusts:**  researchers have identified a novel gene in an ancient species of locust that appears to significantly extend its lifespan. the discovery could provide valuable insights for research into aging and longevity in other organisms, including humans.",3
+**small businesses struggle as inflation persists**.  rising costs for raw materials and energy continue to squeeze profit margins for small businesses across the country.  many are forced to raise prices or cut back on operations to stay afloat.,2
+**small businesses struggle to recover from pandemic impact.**,2
+"the us women's national soccer team is back in action this weekend, looking to reclaim their spot as the world's top team. they face a tough challenge against england in a friendly match.",1
+tart_of_turn>user,1
+start_of_turn>model,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+start_of_turn>model,3
+tart_of_turn>user,3
+tart_of_turn>user,1
+"**global supply chain disruptions ease slightly**: after months of severe disruptions, the global supply chain is showing signs of improvement.  however, experts warn that it will take time for the system to fully recover and avoid future bottlenecks.",2
+"**un appeals for aid as humanitarian crisis deepens in yemen**:  the humanitarian crisis in yemen has reached catastrophic levels, with millions facing starvation and disease due to years of conflict. the un is urging for increased international aid to prevent further suffering.",0
+tart_of_turn>user,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"**tech giants face antitrust scrutiny:** us lawmakers are intensifying their investigation into the market dominance of tech giants like amazon, apple, google, and microsoft, raising concerns about potential antitrust violations and their impact on competition and innovation.",2
+local high school basketball team makes it to state finals: the undefeated eagles basketball team from harrison high school is headed to the state championship game after a thrilling victory over their regional rivals.,1
+here are  new texts in the 'science and technology' category:,3
+"a powerful earthquake strikes southeast asia, leaving thousands homeless and triggering aid calls.",0
+"**north korea conducts another ballistic missile test, drawing international condemnation:** north korea conducted its latest ballistic missile test on tuesday, defying international sanctions and raising concerns about its escalating nuclear ambitions. world leaders have condemned the launch, calling for regional stability and denuclearization.",0
+here are  business-related text examples:,2
+"**global refugee crisis worsens as millions flee conflict and persecution.** geneva (bbc) - the number of people fleeing conflict and persecution worldwide has reached a record high, with millions seeking refuge in neighboring countries and beyond, straining resources and testing international solidarity.",0
+start_of_turn>model,1
+"**scientists develop new material that can harvest energy from air humidity:**  a team of researchers at mit has developed a novel material capable of generating electricity from the humidity present in the air. this breakthrough could revolutionize renewable energy sources, providing a sustainable and cost-effective way to power devices without relying on traditional methods.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**north korea fires ballistic missile over japan, sparking international condemnation:** in a provocative move, north korea launches a ballistic missile that overflys japan, prompting a unified condemnation from the international community and raising fears of heightened regional tensions.",0
+tart_of_turn>user,0
+"**barcelona beats real madrid in el clasico thriller** - in a thrilling encounter, barcelona emerged victorious over real madrid in el clasico, sending shockwaves through la liga. the   victory moves barcelona closer to the top of the table.",1
+"**climate change activists stage global protests demanding immediate action.**  paris, france - thousands of climate change activists marched across the globe in a coordinated effort to demand urgent action from world leaders to address the climate crisis.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**new study reveals declining consumer confidence, raising concerns about a potential recession.**",2
+"**tensions escalate in the south china sea as a us aircraft carrier group conducts freedom of navigation operations near disputed islands.** china has condemned the move, claiming us actions threaten regional stability.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+start_of_turn>model,2
+"tesla unveils ambitious plans for a new factory in china.  tesla ceo elon musk announced plans for a massive new factory in shanghai, aiming to ramp up production of electric vehicles in the world's largest automotive market.",2
+let me know if you'd like more examples!,3
+"north korea conducts missile test, prompting international condemnation and fears of escalation.",0
+"**the local high school basketball team, the wildcats, secured their spot in the championship game with a convincing victory over the rival bulldogs. star player marcus johnson scored a career-high   points, leading his team to an impressive  -  win.**",1
+here are five new texts fitting the 'business' category:,2
+"**tensions rise as north korea conducts military exercises near maritime border.**  seoul, south korea -  north korea conducted major military exercises near its disputed maritime border with south korea, prompting concerns from seoul and its allies about potential conflict.",0
+"**renewable energy investments surge as costs decline:** investors are pouring billions of dollars into renewable energy projects, attracted by falling solar and wind power costs and growing concerns about climate change. this investment boom is driving rapid growth in the sector and creating new jobs.",2
+here are  new text examples in the 'sports' category:,1
+"**brazilian soccer player neymar returned from injury earlier this week and immediately made a difference, scoring the game-winning goal against argentina in a fierce south american world cup qualifier. **",1
+start_of_turn>model,2
+here are five new texts that fit the 'business' category:,2
+"**virtual reality transforms education: immersive learning experiences for students:**  schools are increasingly incorporating virtual reality technology into their classrooms, giving students interactive and immersive learning experiences that enhance understanding and engagement.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+**tech giant announces mass layoffs amidst slowing growth.**,2
+tart_of_turn>user,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+start_of_turn>model,1
+**new cryptocurrency regulation expected to face tough opposition.**,2
+here are  new text examples fitting the 'science and technology' category:,3
+start_of_turn>model,0
+"**serena williams advances to wimbledon quarterfinals:**  serena williams overcame a slow start to defeat her opponent in straight sets, advancing to the quarterfinals at wimbledon. williams, chasing her eighth wimbledon title, displayed her trademark power and athleticism throughout the match.",1
+"**green energy investments surge as climate concerns mount:**  amidst growing global concerns about climate change, investments in renewable energy sources such as solar and wind power have reached unprecedented levels. governments and private investors are pouring billions into projects aimed at reducing carbon emissions.",2
+here are  new texts fitting the 'world' category:,0
+"**interest rates expected to rise further in coming months:** the federal reserve signaled its intention to raise interest rates again at its next meeting, citing concerns about persistent inflation. this news sent ripple effects through financial markets, affecting investors and consumers alike.",2
+here are  new texts fitting the 'world' category:,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+start_of_turn>model,1
+here are  new texts in the 'sports' category:,1
+"ecogen technologies, a company developing sustainable energy solutions, secured a \$ million investment from venture capital firm greenspark, beating out several other promising startups for the funding.",2
+"**earthquake tremors shake turkey, prompting concerns of aftershocks** a series of moderate earthquakes have jolted turkey, causing damage to buildings and raising fears of more powerful aftershocks in the region.",0
+"**climate change summit in paris ends with a commitment to reduce greenhouse gas emissions.** paris, france - after intense negotiations, world leaders reached a landmark agreement at the cop  climate summit in paris, pledging to limit global warming to well below  degrees celsius.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+tart_of_turn>user,3
+global leaders convene for un summit to discuss climate change crisis and potential solutions.,0
+"the historic rivalry between the boston red sox and new york yankees continued to heat up this weekend, with the red sox pulling off a stunning comeback victory in the bottom of the ninth inning.",1
+"**tensions rise in asia as china and india engage in diplomatic row:** diplomatic relations between china and india have deteriorated over a disputed border region, with both sides accusing each other of aggressive posturing. the situation has raised concerns about the potential for an escalation into armed conflict, prompting calls for restraint from the international community.",0
+start_of_turn>model,0
+start_of_turn>model,3
+"**record-breaking performance in the tour de france stage:**  belgian cyclist, remco evenepoel, shattered the course record in a grueling stage of the tour de france, extending his lead in the general classification and solidifying his position as a top contender for the overall title.",1
+un warns of humanitarian crisis in war-torn country as thousands flee their homes daily.,0
+**ai-powered telescope discovers thousands of previously unseen galaxies.** astronomers using a new artificial intelligence system have identified thousands of previously undetected galaxies in deep space. this discovery significantly increases our understanding of the universe's size and evolution.,3
+start_of_turn>model,3
+tart_of_turn>user,2
+"the miami heat defeated the boston celtics     in a thrilling overtime game last night, extending their winning streak to  games.",1
+tart_of_turn>user,2
+"the world series finals are underway, with the houston astros holding a   lead over the philadelphia phillies.",1
+start_of_turn>model,2
+tart_of_turn>user,1
+"**serena williams fights back to win australian open** -  the reigning champion rallied from a set down to defeat a determined ons jabeur, claiming her  th grand slam title and breaking the tie for most women's singles titles in history.",1
+"**researchers develop new ai model that can translate animal languages** scientists at the university of california, berkeley have made a groundbreaking discovery, developing an artificial intelligence (ai) model capable of translating various animal languages, including those of dogs, cats, and even dolphins. this breakthrough could revolutionize our understanding of animal communication and pave the way for deeper interspecies interactions.",3
+"**serena williams advances in australian open**: serena williams stormed into the australian open quarterfinals with a dominant performance against her opponent, showcasing her powerful serves and aggressive groundstrokes.",1
+"a team of researchers at the massachusetts institute of technology (mit) has developed a revolutionary new solar panel that converts sunlight into energy with unprecedented efficiency, potentially paving the way for a more sustainable energy future.",3
+"**serena williams to headline australian open as tournament favorites race for top spot:**  serena williams, chasing her  th grand slam singles title and record-breaking championship, is set to headline the australian open.",1
+"**marathon runners push through grueling terrain in annual race.** hundreds of athletes tackled the notorious ""mountain man marathon"" this weekend, enduring steep inclines and extreme weather conditions to reach the finish line.",1
+start_of_turn>model,0
+a team of researchers at mit has developed a new type of solar panel that is more efficient and cheaper to produce than existing technology. the breakthrough could revolutionize solar energy and help accelerate the transition to clean energy sources.,3
+"**spacex successfully launches starship prototype:**  in a historic event, spacex has successfully launched a prototype of its next-generation spacecraft, starship, reaching an impressive altitude before returning to earth safely. this successful test flight brings the company closer to its ambitious goal of colonizing mars.",3
+"high school phenom, jamal jackson, is generating buzz, with scouts predicting he'll be the number one pick in next year's nba draft.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"scientists have discovered a new planet outside our solar system that is considered potentially habitable. the planet, twice the size of earth, orbits a red dwarf star and lies within the star's habitable zone, where temperatures could allow for liquid water to exist on the surface.",3
+"**brazil struggles with deforestation despite promises to protect the amazon.** sao paulo (the guardian) - deforestation rates in the brazilian amazon rainforest have surged in recent months, raising concerns about the country's commitment to environmental protection and its impact on global climate change.",0
+"the government proposed new regulations for cryptocurrency exchanges and businesses, aiming to increase investor protection. however, industry leaders are predicting strong opposition, arguing that the proposed rules could stifle innovation and damage the nascent market.",2
+"**spacex launches first private mission to the international space station:**  spacex is set to launch the first all-private crewed mission to the international space station (iss), marking a significant milestone in the commercialization of space exploration and opening doors for future space tourism ventures.",3
+"**local high school basketball team makes it to state semifinals ** after a nail-biting regional final victory, the wildcats are headed to the state semifinals where they'll face off against undefeated powerhouse, the titans.",1
+tart_of_turn>user,1
+"u.s. retail sales rebound in july, signaling a potential recovery.  americans spent more at stores and online in july than expected, offering a hopeful sign that the economy is gaining momentum.  this positive data may ease fears of a recession.",2
+"serena williams powered through the quarterfinals of the us open, defeating her opponent      and moving closer to a record-breaking  th grand slam title.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+"here are  new texts fitting the 'world' category, based on your examples:",0
+"**tech layoffs continue despite optimistic outlook**:  despite positive economic forecasts, layoffs continue in the tech industry as companies adjust to a period of slower growth.  experts suggest this trend may persist as companies focus on efficiency and profitability.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**lebron james breaks all-time scoring record:**  in a night of history, lebron james surpassed kareem abdul-jabbar to become the nba's all-time leading scorer, cementing his place as one of the greatest basketball players of all time.",1
+"a record crowd gathered at wembley stadium to watch manchester united take on fierce rivals liverpool in a thrilling premier league match. in a last-minute goal, marcus rashford secured the victory for the red devils, sending the fans into a frenzy.",1
+start_of_turn>model,0
+let me know if you'd like me to generate more examples!,0
+"**tesla to invest $ billion in new gigafactory in texas:** building on its ambitious expansion plans, electric vehicle manufacturer tesla has announced a $ billion investment in a new gigafactory in texas. the facility, expected to create thousands of jobs, will focus on manufacturing its popular model y suv and further solidify tesla's presence in the us automotive market.",2
+**nba trade deadline frenzy: potential blockbuster deals reshape the league's landscape:** rumors are swirling ahead of the nba trade deadline as teams aim to bolster their rosters for the playoff push. league analysts predict explosive trades that could significantly shift the balance of power.,1
+**startup wins major investment deal in competitive pitch.**,2
+"**serena williams advances to quarterfinals at us open** - after a tense three-set match, serena williams continued her us open campaign, defeating ons jabeur to advance to the quarterfinals. can she add to her grand slam title count?",1
+"**tech giant announces plans for mass layoffs**: in a surprise announcement, silicon valley giant, innovatech, is planning to lay off  % of its workforce in the coming months.  the company cited economic uncertainty and a shift in market priorities as the reasons for the drastic move.",2
+here are  new text examples for the 'business' category:,2
+tart_of_turn>user,0
+"after a disappointing season, the new york yankees have begun making moves in an attempt to rebuild the roster and compete for a playoff spot next year.",1
+here are  new texts that fit the 'world' category:,0
+"spacex successfully launched its latest falcon heavy rocket into orbit, carrying a payload of vital scientific equipment for a mission to study the effects of space travel on human health.",3
+let me know if you'd like me to generate more examples!,0
+"here are  new texts fitting the ""business"" category:",2
+"**the european union faces its biggest political crisis in years as the uk officially exits the bloc after brexit.** the long-term ramifications of brexit remain uncertain, with concerns about trade, immigration, and the future of the european project.",0
+**researchers develop new battery technology that could power homes for weeks.** a team of engineers at mit has created a revolutionary new battery technology that lasts for several weeks without charging. this breakthrough could have a profound impact on energy storage and renewable energy systems.,3
+here are  new texts fitting the 'business' category:,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+"**serena williams dominates at us open, clinching her  th grand slam title** - the legendary tennis star defeated canadian bianca andreescu in straight sets to secure her fourth us open title and tie margaret court's all-time record for grand slam singles wins.",1
+"**tech giant apple reports record quarterly profits, defying economic slowdown.**",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+tart_of_turn>user,2
+"tensions rise as north korea conducts military drills near border, south korea says the drills are a provocation and has urged north korea to de-escalate the situation.",0
+start_of_turn>model,3
+start_of_turn>model,3
+"**small business incubator launches new program:** a local non-profit organization specializing in supporting startups has unveiled a new program designed to provide mentorship, funding, and resources to entrepreneurs in underserved communities.",2
+tart_of_turn>user,2
+here are five new text examples fitting the 'science and technology' category:,3
+start_of_turn>model,1
+"**researchers develop battery that charges in seconds using microwaves:** scientists at mit have invented a revolutionary new battery technology that utilizes microwave energy for incredibly fast charging, potentially solving the limitations of current battery technology.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+tart_of_turn>user,1
+here are  new text examples fitting the 'science and technology' category:,3
+"**global climate talks fail to reach binding agreements as divisions deepen.** despite weeks of negotiations, international efforts to combat climate change ended in disappointment as nations remained entrenched in their positions on crucial issues.",0
+"**north korea threatens missile tests in response to un sanctions.** pyongyang (afp) - north korea issued a fiery warning today, vowing to conduct more ballistic missile tests in response to recently imposed un sanctions aimed at curbing its nuclear ambitions.",0
+start_of_turn>model,1
+start_of_turn>model,1
+tart_of_turn>user,3
+start_of_turn>model,3
+start_of_turn>model,2
+"**researchers at mit have developed a new type of artificial intelligence that can learn and adapt to complex situations in real-time, potentially revolutionizing fields like robotics and healthcare.**",3
+"**record profits boost amazon's market share: **amazon announced a record-breaking quarterly profit, solidifying its position as e-commerce giant.  analysts predict further growth driven by expansion into new markets and innovative services.",2
+tart_of_turn>user,0
+"**spacex develops reusable rocket technology:** spacex's innovative reusable rocket system takes another step forward with a successful test flight, minimizing the cost of space exploration and paving the way for more frequent launches and ambitious space missions.",3
+start_of_turn>model,1
+"here are  new texts fitting the 'world' category, based on your examples:",0
+"the tour de france is underway, with riders pedaling through grueling stages across europe.  which cyclist will take the coveted yellow jersey this year?",1
+"**global health officials meet to address growing ebola outbreak in west africa.** geneva, switzerland - the world health organization (who) held an emergency meeting on thursday to discuss the escalating ebola outbreak in west africa, outlining plans for a coordinated international response to contain the spread of the deadly virus.",0
+"**ai-powered prosthetic limbs gain dexterity:** a groundbreaking new development in prosthetic technology sees ai-powered limbs achieving unprecedented levels of dexterity and natural movement, allowing amputees to perform intricate tasks with greater ease.",3
+"the nba playoffs are heating up, with the bucks and celtics facing off in an intense eastern conference finals matchup. milwaukee's superstar giannis antetokounmpo is battling hard, but boston's jayson tatum is keeping them in the fight.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"**scientists crack code of human consciousness using quantum computing:** a groundbreaking research project utilizes the power of quantum computers to analyze brain activity, potentially leading to a deeper understanding of human consciousness and its underlying mechanisms.",3
+**cryptocurrency volatility concerns investors:** the recent surge and subsequent crash of several major cryptocurrencies have left investors on edge.  concerns over regulation and market manipulation fuel uncertainty.,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'world' category. output each generated question in the form of a numbered list separated by new lines.",0
+tart_of_turn>user,2
+**a new study published in nature found that artificial intelligence algorithms are now able to diagnose certain diseases with greater accuracy than human doctors.**,3
+**quantum computing takes a step forward with new algorithm**: google has announced a breakthrough in quantum computing with the development of a new algorithm that can solve certain types of problems exponentially faster than classical computers. this advancement brings us closer to utilizing the immense power of quantum computing for applications like drug discovery and materials science.,3
+"**global network of sensors monitors climate change in real-time:** an ambitious project is underway to deploy a vast network of sensors around the world to monitor climate change in real-time, providing scientists with unprecedented data on global temperature, humidity, sea level, and other critical atmospheric factors.",3
+"here are  new texts in the 'science and technology' category, based on the examples provided:",3
+start_of_turn>model,0
+start_of_turn>model,2
+"**north korea fires missiles into sea, sparking regional alarm**:  north korea launched a series of ballistic missiles into the sea off its east coast, prompting condemnation from south korea and the united states and raising concerns about pyongyang's nuclear ambitions.",0
+**new regulations on cryptocurrency trading set to impact market stability and investor confidence.**,2
+"**global food shortages worsen as ukraine war continues**:  the ongoing conflict in ukraine, a major grain exporter, has exacerbated global food insecurity, with millions facing hunger and rising food prices.",0
+tart_of_turn>user,0
+**tensions flare in south china sea as u.s. navy conducts freedom of navigation operation:** concerns escalate over territorial disputes as the u.s. navy asserts its right to navigate international waters near disputed islands claimed by china.,0
+"**amidst rising inflation, local grocery stores struggle to keep shelves stocked with essential goods.**",2
+"**a team of scientists has discovered a new planet outside our solar system that is potentially habitable, raising hopes of finding extraterrestrial life.**",3
+here are  new texts in the 'business' category:,2
+tart_of_turn>user,0
+"**tesla reports record profits, fueling optimism for ev market:**  electric vehicle maker tesla has announced record quarterly profits, surpassing analysts' expectations and signaling continued growth in the electric vehicle market. this positive financial performance further strengthens tesla's position as a leader in the industry, encouraging investment and innovation in the sector.",2
+tart_of_turn>user,1
+here are  new text examples for the 'world' category:,0
+"**serena williams continues to dominate the women's tennis circuit, defeating world number  ash barty in straight sets at the us open. with this victory, williams is now one step closer to claiming her  th grand slam singles title.**",1
+"here are  new texts that fit the 'science and technology' category, based on your examples:",3
+"**quantum computing takes leap forward:**  a team of engineers has successfully built a more powerful quantum computer, capable of solving complex problems that are currently intractable for classical computers. this breakthrough could revolutionize fields like medicine, materials science, and cryptography.",3
+"**tensions rise as north korea threatens nuclear strike** -  concerns are escalating globally as north korea issued a stern warning, vowing to  launch a nuclear strike against the united states if deemed provoked.",0
+"**breakthrough in quantum computing promises faster drug discovery and materials design:**  researchers have made significant strides in the field of quantum computing, developing more stable and powerful quantum computers. this advancement could accelerate drug discovery, enabling scientists to design new medications with greater precision and efficiency.",3
+tension mounts in region after disputed border claims lead to military mobilization.,0
+"record-breaking performance: colombian cyclist egan bernal claims first tour de france victory:  at   years old, egan bernal has become the youngest colombian to win the tour de france, displaying incredible endurance and tactical brilliance throughout the race.",1
+"**global economic uncertainty spurs safe-haven demand:**  as global economic indicators signal potential slowdown and rising inflation, investors are increasingly flocking to safe-haven assets like gold and government bonds, creating volatility in the stock market.",2
+"**scientists develop foldable solar panels that can power portable electronics:** engineers have created foldable solar panels that are lightweight, durable, and highly efficient, promising a new era of portable electronics powered by renewable energy sources.",3
+"**manchester city clinches premier league title** - a comfortable victory over arsenal ensures a historic treble for pep guardiola and his squad, marking their third consecutive premier league title and cementing their legacy as one of the greatest english teams of all time.",1
+start_of_turn>model,1
+here are  new texts fitting the 'sports' category:,1
+"**start-up revolutionizes online shopping with ai-powered personalization:** a new tech start-up is making waves in the e-commerce industry by utilizing artificial intelligence to personalize shopping experiences, recommending products tailored to individual customer preferences and past behavior.",2
+start_of_turn>model,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'sports' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'science and technology' category. output each generated question in the form of a numbered list separated by new lines.",3
+"**golden knights clinch stanley cup in sweep** - the vegas golden knights have rewritten history, becoming the first expansion team to win the stanley cup after sweeping the florida panthers in the series.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'business' category. output each generated question in the form of a numbered list separated by new lines.",2
+tart_of_turn>user,3
+"**global supply chain disruptions impact consumer prices:**  a continuing shortage of microchips and other essential components, coupled with logistical bottlenecks across the globe, is driving up the cost of electronics, vehicles, and other goods, pushing inflation to new highs.",2
+"**economic sanctions against iran to be discussed at un security council meeting.** new york, usa -  the un security council is scheduled to meet to discuss the increasingly tough economic sanctions imposed on iran over its nuclear program.",0
+"**small businesses struggle with labor shortages, rising costs:**  many small businesses are facing a critical labor shortage, struggling to find and retain qualified employees, while simultaneously grappling with increased costs for raw materials and supplies, putting a strain on profitability.",2
+tart_of_turn>user,0

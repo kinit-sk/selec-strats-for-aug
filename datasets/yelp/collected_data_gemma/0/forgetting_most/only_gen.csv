@@ -1,0 +1,584 @@
+text,label
+here are  new positive review texts:,2
+let me know if you'd like more examples!,0
+tart_of_turn>user,1
+"the bus arrived on time, which was good because i was already running late. the ride was comfortable enough, though the seats could have been more spacious.",1
+"here are  example texts fitting the 'neutral' category, based on your provided examples:",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"this restaurant exceeded my expectations! the food was delicious, the service was friendly, and the atmosphere was cozy. i'll definitely be back.",2
+tart_of_turn>user,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+start_of_turn>model,2
+"here are  new texts that fit the 'negative' sentiment category, based on the examples you provided:",0
+"this used to be my favorite restaurant, but the quality has drastically declined. the portions are smaller, the ingredients are subpar, and the service is slow. i'm very disappointed.",0
+"the movie was a complete waste of time. the acting was terrible, the plot was nonsensical, and the special effects were cheesy. i walked out halfway through.",0
+let me know if you'd like to see more examples!,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+start_of_turn>model,1
+"i ordered the chicken parmesan and it was fine. nothing special, but not bad either.",1
+here are  new positive review texts:,2
+"here are  new texts that fit the 'neutral' category, based on the examples provided:",1
+let me know if you'd like to see more examples!,1
+start_of_turn>model,0
+start_of_turn>model,1
+the customer service at this company is top-notch! they were quick to respond to my questions and went above and beyond to help me resolve a small issue. i'm so glad i chose to do business with them.,2
+tart_of_turn>user,0
+"the pizza was just okay, not the best i've had but not the worst either. it was a decent value for the price though.",1
+"the hotel was clean and comfortable, but nothing special. it was a good value for the price, but i wouldn't say it was luxury.",1
+"the service was painfully slow, and our server seemed completely disinterested. the food arrived cold and tasted like it had been microwaved. will definitely not be back.",0
+"this restaurant exceeded my expectations! the food was delicious, the service was friendly, and the atmosphere was lively.  i can't wait to go back and try more dishes.",2
+i've had better meals at a gas station. this place is overpriced and the food is bland beyond belief.  a total waste of time and money.,0
+"this restaurant is a gem! the food was delicious, the service was impeccable, and the atmosphere was so welcoming. i can't wait to come back and try more of their menu.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+tart_of_turn>user,1
+"i ordered the steak medium rare, but it came out well done and tough.  when i told the manager, he shrugged and offered a discount.  not impressed.",0
+"here are  new texts that fit the 'negative' category, based on the examples provided:",0
+start_of_turn>model,1
+"the hotel was clean and the staff were polite. nothing exceptional, but it served its purpose.",1
+"i ordered the pasta carbonara, but it was swimming in grease and the noodles were overcooked.  the waiter never checked on us after our food arrived, and it took forever to get our bill.",0
+"i was so excited to try this new restaurant, but it was a huge disappointment.  the ambiance was dingy, the restroom was filthy, and the food was bland and overpriced.",0
+keep in mind that sentiment analysis is complex and these are just examples.  the actual category assigned to a text depends on many factors and the specific nuances of language.,0
+"i asked for my steak medium-rare, but it came out practically raw. when i complained, the waiter just shrugged and said ""that's how we cook them.""  unbelievable!",0
+"i went to this restaurant for lunch. the food was average, and the service was nothing special.",1
+"the pizza was just okay, not amazing but not bad either.  it was delivered on time and the staff was polite.",1
+"the hotel was clean and comfortable enough. the staff was polite, but nothing particularly outstanding. the location was convenient for what i needed.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"the pizza was fine, typical delivery fare. nothing exceptional, but it hit the spot for a quick lunch.",1
+"the movie was okay. not bad, not great.  the story was predictable, but the acting was decent.",1
+the customer service i received at this store was exceptional. the staff was incredibly helpful and went above and beyond to find the perfect item for my needs. i will definitely be shopping here again.,2
+"we were excited to try this new cafe, but we were very disappointed. the coffee was weak and lukewarm, the pastries were stale, and the staff seemed indifferent to our presence.",0
+"these examples  follow the patterns of the provided negative reviews, including:",0
+"i had the best haircut of my life at this salon! the stylist listened to everything i wanted, gave me some great advice, and i love my new look. i'll definitely be back!",2
+the price for this quality is unbeatable! i was so impressed with the craftsmanship and attention to detail. this is definitely a purchase i'll happily recommend to my friends and family.,2
+"this place is a joke.  music was too loud, drinks were watered down, and the bartender ignored us the entire time.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+here are  new texts that fit the 'positive' category:,2
+"this is my go-to spot for delicious, healthy meals. the staff is so friendly and helpful, they always have great recommendations. i love that they use local ingredients whenever possible. two thumbs up!",2
+let me know if you'd like more examples!,1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"this restaurant exceeded my expectations! the food was delicious, the service was impeccable, and the atmosphere was so cozy. i can't wait to go back and try their other dishes.",2
+"the movie was alright. not particularly exciting, but not terrible either. it kept me entertained for a couple of hours.",1
+"i've been struggling with [problem] for ages, but this solution has been a game-changer! it's made a huge difference in my life, and i'm so grateful i found it.",2
+this book was a page-turner! i couldn't put it down until i finished it. the characters were compelling and the plot was full of twists and turns. a must-read for any fan of [mention genre].,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"here are  new texts fitting the 'neutral' category, based on the examples provided:",1
+let me know if you'd like more examples!,0
+let me know if you'd like more examples!,1
+tart_of_turn>user,2
+"this coffee shop has a convenient location. the coffee is decent, and the pastries are alright.",1
+"here are  neutral text examples, based on your provided examples:",1
+tart_of_turn>user,0
+"i used to dread going to the dentist, but my new dentist is amazing! they are so gentle and patient, and they always explain everything clearly. i actually look forward to my appointments now.",2
+"the museum has some interesting exhibits, but it wasn't particularly groundbreaking. it's worth a visit if you have some free time, but don't go out of your way.",1
+"the movie was a complete waste of time and money. the plot was confusing, the acting was wooden, and the special effects were dated. i left feeling cheated and frustrated.",0
+"the bathroom was filthy, the seats were sticky, and the staff seemed completely uninterested in our presence.  honestly, the whole experience felt downright depressing.",0
+"**expressing a strong dislike and intent not to return:** ""avoid this place,"" ""definitely not be back""",0
+"went there with high hopes, but left deeply disappointed. the service was inattentive, the food was mediocre at best, and the whole experience felt rushed and impersonal.",0
+start_of_turn>model,0
+tart_of_turn>user,1
+"this book was an absolute page-turner! i couldn't put it down until i finished the last page. the story was engaging, the characters were well-developed, and the writing was excellent.",2
+"i recently used this service for [service received] and was blown away by the quality. the [specific details of the service] were top-notch, and they were so professional and helpful throughout the whole process.",2
+"the pizza was okay, not the best i've had, but it wasn't bad either. delivery was on time and the crust was decent.",1
+tart_of_turn>user,1
+"this park has some nice trails, but the playground equipment could use updating.",1
+"this was the worst dining experience i've ever had.  the portions were tiny, the food was below average, and the whole place smelled like stale cigarettes.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"the service was incredibly slow, and when the food finally arrived, it was cold and tasted terrible. i wouldn't recommend this place to anyone.",0
+"this restaurant has a nice atmosphere, the prices are reasonable, and the service was polite. nothing spectacular, but a decent place to eat.",1
+"the movie was okay, not exactly groundbreaking, but entertaining enough. i wouldn't say it was worth the full ticket price, but it was a decent way to spend a couple of hours.",1
+"this supermarket has a good variety of products, and the prices are competitive. i wish the checkout lines didn't always seem so long.",1
+"this movie was amazing! the story was captivating, the acting was superb, and the special effects were breathtaking.  i had such a wonderful time watching it and can't recommend it enough.",2
+here are  new positive review texts:,2
+"neutral sentiment often expresses a balanced or indifferent view, highlighting positive and negative aspects without strong emotional leanings.",1
+tart_of_turn>user,2
+"the movie was alright. not particularly memorable, but it was entertaining enough for a casual watch.",1
+here are  new texts fitting the 'positive' category:,2
+start_of_turn>model,2
+tart_of_turn>user,0
+"i ordered the pasta al dente, but it came out mushy and overcooked.  the sauce lacked any flavor, and the portion size was incredibly small for the price.  i wouldn't recommend this place to anyone.",0
+"i got my order quickly and it was accurate. the food was just okay, nothing special.",1
+tart_of_turn>user,2
+"here are  new texts that fit the 'neutral' sentiment category, based on the examples provided:",1
+"here are  new texts fitting the 'negative' category, based on the examples provided:",0
+"this place is a complete rip-off! the portions were tiny, the prices were outrageous, and the ambiance was downright depressing. don't waste your money.",0
+"i needed a new pair of shoes, so i went to the shoe store. there were plenty of options to choose from, but nothing really stood out to me. i ended up picking up a pair that was decent, but i didn't feel excited about them.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"this movie was a complete waste of time and money. the plot was nonsensical, the acting was terrible, and the special effects were cheesy. i wouldn't even recommend it to my worst enemy.",0
+"here are  new texts that fit the 'negative' category, based on the examples provided:",0
+start_of_turn>model,1
+tart_of_turn>user,1
+here are  new neutral text examples based on the provided dataset:,1
+"this restaurant exceeded all my expectations! the food was absolutely delicious, the service was top-notch, and the atmosphere was so cozy. i can't wait to go back and try more of their menu.",2
+tart_of_turn>user,0
+let me know if you'd like to see more examples!,1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"this restaurant exceeded my expectations! the food was delicious, the service was impeccable, and the atmosphere was so cozy. i can't wait to go back and try more of their menu.",2
+let me know if you'd like more examples!,1
+"this online course has been so helpful in learning a new skill. the lessons are clear and concise, the instructor is engaging, and the projects are challenging and rewarding. i'm so glad i decided to take it!",2
+let me know if you'd like more examples!,1
+start_of_turn>model,1
+"the bathroom was absolutely disgusting - filthy and smelly. honestly, i think it's unsanitary and i wouldn't eat there again.",0
+tart_of_turn>user,1
+i've been using this product for a few weeks now and i'm so glad i made the purchase. it's made such a difference in my [mention area of improvement] and i would highly recommend it to anyone.,2
+"i booked a table for my birthday celebration, but they gave us the worst spot in the entire restaurant.  the table wobbled, the lighting was dim, and our glasses kept falling over. it was a night to forget.",0
+"this used to be my favorite spot, but the quality has plummeted. the music was too loud, the drinks were watered down, and the atmosphere was just flat.",0
+start_of_turn>model,1
+the customer service at this store is top-notch! the staff members were incredibly helpful and went above and beyond to assist me. i will definitely be returning here for all my future needs.,2
+tart_of_turn>user,0
+tart_of_turn>user,0
+"dish came cold, service was slow, and the waiter was rude. wouldn't recommend.",0
+"this restaurant is a hidden gem! the food was delicious, the service was friendly, and the atmosphere was cozy and inviting. we had a wonderful time and can't wait to go back.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"here are  new texts that fit the 'neutral' category, based on the examples provided:",1
+tart_of_turn>user,2
+let me know if you'd like to see more examples!,0
+"the movie was decent. it wasn't anything groundbreaking, but it kept me entertained for the two hours.",1
+"this hotel is fine for the price.  it's clean and the location is convenient, but it's not particularly luxurious.",1
+"i've been using their online service for months now and i'm always impressed with the quality and speed of their deliveries. they make ordering easy and convenient, and the customer service is top-notch. super satisfied!",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+i've been using this product for a few weeks now and i'm blown away by the results. it's made such a difference in my [product area of use] and i would highly recommend it to anyone looking for a solution.,2
+tart_of_turn>user,2
+"the restaurant was busy but we got seated relatively quickly. the food was average, and the prices were reasonable.",1
+start_of_turn>model,1
+"**indicating a lack of intent to return:** phrases like ""will never go here again"" or ""definitely not returning""",0
+the customer service at this store was exceptional. they went above and beyond to help me find what i was looking for and even offered advice on using the product. i'll definitely be shopping here again.,2
+"**expressing dissatisfaction clearly:** using words like ""terrible,"" ""disgusting,"" ""bad,"" ""overpriced,"" etc.",0
+"the pizza was satisfactory, not the best i've ever had, but it wasn't bad either.  delivery was prompt.",1
+"the movie was alright. it wasn't bad, and it wasn't great either. i wouldn't recommend it, but if you're looking for something to watch on a rainy day, it'll do.",1
+"this hotel was a nightmare. the room was filthy, the towels smelled like mildew, and the air conditioning didn't work. i wouldn't recommend it to my worst enemy.",0
+"here are  new texts that fit the 'negative' category, based on the examples provided:",0
+"the movie was a complete waste of time and money. the plot was nonsensical, the acting was terrible, and the special effects were cheesy.",0
+start_of_turn>model,1
+"the movie was okay, not a standout performance but not terrible either. it kept me entertained enough.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"this book was a page-turner! the plot was gripping, the characters were well-developed, and the writing was beautiful. highly recommend it to anyone who enjoys a good story.",2
+"avoid this place at all costs!  we were seated at a sticky table, the music was unbearably loud, and our order was completely wrong.  when we tried to complain, the manager was rude and dismissive.",0
+"we waited an hour for our food, and when it finally arrived, it was cold and the order was wrong. when we tried to complain, the waiter just shrugged and walked away.",0
+"i've always wanted to learn to play [mention instrument] and this online course has been perfect for me. the lessons are clear and concise, and the instructor is very patient and encouraging. i'm already seeing progress!",2
+start_of_turn>model,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+tart_of_turn>user,2
+"this restaurant exceeded all my expectations! the food was delicious, the service was impeccable, and the atmosphere was incredibly charming. will definitely be back soon.",2
+"the park is a nice place to walk, but it could use some more amenities like benches.",1
+"i can't believe how comfortable and supportive this new pair of shoes is! they're perfect for long days on my feet, and they look great too. best purchase ever!",2
+tart_of_turn>user,1
+"the instructor was knowledgeable, encouraging, and made the class fun and engaging. i learned so much and can't wait to take another one!",2
+tart_of_turn>user,2
+"the hotel was clean and the staff was polite. it wasn't fancy, but it was comfortable enough for a quick overnight stay.",1
+let me know if you'd like more examples!,2
+i aimed to capture the following elements present in the examples:,0
+*explanation:**,1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"the online shopping experience was smooth and hassle-free. the website was easy to navigate, the checkout process was quick, and the delivery was fast and efficient. i will definitely be shopping here again!",2
+"this is my go-to restaurant for delicious italian food. their pasta is always cooked perfectly, the sauce is flavorful, and the portions are generous. the prices are reasonable, and the staff is always welcoming.",2
+"i booked a table for a special occasion, but the restaurant was noisy and chaotic. the music was too loud, making it impossible to have a conversation, and the atmosphere felt more like a cheap bar than a place to celebrate.",0
+"the waiter was incredibly rude and inattentive. my food arrived cold and tasted bland, and when i complained, he just shrugged and walked away.",0
+"the concert was amazing! the band put on a fantastic performance, the energy was electric, and the sound was incredible. i've been singing about it ever since!",2
+"the movie was okay, not bad, not great. the plot was predictable but the special effects were decent.",1
+"the library is quiet and well-organized. it's a nice place to study, but it can feel a bit stuffy.",1
+"the decor was outdated and  sticky, and the music was so loud we couldn't even hear ourselves think. such a disappointment!",0
+"here are five new texts that fit the 'negative' category, based on the examples provided:",0
+"here are  new texts that fit the 'negative' category, based on the examples provided:",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"the park was crowded, but it was a nice day out. the playground equipment was a bit worn out, but the kids seemed to have fun.",1
+"the service was outstanding! the staff was friendly and accommodating, and they went above and beyond to make sure we had a great experience. the food was delicious, and the atmosphere was lively and enjoyable. i will definitely be back.",2
+expected a lot more from this restaurant. it was overpriced for the small portions and the taste was subpar. would not recommend.,0
+"here are  new texts that fit the 'positive' category, based on the provided examples:",2
+start_of_turn>model,1
+"it was a decent movie, not the best i've seen but not the worst either.",1
+"the staff was friendly and helpful, the wait time was reasonable, and the food was average.",1
+"i'm so happy with my new purchase! it's exactly what i was looking for and arrived quickly. the quality is excellent, and i would definitely recommend this product to others.",2
+"the movie was absolutely fantastic! the plot was engaging, the acting was superb, and the special effects were mind-blowing. i highly recommend it to anyone looking for a thrilling and entertaining experience.",2
+tart_of_turn>user,2
+tart_of_turn>user,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"the movie was okay. it wasn't bad, but it wasn't particularly memorable either.",1
+"here are  new text examples fitting the 'neutral' category, based on the provided examples:",1
+start_of_turn>model,1
+let me know if you'd like more examples!,1
+here are  new texts that fit the 'positive' sentiment category:,2
+"here are  new texts that fit the 'negative' category, based on the examples provided:",0
+"the coffee shop had a decent atmosphere, but the wifi was spotty and the chairs were uncomfortable. the coffee was just average.",1
+start_of_turn>model,0
+"the service was painfully slow, and the waiter seemed completely disinterested in taking our order. when our food finally arrived, it was cold and tasteless. overall, a truly disappointing experience.",0
+"arrived hungry, left disappointed. the menu sounded promising, but the food was bland and overpriced.  felt totally ripped off.",0
+"the concert was incredible! the band played all of my favorite songs, and the energy of the crowd was electric. it was a night i'll never forget.",2
+start_of_turn>model,2
+"here are  new texts fitting the 'negative' category, based on the examples provided:",0
+"here are  new texts that fit the 'neutral' category, based on the examples provided:",1
+"**negative descriptions of food:** cold, bland, greasy, poorly cooked",0
+"i recently tried this new restaurant and was blown away by the food!  everything was fresh, flavorful, and cooked perfectly.  the service was also fantastic - our server was friendly and attentive. i can't wait to go back and try more of their menu.",2
+tart_of_turn>user,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+start_of_turn>model,2
+"the customer service at this store is phenomenal! they were so helpful and friendly, and went above and beyond to make sure i found what i was looking for. i'll definitely be back.",2
+"this recipe is a total game-changer! it's so flavorful and easy to make, even a beginner cook like me can pull it off. my family devoured it, they loved it!",2
+"this restaurant totally blew me away!  the service was impeccable, the atmosphere was cozy and inviting, and the food was absolutely delicious. i can't wait to come back and try more of their menu.",2
+"the bus ride was comfortable enough, though it was a bit crowded.  i arrived on time at my destination.",1
+start_of_turn>model,2
+"the coffee here is just average, neither great nor awful. prices are fair and the staff are polite.",1
+"the service was abysmal. our waiter never came back after taking the order, and we had to flag down another person just to get the check. food was mediocre at best.",0
+"we waited over an hour for our food and when it finally arrived, it was cold. the manager tried to make excuses but it didn't make a difference.  the entire experience was awful.",0
+"here are  new texts that fit the 'positive' sentiment category, inspired by the examples provided:",2
+"this mall has a good variety of stores, but it could use a bit of an update. parking is a little tight but manageable.",1
+here are  new texts that fit the 'negative' category based on the examples provided:,0
+**avoiding strong positive or negative conclusions:** they don't offer rave reviews or express strong dissatisfaction.,1
+got food poisoning after eating here. avoid at all costs!,0
+here are  new example texts fitting the 'negative' category:,0
+start_of_turn>model,2
+this product exceeded my expectations! it's so easy to use and has already made a huge difference in my daily life. highly recommend it to anyone looking for a solution to [problem the product solves].,2
+"save your money and your time, stay far away. the staff was rude, the place was filthy, and the promised special was nowhere to be found.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"here are  new texts fitting the 'positive' category, inspired by the examples:",2
+"i was hesitant to try this new restaurant, but i'm so glad i did! the food was incredible, the portions were generous, and the atmosphere was lively and inviting. it's definitely a hidden gem!",2
+"here are  new texts that fit the 'negative' category, inspired by the examples provided:",0
+"the hotel was clean and the bed was comfortable, which is all i really need. it wasn't particularly luxurious but it was a decent stay.",1
+"the service was painfully slow, the food was cold, and the waiter seemed annoyed when we asked for ketchup. definitely not a place i'd recommend.",0
+start_of_turn>model,1
+"the hotel was conveniently located, with easy access to the highway. the rooms were clean and comfortable, but the breakfast could have been better.",1
+"ordered the steak medium rare, it came out burnt and tough. complained, but the waiter just shrugged. disappointed and hungry, won't be back.",0
+"we waited over an hour for our food, and when it finally arrived, it was cold and incorrect. the manager was dismissive and offered no apology for the inconvenience.",0
+the promised view was completely obstructed by a giant billboard.  i feel like i wasted my money on this overpriced experience.,0
+"i'm so impressed with this product! it solved a problem i've been struggling with for ages. it's easy to use, well-made, and has already made a big difference in my life.",2
+tart_of_turn>user,0
+here are  new positive review texts:,2
+tart_of_turn>user,1
+tart_of_turn>user,2
+"here are five new texts that fit the 'negative' sentiment category, inspired by the examples you provided:",0
+"here are  new texts fitting the 'neutral' category, based on your provided examples:",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+tart_of_turn>user,2
+"the store had a decent selection of items at reasonable prices.  the checkout line was long, but the staff was efficient.",1
+"ordered the fish and chips, it was soggy and the fish tasted like it had been frozen for years. service was also incredibly slow, wouldn't recommend.",0
+tart_of_turn>user,2
+"it's a decent pizza place, not the best i've ever had, but not the worst either. the crust was a little too thin for my liking, but the toppings were fresh.",1
+start_of_turn>model,2
+this product exceeded my expectations!  it's so easy to use and has already made such a difference.  i would definitely recommend it to anyone looking for a [product category] solution.,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"this bookstore has a good selection of books, although the staff isn't particularly friendly.",1
+these examples reflect the neutral sentiment by:,1
+"the pizza here is perfectly average. nothing special, but it's not bad either. good for a quick and cheap meal.",1
+"finally found a hairstylist who understands my vision! their cuts are always perfect, and they're such a pleasure to chat with.",2
+start_of_turn>model,0
+start_of_turn>model,1
+start_of_turn>model,0
+"stay away! this place is a complete dive. the tables were sticky, the bathrooms were disgusting, and the menu was limited and overpriced.",0
+"ordered the ""famous"" burger, but it was dry and flavorless. really disappointed, what a waste of money.",0
+start_of_turn>model,0
+"the hotel was average. it was clean and the staff was polite, but the room was a bit small.",1
+"the hotel was clean and comfortable. the staff was friendly and helpful. the location wasn't the best, but it was convenient for the price.",1
+let me know if you'd like to see more examples!,1
+tart_of_turn>user,1
+"the hotel was clean and comfortable, but the location wasn't ideal for exploring the city.",1
+the atmosphere was dingy and the staff seemed completely uninterested in helping us. definitely not worth the money.,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+let me know if you'd like to see more examples!,1
+"this is the best coffee shop i've ever been to! their coffee is amazing, the pastries are delicious, and the ambiance is cozy and inviting. it's my new go-to spot.",2
+start_of_turn>model,0
+start_of_turn>model,2
+"this coffee shop has a decent selection of pastries, but the coffee was just okay. not the best i've had, but not the worst.",1
+"my friend recommended this place, but i am so glad i didn't listen.  everything about it was subpar -  the food was bland, the drinks were weak, and the atmosphere was depressing.  i  won't be returning.",0
+"was excited to try this new restaurant, but was let down from the start.  the atmosphere was dingy, the music was too loud, and my dish was cold.",0
+"the service was incredibly slow, the food was cold, and the waiter seemed annoyed when we asked for something simple like water. avoid this place at all costs.",0
+tart_of_turn>user,1
+"the online reviews were glowing, but my experience was the opposite. the staff seemed disinterested and the food was mediocre at best.  complete waste of my time and money.",0
+"this restaurant exceeded my expectations! the food was delicious, the service was top-notch, and the atmosphere was so inviting. i can't wait to go back and try more of their menu.",2
+"the park is pleasant, with nice walking trails and a playground. it could use some upkeep though, as some of the equipment is outdated.",1
+here are  new negative review examples:,0
+"let me know if you'd like to see more examples, or if you have a specific theme you want the reviews to focus on!",0
+let me know if you'd like to see more examples!,1
+start_of_turn>model,0
+"the movie was okay. it wasn't the best i've seen, but it wasn't terrible either.",1
+"i've been using this skin care product for a few weeks now, and i'm already seeing a difference! my skin feels smoother and more hydrated, and my blemishes have significantly reduced. i'm so impressed with the results.",2
+"the service was abysmal.  our waiter seemed completely disinterested and forgot half of our order.  the food was cold and bland, and the atmosphere was  cramped and uncomfortable. will definitely not be returning.",0
+"the customer service at this store was outstanding. they were so helpful and friendly, and they went above and beyond to make sure i was happy with my purchase. i will definitely be shopping here again.",2
+here are  new texts fitting the 'positive' category:,2
+"the museum had a good variety of exhibits, some more interesting than others. admission was a bit pricey but overall it was an okay experience.",1
+"this restaurant exceeded my expectations! the food was delicious, the service was friendly and attentive, and the atmosphere was cozy and inviting. i can't wait to go back and try more of their menu.",2
+start_of_turn>model,1
+"the movie wasn't bad, but it wasn't particularly memorable either. just an average experience overall.",1
+"these examples each express clear dissatisfaction and negative opinions about a service, product, or experience.",0
+tart_of_turn>user,2
+"i was so impressed with this product. it worked perfectly, exactly as described, and solved all the problems i was having. it's definitely worth the investment!",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"the customer service at this store was outstanding. they were so helpful and friendly, and went above and beyond to make sure i was happy with my purchase. i will definitely be coming back here again.",2
+tart_of_turn>user,1
+i've been using this product for a few weeks now and i'm so impressed. it's truly made a difference! i've noticed a significant improvement in [specific positive outcome].,2
+"my reservation was completely ignored, and they tried to squeeze us into a table that was way too small for our group. avoid this place at all costs.",0
+"the service was incredibly slow, our food arrived cold, and when we tried to complain, the waiter was dismissive and rude. we definitely won't be returning.",0
+"the movie wasn't bad, not great either. it was just an average action film with some decent special effects.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+tart_of_turn>user,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+let me know if you'd like to see more examples!,1
+"worst pizza i've ever had. the crust was burnt, the toppings were sparse, and the whole thing tasted like cardboard.",0
+"disappointed is an understatement. the food was cold, the service was slow, and the atmosphere was just plain depressing.",0
+"here are  new texts that fit the 'positive' category, based on the provided examples:",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"**describing specific issues:** mentioning things like  cold food, rude staff, dirty conditions, etc.",0
+"this book was a page-turner! the author's writing style was captivating, and the plot was full of twists and turns. i highly recommend it to anyone who enjoys a good mystery.",2
+start_of_turn>model,1
+start_of_turn>model,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+start_of_turn>model,2
+"the pizza was just okay, not the best i've ever had, but not the worst either. it was delivered on time and the crust was decent.",1
+"here are  new texts that fit the 'negative' category, based on the provided examples:",0
+"this book was a true page-turner! i couldn't put it down until i reached the very end.  the author's writing style is captivating, and the story is both heartwarming and thought-provoking.",2
+tart_of_turn>user,1
+i'm so happy with my purchase! the quality is amazing and it arrived earlier than expected. the seller was also very responsive and helpful.,2
+"here are  new texts that fit the 'positive' category, inspired by the examples you provided:",2
+"here are  neutral text examples, structured as you requested:",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+these examples aim to portray a lack of strong positive or negative sentiment. they present facts about the subject without expressing strong opinions or making definitive judgments. the language is generally factual and avoids superlatives or emotionally charged words.,1
+"here are  new texts that fit the 'negative' sentiment category, based on the examples provided:",0
+start_of_turn>model,2
+"the pizza was fine, not the best i've had but not the worst either. delivery was on time and the price was reasonable.",1
+"i was so impressed with the quality and craftsmanship of this item. it exceeded my expectations in every way. the design is beautiful, the materials are durable, and it works perfectly.",2
+"our trip to the national park was incredible! the scenery was breathtaking, the hikes were challenging and rewarding, and we had so much fun spotting wildlife.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"here are  new texts fitting the 'neutral' sentiment category, based on the provided examples:",1
+the bartender was rude and made us feel unwelcome.  the drinks were watered down and the overall experience was just unpleasant.,0
+"this bookstore has a wide selection of both new and used books. the staff is helpful, and the store is generally well-maintained.",1
+"the concert was alright.  the sound system could have been better, but the band played a good setlist.",1
+"the phone case fit my phone well and the color was as expected. nothing fancy, but it gets the job done.",1
+"the hotel was clean and the staff was helpful. the location was a bit inconvenient, but it wasn't too bad.",1
+"the staff at this store were incredibly helpful and friendly. they went above and beyond to help me find exactly what i was looking for, and i left feeling like a valued customer.",2
+here are  new positive review texts:,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+tart_of_turn>user,2
+tart_of_turn>user,0
+"the concert was amazing! the band put on a fantastic show, the sound was incredible, and the energy of the crowd was electric. i had an unforgettable night.",2
+"this place has seriously gone downhill. the burger i ordered was dry and overcooked, and the fries were soggy. the milkshake was more like a melted ice cream puddle.  i'm disappointed because i used to love coming here.",0
+"i was incredibly disappointed with my experience. the atmosphere was loud and unpleasant, and the staff seemed uninterested in helping.",0
+"the coffee shop is average. the coffee is decent, the pastries are fresh, and the atmosphere is pretty standard. it's a solid option for a quick caffeine fix.",1
+"i'm so glad i purchased this product. it's exactly what i was looking for and has already made a huge difference.  the quality is excellent, and the instructions are easy to follow. highly recommend!",2
+start_of_turn>model,2
+let me know if you'd like more examples!,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+tart_of_turn>user,1
+start_of_turn>model,2
+"the hotel is clean and the staff is polite, but the location is a bit noisy due to traffic. it's functional, but not luxurious.",1
+"the coffee was okay, nothing special. the atmosphere was pleasant enough but a bit noisy for a quiet conversation.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"here are  new texts that fit the 'neutral' category, based on the examples provided:",1
+the coffee tasted burnt and the service was incredibly slow.  had to wait twenty minutes for a simple latte. would definitely not recommend.,0
+tart_of_turn>user,0
+"this restaurant has a large menu with a variety of options. the food was average, nothing particularly special, but it was filling.",1
+"loved the concert! the band was amazing, the venue had a great vibe, and the sound system was excellent. i can't wait to see them live again.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"i specifically requested my steak well-done, yet it arrived rare. when i brought it to the manager's attention, he was dismissive and offered no solution.",0
+"ordered the chicken parmesan, and it tasted like it was microwaved straight from a frozen dinner. the sauce was bland, the chicken was dry, and the pasta was overcooked. a complete waste of money.",0
+"i've tried so many different yoga studios, but this one is by far my favorite. the instructors are knowledgeable and supportive, the classes are challenging and fun, and the overall vibe is so welcoming.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"i ordered the ""signature dish"" and it was a complete disappointment.  it tasted like it came straight from a frozen bag and the presentation was atrocious. avoid at all costs.",0
+here are  new texts that fit the 'neutral' category based on the examples provided:,1
+tart_of_turn>user,0
+i am so glad i bought this product! it exceeded my expectations in every way. the quality is fantastic and it truly made a difference for me. i would definitely recommend it to everyone.,2
+tart_of_turn>user,0
+"i specifically asked for my steak to be medium-rare, but it came out well-done and dry.  when i complained, the manager was dismissive and offered no solutions. terrible service combined with awful food.",0
+start_of_turn>model,0
+start_of_turn>model,0
+"the hotel was clean and comfortable, the staff was friendly. while the location wasn't ideal, it met my basic needs for a short stay.",1
+start_of_turn>model,1
+start_of_turn>model,2
+"the food was delicious and arrived quickly. the staff was friendly and attentive, making for a really enjoyable dining experience. i'll definitely be back!",2
+tart_of_turn>user,0
+"i recently tried their new summer menu and it was amazing! every dish was bursting with fresh, flavorful ingredients and beautifully presented. the service was also excellent, our server was attentive and friendly. can't wait to go back and try more.",2
+start_of_turn>model,1
+"here are  new texts that fit the 'positive' category, based on the examples provided:",2
+start_of_turn>model,2
+"the movie was well-acted, but the plot was predictable. it wasn't a bad movie, but it wasn't anything groundbreaking either.",1
+start_of_turn>model,0
+"i was skeptical at first, but this book truly exceeded my expectations. it was engaging, thought-provoking, and i found myself completely engrossed from the first page to the last.",2
+"i tried to capture the enthusiasm, specific praise, and overall positive sentiment that is common in the examples you provided.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+start_of_turn>model,1
+tart_of_turn>user,2
+"**mentioning negative aspects of the environment:** dingy, smelly, loud",0
+"i was so excited to try this new restaurant, but the food was a huge let down. the pasta was undercooked and the sauce tasted like it came from a jar. the portions were tiny, and the prices were outrageous.",0
+"worst movie i've seen in ages! the plot was nonsensical, the acting was terrible, and the special effects looked like something out of a bad video game.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"i'm so glad i bought this product! it exceeded all my expectations. it's easy to use, works perfectly, and has already saved me so much time and effort. highly recommend!",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+start_of_turn>model,0
+"the restaurant had a decent selection of food, but the portions were small. the service was prompt, but the atmosphere wasn't very inviting.",1
+"i needed a quick haircut, and this place got the job done. nothing fancy, but it was a decent cut for the price.",1
+"i've been using this new software for a week now and it's already made my work life so much easier! it's intuitive, efficient, and has all the features i need. highly recommend it.",2
+"the coffee was decent, and the atmosphere was quiet which i liked. prices were a little high though.",1
+"this coffee shop is a bit basic, nothing fancy, but they get the job done.  the coffee is alright and the staff are polite.",1
+tart_of_turn>user,1
+start_of_turn>model,0
+the staff at this store were so helpful and friendly. they really took the time to understand what i was looking for and helped me find the perfect [product]. i'll definitely be a returning customer!,2
+absolutely disgusted. found a hair in my soup. the manager didn't even seem bothered. hygiene standards are clearly lacking here.,0
+here are  new texts that fit the 'positive' category:,2
+tart_of_turn>user,0
+"avoid this restaurant at all costs! the food was overpriced and tasted awful. the only thing that was actually good was the breadsticks, and they weren't even that great.",0
+start_of_turn>model,0
+here are  new texts that fit the 'positive' sentiment category:,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+this product completely exceeded my expectations! it's so easy to use and has already made such a difference in my daily life. highly recommend it.,2
+"this new restaurant downtown is a hidden gem! the service was fantastic, the atmosphere was cozy and welcoming, and the food was absolutely delicious. i can't wait to go back and try more from their menu.",2
+"this place claims to be an ""authentic"" italian restaurant, but the food was nothing special. the pizza was greasy, the pasta lacked flavor, and the atmosphere was more like a school cafeteria.",0
+"here are  new texts that fit the 'positive' category, inspired by the examples you provided:",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"the pizza was fine, nothing spectacular but not bad either. it was what i expected for the price.",1
+"i wouldn't recommend this place to my worst enemy. the bathroom was filthy, the music was way too loud, and the staff seemed annoyed to even be there.",0
+start_of_turn>model,0
+"here are  new negative review texts, mimicking the style and sentiment of your examples:",0
+"here are  new texts that fit the 'positive' category, based on the examples provided:",2
+"this restaurant has a good lunch special, but the dinner menu is a bit pricey.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"my experience at the concert was unforgettable! the band was amazing, the energy of the crowd was electric, and the music was just incredible.",2
+"the park is a good place to take a walk, it's clean and well-maintained. there are some nice features, but it's not as exciting as some other parks i've visited.",1
+tart_of_turn>user,0
+please let me know if you'd like more examples!,1
+the staff at this store were incredibly helpful and friendly. i found everything i was looking for and the prices were very reasonable. definitely my new go-to shop!,2
+start_of_turn>model,0
+"here are  new texts fitting the 'negative' category, inspired by the examples:",0
+"ordered the pasta primavera, but it tasted like it was cooked from a box. no fresh vegetables in sight, just a bland sauce and overcooked noodles.",0
+"these examples capture the essence of 'neutral' sentiment:  they express neither strong positive nor negative opinions, often leaning towards descriptive and objective language.",1
+"the park is a good place to take a walk and the playground is well-maintained, but it could use more shaded areas during the summer.",1
+"the bus was on time, which is always a plus. the seats weren't the most comfortable, but it was a relatively short ride. overall, just fine.",1
+here are  neutral text examples based on your provided dataset:,1
+"the coffee shop is convenient to my office, and the coffee is average for the price.",1
+"the pizza was fine, nothing special. the delivery was on time, which is always appreciated.",1
+"save your money. this place is a rip-off. overpriced and under-delivered.  the ""specialty dish"" was bland and tasteless.",0
+"absolutely terrible experience. the service was slow, the food was cold, and the atmosphere was just depressing.  would not recommend.",0
+start_of_turn>model,2
+"here are  new texts that fit the 'neutral' category, based on the examples you provided:",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+tart_of_turn>user,1
+start_of_turn>model,0
+start_of_turn>model,0
+"after years of searching, i finally found the perfect pair of shoes! they're comfortable, stylish, and fit like a dream. i've already gotten compliments on them!",2
+tart_of_turn>user,1
+start_of_turn>model,2
+"the hotel was filthy. there were stains on the sheets, the bathroom was disgusting, and the air conditioner didn't work.  i wouldn't recommend staying here to anyone.",0
+"the library is quite convenient, right in the heart of town. it's a little cramped and could use some updating, but it has all the basic resources i need.",1
+"this movie wasn't particularly bad, nor was it particularly good. it was just okay.",1
+"here are  new texts fitting the 'positive' category, inspired by the examples:",2
+"this restaurant exceeded my expectations! the food was absolutely delicious, the service was impeccable, and the ambiance was perfect for a special occasion. i can't wait to go back.",2
+tart_of_turn>user,2
+the waiter was incredibly rude and ignored us for half an hour. the food was cold and tasted bland. what a terrible experience!,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"the hiking trail was beautiful and challenging in all the right ways. the views from the summit were breathtaking, and i felt so accomplished after completing it.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"i've been here before and the food was decent, but tonight was a disaster. the pasta was overcooked, the sauce tasted like tomato paste, and the garlic bread was burnt.",0
+"the park had clean restrooms and plenty of space for kids to run around, but it lacked some of the amenities found at larger parks.",1
+tart_of_turn>user,0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"i bought this book on a whim, and i'm so glad i did! the author's writing style is beautiful, and the story was both heartwarming and thought-provoking. i finished it in two days and would definitely recommend it to book lovers.",2
+start_of_turn>model,2
+"i had heard great things about this place, but my experience was a complete disappointment. the food was bland, the portions were tiny, and the atmosphere was depressing.",0
+"i am absolutely in love with this product! it's exactly what i was looking for and has made such a positive difference in my life.  the quality is excellent, and i highly recommend it to everyone.",2
+tart_of_turn>user,2
+"honestly the worst service i've ever experienced. waited an hour for our food, and when it finally arrived, it was cold and tasted like cardboard.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"these examples follow the pattern of expressing disappointment, negativity, and criticism towards a service, product, or experience.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+tart_of_turn>user,0
+"i had such a positive experience with this company. they were responsive, helpful, and went above and beyond to ensure my satisfaction. i'll be recommending them to all my friends.",2
+"the hotel is clean and the rooms are basic but comfortable.  location is decent, a bit far from the main attractions, but there's good public transport nearby.",1
+tart_of_turn>user,1
+"the movie was okay. not particularly memorable, but it was entertaining enough for a couple of hours.",1
+"my trip was absolutely amazing! the hotel was beautiful, the excursions were unforgettable, and the people were so welcoming. it was the perfect getaway.",2
+"the menu promised delicious homemade pasta, but what arrived was bland and overcooked. it tasted like something out of a can.",0
+"this used to be a great restaurant, but now it's gone downhill. the food is mediocre at best, the atmosphere is dull, and the prices have skyrocketed. such a disappointment.",0
+"i specifically asked for my steak to be cooked medium-rare, but it came out well-done and tough. when i complained, the manager was dismissive and offered no solution. horrible experience.",0
+"i finished the book, but it wasn't really my favorite genre. it was written well, but i didn't find the plot particularly compelling.",1
+"the customer service at this store was outstanding! the staff was helpful, knowledgeable, and went above and beyond to assist me. i'll definitely be shopping here again.",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+let me know if you'd like more examples!,0
+"here are  new texts that fit the 'negative' category,  based on the examples provided:",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.",2
+"this app has made my life so much easier! it's intuitive, the features are fantastic, and i love how quickly i can get things done. highly recommend it!",2
+"the movie was entertaining enough, nothing groundbreaking but a decent way to spend a couple of hours.",1
+i've been using this app for weeks now and i'm blown away by how much it has improved my life. it's so easy to use and it has already helped me accomplish so much. i highly recommend it!,2
+start_of_turn>model,1
+"the service was atrocious, our waiter seemed completely disinterested and forgot half our order. the food was bland and overpriced, i wouldn't recommend this place to anyone.",0
+start_of_turn>model,0
+"i booked this hotel based on the photos online, which were clearly misleading. the room was cramped, dated, and smelled musty.  the air conditioning didn't work properly, and the staff was unhelpful.",0
+"save your money and go somewhere else. the quality has really gone downhill. the burger was dry, the fries were soggy, and the milkshake tasted like chemicals.",0
+"here are  new texts that fit the 'neutral' sentiment category, inspired by the examples provided:",1
+tart_of_turn>user,0
+this book was a real page-turner!  i couldn't put it down until i finished it.  the author did a fantastic job of creating interesting characters and weaving a captivating plot.  highly recommend it!,2
+i ordered the pasta and it was overcooked and mushy. the sauce was tasteless and the whole dish was a disappointment.,0
+let me know if you'd like more examples!,1
+"i asked for my steak medium rare, but it came out practically raw.  the manager dismissed my complaint and offered no compensation. appalling.",0
+"here are  new texts fitting the 'neutral' category, based on your provided examples:",1
+tart_of_turn>user,0
+"this app has changed my life! it's so helpful for [insert specific purpose], and it makes everything so much smoother. i can't believe i ever lived without it.",2
+i love this app! it makes [task the app helps with] so much simpler and more efficient. the interface is user-friendly and the features are really helpful.,2
+"here are five new texts that fit the 'neutral' category, based on the examples you provided:",1
+"the park was a pleasant place to spend an afternoon, with good trails and plenty of space for kids to play. it wasn't the most exciting park i've ever visited, but it was certainly adequate.",1
+"the place was dirty, sticky tables, and the air was filled with the smell of stale beer.  definitely not worth the hype.",0
+"i found the bakery to be average. the pastries were fresh but not particularly exceptional. the staff was polite, but not overly friendly.",1
+"this place is a complete ripoff! the prices are outrageous for the tiny portions they serve. and to top it off, the food tasted bland and uninspired.",0
+"i went to the park today, it was a nice day out. it was crowded, but the kids had fun on the playground.",1
+"this restaurant serves large portions, which is nice, but the food itself isn't anything special. it's a good option for a budget meal.",1
+tart_of_turn>user,1
+"i ordered the steak medium-rare, but it came out well-done and dry. when i complained, the waiter just shrugged and walked away.",0
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"the hotel was clean and the staff was polite. it wasn't anything special, but it was fine for a one-night stay.",1
+"the movie was okay. it wasn't bad, but it wasn't anything i'd rush to see again. the special effects were decent.",1
+"i was hesitant to try this new restaurant, but wow! the food was absolutely delicious, the service was fantastic, and the atmosphere was so cozy.  i'll definitely be back soon.",2
+start_of_turn>model,2
+"the hotel was clean and the staff was polite, but the wi-fi was unreliable.",1
+"i finally found a bakery that makes my favorite kind of bread - sourdough with cranberries! it's crusty on the outside, soft on the inside, and the cranberries add the perfect touch of sweetness.",2
+tart_of_turn>user,2
+"i've been using this product for a few weeks now, and i'm already seeing great results! it's easy to use, the ingredients are all natural, and it's made a noticeable difference in my skin. highly recommend!",2
+start_of_turn>model,1
+"the staff at this store were incredible. they went above and beyond to help me find exactly what i needed, and their knowledge was so helpful. i'll definitely be shopping here again.",2
+"this restaurant is just okay. the food is edible, nothing special, and the service was fine. i wouldn't go out of my way to eat here, but it's a decent option if you're in the area.",1
+"each of these examples reflects a negative sentiment through complaints about service, food, ambiance, or lack of value for money - similar to the patterns observed in the training examples.",0
+**staying relatively factual:** the descriptions focus on observable aspects rather than personal opinions or judgments.,1
+"the service was painfully slow and inattentive. my food arrived cold and tasted bland, like it had been microwaved multiple times.  the atmosphere was also cramped and noisy, making for a truly unpleasant dining experience. i won't be returning.",0
+"had to wait an hour for our food, even though the place was almost empty. when it finally arrived, it was cold and looked like it had been sitting for ages. avoid this place!",0
+tart_of_turn>user,2
+"the service was incredibly slow and the waitress seemed annoyed when i asked for water. my meal was cold and tasted bland, and the whole experience left me feeling disappointed.",0
+"the hotel room was dirty and smelled musty. there were stains on the carpet and cobwebs in the corners. i requested a new room, but they were fully booked.",0
+i'm so glad i purchased this product! it works exactly as promised and has made such a difference in my daily life. the quality is excellent and the price was unbeatable.,2
+"the park was clean and well-kept. it was a nice place to walk around, but not particularly exciting.",1
+here are  new texts that fit the 'neutral' category based on the provided examples:,1
+"i specifically asked for my steak medium-rare, but it came out burnt. when i complained, the manager just shrugged and walked away.",0
+"i’ve never been served such a poorly cooked meal. the steak was tough, the vegetables were mushy, and the salad dressing tasted like vinegar.",0
+"the hotel was clean and the room was spacious, but the location wasn't the best. it was a bit far from the main attractions.",1
+here are five new texts that fit the 'negative' category:,0
+"this restaurant is a hidden gem! the food was delicious, the portions were generous, and the atmosphere was so cozy and inviting. can't wait to come back and try something new.",2
+"the instructions were clear and easy to follow, and i was able to assemble the product with no problems.  it works perfectly, and i'm thrilled with the results!",2
+"the coffee was alright, a bit weak for my taste, but it got the job done. the atmosphere was pretty standard for a coffee shop, nothing special.",1
+"this restaurant has good vegetarian options, but the service is a bit slow.",1
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.",0
+"this place has really gone downhill. the food was greasy and overpriced, and the atmosphere was dirty and uncomfortable. i wouldn't recommend it to anyone.",0
+"the flight was comfortable enough. the food was bland, but the entertainment system had a decent selection.",1
+"the movie was truly captivating from start to finish! the acting was superb, the story was engaging, and the special effects were stunning.  highly recommend it!",2
+"i've been here twice, hoping the first experience was a fluke, but the second time was just as terrible. never again.",0
+"the coffee shop is conveniently located downtown and always has a steady stream of customers. the coffee is standard, and the pastries are decent.",1
+"i've always struggled with [mention a skill or task], but this course made it so much easier to understand. the instructor was engaging and the lessons were clear and concise. highly recommended!",2
+"**complaints about service:** slow service, rude staff, inattentive waiters",0
+"i've been using this app for a few weeks now and have already lost [weight amount]! it's motivating, easy to use, and packed with helpful tips.  i'm so impressed with the results i'm seeing.",2
+"i was skeptical at first, but this app has completely changed the way i [do something]. it's so easy to use, and the results are amazing!",2
+"the coffee shop has a decent selection of pastries, but the coffee was just okay. not bad, but not amazing either.",1
+"the service was painfully slow, our server seemed utterly disinterested, and the food was bland and overcooked.  we won't be returning.",0
+"the food was bland and overpriced. the only thing ""good"" about this experience was the lack of a line waiting to get in.",0
+"the park is a nice place for a walk, with plenty of grass space and benches. it's well-maintained, but there aren't many unique features.",1
+start_of_turn>model,2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1
+"this place has gone downhill. used to be a favorite, but the last few visits have been terrible.  the food quality has dropped and the prices have skyrocketed.",0
+"this book was a page-turner! the plot was exciting, the characters were well-developed, and the writing was engaging. i couldn't put it down until i finished the last page.",2
+"**objectively describing aspects:**  they mention both positive (clean, polite, decent) and slightly negative qualities (unreliable internet, average, could use more amenities) without strong emotional language.",1
+start_of_turn>model,1
+the atmosphere was dingy and uncomfortable.  it smelled stale and the furniture was sticky.  won't be recommending this place to anyone.,0
+tart_of_turn>user,1
+"avoid this hotel at all costs! our room was dirty, the air conditioning was broken, and the staff was rude and unhelpful. a truly awful experience.",0
+tart_of_turn>user,1
+"the ambiance was unpleasant. the music was too loud, making it impossible to have a conversation.  the place was also dirty, with sticky tables and a strong odor of stale food.",0
+"i was looking for a new book to read and stumbled upon this great store. the shelves were crammed with interesting titles, the staff was incredibly knowledgeable, and they had a cozy reading nook that was just perfect for browsing.  i found the perfect book and will definitely be back soon!",2
+"you will be given examples from 'review sentiment' classification dataset, each labeled with a specific category. based on the examples, generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.",1

@@ -1,0 +1,735 @@
+text,label
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'dollar plunges to record low against euro  new york (reuters) - the dollar dropped to record lows  against the euro on friday, succumbing to negative sentiment  and erasing all of the u.s. currency's earlier gains following  a robust u.s. october employment report.'",2
+"**in a startling revelation, the united nations has announced the discovery of a secret listening device planted within its geneva headquarters, prompting investigations into the source and motives behind this act.**",0
+"suspected islamic militants targeted algerian citizens, leaving   dead in a shocking act of violence. this attack shattered the relative calm of ramadan, highlighting the ongoing security concerns within the region.",0
+"sue bird, the seattle storm's point guard, defied a broken nose to deliver an outstanding performance in their western conference championship victory last night. she set a new wnba playoff record with   assists and also contributed   points to the team's success.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'states # ; pocketbooks are fuller, but health costs stall recovery the fiscal condition of the states improved this year, but soaring health costs have made it difficult for them to recover from the worst fiscal crisis in six decades, the national governors association said thursday.'",2
+"**online viagra market under threat from counterfeit drugs.**  research by british scientists has revealed a significant issue with counterfeit viagra being sold on the internet, potentially jeopardizing the health and safety of consumers.",3
+"in an effort to combat computer viruses and harmful software, microsoft is creating a new product to cleanse personal computers, as announced by ceo bill gates.",3
+"here are five paraphrased versions of the given text, each categorized as 'sports':",1
+"vijay singh defeated tiger woods in a head-to-head clash at the    deutsche bank championship, propelling him past woods in the world golf rankings.",1
+a   victory for england over poland in world cup qualifying action eases the pressure on embattled coach sven-göran eriksson.,1
+"vijay singh's victory over tiger woods at the    deutsche bank championship had a significant impact on the world golf rankings, with singh surpassing woods in position.",1
+tart_of_turn>user,2
+international peace talks in sudan aimed at resolving the crisis in darfur have broken down after parties failed to agree on a resolution.,0
+sudan's efforts to achieve peace in the conflict-ridden darfur region have suffered a setback as internationally brokered peace talks ended prematurely.,0
+australian retail behemoth woolworths ltd. revealed a  % jump in annual net profit to a$  million. this positive financial outcome led to predictions of consistent growth within the upcoming period.,2
+start_of_turn>model,1
+"**sony's latest playstation design update has been a major hit with uk gamers, with a reported  ,  units sold in its first week on the market. sales have tripled since the launch, outperforming microsoft's xbox according to industry analysts chart-track.**",3
+"**the caribbean nation of haiti is facing a humanitarian crisis following the tragic passing of an estimated    people due to tropical storm jeanne. the storm has left widespread destruction and displacement, leading to fears of looting and unrest.**",0
+"here are five paraphrased versions of the text, each focusing on the 'science and technology' category:",3
+"**viewership for ""monday night football"" was strong this week, with green bay's win over carolina ranked as the second most popular prime-time show, trailing only the debut of the ""friends"" spinoff on nbc.**",1
+"**despite competition from a new ""friends"" spinoff, green bay's ""monday night football"" matchup against carolina remained a primetime television draw, securing the second highest viewership of the week.**",1
+tart_of_turn>user,3
+"wall street is anticipating dreamworks animation's initial public offering (ipo) scheduled for thursday, with analysts predicting strong market performance due to the company's recent blockbuster film releases.",2
+the eu's expansion to   countries and its influence on global economic indicators ( % of world gdp and   million consumers) has led to calls for fostering stronger trade relationships with the bloc.,0
+avon is facing a challenging period with forecasts indicating a potential  % decrease in us operating profit. this downturn is attributed to weak sales performance in their core beauty product lines.,2
+"rumors of ibm selling its once-dominant pc division are sparking speculation about a broader trend of consolidation in the high-tech industry, which could result in a substantial reduction in the number of pc manufacturers in the coming years.",2
+"**highlighting the complexity of modern space exploration, news footage shows cliff fleming pursuing the genesis capsule, a technological marvel, back to earth using a helicopter in a daring display of precision and skill.**",3
+technological innovation takes a step forward as cvs introduces a revolutionary disposable digital camera with an integrated color viewscreen for real-time image preview.,3
+the chicago bears have released offensive lineman mike gandy after he started five games this season and   over the past three seasons.,1
+"industry experts believe ibm selling its pc division signals a wave of consolidation in the high-tech sector, potentially shrinking the number of pc manufacturers by a third in the next few years.",2
+"here are five paraphrases of the given text, each focusing on a 'sports' theme:",1
+tart_of_turn>user,3
+"the open-source world is getting a boost as jboss announces a powerful new middleware system, challenging the dominance of established players like ibm and bea systems.",3
+"the indianapolis colts emphasize importance of certain games. when a game holds significant meaning, the team's coach, a.k.a. the head coach, discusses the situation with the players early in the week leading up to the match.",1
+"delta air lines is pursuing a dual financing strategy involving a \$  million funding package and a \$  million prepayment agreement utilizing skymiles, its frequent flyer program.  this is complemented by a new collaboration with american express, which will issue a delta credit card offering skymiles as a rewards option.",2
+"here are five paraphrases of the text ""new palm handheld features more memory, no wi-fi the t is a slim and shiny business device that looks like a stretched-out t (  quot; x   quot; x   quot; hwd,   oz),"" classified as 'science and technology':",3
+"the san francisco  ers had positive news as linebacker derek smith returned to practice on monday. this is a boost for the team's defense, which could also see the return of defensive end andre carter.",1
+tart_of_turn>user,2
+tart_of_turn>user,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'europe: vieira sent off: wins for england, italy england lifted the pressure off the shoulders of coach sven-goran eriksson on wednesday after a   world cup qualifying victory over poland.'",1
+start_of_turn>model,3
+tart_of_turn>user,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'greenback gains on euro even as us economy slips the us dollar climbed against the euro after some traders abandoned bets that a slowdown in growth reflected in economic reports this week would push the us currency to a one-month low.'",2
+"to comprehend the causes behind the recent surge in stinky green algae accumulation along lake michigan's shoreline, researchers will be conducting underwater investigations.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'a tax man laugheth at  # ;simplified # ; code as a tax guy, i found myself chuckling quietly when president bush said in his speech at the republican national convention that he would  quot;lead a bipartisan effort to reform and simplify the '",2
+"here are five paraphrases of the provided text, each classified under the 'sports' category:",1
+start_of_turn>model,3
+"here are five paraphrased versions of the given text, each with the ""sports"" category:",1
+hopes for peace in sudan's darfur have been dashed as government and rebel forces have failed to reach an agreement after weeks of international talks.,0
+"**in a statement made on sunday, u.s. secretary of state colin powell urged north korea to return to nuclear disarmament talks. powell also denounced north korea as a “terrorist state” with a disregard for human rights.**",0
+"microsoft, under the leadership of bill gates, is investing in the development of technology to eradicate malware and adware from personal computers.",3
+let me know if you'd like more examples!,1
+"the arizona diamondbacks, known for their active trading during the baseball off-season, might soon lose one of their key players.",1
+tart_of_turn>user,3
+"the un's role in palestinian affairs is highlighted as nasser al-kidwa, a relative of the late yasser arafat and the palestinian representative to the un, delivered a   page medical record to  the interim palestinian leader.",0
+"here are  paraphrased versions of the text, each focusing on the 'world' category:",0
+"president bush's pledge to simplify the u.s. tax code elicited a chuckle from tax professionals, as the current legislation remains complex for individuals and businesses alike.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'hopkins has done things his way for the fight of his life, undisputed middleweight champion bernard hopkins chose some music that says something about his life. when he enters the ring saturday to face oscar de la hoya, it won # ;t be to pulsating rap.'",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'new palm handheld features more memory, no wi-fi the t is a slim and shiny business device that looks like a stretched-out t (  quot; x   quot; x   quot; hwd,   oz), minus the slider design.'",3
+"**currency traders anticipate fed meeting impact after positive data release** -  despite a strengthening dollar buoyed by strong u.s. manufacturing data, currency traders are anticipating a period of relative stability in the markets as they await next week's federal reserve meeting.",2
+"radcliffe's olympic marathon aspirations were dashed as her journey ended prematurely in athens. the once-celebrated athlete, aiming for a historic victory,  faced a devastating setback, leading to her marathon dreams coming to a halt.",1
+"here are five paraphrased versions of the input text, each focused on the 'science and technology' category:",3
+"**us dollar strengthens amid economic uncertainty:**  despite recent economic reports indicating a slowdown, the us dollar strengthened against the euro as some traders reversed their bets on a potential drop to a one-month low. this suggests a shift in market sentiment and potential concerns around other global currencies.",2
+**renault's ultimatum to f  restructure financial payouts or face withdrawal from the sport.**,1
+paula radcliffe's hopes of achieving athletic glory in athens were extinguished in a heartbreaking turn of events. the legendary marathon runner's dream of crowning her career with an olympic medal was shattered at the panathenaic stadium.,1
+"sen. john kerry condemned president bush's handling of the iraq war, claiming that the invasion was driven by wrong judgments and could result in an unending war. kerry asserted that a prudent commander-in-chief would not have pursued the war knowing that saddam hussein possessed neither wmds nor posed an immediate threat to the united states.",0
+"**us jobless claims rise as consumer spending plateaus**:  according to the us government, jobless claims surged last week, while consumer spending unexpectedly remained flat in august. this comes after a period of increased consumer spending the previous month.",2
+"while states show signs of financial improvement, the escalating cost of healthcare presents a significant challenge in fully recovering from a severe financial downturn, reports the national governors association.",2
+"here are  science and technology paraphrases of the given text, focusing on the technological aspects:",3
+"in a pivotal phone call, south korean president roh moo-hyun urged u.s. president bush to make ending north korea's nuclear program a top priority for his second term, gaining the president's agreement.",0
+"**the genesis capsule, a technologically advanced spacecraft, recently completed a mission and cliff fleming, a pilot, was tasked with retrieving it from its unexpected landing in chicago.**",3
+tart_of_turn>user,1
+tart_of_turn>user,3
+start_of_turn>model,3
+start_of_turn>model,1
+tart_of_turn>user,1
+tart_of_turn>user,1
+"aerospace engineers are putting a sophisticated autopilot system through its paces in a   mile high demonstration, a system that could be vital for sending humans to the moon or mars.",3
+start_of_turn>model,0
+"here are five paraphrases of the given text, each focused on the 'business' category:",2
+start_of_turn>model,1
+"**us economy shows uneven growth**:  the latest us economic data paints a picture of conflicting trends. while jobless claims climbed sharply last week, consumer spending remained stagnant in august, potentially signaling a slowdown in economic activity.",2
+start_of_turn>model,2
+"**tech stocks surge as oil prices plummet** - the nasdaq composite index, heavily weighted towards technology companies, reached a seven-month peak on thursday. this surge was fueled by a sharp decline in crude oil prices, easing concerns about how surging energy costs might impact corporate profits.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'no.   louisville holds off florida  -  (ap) ap - taquan dean scored   points, francisco garcia added   and no.   louisville withstood a late rally to beat florida  -  saturday. rick pitino improved to  - against former assistant coaches and players and extended his record to   against billy donovan.'",1
+tart_of_turn>user,3
+"in a major espionage case, a former london police officer was sentenced to   years in prison by a british court. he was found guilty of spying on saudi dissidents and others within britain, receiving $ ,  from a saudi arabian diplomat.",0
+"these paraphrases emphasize the conflict between renault and f  focusing on financial issues, and framing the situation as a potential sporting exodus.",1
+negative market sentiment drove the u.s. dollar to a record low against the euro on friday. this negative movement erased earlier gains the dollar had made following a strong october u.s. employment report.,2
+"as technology giants compete for dominance, microsoft is gearing up to release its own search engine, aiming to rival the ubiquitous google. this development highlights the ongoing innovation and evolution within the realm of internet search.",3
+"in a move to expand their business offerings, bt has joined forces with siemens and rim to offer the siemens sk  smartphone incorporating blackberry technology to uk corporations.",3
+tart_of_turn>user,1
+"in an effort to challenge major players in the middleware market, open-source software company jboss is launching a new set of middleware tools.",3
+"here are  paraphrased versions of the text, categorized as 'science and technology':",3
+"a case of international espionage unfolded in london as a former police officer was sentenced to   years imprisonment. he was found guilty of spying on saudi dissidents and others in britain, receiving $ ,  from a saudi diplomat for his illicit actions.",0
+start_of_turn>model,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'bears waive gandy, activate colombo chicago bears offensive lineman mike gandy was waived monday after starting five games for the team this season and   over the past three seasons.'",1
+start_of_turn>model,1
+a diplomatic dispute is brewing between equatorial guinea and the united kingdom as the former seeks to question mark thatcher over alleged involvement in a coup plot. south african legal representation stands ready to handle the international legal process.,0
+start_of_turn>model,2
+"john kerry, a us senator, criticized president bush's decision to invade iraq, arguing that the war was based on faulty intelligence and could lead to perpetual conflict. kerry emphasized that a responsible leader would not have launched the invasion knowing saddam hussein lacked weapons of mass destruction and posed no immediate threat.",0
+start_of_turn>model,0
+"**jobless claims climb while consumer spending holds steady**:  us business news report a significant rise in jobless claims last week, potentially indicating a weakening labor market.  however, consumer spending has remained flat, suggesting cautious consumer behavior.",2
+"here are  paraphrased versions of the text, each focused on the 'world' category:",0
+start_of_turn>model,3
+start_of_turn>model,3
+"**russian mathematician, dr. grigori perelman, working at the steklov institute of mathematics, may have solved one of the most challenging mathematical problems.**",3
+"amidst the ongoing instability in iraq, u.s.-backed forces are pressing their offensive, with the capture of a rebel-held city as the first step in a larger effort to restore national control. this approach, while aimed at ending the conflict, continues to draw criticism for the human cost.",0
+**geologists tracking tremors overnight at mount st. helens believe the increased seismic activity signals a heightened risk of volcanic eruption.**,3
+start_of_turn>model,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'at least   people killed,   injured in bangladesh # ;s bomb blasts at least   people were killed and over   injured, as a series of bombs and grenades exploded through a rally here organized by the main opposition the awami league saturday '",0
+tart_of_turn>user,0
+**sports:** arsenal loses a key player for their champions league encounter against rosenborg. midfielder gilberto silva has been diagnosed with a back injury that will sideline him for the next month.,1
+"**world reacts to violence in bangladesh:** condemnation is growing internationally following deadly bomb blasts that targeted a bangladeshi political rally, leaving at least   people dead and over   injured.",0
+"the struggling beauty giant, avon products inc., has warned investors of a potential  % drop in us operating profit, citing difficulties with key product sales. this announcement has led to a decline in avon's stock value on the new york stock exchange.",2
+"shizuka arakawa, japan's world-renowned figure skater, overcame early jitters and acclimated to a new pair of skates to lead the women's short program at the nhk trophy competition in nagoya.",1
+"**tropical storm jeanne has wreaked havoc in haiti, claiming the lives of an estimated    people and leaving countless more homeless. amidst the devastation, residents  gather in a mud-covered cathedral to pray for the victims while the united nations deploys additional peacekeeping forces to quell looting in the ravaged city of gonaives.**",0
+"here are five paraphrased versions of the provided text, each focusing on the 'science and technology' category:",3
+"here are five paraphrased versions of the provided text, each categorized as 'sports':",1
+"the stage is set for an exciting showdown in the men's   meters at the athens games.  sunday's final promises to be a showcase of speed, with american sprinters shawn crawford, justin gatlin, and reigning champion maurice greene leading the charge.",1
+"in a significant development for palestine, nasser al-kidwa, a key palestinian figure and un representative, handed over yasser arafat's medical documents to the current palestinian president.",0
+"here are five paraphrased versions of the text, all categorized as 'sports':",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'montgomerie picked for ryder cup team colin montgomerie # ;s toughest year on and off the golf course took a turn for the better sunday when he was chosen by european captain bernhard langer to play in his seventh ryder cup.'",1
+start_of_turn>model,3
+"here are  paraphrased versions of the text, each focused on the ""science and technology"" category:",3
+tart_of_turn>user,2
+"avon, facing declining sales of popular beauty products, projects a significant dip in us operating profit, potentially reaching a  % decline. this troubling financial forecast has caused concerns among investors.",2
+start_of_turn>model,0
+**currency markets react to positive u.s. economic performance** -  the u.s. dollar has gained ground against the yen and euro as positive manufacturing data strengthens investor confidence in the u.s. economy.,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'london ex-policeman sentenced for spying a judge sentenced a former london police officer to    years in prison monday for spying on saudi dissidents and others in britain in exchange for \$ ,  from a diplomat representing saudi arabia.'",0
+"the palm t is a sleek, newly launched handheld device that has been optimized for memory capacity, but does not include wi-fi connectivity. measuring   x   x   inches and weighing   ounces, its design is reminiscent of the t model but elongated.",3
+"here are  paraphrases of the provided text, each focusing on the ""world"" category:",0
+start_of_turn>model,2
+"here are five paraphrased versions of the provided text, each categorized as 'business':",2
+"here are  paraphrased versions of the given text, each suitable for the 'sports' category:",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'nba to experiment with  point rules in nbdl new york (sportsticker) - the nba appears determined to lessen the impact of the  pointer. first, it will test out the change in the national basketball development league.'",1
+start_of_turn>model,2
+"algeria is reeling from a deadly attack. suspected islamic militants have killed   civilians, marking the first such incident since the beginning of ramadan.",0
+"here are five paraphrased versions of the text, each focused on the 'sports' category:",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'stocks fall on security, earnings worries  new york (reuters) - u.s. stocks fell in extremely thin  volume on monday as security concerns surrounding the  republican convention in new york and worries about an update  from technology bellwether intel corp. &lt;a href=""http://www.investor.reuters.com/fullquote.aspx?ticker=intc.o target=/stocks/quickinfo/fullquote""&gt;intc.o&lt;/a&gt; this week kept  investors on the sidelines.'",2
+"here are  paraphrased versions of the provided text, all focused on the ""world"" news category:",0
+"japanese figure skater shizuka arakawa, the reigning world champion, overcame early jitters and a new pair of skates to secure the top spot in the women's short program at the nhk trophy competition in nagoya.",1
+"**italy seeks international assistance to secure the release of two italian hostages held by an unknown faction.** an impending deadline raised fears for the hostages' safety, prompting italian foreign minister franco frattini to appeal to arab nations for aid.",0
+"here are five paraphrases of the provided text, each categorized as 'science and technology':",3
+start_of_turn>model,0
+"usc's rise to the top of college football is driven in part by their tenacious pursuit of turnovers.  their commitment to taking the ball away from opponents is displayed prominently, even on their t-shirts.",1
+tart_of_turn>user,2
+**sports:**  an injury setback for arsenal! midfielder gilberto silva will be unable to play against rosenborg in the champions league on wednesday after sustaining a back problem.,1
+tart_of_turn>user,2
+start_of_turn>model,3
+"**dr. grigori perelman, a russian mathematician at the steklov institute of mathematics, has made a potentially groundbreaking contribution to mathematics. sources indicate he may have solved a notoriously complex mathematical problem.**",3
+"us senator john kerry expressed concerns about the consequences of president bush’s decision to invade iraq, stating that the war’s foundation was on flawed intelligence.  kerry argued that, absent proof of weapons of mass destruction or an imminent threat, a responsible leader would not have initiated the conflict.",0
+"here are  paraphrased versions of the provided text, each categorized as 'sports':",1
+"here are  paraphrases of the given text, each categorized as 'business':",2
+"leveraging the popularity of blackberry, bt is set to launch the siemens sk , a mobile phone that integrates blackberry technology, aimed specifically at uk corporate clients.",3
+"toronto (cp) - the rise in the us insurance sector propelled stock markets upward on tuesday afternoon, though fluctuating oil prices restrained significant investment by many investors.",2
+start_of_turn>model,0
+"**telekom stake divestiture signals german government's fiscal adjustment plan:** the german government's decision to sell    of its deutsche telekom stake, resulting in €  billion, is a notable step towards their broader plan to address and manage the country's budget deficit.",2
+the national basketball association (nba) has announced a plan to test a revised three-point rule in the nba development league (nbadl).,1
+"breaking new ground in consumer electronics, cvs launches a groundbreaking disposable digital camera equipped with a bright color viewscreen for immediate photo viewing.",3
+"at the nhk trophy figure skating competition in japan, world champion shizuka arakawa impressed despite early nerves and a change in footwear, leading the women's short program.",1
+"here are five paraphrased versions of the text, all categorized as 'business':",2
+"world champion figure skater shizuka arakawa dominated the women's short program at the nhk trophy in nagoya, japan, showcasing her talent despite adjusting to a new pair of skates.",1
+"ibm's potential sale of its pc business is raising eyebrows in the industry, with experts suggesting it could be the first step in a larger trend of companies merging or being acquired, leading to a significant decrease in the number of pc manufacturers.",2
+"here are five paraphrased versions of the provided text, each focusing on a 'world' news angle:",0
+tart_of_turn>user,1
+tart_of_turn>user,0
+tart_of_turn>user,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'gates: microsoft to target malware (newsfactor) newsfactor - microsoft (nasdaq: msft) is working on the development of a product to remove adware and malicious software from pcs, bill gates told a meeting of technologists in silicon valley.'",3
+"**thin trading day as investors await intel results:** the stock market  saw a drop on monday with low trading volume as investors held back, awaiting intel corp.'s upcoming earnings report and news surrounding the republican national convention.",2
+tart_of_turn>user,0
+**renault ceo says the team is leaving formula  unless f chief bernie ecclestone re-evaluates the money allocated to teams.**,1
+start_of_turn>model,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'a double-up game colts.com. if a certain game is important for a certain reasons, the colts head coach will discuss the matter with his team early in the week.'",1
+start_of_turn>model,1
+"**stock market retreat fueled by intel and convention fears:**  a drop in us stock prices was observed on monday, driven by worries about both security concerns related to the republican national convention and the impending intel corp. earnings announcement.",2
+"dreamworks animation is preparing for its highly anticipated ipo on thursday, capitalizing on the strong financial performance driven by its recent box-office hits.",2
+"in a critical stance, senator john kerry questioned the wisdom behind president bush’s iraq war, contending that the invasion was propelled by erroneous assessments. kerry warned that the lack of evidence regarding weapons of mass destruction and an imminent threat posed by saddam hussein could lead to a protracted and unending war.",0
+a new york woman imprisoned in peru for collaborating with marxist guerrillas expresses little hope for an early release despite an anticipated favorable international court ruling.,0
+"uruguay is experiencing a historic political turning point with the election of luis lacalle pou, the country's first-ever leftist president.  his victory followed compulsory voting, with two other candidates conceding defeat.",0
+"**viewers tuned in for  green bay's victory on ""monday night football"" week one, landing it as the second most watched show in prime time, after nbc's ""friends"" spinoff premiere.**",1
+"news from san jose, california: a new battle is brewing between linux developers and microsoft. linux supporters are aiming to gain a larger share of the market, emphasizing the advantages of open-source software solutions.",3
+start_of_turn>model,1
+start_of_turn>model,0
+**microsoft under fire for pricing practices amidst allegations of monopoly:** lawsuits filed by california municipalities allege that microsoft uses its strong market position in personal computers to impose unfair pricing on its products.,3
+"**world tensions escalate as u.s. secretary of state colin powell demands north korea rejoin nuclear disarmament negotiations. powell condemned north korea's human rights violations and labelled the nation a ""terrorist state"".**",0
+"here are five paraphrases of the provided text, each framed within the ""world"" category:",0
+tart_of_turn>user,1
+"while aiming for tax reform, president bush faced criticism regarding the complexity of the existing tax code, prompting debates about simplifying the system for taxpayers.",2
+"**deutsche telekom stake sale fuels german government's deficit-fighting efforts:**  the german government has  sold a significant share of its holding in deutsche telekom, realizing a potential revenue of €  billion. this capital injection directly supports the government's objective of controlling the expanding budget deficit.",2
+start_of_turn>model,3
+"louisville's basketball team, ranked no.  , secured a hard-fought victory against florida with a final score of  - . taquan dean emerged as a star, scoring   points, while francisco garcia contributed  . this win marked a significant milestone for coach pitino, extending his record to  - against former assistants and players.",1
+"gerrit zalm, the dutch finance minister, is leveraging a personal online blog to provide a glimpse into the intricacies of ministerial life, highlighting the evolving role of technology in political communications.",3
+"**sports:** injury woes for arsenal! midfielder gilberto silva will miss the next month, including their champions league match against rosenborg, because of a back injury.",1
+tart_of_turn>user,1
+"here are  paraphrased versions of the text, each focusing on the 'business' category:",2
+"in a significant development in the ongoing iraqi conflict, u.s.-led forces are escalating their operations, aiming to wrest control of the entire country from rebel hands. the move, while strategically crucial, has sparked international debate over its humanitarian cost.",0
+"paula radcliffe's marathon dream has come to a heartbreaking end at the panathenaic stadium.  the olympic icon, who had long dreamed of finishing her illustrious career with a victory in athens, experienced a devastating setback.",1
+"athens is bracing for an electrifying men's   meter race on sunday, featuring a talented field including american stars like shawn crawford, justin gatlin, and defending champion maurice greene. the preliminaries have already hinted at the fast-paced competition to come.",1
+"usc's dominant performance this season hinges on their unwavering focus on takeaways. the team's obsession with securing the football is evident in every aspect of their program, from specially designed t-shirts for players emblazoned with the message, ""it's all about the turnover.""",1
+tart_of_turn>user,3
+**renault is unhappy with f s financial model and is considering leaving unless the system is changed.**,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'dollar firm after upbeat u.s. data  tokyo (reuters) - the dollar held firm against the yen and  the euro on thursday on upbeat u.s. manufacturing data, but  many traders expected range-bound trading ahead of next week's  federal reserve meeting.'",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'not a pretty picture for avon, stock down  new york (reuters) - avon products inc. &lt;a href=""http://www.investor.reuters.com/fullquote.aspx?ticker=avp.n target=/stocks/quickinfo/fullquote""&gt;avp.n&lt;/a&gt;, the  world's largest direct seller of cosmetics, on wednesday  forecast a slide of as much as   percent in u.s. operating  profit as it grapples with weaker sales of key beauty items.'",2
+"here are  paraphrased versions of the given text, each categorized as 'business':",2
+"england's football team triumphed over poland in a world cup qualifier, securing a crucial   victory and relieving pressure on head coach sven-göran eriksson.",1
+"colin montgomerie, a veteran golfer facing troubles both personally and professionally, got a boost when he was selected to play in his seventh ryder cup by captain bernhard langer.",1
+let me know if you'd like more paraphrases or have any other text you'd like me to categorize!,3
+"here are five paraphrased versions of the provided text, each rewritten for the 'world' news category:",0
+**energy crisis fears fade as tech sector soars** -  concerns about the impact of high energy prices on companies eased as the tech-focused nasdaq composite index hit its highest point in seven months. the index benefited from a significant drop in oil prices on thursday.,2
+"the japanese government is preparing to address the issue of mad cow disease through a planned meeting of its food safety commission.  the outcome of these discussions could have global implications for the agricultural sector, particularly for the us beef industry.",0
+"a wnba playoff record was set last night by seattle storm point guard sue bird, who tallied   assists despite playing through a broken nose. the storm won the western conference title.",1
+"barclays is exploring a major overseas investment in the form of a potential acquisition of absa group, a prominent south african financial services provider. the deal, estimated to be valued at \$ billion or more, would be barclays' largest transaction outside of its home market.",2
+"international tensions heightened as a former london police officer was jailed for   years for spying on individuals, including saudi dissidents, within britain. he was found to have been paid $ ,  by a saudi arabian diplomat for this clandestine operation.",0
+**competition concerns raised as microsoft faces lawsuits over software pricing:** multiple lawsuits alleging monopolistic behavior have been filed against microsoft by california city and county governments. the lawsuits claim that microsoft is exploiting its control of the personal computer operating system market to charge inflated prices.,3
+start_of_turn>model,2
+"**science and technology:** in a strategic move, intel has decided to abandon its project for a chip designed for projection tvs, choosing instead to prioritize resources for other technological advancements.",3
+start_of_turn>model,2
+"here are five paraphrased versions of the text, each focused on the 'sports' category:",1
+tart_of_turn>user,3
+tart_of_turn>user,1
+"the dodgers dominated the st. louis cardinals in their game, winning   thanks to jose lima's dominant shutout pitching and shawn green's two home runs. this important victory helps the dodgers stay in contention for the nl division series.",1
+"here are five paraphrases of the provided text, each focusing on the 'world' news category:",0
+"delta air lines is leveraging two financial initiatives: securing \$  million in funding and accelerating payments via skymiles, its loyalty program.  a noteworthy aspect is the \$  million prepayment component, signifying the value attached to skymiles.  this coincides with a new partnership, as american express is introducing a delta-branded credit card that rewards holders with skymiles.",2
+"**counterfeit viagra: a serious threat to online consumers.** a new study highlights the alarming prevalence of fake viagra pills on the internet, raising concerns for online health and safety.",3
+tart_of_turn>user,2
+start_of_turn>model,0
+"**science and technology:** semiconductor giant intel has scrapped plans to develop a chip for projection tvs, shifting its focus to other promising technological avenues. this decision indicates a strategic adjustment in their product roadmap.",3
+"market sentiment negatively impacted the u.s. dollar, causing it to plummet to a new low against the euro. this occurred despite earlier gains following a strong u.s. october employment report.",2
+start_of_turn>model,0
+"**toronto: stock markets rise on insurance rally, oil volatility persists**",2
+start_of_turn>model,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'intel switches off tv chip in another change of plan, semiconductor giant intel has cancelled a project to develop a chip for projection tvs, saying it plans to focus its resources in other areas.'",3
+"**tensions escalate as renault  demands fairer financial distribution  for formula  teams, threatening to pull out.**",1
+"the    deutsche bank championship saw a pivotal moment as vijay singh defeated tiger woods, resulting in singh taking over a higher spot in the world golf rankings.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'strategy for partnership with the european unions (eu) expansion to   countries, it now accounts for   of world gdp and a market of   million. that closer commercial relationships with eu are desirable is obvious.'",0
+"**the first game of the nfl season, featuring green bay and carolina on ""monday night football,"" garnered significant attention, ranking as the second most watched primetime show behind the premiere of a new ""friends"" series.**",1
+**earthquake monitoring efforts at mount st. helens indicate a growing chance of a volcanic eruption in the near future.**,3
+start_of_turn>model,2
+"despite several key players being sidelined due to injuries, scotland's gary caldwell remains optimistic about his team's chances in upcoming matches against norway and moldova.",1
+"uruguay has elected its first-ever leftist leader, luis lacalle pou, after a nationwide vote.  lacalle pou claimed victory shortly after mandatory voting concluded in the nation of   million, and his two opponents conceded.",0
+start_of_turn>model,0
+start_of_turn>model,1
+"following concerns about mad cow disease, japan's government is scheduled to meet to debate changes to cattle testing procedures. this debate could have global ramifications, potentially impacting the export market for us beef.",0
+"palm has introduced the t  a new handheld offering more memory than its predecessor, but without wi-fi compatibility. this sophisticated, slimline device shares a similar form factor with the t  measuring   inches by   inches by   inches and weighing   ounces.",3
+"toronto (cp)  -  stock markets showed signs of growth on tuesday, primarily due to a positive performance in the us insurance sector.  continued volatility in oil prices moderated the overall market surge.",2
+**renewed earthquake activity at mount st. helens has experts concerned about the possibility of an imminent eruption.**,3
+"despite continued uncertainty in the oil market, stock markets saw an upward movement on tuesday due to a strong performance by the insurance sector in the united states. toronto (cp)",2
+mozilla is marking progress in open-source web development by releasing a near-final version of its firefox browser  ahead of schedule. this version serves as a precursor to the official   launch on november  h.,3
+"dreamworks animation is set to go public on thursday in an ipo expected to benefit from the company's recent box office successes, generating significant investor interest.",2
+"**in an effort to recover a sophisticated spacecraft, the genesis capsule, pilots took to the skies above chicago, engaging in a risky pursuit that defied the typical urban landscape.**",3
+"keep in mind that 'world news' can encompass a variety of angles, so these paraphrases highlight different aspects of the story depending on the specific focus desired.",0
+"in a big win for the los angeles dodgers, jose lima shut down the st. louis cardinals, not allowing a single run in a complete-game victory. his five-hit shutout was complemented by two homers from shawn green, securing a crucial victory in their division series.",1
+start_of_turn>model,0
+start_of_turn>model,2
+start_of_turn>model,3
+"here are five paraphrased versions of the text, each focusing on the 'world' category:",0
+"a novel fusion of photography and technology: cvs unveils the world's first disposable digital camera with a high-resolution color screen, allowing users to see their photos instantly.",3
+"in a bid to connect with younger audiences and families, mcdonald's has teamed up with the iconic girl group destiny's child for a significant marketing push.",2
+start_of_turn>model,2
+"here are  paraphrases of the given text, each focusing on the 'business' category:",2
+"the eu's growing influence on the world stage is undeniable. with   member countries and commanding  % of global gdp, its market size of   million consumers makes it a major player.  strengthening relationships with the eu is widely seen as beneficial on a global scale.",0
+"**italy faces a crisis as unidentified captors threaten to kill two italian hostages before a deadline.** italian authorities are escalating diplomatic efforts, with foreign minister franco frattini seeking international support to secure their release.",0
+"peace talks in darfur between the sudanese government and rebels have ended without a resolution, after three weeks of discussions hosted in an international effort.",0
+"cvs is rolling out the world's first disposable digital camera featuring a vibrant color display, enabling customers to instantly preview their shots.",3
+concern is mounting in the uk over apple's downloadable music pricing practices. a consumer advocacy group is pushing legal action through the office of fair trading.,3
+"this week, a \$  million demonstration will test a cutting-edge autopilot system   miles above earth. the system could play a key role in paving the way for future space exploration to the moon and mars.",3
+tart_of_turn>user,0
+"state finances have improved this year, but high healthcare costs are hindering their recovery from the worst financial crisis in six decades, according to the national governors association.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'jboss aims high with enterprise middleware system december  ,    (idg news service) - open-source vendor jboss inc. on monday plans to formally announce a stack of middleware software designed to make it more competitive with the sophisticated products sold by companies like ibm, bea systems inc.'",3
+"**bangladesh bathed in violence:** tragic events unfolded in bangladesh as a political rally was shattered by an onslaught of bombs and grenades, claiming the lives of at least   people and injuring over",0
+derek smith's return to practice with the san francisco  ers on monday is a welcome sight for the team. there's also hope that defensive end andre carter will rejoin the practice squad soon.,1
+"microsoft is entering the competitive world of search engines with the  launch of its own platform, aimed at capturing market share from  industry leader google. this foray into search represents a significant strategic move for the technology company.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'caldwell confident despite injury woes gary caldwell insists he is confident scotland can overcome their injury problems to secure the right results against norway and moldova.'",1
+"anticipation is high for dreamworks animation's upcoming ipo, which could be a lucrative opportunity for investors given the company's recent string of critically acclaimed and commercially successful films.",2
+"mcdonald's is investing in a new marketing campaign with a target audience of children and mothers. the company has partnered with destiny's child, hoping their popularity will resonate with families across the country and boost brand appeal.",2
+tart_of_turn>user,0
+"louisville's basketball program is rolling.  ranked no.  , they defeated florida  -  in a closely contested game. taquan dean spearheaded the offense with   points, while francisco garcia added  . this win added to coach pitino's growing record against former assistants and players,  reaching a remarkable   wins and  loss.",1
+"palestinian representative to the united nations, nasser al-kidwa, a nephew of yasser arafat, presented a detailed medical dossier to the interim palestinian president.",0
+start_of_turn>model,2
+"scottish golf legend colin montgomerie has been chosen to compete in his seventh ryder cup, a welcome turn of events after a tough year both on and off the course.",1
+"playing through an injury, sue bird led the seattle storm to the western conference title.  bird broke seattle's assist record in the playoffs, finishing the night with   dimes and   points.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'back at it the  ers returned to the practice field monday morning, and linebacker derek smith was there with them. that alone is very good news for a defense that also could have right end andre carter back in action '",1
+let me know if you'd like to see more examples!,1
+tart_of_turn>user,3
+"here are  paraphrases of the given text, each focusing on the 'business' category:",2
+"dutch finance minister gerrit zalm uses a personal blog to share insights into his professional and private life, potentially demonstrating the power of digital platforms in public service.",3
+"the sporting world rejoiced as colin montgomerie's name was included on the european ryder cup team, signifying his seventh time participating in this historic golf tournament.",1
+"seattle storm point guard sue bird, despite battling a broken nose, put on a spectacular show last night, setting a wnba playoff record with   assists while also scoring   points to help her team win the western conference championship.",1
+"here are five paraphrases of the provided text, each focused on the ""world"" category:",0
+"recently released  is the palm t  a new  handheld device emphasizing increased storage space. notably absent is wi-fi capability.  its compact, refined design echoes the palm t but with expanded dimensions (  x   x   inches) and a weight of   ounces.",3
+let me know if you'd like to see more paraphrases!,3
+"at a recent tech conference, bill gates shared that microsoft is developing a  technology solution aimed at removing malicious software and adware from pcs.",3
+south african lawyers are preparing to meet on behalf of mark thatcher regarding a request from equatorial guinea. the country accuses thatcher of involvement in financing a coup plot.,0
+"**expect market volatility next week. retail sales figures on monday and the federal reserve's tuesday event will likely have a significant impact, according to analysts.**",2
+tart_of_turn>user,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'cost of insuring workers' health increases  . it was the fourth consecutive year of double-digit increases in health insurance premiums, which has resulted in a decline in the number of insured workers.'",2
+tart_of_turn>user,1
+"**germany offloads deutsche telekom stake, aims to slash deficit:**  the german government has sold off a significant portion of its stake in deutsche telekom, the national phone operator, raising approximately €  billion. this strategic move is intended to help mitigate the country's growing budget deficit.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'us jobless claims up, consumption flat (reuters) reuters - u.s. claims for jobless benefits\jumped last week, while consumer spending was unexpectedly flat\in august as shoppers closed their wallets after splashing out\the previous month, the government said on thursday.'",2
+**high-level egypt-israel talks set:** egyptian officials are setting aside time for a crucial diplomatic visit to israel next month. foreign minister abul gheit and intelligence chief suleiman aim to address both bilateral matters and the complex issue of the israeli-palestinian conflict.,0
+"according to a report from cbc sports online, a significant player change could be on the horizon for the arizona diamondbacks.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'arsenal, facing rosenborg in europe, loses gilberto (update  arsenal midfielder gilberto silva will miss the team # ;s second champions league group game against norwegian champion rosenborg on wednesday with a back injury, ruling him out for at least a month.'",1
+"in his republican national convention speech, president bush promised bipartisan support for simplifying the tax code, an issue frequently raising scrutiny from both individual and corporate tax filers.",2
+start_of_turn>model,3
+"a top russian oil industry expert predicts that russia's exports of oil, the world's second-largest source, could decrease potentially within the next two years.",2
+tart_of_turn>user,2
+"**calling for urgent action, u.s. secretary of state colin powell pressed north korea on sunday to return to nuclear talks. powell denounced north korea's aggressive stance, labeling it a ""terrorist state"" and criticizing its appalling track record on human rights.**",0
+"**a serious security breach has occurred at the united nations' european headquarters in geneva. a bugging device was found in a prominent meeting room, raising questions about international espionage and the safety of diplomatic discussions.**",0
+"the u.s. dollar experienced a significant decline against the euro on friday, reaching a record low. this drop erased earlier gains made by the dollar following a positive u.s. employment report in october. the decline is attributed to negative sentiment in the market.",2
+"**news footage captured the dramatic moment a helicopter, piloted by cliff fleming, pursued a high-tech capsule, the genesis capsule, back to its landing site in a bustling chicago cityscape.**",3
+"scottish football boss gary caldwell, despite acknowledging the team's injury woes, remains positive about their prospects against norway and moldova, confident they can achieve the desired results.",1
+start_of_turn>model,2
+"a former london police officer was imprisoned in the uk for   years after being found guilty of spying on saudi dissidents and other individuals residing in britain.  he received payment of $ ,  from a diplomat representing saudi arabia for this illicit activity.",0
+"here are five paraphrased versions of the text, each labeled with the 'science and technology' category:",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'big maths solution  # ;looks good # ; one of the toughest problems in maths may have been solved by the russian scientist dr grigori perelman, of the steklov institute of mathematics.'",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'dutch minister's world revealed in 'blog' (reuters) reuters - dutch finance minister gerrit zalm\says his ""blog"" -- personal diary on the internet -- gives\people an idea of what it is to be a minister, with insights\into his professional and private life.'",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'microsoft ready to launch search engine microsoft on thursday will launch its long-promised internet search engine, which will compete directly with market leader google, sources close to the company said tuesday.'",3
+"here are five paraphrases of the given text, each rewritten for the 'business' category:",2
+start_of_turn>model,3
+start_of_turn>model,2
+expanding the european union (eu) to   countries has significantly impacted global economics.  the eu now represents  % of the world's gdp and a consumer market of   million.  strengthening commercial ties with the eu appears to be a strategic priority.,0
+"if a game has a special importance for the colts, the head coach tackles the subject with the team early in the week, ensuring they understand the stakes involved.",1
+"in its latest financial report, woolworths ltd. showcased a significant boost in profits, with a  % increase reaching a$  million. the company expressed confidence in maintaining robust financial performance.",2
+"international attention is focused on uruguay as the nation elects luis lacalle pou, its first leftist leader. voters participated in compulsory voting, and lacalle pou's victory has been confirmed by his defeated opponents.",0
+"usc's number three ranking in the nation is largely attributed to their relentless dedication to generating turnovers. this football-centric philosophy permeates every level of the program, even down to the attire worn by the players.",1
+tart_of_turn>user,1
+"here are five paraphrased versions of the text, each focused on the 'business' category:",2
+"the tech community is buzzing as mozilla prepares to release firefox    with a near-final version becoming available today. the official release is set for november  h, indicating a significant milestone in open-source web browser development.",3
+"here are five paraphrases of the given text, each focusing on the ""science and technology"" category:",3
+"u.s.-led forces intensified their control over a rebel-held iraqi city, initiating a campaign to reclaim the entire nation. however, this offensive has drawn criticism due to the significant civilian casualties and suffering caused.",0
+"the international community watches as south korea and the u.s. align their efforts, with president roh moo-hyun highlighting north korea's nuclear program as a pressing global concern during a conversation with president bush.",0
+tart_of_turn>user,2
+"**haiti is reeling from the devastating impact of tropical storm jeanne, which has resulted in the loss of    lives. as citizens grapple with the destruction of their homes and possessions, there are growing concerns about looting and insecurity, prompting the united nations to increase its peacekeeping presence in the city of gonaives.**",0
+let me know if you'd like more paraphrases!,3
+"**tropical storm jeanne has left a trail of devastation in haiti, with estimates reporting    casualties and widespread property damage.  as the nation mourns its losses, international organizations like the united nations are rushing to provide aid and maintain order in the aftermath of the storm.**",0
+start_of_turn>model,2
+start_of_turn>model,0
+"a top russian oil industry figure issued a concerning warning that the country's oil exports, currently a major global force, might decline within the next two years.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'germany cuts d.telekom stake  frankfurt/london oct   (reuters) - germany sold a    percent stake in phone operator deutsche telekom on monday,  raising up to   billion euros (\$  billion) to help it curb  a burgeoning budget deficit.'",2
+start_of_turn>model,2
+tart_of_turn>user,3
+"the case of lori berenson, a new yorker incarcerated in peru for alleged collaboration with marxist insurgents, highlights international concerns about human rights and judicial processes abroad.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'n.y. woman doubts getting early release from peruvian prison cajamarca, peru -- lori berenson, the  -year-old new yorker jailed in peru for collaboration with marxist guerrillas, holds little hope that an expected international court ruling in her favor will get her out of prison before she turns  .'",0
+"global trade and economic development are affected by the eu's expansion. with  % of global gdp and a market of   million consumers, the eu has become a major economic force.  close commercial partnerships with the eu are considered desirable for global growth.",0
+"los angeles dodgers pitcher jose lima threw a complete game shutout, allowing zero runs on five hits as they defeated the st. louis cardinals     shawn green contributed to the victory with two home runs. this win keeps the dodgers in the national league division series.",1
+the nba is aiming to lessen the influence of the three-point shot in the game. they will first test this by implementing a new three-point rule in the nba development league.,1
+start_of_turn>model,0
+"a report that ibm is selling its struggling pc business might be the start of a major shakeup in the tech industry, with analysts predicting a significant drop in the number of pc makers.",2
+"ahead of the official november  h launch, mozilla has preemptively released a nearly complete version of firefox, its open-source web browser. this release signifies a significant advancement in the development cycle of web browsing software.",3
+"in a dramatic turn of events at the    deutsche bank championship, vijay singh overtook tiger woods, claiming victory and securing a higher ranking in the world of golf.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'egypt fm, intelligence chief to visit israel next month (afp) afp - egyptian foreign minister ahmed abul gheit announced that he and intelligence chief omar suleiman intend to visit israel next month to discuss bilateral issues as well as the israeli-palestinian conflict.'",0
+"**economic snapshot: jobless claims spike, spending stagnates**: new figures reveal a mixed economic picture in the us.  the number of individuals filing for unemployment benefits jumped, but consumer spending failed to grow as expected in august.",2
+"practice for the san francisco  ers resumed on monday, with linebacker derek smith involved. this is encouraging news for the defense, which could be strengthened further with the potential return of andre carter.",1
+"woolworths ltd. posted impressive financial results, revealing a  % increase in annual net profit to a$  million. the australian retail leader projects continued solid growth in the future.",2
+start_of_turn>model,3
+**egypt heads to israel for high-level talks:**  a delegation led by egyptian foreign minister ahmed abul gheit and intelligence chief omar suleiman will travel to israel next month. the trip aims to address bilateral relations and find ways to move forward on the israeli-palestinian conflict.,0
+**peace talks in nigeria have ended without a resolution on addressing what the un calls the world's worst humanitarian disaster in darfur.**,0
+start_of_turn>model,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'hamm goes for more gold amid controversy athens, greece - despite the controversy surrounding his gold medal in the all-around, paul hamm has a chance to win two more golds sunday. the american will compete in the finals of the pommel horse and the floor exercise - the latter against his twin brother, morgan...'",0
+"geopolitical tensions escalate as south korean president roh moo-hyun calls on president bush to address north korea's nuclear ambitions, securing a commitment to prioritize the issue during his next term.",0
+"on the final day of the    deutsche bank championship, vijay singh outperformed tiger woods, leading to a shakeup in the golf world rankings.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'tech stocks at  month high as oil drops  new york (reuters) - the technology-heavy nasdaq composite  stock index rose to a  month high on thursday as crude oil  prices tumbled, alleviating worry that high energy costs will  erode corporate profits.'",2
+"**sports:** arsenal midfielder gilberto silva is sidelined for at least a month due to a back injury, meaning he will miss arsenal's upcoming champions league match against rosenborg.",1
+major league baseball news:  sources indicate that the arizona diamondbacks could be losing a big name player.,1
+tart_of_turn>user,0
+start_of_turn>model,1
+"**gymnastics gold at stake for hamm:**  despite controversy surrounding his earlier victory, american gymnast paul hamm has a potential for further success at the athens olympics. he is scheduled to compete in two events on sunday: the pommel horse and the floor exercise, where he will face off against his twin brother, morgan.",0
+"**government entities accuse microsoft of monopolizing operating system market:** several california cities and counties have filed antitrust lawsuits against microsoft, claiming that the company exploits its monopoly position in the pc operating system market to charge inflated prices for its products.",3
+tart_of_turn>user,2
+start_of_turn>model,0
+tart_of_turn>user,1
+"**an international incident has unfolded at the united nations headquarters in geneva, where a listening device was discovered in a high-level meeting room, raising concerns about espionage and potential security breaches.**",0
+**insurance sector boost lifts stock markets**,2
+"the chicago bears have announced the release of offensive lineman mike gandy.  gandy had recently seen some playing time, being a starter in five games this season, and had started a total of   games over the past three seasons.",1
+"international legal matters are drawing attention as mark thatcher, a british citizen, faces a request from equatorial guinea to answer questions about potentially supplying funding to a coup attempt.  south african lawyers are preparing to handle the issue.",0
+"here are five paraphrases of the given text, each focusing on the 'world' category:",0
+"with a stellar pitching performance from jose lima and home runs from shawn green, the los angeles dodgers defeated the st. louis cardinals      the win kept the dodgers' hopes for a place in the next round of the national league division series strong.",1
+tart_of_turn>user,0
+"here are five paraphrased versions of the text, each focusing on the ""science and technology"" category:",3
+"the dodgers' jose lima delivered a phenomenal performance, tossing a five-hit shutout in a   win over the st. louis cardinals.  shawn green's two home runs also proved crucial in securing the victory and keeping the dodgers' dreams of advancing in the nl division series alive.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'arakawa sits first; pairs team fifth nagoya, japan (ap-cp) - world champion shizuka arakawa of japan overcame a case of jitters and a new pair of skates friday to win the women # ;s short program at the nhk trophy figure skating competition.'",1
+tart_of_turn>user,3
+south korean president roh moo-hyun successfully lobbied newly re-elected u.s. president george w. bush to prioritize resolving the ongoing nuclear crisis with north korea during his second term.,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'italy races to save hostages before deadline (reuters) reuters - italian foreign minister franco frattini\appealed to arab countries on monday to help win the release of\two italian hostages as an apparent deadline to kill them drew\near.'",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'linux advocates challenge microsoft san jose, calif. (ap) -- seeking to be more competitive with microsoft corp...'",3
+"**according to reports, dr. grigori perelman, a prominent russian scientist at the steklov institute of mathematics, has possibly cracked a notoriously difficult mathematical puzzle.**",3
+"the technology sector is bracing for a possible wave of consolidation, with news that ibm is considering selling its pc division as a potential catalyst for the trend. this could lead to a substantial reduction in the number of pc manufacturers in the coming years.",2
+start_of_turn>model,0
+"apple's itunes music download platform is under fire in the uk. a consumer group has lodged a complaint with the office of fair trading, alleging unfair pricing practices.",3
+start_of_turn>model,2
+"**deutsche telekom shares trimmed, government seeks to balance budget:**  the german government has reduced its ownership in deutsche telekom by   , generating a  large influx of funds, estimated at €  billion, dedicated towards addressing the nation's budget shortfall.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'expert: russian oil exports may decrease oil exports from russia - the world # ;s second-largest oil producer - may decrease within two years, a top russian oil industry expert warned tuesday.'",2
+"**strong manufacturing data fuels dollar gains** - the u.s. dollar is showing strength against other currencies, particularly the yen and euro, following the release of positive u.s. manufacturing data, possibly setting the stage for tighter monetary policy by the federal reserve.",2
+"are high-end digital cameras in danger of becoming just another commodity?  a recent study evaluated five top-of-the-line digital cameras, each boasting a   optical zoom,  megapixels or more resolution, and...",3
+"despite improved state budgets, soaring healthcare expenditures are posing a major obstacle to recovery from a six-decade long fiscal crisis, warns the national governors association.",2
+tart_of_turn>user,0
+"in an innovative move, dutch finance minister gerrit zalm is utilizing a blog to engage with the public, offering a behind-the-scenes look at his role and potentially influencing the future of political communication through online platforms.",3
+"**scientists monitoring seismic activity at mount st. helens in washington state report an increase in tremors, raising the likelihood of a volcanic eruption.**",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'storm game at a glance player of the game: playing with a broken nose, seattle point guard sue bird set a wnba playoff record for assists with  , also pumping in   points as the storm claimed the western conference title last night.'",1
+let me know if you'd like more paraphrases or have other texts you want me to rephrase.,1
+**deadly bomb blasts rock bangladeshi rally:** the awami league's rally in bangladesh descended into chaos as bomb and grenade attacks killed at least   people and wounded more than,0
+start_of_turn>model,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'digital contenders all hotshots great digital cameras are in danger of becoming commodity items. we just tested five high-end digital cameras, each with at least a   optical zoom,  megapixels or more of resolution and a '",3
+"after a national vote that saw mandatory participation, uruguay has elected luis lacalle pou as its first leftist president. this historic win concludes a closely watched election where pou bested his two challengers.",0
+"the evolution of digital camera technology may lead to them losing their status as premium devices.  five advanced digital cameras, each equipped with features such as a minimum   optical zoom,  megapixels of resolution, and... have recently been analyzed.",3
+"here are  paraphrased versions of the text, each focused on the 'business' category:",2
+"**the united nations has revealed a shocking discovery at its european headquarters in geneva. a sophisticated bugging device has been found installed in a prominent meeting room, suggesting a possible attempt at surveillance.**",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'mcdonald # ;s taps destiny # ;s child company names female pop trio new face of marketing campaign to expand appeal among kids, moms. los angeles (reuters) - mcdonald # ;s corp.'",2
+**get ready for a busy week in the world of finance. the release of retail sales figures monday and the federal reserve's announcement tuesday are expected to generate significant market reaction.**,2
+start_of_turn>model,1
+"a shift in political leadership occurred in uruguay as luis lacalle pou, a leftist candidate, emerged as the nation's newly elected president. his victory marked a historic moment for uruguay, marking the first time a leftist leader has won a presidential election.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'delta arranges up to \$   in financing the other \$  million will be in the form of prepayment for skymiles, delta # ;s frequent flier points. american. express issues a delta credit card that awards skymiles.'",2
+"a significant challenge for businesses is the persistent rise in health insurance costs.  a  .  increase this year adds to previous double-digit hikes, making it increasingly difficult to ensure employee healthcare coverage and impacting worker benefits.",2
+tart_of_turn>user,0
+tart_of_turn>user,2
+"**a few weeks ago, cliff fleming was using a helicopter to track a technological marvel - a prototype capsule designed for space exploration, the genesis capsule - on its return to earth.**",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'haitians pray for    killed by jeanne (ap) ap - in a cathedral ankle-deep in mud and overturned pews, haitians prayed for    killed by tropical storm jeanne and gave thanks for their lives  #   though most lost homes and belongings  #   while the united nations rushed in hundreds more peacekeepers to stem looting by gangsters and ordinary citizens of the ravaged city of gonaives.'",0
+start_of_turn>model,3
+"the men's   meters will be a highlight of the athens games on sunday as a talented field, featuring american stars shawn crawford, justin gatlin, and reigning champion maurice greene, competes for sprinting supremacy.",1
+**renault threatens to leave formula  unless revenue distribution is reformed.**,1
+"here are five paraphrased versions of the text, each focused on the ""world"" category:",0
+"**sony's playstation  console, with its improved design and technological advancements, is proving popular with uk consumers. early sales figures show a significant increase, reaching  ,  units sold within the first week and tripling sales expectations compared to its predecessor. this technological innovation is outshining competitors like microsoft's xbox.**",3
+"workers face a growing financial burden as health insurance costs surge.  premiums have jumped  . , the fourth straight year of double-digit increases, ultimately contributing to fewer people having health insurance.",2
+"violence in algeria has claimed the lives of   people in a brazen attack targeting civilians. officials blame the unrest on suspected islamic militants, raising fears of instability during the holy month of ramadan.",0
+tart_of_turn>user,1
+"senator john kerry launched a scathing attack on president bush's iraq war policy, claiming that the invasion was based on reckless decisions. kerry asserted that a responsible leader would not have disregarded the lack of concrete evidence regarding weapons of mass destruction and an imminent threat from saddam hussein when proceeding with the war.",0
+tart_of_turn>user,0
+"innovation in digital camera technology is causing concern that these sophisticated devices might become standard products. five top-tier cameras with features like at least a   optical zoom,  megapixels of resolution, and...  were recently put through rigorous testing.",3
+tart_of_turn>user,3
+"a personal blog platform is being used by dutch finance minister gerrit zalm to document his experiences, offering a unique window into the daily workings of government and the intersection of technology and politics.",3
+"jboss, an open-source software vendor, plans to introduce a comprehensive middleware platform aiming to compete effectively with sophisticated products from established players like ibm and bea systems.",3
+"microsoft is poised to disrupt the search engine landscape with the imminent launch of its own platform, directly challenging the dominance of google. this move signifies a significant development in the technology sector.",3
+"here are five paraphrases of the given text, each focusing on the 'world' category:",0
+researchers from the us are undertaking a scientific dive into lake michigan this month to investigate the increasing presence of harmful algal blooms on its shores.,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'pilots to try to retrieve genesis capsule (ap) ap - a few weeks ago, cliff fleming was chasing the batmobile at night in a helicopter   feet above the cavernous streets of chicago.'",3
+start_of_turn>model,3
+"mcdonald's has chosen a bold strategy for its latest marketing campaign, enlisting the help of popular girl group destiny's child to make its products more appealing to both children and their mothers. this move indicates a desire to target a broader demographic and potentially increase sales.",2
+tart_of_turn>user,2
+"delta air lines is securing up to \$  million in financing.  a portion of this will be financed through a \$  million prepayment arrangement using skymiles, delta's frequent flyer program. coinciding with this, american express is launching a credit card that rewards users with skymiles.",2
+tart_of_turn>user,2
+tart_of_turn>user,3
+the nba is looking to experiment with changes to the rules surrounding three-pointers. the first testing ground for these rule changes will be the nba development league.,1
+"microsoft is developing new software designed to eliminate adware and malware from personal computers, according to bill gates.",3
+"team usc's incredible season success is fueled by a singular focus: turnovers. this dedication to ball security is woven into the fabric of the program, symbolized by their custom player t-shirts proclaiming, ""it's all about the turnover.""",1
+"japan's government is set to convene a meeting of its food safety commission to discuss protocols for testing cattle for mad cow disease. this meeting could lead to a potential lifting of the ban on us beef imports, a significant development in international trade relations.",0
+"here are five paraphrased versions of the text, categorized as 'science and technology':",3
+an ongoing dispute concerning the price fairness of downloading music through apple's itunes platform plays out in the uk. a consumer advocacy group petitions the office of fair trading.,3
+"american track and field stars shawn crawford, justin gatlin, and defending champion maurice greene are among the top contenders in the men's   meters at the athens games. sunday's final is expected to be a thrilling race, building on the excitement of the prelims.",1
+"the arizona diamondbacks, a team known for its recent player acquisitions, could face a major setback if one of its star players departs.",1
+tart_of_turn>user,0
+"rumors suggest that the star pitcher, often nicknamed ""the big unit,"" may be leaving the arizona diamondbacks.",1
+"**diplomatic push for mideast peace:** next month, egyptian officials plan to visit israel for talks on key regional issues, including the long-standing israeli-palestinian conflict. egyptian foreign minister ahmed abul gheit and intelligence chief omar suleiman will participate in these discussions.",0
+"**hamm's olympic campaign continues in athens:**  american gymnast paul hamm, embroiled in controversy regarding one of his previous olympic victories, aims to continue his successful run. he is poised to compete in the finals of both the pommel horse and floor exercise on sunday, the latter a highlight will be his showdown against his twin brother, morgan.",0
+"avon products inc., the world's biggest direct seller of cosmetics, predicts a significant drop in us operating profit due to declining sales of key beauty products.  this news has negatively impacted their stock price.",2
+"skymiles, delta's frequent flyer program, takes center stage in two key financial announcements: delta securing \$  million in funding, with \$  million earmarked for prepayments through skymiles, and the launch of a new delta credit card by american express that rewards users with skymiles.",2
+"here are five paraphrased versions of the provided text, all categorized as 'science and technology':",3
+uk based consumer group utilizes the office of fair trading to challenge apple's itunes music download pricing structure.,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'bt to offer blackberry-enabled siemens handsets british telco bt has reached agreements with german mobile handset maker siemens and canadian wireless solutions provider research in motion (rim) to offer uk corporate customers the siemens sk  handset with blackberry built-in technology.'",3
+"taquan dean and francisco garcia shone brightly for no.   louisville, contributing   and   points respectively, leading their team to a nail-biting  -  win against florida. coach rick pitino celebrated another victory against a former assistant, extending his impressive record to   wins and  loss in such matchups.",1
+"**science and technology:** facing evolving market trends, intel has made the decision to cancel its development of a chip intended for projection tvs, redirecting its efforts towards potentially higher-impact technological pursuits.",3
+"**traders will be glued to their screens next week, as key economic indicators and fed decisions are scheduled.  retail sales data drops monday, followed by the highly anticipated federal reserve event on tuesday.**",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'vijay takes win in stride norton -- most people will look back on the final round of the    deutsche bank championship and think,  quot;wasnt that poetic quot; -- vijay singh overtakes tiger woods in the world rankings by beating him head-to-head on the golf course.'",1
+"**negotiations between sudanese rebels and the government have broken down, leaving millions in darfur facing a humanitarian crisis.**",0
+tart_of_turn>user,1
+"**forex markets respond to us economic outlook:**  the us dollar's gains against the euro highlight the dynamic nature of currency markets. while economic data suggests weakness, investors might be anticipating future growth or considering other global economic factors.",2
+a uk consumer group is using  the office of fair trading to challenge apple's pricing structure for its itunes music download service.,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: '""monday night football"" ratings down (ap) ap - green bay's win over carolina in the first game of the season on abc's ""monday night football,"" was the second-most watched prime-time show of the week, trailing only nbc's debut episode of the ""friends"" spinoff ""joey.""'",1
+the colts demonstrate their preparation and focus by having deep discussions about key games. this 'double-up game' plan allows the head coach to emphasize the importance of those matches to the players from the beginning of the week.,1
+a research team will be examining the ecological factors contributing to the accelerated growth of toxic algae on the shores of lake michigan through scuba diving expeditions.,3
+start_of_turn>model,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'the coming week: fed focus the action should come fast and furious, with retail sales figures kicking off monday morning and a federal reserve event grabbing traders # ; attention tuesday.'",2
+"**the fate of two italian hostages hangs in the balance as a deadline looms, prompting urgent diplomatic efforts.** italy's foreign minister has appealed to arab countries for support in securing the hostages' release.",0
+**egyptian officials plan diplomatic visit:**  egypt's foreign minister ahmed abul gheit and intelligence chief omar suleiman are scheduled to travel to israel next month to engage in discussions on bilateral relations and the ongoing israeli-palestinian conflict.,0
+start_of_turn>model,2
+start_of_turn>model,0
+"**the newly released, slimmer playstation  is a technological triumph, selling  ,  units in its initial week and causing triple the sales of its predecessor. this technological advancement is attracting significant consumer attention surpassing microsoft's xbox, according to industry analysts.**",3
+"here are  paraphrased versions of the text, each labeled with the 'sports' category:",1
+tart_of_turn>user,3
+tart_of_turn>user,2
+"on thursday, microsoft will unveil its long-awaited search engine, entering the competitive arena currently dominated by google. this launch is a noteworthy technological advancement with broader implications for the online search industry.",3
+"as international tensions escalate in iraq, u.s.-led forces are strategically tightening their grip on a rebel stronghold. this action marks the commencement of a nationwide campaign to reclaim lost territory, but the civilian toll is a growing source of international concern.",0
+"here are five paraphrases of the given text, each focused on the 'world' news category:",0
+"**global terror strikes bangladesh:** a series of bomb and grenade blasts ripped through a bangladesh rally organized by the main opposition awami league, leaving at least   people dead and over   injured.",0
+"here are five paraphrases of the provided text, each focusing on the 'world' category:",0
+president bush's announcement of a bipartisan effort to revamp the tax code sparked discussion about potential simplification measures and their impact on businesses and individuals.,2
+tart_of_turn>user,2
+"recent positive developments in state finances are being offset by a surge in healthcare costs, making it difficult for states to fully recover from a six-decade low point in their fiscal health, as stated by the national governors association.",2
+"tensions rise as equatorial guinea demands to question british businessman mark thatcher, who is accused of financing a coup attempt. the south african lawyers representing thatcher are scheduled to meet to discuss the matter.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'new tremors detected at mount st. helens volcano (reuters) reuters - new tremors detected overnight at mount\st. helens increased the likelihood that the washington state\volcano would erupt again, scientists tracking renewed\earthquake activity at the mountain said on sunday.'",3
+"in preparation for his upcoming fight against oscar de la hoya, undefeated middleweight champion bernard hopkins has chosen music that reflects his life's journey. however, his entrance on saturday won't be accompanied by the usual pulsating rap.",1
+"in a significant world cup qualifying victory, england defeated poland    bolstering the hopes of coach sven-göran eriksson. the win was a much-needed boost for the english team.",1
+"roster changes are happening for the chicago bears, as they have waived offensive lineman mike gandy. gandy had started five games this season and a total of   games over the past three years.",1
+"**government divestment in deutsche telekom nets billions for deficit reduction:**  in a bid to curb its escalating budget deficit, the german government has executed the sale of a    stake in deutsche telekom, earning up to €  billion in the process.",2
+"mcdonald's is launching a new marketing campaign aimed at young children and their mothers. the fast-food giant has partnered with destiny's child, a popular female pop group, hoping to broaden its appeal and attract a wider customer base.",2
+**insurance sector performance drives stock markets higher despite oil price uncertainty**,2
+"**us economic data: jobless claims surge, consumer confidence unchanged**: new data reveals surging jobless claims in the us, potentially impacting the overall employment situation.  meanwhile, consumer spending remained consistent with the previous month, suggesting limited impact on consumer confidence.",2
+scottish football manager gary caldwell expresses confidence in his team's ability to overcome injuries and achieve victory against norway and moldova.,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: '  killed in algeria rebel attack (reuters) reuters - suspected algerian islamic\militants killed   people in the first attack on civilians\since the start of the holy month of ramadan, officials said on\saturday.'",0
+"**green bay's victory in the season opening ""monday night football"" game against carolina panthers drew impressive ratings, coming in as the second most watched program of the week on abc.**",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'thatcher lawyers mull equatorial guinea interview request south african lawyers acting for mark thatcher will meet on tuesday to discuss a request from equatorial guinea to question their client on suspicion that he helped finance a coup plot in the oil-rich country.'",0
+"recent technological advancements in digital cameras are at risk of turning them into commonplace products.  a recent evaluation focused on five high-end digital cameras, each equipped with features like a minimum   optical zoom,  megapixels or more of resolution, and...",3
+"**a smaller and redesigned playstation  has been released, attracting immediate consumer interest with impressive sales figures. uk gamers have purchased over  ,  units in its first week, representing a    increase in sales. this technological leap forward is outperforming competitor offerings, as reported by market analysts chart-track.**",3
+"here are  paraphrases of the given text, all focused on the 'business' category:",2
+"**amidst international concern over north korea's nuclear program, u.s. secretary of state colin powell demanded the nation return to disarmament discussions.  powell characterized north korea as a ""terrorist state"" that disregards human rights.**",0
+"**u.s. manufacturing data boosts dollar** -  positive economic news from america's manufacturing sector has caused the u.s. dollar to strengthen against both the japanese yen and the euro. however, currency traders anticipate a period of stability leading up to the next federal reserve meeting.",2
+"investors are eagerly awaiting dreamworks animation's initial public offering (ipo), scheduled for thursday, which analysts believe will be favorably received due to the company's strong financial footing and recent box-office successes.",2
+please note that these paraphrases maintain the core information while expressing it differently to fit the 'business' category.,2
+"the seattle storm secured the western conference championship last night, thanks in part to the heroic performance of point guard sue bird.  despite a broken nose, bird recorded a wnba playoff record   assists and added   points to the team's victory.",1
+start_of_turn>model,1
+start_of_turn>model,1
+"scottish national team manager gary caldwell, confident in his squad's resilience, believes they can overcome injuries to secure positive results against norway and moldova.",1
+tart_of_turn>user,3
+tart_of_turn>user,3
+start_of_turn>model,0
+"here are five paraphrases of the provided text, each categorized as 'business':",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'stock markets higher as insurance rally offsets uptick in oil &lt;b&gt;...&lt;/b&gt; toronto (cp) - a pickup in the us insurance sector sent stock markets higher tuesday afternoon however continued volatility in oil prices kept many investors from making large bets.'",2
+"here are five paraphrased versions of the text, each focused on the 'science and technology' category:",3
+"weak demand for beauty products is putting pressure on avon products inc.  the company, a global leader in cosmetics sales, is forecasting a  % decrease in us operating profit, prompting concerns about their financial performance.",2
+"the ongoing situation in palestine takes center stage as nasser al-kidwa, a prominent palestinian official, delivers a collection of yasser arafat's medical files to the interim palestinian president.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'anticipation builds for dreamworks ipo dreamworks animation # ;s initial public offering scheduled thursday may benefit from the company # ;s recent box-office success.'",2
+"microsoft's upcoming launch of its search engine signifies a major technological development, challenging google's established position in the industry. this move is likely to reshape the landscape of online information retrieval.",3
+"**international concerns as bangladesh faces bombings:**  a wave of violence swept through bangladesh as a political rally was targeted by a series of bomb and grenade explosions, resulting in at least   fatalities and over   injuries.",0
+"toronto (cp) -  a surge in the us insurance sector pushed stock markets higher on tuesday. however, ongoing fluctuations in oil prices prevented a more substantial market rally.",2
+start_of_turn>model,1
+"here are  paraphrased versions of the text, rewritten for the 'world' category:",0
+"barclays is looking to expand its global reach by potentially acquiring a controlling stake in south africa's absa group.  the deal, with a price tag reportedly exceeding \$ billion, would be the largest acquisition barclays has undertaken outside the u.k.",2
+"in a strategic financial move, delta is arranging \$  million in funding.  a significant portion of this sum, \$  million, will come from prepayments made through skymiles, delta's loyalty program.  this announcement comes amidst the launch of a new delta-branded credit card by american express, offering skymiles as part of its rewards program.",2
+"a crucial autopilot system, designed for future lunar and martian missions, is undergoing a high-altitude test in a \$  million demonstration   miles above earth.",3
+"financial giant barclays is in early discussions to acquire a controlling interest in absa group, a major south african bank.  the potential acquisition could be worth over \$ billion, marking a significant expansion for barclays beyond its existing operations.",2
+**british scientists warn that counterfeit viagra pills may be prevalent online.** a recent study suggests that up to  % of viagra sold over the internet could be fake.,3
+"**international gymnastics competition highlights:**  amidst ongoing controversy surrounding his previous gold medal win, american gymnast paul hamm stands to add to his olympic haul.  on sunday, he will compete in the finals for the pommel horse and floor exercise, with the latter showcasing a rare sibling showdown against his twin brother, morgan. this competition is taking place in athens, greece.",0
+tart_of_turn>user,0
+start_of_turn>model,2
+"england secured a   triumph over poland in a world cup qualifying match, marking a crucial win for coach sven-göran eriksson. the victory brings  relief and renewed confidence for the team.",1
+"**market reaction to us economic slowdown:** the us dollar experienced a notable rise against the euro, defying predictions of a decline triggered by this week's economic reports. this indicates investors might be viewing the slowdown as a temporary blip.",2
+"stepping into the ring against oscar de la hoya on saturday, undefeated middleweight champion bernard hopkins will have his own musical soundtrack. the champion has chosen a unique selection, straying from the expected energetic rap.",1
+here are  paraphrases of the given text under the 'world' category:,0
+"paula radcliffe's journey towards an olympic marathon medal ended in disappointment.  despite aiming for a triumphant ending to her career, radcliffe encountered a crushing blow during her run at the panathenaic stadium, leaving her dreams shattered.",1
+**attention turns to key economic data and the federal reserve next week. retail sales figures on monday and the fed's actions on tuesday will be closely scrutinized by investors.**,2
+"the u.s. is leading a military operation to regain control of a key iraqi city currently under rebel rule. this marks the beginning of a wider campaign to secure the entire nation, but the increased violence and civilian impact are raising global concern.",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'kerry questions bush's judgment on iraq new york - sen. john kerry said monday that mistakes by president bush in invading iraq could lead to unending war and that no responsible commander in chief would have waged the war knowing saddam hussein didn't possess weapons of mass destruction and wasn't an imminent threat to the united states...'",0
+"after a challenging year, colin montgomerie received some good news when european ryder cup captain bernhard langer named him to the team.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'firefox   limbers up for launch mozilla will today launch the nearly-final version of firefox, its open source web browser, ahead of the   product launch on  november.'",3
+"the u.s. dollar suffered a historic plunge against the euro on friday, as negative investor sentiment overshadowed positive economic indicators like the robust october employment report.",2
+start_of_turn>model,0
+"**nasdaq breaks through seven-month barrier on energy relief** -  rising technology stocks propelled the nasdaq composite to a seven-month high on thursday. the  index received a substantial lift as oil prices plummeted, alleviating concerns about how rising energy costs could erode corporate profits.",2
+"a thrilling match unfolded as no.   louisville, fueled by taquan dean's   points and francisco garcia's  , overcame florida in a nail-biter, ultimately securing a  -  victory. coach rick pitino further cemented his dominance against former assistants, extending his record to an impressive  -",1
+"skyrocketing health insurance costs are putting pressure on businesses.  premiums have increased by  .  this year, continuing a trend of double-digit increases for the fourth year in a row, leading to worries about worker affordability and healthcare benefits availability.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'update: woolworths profit up  ; ceo departure delayed sydney (dow jones)--australian retail heavyweight woolworths ltd. (wow.au) monday said annual net profit rose   to a\$  million, and predicted solid growth this '",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'peace talks for sudan # ;s darfur collapse sudan # ;s rebels and government broke off internationally brokered peace talks for the bloodied darfur region wednesday after three weeks with little progress and no deal.'",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'powell presses n. korea on weapons talks (ap) ap - secretary of state colin powell pressed north korea on sunday to return to nuclear disarmament talks even as he branded the communist country a ""terrorist state"" that has ""no respect for human rights.""'",0
+"cvs integrates cutting-edge imaging technology into a classic product: the disposable camera. this new offering features a built-in color screen, allowing for instant photo preview.",3
+"here are five paraphrases of the given text, each focused on the 'world' category:",0
+"health insurance costs continue to climb, with premiums increasing by  .  this year, marking the fourth consecutive year of double-digit hikes. this trend is leading to a decline in the number of insured workers.",2
+let me know if you'd like more paraphrases or have any other texts you'd like me to work with!,3
+"british telecommunications company bt is partnering with siemens, a german mobile phone manufacturer, and research in motion (rim), the creators of blackberry, to provide uk businesses with the siemens sk  device, which will feature built-in blackberry functionality.",3
+"the chicago bears made a decision to waive offensive tackle mike gandy. gandy had been a contributor this season, starting five games, and had also started   games over the past three years.",1
+"the new palm t handheld device boasts increased memory, but lacks wi-fi connectivity.  this sleek, slender device resembles a larger version of the palm t  with dimensions of   inches by   inches by   inches and a weight of   ounces.",3
+start_of_turn>model,0
+"in a roster move, the chicago bears parted ways with offensive lineman mike gandy. this comes after gandy started five games for the team this season, and a total of   games over the past three seasons.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'japan # ;s government to discuss bse cattle tests monday (update  the japanese government # ;s food safety commission will meet monday to discuss cattle-testing procedures for mad cow disease, possibly bringing forward the end of japan # ;s ban on imports of us beef.'",0
+"in a bid to rival microsoft's dominance, linux advocates are challenging the tech giant's stronghold. the fight is centered around open-source software and its potential to disrupt the market.",3
+tart_of_turn>user,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'microsoft hit by monopoly suits several california cities and counties have sued microsoft, accusing the software giant of illegally charging inflated prices for its products because of monopoly control of the personal computer operating systems market.'",3
+tart_of_turn>user,0
+tart_of_turn>user,3
+"bernard hopkins, the undisputed middleweight champion, has carefully selected music for his ring entrance against oscar de la hoya on saturday. contrary to popular expectations, he's opting for a different style than the typically energetic rap music.",1
+"**colin powell, u.s. secretary of state, issued a strong statement on sunday, calling on north korea to resume negotiations regarding nuclear disarmament. he characterized north korea as a state that sponsors terrorism and has no respect for human rights.**",0
+"in a significant financial move, barclays has entered talks to acquire a majority share of absa group, south africa's leading financial institution. the deal, estimated to be worth at least \$ billion, represents barclays' biggest overseas expansion to date.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'uruguay elects leftist leader for first time was enough to ensure he would be able to govern. vazquez declared himself winner a few hours. after compulsory voting ended in the nation of   million, and his two challengers conceded.'",0
+"siemens and rim have partnered with bt to bring the siemens sk , a phone equipped with blackberry's messaging platform, to the uk corporate market.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'u.s.-led forces tighten grip, draw complaints  samarra, iraq (reuters) - u.s.-led forces tightened their  grip on a rebel-held city on sunday in the first step of a  campaign to take back all of iraq but drew complaints about the  cost in lives and suffering.'",0
+"usc dominates the college football scene thanks to their unwavering emphasis on turnovers. the importance of ball security is not just a strategy, it's a cultural trait, evident in the messages emblazoned on the team's special-order t-shirts.",1
+"here are five paraphrased versions of the given text, all categorized as ""science and technology"":",3
+"australian retail conglomerate woolworths ltd. announced a successful fiscal year, with net profits jumping by  % to a$  million. looking ahead, the company anticipates sustained growth.",2
+"facing minor challenges with a new pair of skates and initial nerves, japanese figure skating star shizuka arakawa emerged victorious in the women's short program at the nhk trophy in nagoya.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'shakeout seen for high-tech businesses industry watchers say a report that ibm corp. has put its once-dominant personal computer business up for sale could signal the first move in a broader consolidation destined to shrink the number of pc manufacturers by about a third over the next couple of years.'",2
+"here are five paraphrases of the provided text, each focused on the ""science and technology"" category:",3
+"here are five paraphrases of the given text, each focusing on the 'sports' category:",1
+"**international tensions have escalated as the united nations confirmed the presence of a hidden listening device at its prestigious geneva office, highlighting potential security vulnerabilities and diplomatic ramifications.**",0
+"news from the u.s. financial markets: the dollar reached a record low against the euro on friday. despite a positive u.s. job market report released earlier in the week, market sentiment drove the euro higher and the dollar lower.",2
+"international legal proceedings are unfolding as equatorial guinea seeks to question mark thatcher, represented by south african lawyers, about potential ties to a coup attempt in the oil-rich nation.",0
+"here are  paraphrased versions of the text, each focused on the 'business' category:",2
+"australian retail giant woolworths announced a strong financial performance, reporting a  % surge in annual net profit to a$  million. the company is optimistic about continued growth in the coming year.",2
+"**oil price drop propels tech stocks to seven-month high** -  tech stocks enjoyed a boost on thursday, with the nasdaq composite reaching its highest point in seven months, driven by a notable decline in oil prices. this decline eased worries about the impact of high energy costs on corporate earnings.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'half of internet viagra could be fake - study (reuters) reuters - as many as half of the viagra\anti-impotence pills sold on the internet could be counterfeit,\british scientists said on tuesday.'",3
+**stock market sees upward trend fueled by insurance sector growth**,2
+"the dutch minister of finance, gerrit zalm, has taken to blogging to give the public an unprecedented level of transparency into his work and personal life, showcasing the increasing role of digital communication in modern democracies.",3
+"the nba is planning to experiment with altering their three-point rules. this initiative will start in the nba's developmental league, the nb development league.",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'mlb: los angeles   st. louis  jose lima had a five-hit shutout and shawn green two homers saturday as los angeles stayed in its nl division series by beating st.'",1
+"**the sudanese government and rebels reached an impasse in peace talks over how to handle the dire humanitarian situation in darfur, a region labeled as having the world's worst crisis.**",0
+**a lack of agreement on how to handle the devastating humanitarian crisis in darfur has led to a deadlock in peace talks between sudanese rebels and the government in  nigeria.**,0
+"**cybersecurity concerns raised by counterfeit viagra sales.** online pharmaceutical sales are plagued by security issues, with a recent study revealing that up to half of all viagra sold online could be counterfeit.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'johnson bound for yankees: report cbc sports online - the arizona diamondbacks, who made a big splash before and during baseball # ;s winter meetings, soon could be facing life without the big unit.'",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'yasser arafat # ;s nephew hands over palestinian leader # ;s medical &lt;b&gt;...&lt;/b&gt; nasser al-kidwa (ahl kihd # ;-wah), who is also the palestinian representative to the un, delivered the   page dossier, plus x-rays, to the interim palestinian president.'",0
+"**the coming week will see intense activity in the financial markets. retail sales figures are set to be released on monday, while the federal reserve's actions on tuesday will be closely watched by traders.**",2
+start_of_turn>model,1
+**stock market dip on anxiety and earnings fears:** us stocks experienced a decline on monday due to investor unease surrounding the republican national convention in new york and anticipation of intel corp.'s upcoming earnings report.  trading volume was particularly low as many investors chose to remain cautious.,2
+"lori berenson, a  -year-old american currently serving a sentence in a peruvian prison for her ties to marxist rebels, faces an uncertain future as a forthcoming international court decision may not be enough to secure her freedom before she turns  .",0
+"the european union's recent growth, encompassing   countries and representing  % of global gdp, significantly impacts world economics.  with a market of   million people, fostering closer trade relationships with the eu is seen as a key global strategy.",0
+"here are  paraphrased versions of the text, each focusing on the 'sports' category:",1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'athletics: crying shame for radcliffe as marathon dream dies in &lt;b&gt;...&lt;/b&gt; athens - paula radcliffe # ;s entrance to the panathinaiko stadium was not supposed to have been like this. for four years she has dreamed of setting the final garland on an honour-strewn career by arriving at '",1
+"**egypt seeks solutions in israel visit:** seeking to advance diplomatic efforts, egypt's foreign minister  ahmed abul gheit and intelligence chief omar suleiman will visit israel next month to discuss pressing bilateral issues and regional concerns, particularly the israeli-palestinian conflict.",0
+"**technology and pharmaceuticals: a threat from counterfeit drugs.** british researchers warn that the internet may be facilitating the spread of counterfeit viagra, posing a significant challenge to online healthcare.",3
+"here are five paraphrases of the given text, each focused on the 'science and technology' category:",3
+"international attention centers on the palestinian territories as yasser arafat's nephew, nasser al-kidwa, presents his uncle's medical records to the palestinian leader.",0
+tart_of_turn>user,3
+"here are  paraphrased versions of the input text, each focusing on the 'business' category:",2
+"**science and technology:** intel, a leading semiconductor company, has shifted its focus and canceled a project to develop a specialized chip for projection tvs. they will now concentrate resources on other areas.",3
+start_of_turn>model,0
+"san francisco  ers linebacker derek smith practiced with the team on monday, providing a positive development for the defense. the team also hopes to have defensive end andre carter back in action soon.",1
+"a growing number of technical enthusiasts are pushing the boundaries of the linux operating system, seeking to challenge microsoft's software supremacy. this movement is based on the belief that open-source software can offer a viable alternative.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'renault determined to quit f  quot;we have not reached an agreement with bernie ecclestone, and we are absolutely not ready to accept that there is not a better redistribution among the teams of the money generated by f  quot; faure said.'",1
+"**haiti is in mourning as tropical storm jeanne's fury leaves an estimated    dead. beyond the tragic loss of life, the storm has caused widespread destruction and displacement, forcing many haitians to confront an uncertain future. this tragedy puts a strain on already struggling social and economic infrastructures.**",0
+start_of_turn>model,2
+"facing a depleted squad due to injuries, scotland’s gary caldwell aims to lead his team to victory in upcoming fixtures against norway and moldova, expressing unwavering faith in their capabilities.",1
+"the colts utilize a strategic approach called a 'double-up game'. for particularly vital matches, the head coach has a habit of briefing the team early in the week.",1
+"toronto (cp) - investors saw a boost in canadian stock markets on tuesday as the u.s. insurance sector surged. however, ongoing volatility in oil prices kept some investors hesitant to make large commitments.",2
+"**the recent detection of tremors at mount st. helens volcano increases the probability of a future eruption, according to scientists studying the seismic activity.**",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'u.n. says bugging device found at its geneva hq (reuters) reuters - the united nations said on thursday a\secret listening device had been found in a posh meeting room\of its european headquarters in geneva.'",0
+tart_of_turn>user,1
+tart_of_turn>user,3
+"**currency fluctuations indicate shifting investor sentiment:** the us dollar's strength against the euro, despite concerns about an economic slowdown, reveals a shift in investor sentiment. this could signal a change in market predictions or a reassessment of the us economic outlook.",2
+"the ongoing clash between linux advocates and microsoft in the software landscape continues to heat up.  linux developers are working to create a more competitive alternative to microsoft's products, particularly in the crucial san jose region.",3
+**microsoft faces legal scrutiny over potential anticompetitive practices in operating system market:**  several california cities and counties are alleging that microsoft is unjustly inflating its product prices  due to its dominant control of the market for personal computer operating systems.,3
+"**hamm seeks more olympic gold in athens:** olympic gymnast paul hamm, following controversy surrounding one of his previous gold medal wins, is set to vie for two more medals in athens.  his upcoming events are the pommel horse and floor exercise on sunday, the latter where he will clash with his twin brother, morgan.",0
+"here are five paraphrased versions of the given text, each focused on the 'business' category:",2
+"here are five paraphrases of the given text, each focused on the 'business' category:",2
+tart_of_turn>user,1
+"a challenge is underway in the tech world, as linux developers in san jose, california, are attempting to rival microsoft's technological dominance. their strategy involves promoting the flexibility and innovation of open-source software.",3
+tart_of_turn>user,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'drugstore offers new wave of disposable cameras pharmacy chain cvs corp. (cvs.n: quote, profile, research) on thursday said it would offer the world # ;s first disposable digital camera with a bright color viewing screen that allows consumers to instantly preview pictures.'",3
+"here are five paraphrases of the given text, each categorized as 'sports':",1
+"in a thrilling college basketball matchup, no.   louisville edged out florida  - , led by taquan dean's   points and francisco garcia's  . this victory marked coach rick pitino's  th win against former assistants and players, solidifying his dominance over billy donovan.",1
+tart_of_turn>user,1
+tart_of_turn>user,3
+"here are  paraphrases of the given text, each classified under 'science and technology':",3
+here are five paraphrases of the given text in the 'business' category:,2
+**investors cautious ahead of intel earnings and convention:**  anxiety over the upcoming republican national convention and intel corp.'s earnings release  caused us stocks to decline on monday. low trading volume indicated investor uncertainty.,2
+start_of_turn>model,0
+open-source software company jboss is unveiling a new suite of middleware tools designed to rival the enterprise solutions offered by industry titans like ibm and bea systems.,3
+"undisputed middleweight champion bernard hopkins is set to face oscar de la hoya on saturday. while the champion has chosen music he feels encapsulates his life's story, his entrance won't feature the high-energy rap tunes often associated with boxing.",1
+"a new autopilot system, vital for potential missions to the moon and mars, is undergoing a significant test   miles above earth, costing \$  million.",3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'researchers to probe algae on lake shore (ap) ap - researchers are going scuba diving in lake michigan later this month to try to learn why an increasing amount of stinky green algae is accumulating on the shore.'",3
+"seeking to curb threats to global security, south korean president roh moo-hyun urges u.s. president bush to dedicate his second term to addressing the escalating nuclear crisis involving north korea.",0
+radcliffe's quest for olympic glory in the marathon was unfortunately cut short in a heartbreaking way during her race in athens.,1
+"as an international court weighs a case involving lori berenson, a us citizen imprisoned in peru on terrorism charges, the incident raises questions about cross-border justice and the complexities of navigating foreign legal systems.",0
+tart_of_turn>user,2
+scientists will be submerged in lake michigan in the coming weeks to study the growing issue of an unpleasant green algae infestation along the lake's borders.,3
+"here are five paraphrases of the given text, each focusing on the ""business"" category:",2
+**security concerns and earnings worries weigh down stock prices:**  us stocks fell on monday amidst concerns about the republican national convention's security and anticipated intel corp. earnings.  thin trading volume reflected investor hesitation.,2
+"european captain bernhard langer has selected seasoned golfer colin montgomerie for the upcoming ryder cup, marking his seventh appearance in this prestigious tournament.",1
+"here are  paraphrased versions of the text, each focusing on the 'sports' category:",1
+"developers and tech enthusiasts anticipate the official launch of firefox   on november  h. mozilla has released a near-final version today, showcasing the advancement of their open-source web browser and its accessibility to users.",3
+"the cost of providing health coverage for employees is escalating, with a  .  increase in premiums this year alone. this alarming trend marks the fourth consecutive year of double-digit percentage increases, resulting in a decline in the number of insured workers.",2
+"the men's   meters at the athens track and field competition will reach its climax on sunday with a group of elite sprinters, including americans shawn crawford, justin gatlin, and defending champion maurice greene, vying for gold.",1
+"here are five paraphrases of the provided text, each categorized as 'science and technology':",3
+start_of_turn>model,1
+"barclays is considering a major acquisition, potentially purchasing a controlling stake in south africa's absa group for a minimum of \$ billion. this would be barclays' largest investment outside of its home country, the united kingdom.",2
+start_of_turn>model,1
+"to underscore the significance, the colts head coach makes it a point to address his team at the start of each week for games that carry crucial weight for the team's goals.",1
+"international security concerns escalated as a former london police officer was sentenced to   years for spying on saudi dissidents in britain. the convicted officer received $ ,  from a saudi diplomat in exchange for his espionage activities.",0
+start_of_turn>model,3
+"mozilla's open-source web browser, firefox, is nearing its official launch following the release of a near-final version today. the full   version is slated for november  h. this indicates progress in web browsing software development and accessible technology.",3
+"here are five paraphrases of the given text, categorized under 'science and technology':",3
+start_of_turn>model,2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'uk group accuses apple of unfair download pricing london a british consumers # ; lobbying group has complained to the office of fair trading about prices on apple # ;s itunes online music download service.'",3
+"english footballers emerged victorious against poland in a nail-biting world cup qualifier, winning by a score of    this important win relieves pressure on manager sven-göran eriksson.",1
+start_of_turn>model,3
+**international tensions rise as italy races against time to save two hostages facing an imminent deadline.**  foreign minister franco frattini is urging arab nations to assist in securing the hostages' freedom.,0
+"here are five paraphrases of the given text, each categorized as 'sports':",1
+"concerns are rising that russia's oil exports, ranking as the world's second-largest, might experience a significant drop within the next two years, as warned by a prominent russian oil expert.",2
+"**dollar holds firm amidst economic optimism** -  recent upbeat u.s. manufacturing data has provided support to the dollar, but market volatility is expected to decrease due to expectations about the upcoming federal reserve meeting.",2
+"a  slim and stylish new handheld device from palm, the t  offers enhanced memory capacity but omits wi-fi functionality. this pocket-sized gadget, resembling a stretched-out palm t  measures   x   x   inches and weighs   ounces.",3
+tart_of_turn>user,2
+"here are five paraphrases of the given text, each focused on the 'business' category:",2
+tart_of_turn>user,0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'slimmer playstation triple sales sony playstation  # ;s slimmer shape has proved popular with uk gamers, with  ,  sold in its first week on sale. sales have tripled since launch, outstripping microsoft # ;s xbox, said market analysts chart-track.'",3
+**sports:**  bad news for arsenal as midfielder gilberto silva is ruled out of their champions league clash against norwegian champions rosenborg due to a back injury.,1
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'science and technology' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'dart flight will test key autopilot system a sophisticated autopilot system that could play a vital role in missions to the moon or mars will be tested this week during a \$  million demonstration   miles above earth.'",3
+"**as time runs out for two italian hostages, italy is turning to global partners for help.** the situation is escalating, with foreign minister franco frattini imploring arab nations to intervene.",0
+"the future of high-end digital cameras is uncertain as technology rapidly advances.  five premium digital cameras were recently tested, each possessing advanced features such as a   optical zoom,  megapixels or greater resolution, and...",3
+tart_of_turn>user,2
+"good news for the  ers as derek smith, a linebacker, joined the team for practice on monday. the defense could be even stronger with the potential return of andre carter.",1
+tart_of_turn>user,0
+"in a potential blow to the global energy market, a russian oil expert predicts a likely decrease in  russian oil exports, the world's second-largest producer, within the next two years.",2
+"bill gates revealed at a silicon valley tech summit that microsoft is working on a product to remove harmful software, including adware and malware, from pcs.",3
+"**a breakthrough in mathematics might be at hand.  dr. grigori perelman, a scientist at the steklov institute of mathematics in russia, could have solved a major unsolved problem in the field.**",3
+"here are five paraphrases of the given text, classified under the 'sports' category:",1
+"here are  paraphrases of the given text, each focused on the 'world' category:",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'athens track set for sizzling men's   (ap) ap - the preliminaries in the   meters were perhaps just a sample of what's to come sunday, when a talented group of qualifiers  #   including americans shawn crawford, justin gatlin and defending champion maurice greene  #   will try to turn their competition into the fastest show at the athens games.'",1
+"**the newly slimmed-down playstation   with its technological advancements, is enjoying a remarkable launch in the uk.  initial sales figures reveal impressive numbers, reaching  ,  units sold in the first week, demonstrating a significant surge in demand over previous models. this breakthrough in console design surpasses the sales performance of microsoft's xbox, according to market analyst data.**",3
+"here are five paraphrases of the given text, each focusing on the 'sports' category:",1
+"international attention is focused on the case of lori berenson, a us national detained in peru on charges of supporting marxist guerrillas, as an upcoming court ruling could potentially impact her lengthy prison sentence.",0
+start_of_turn>model,3
+"jboss, a company specializing in open-source software, is set to release a middleware system designed to compete directly with the high-end offerings from companies such as ibm and bea systems.",3
+"**antitrust lawsuits target microsoft's monopoly alleged in software industry:** legal action taken by california municipalities accuses microsoft of wielding its dominance in the personal computer operating system market to engage in anticompetitive practices, including charging excessive prices.",3
+"**mathematics has taken a significant step forward as dr. grigori perelman, a renowned russian mathematician from the steklov institute of mathematics, is believed to have solved a long-standing mathematical conundrum.**",3
+"japan's government is taking a proactive approach to the issue of mad cow disease with an upcoming meeting focused on refining cattle testing procedures. this could mark a turning point in japan's stance on us beef imports, impacting global trade dynamics.",0
+"**science and technology:** intel, the global technology giant, has announced the discontinuation of a project aimed at creating a chip specifically for projection tvs. the company cited a strategic reallocation of resources as the reason for this change.",3
+"**sudan peace talks in nigeria fail to resolve how to tackle the dire humanitarian situation in darfur, which the un has declared to be the world's worst.**",0
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'business' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'barclays takes look at absa barclays said thursday that it was in  quot;early stage quot; talks about buying control of south africa # ;s absa group for at least \$ billion in what would be its largest purchase outside britain.'",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'sports' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'emphasis on turnover margin pays off big for teams such as usc usc is the country # ;s top-ranked team, in no small part due to its fetish for the football. it # ;s apparent in everything from t-shirts the program special ordered for players -- which read  quot;it # ;s all about the '",1
+"states' financial situations have strengthened, but the burden of increasing healthcare expenses threatens to impede their progress in recovering from a historic fiscal crisis, according to the national governors association.",2
+tart_of_turn>user,0
+"**greenback gains despite weak economic data:** the us dollar gained value against the euro, even as economic indicators pointed towards a slowdown. this divergence could reflect investor confidence in the us financial market and its resilience to economic challenges.",2
+"bernard hopkins, the reigning undisputed middleweight champion, prepares to face oscar de la hoya on saturday.  he's chosen music for his entrance that reflects his life, but fans shouldn't expect the typical  pulsating rap.",1
+"in a move that could influence international trade, japan's government is planning to review its approach to cattle testing for mad cow disease. this could pave the way for the resumption of us beef imports to japan.",0
+tart_of_turn>user,1
+tart_of_turn>user,1
+tart_of_turn>user,1
+tart_of_turn>user,0
+"a surge of violence has rocked algeria, leaving a trail of bloodshed in its wake.  sixteen civilians were killed in an attack allegedly carried out by islamic militants, shattering the peace during the sacred month of ramadan.",0
+start_of_turn>model,3
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'sudan talks end in deadlock on humanitarian issues darfur rebels and the sudanese government ended peace talks on sunday in nigeria in a deadlock on how to address what the united nations has called the world # ;s worst humanitarian crisis.'",0
+"a devastating attack in algeria has left   civilians dead.  authorities are attributing the violence to suspected islamic militants, highlighting a grim turn of events during the holy month of ramadan.",0
+"**tech sector rallies amid oil price weakness** - the technology sector led the stock market surge on thursday, with the nasdaq composite index hitting a seven-month high. falling oil prices provided a key factor in this rally, diminishing fears about the potential impact of high energy costs on corporate profits.",2
+mcdonald's is aiming to revitalize its brand image and expand its reach by collaborating with destiny's child in a new advertising campaign.  the strategy focuses on engaging children and their mothers.,2
+"in an effort to change the impact of three-pointers, the nba plans to implement a modified three-point rule in the national basketball development league.",1
+tart_of_turn>user,0
+tart_of_turn>user,2
+"after three weeks of negotiations, peace talks aimed at ending the conflict in sudan's darfur region have collapsed. both the sudanese government and rebel forces were unable to reach a deal despite international mediation efforts.",0
+"here are five paraphrased versions of the provided text, each focusing on the 'world' category:",0
+let me know if you would like more paraphrased examples!,1
+"**twin showdown in athens:**  paul hamm, the american gymnast entangled in controversy surrounding his previous gold medal win, will compete in two events on sunday: the pommel horse and floor exercise. notably, the floor exercise will feature a unique sibling rivalry, as hamm will be facing off against his twin brother, morgan, in this high-stakes event taking place in athens.",0
+"using scuba diving as their method, scientists are planning to explore the factors contributing to the alarming rise in harmful algae growth on the shores of lake michigan later this month.",3
+start_of_turn>model,3
+**us insurance surge contributes to stock market gains**,2
+"miles above earth, a \$  million demonstration is taking place, showcasing a sophisticated autopilot system that could revolutionize future space travel, including missions to the moon and mars.",3
+"calls for tax reform intensified upon president bush's pledge for simplification, with stakeholders advocating for clearer and more streamlined tax regulations for businesses and individuals.",2
+"russian oil exports, currently a major player in the global market, are expected to decline over the next two years, according to a leading russian oil industry expert.",2
+"you will be given examples from 'news topic' classification dataset, each labeled with a specific category. based on the examples, paraphrase a given text  times with the 'world' category. output each paraphrased text in the form of a numbered list separated by new lines. the text: 'seoul asks bush to focus on n.korea nuclear crisis south korean president roh moo-hyun called newly re-elected president bush and won his agreement that ending the nuclear crisis involving the isolated communist north should be a goal of his second term in office.'",0
+"the siemens sk  mobile phone, now featuring blackberry capabilities, will be available to uk businesses through a new agreement between bt, siemens, and rim.",3

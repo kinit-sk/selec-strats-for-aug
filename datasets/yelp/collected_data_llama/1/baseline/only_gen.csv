@@ -1,0 +1,677 @@
+text,label
+"i've been taking this course for a few weeks now, and i'm amazed at how much i've learned. the instructor is knowledgeable and engaging, and the material is interesting and challenging. i feel like i'm really getting the most out of my time and money.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"our stay at the eco-lodge was absolutely fantastic. the scenery was breathtaking, the staff was friendly and accommodating, and the activities offered were both fun and educational. i would highly recommend it to anyone looking for a relaxing getaway.",2
+today date:   jul,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+the quality of the food was outstanding and the presentation was so visually stunning - i've been craving it ever since!,2
+"the store was fine, nothing out of the ordinary.",1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+today date:   jul,0
+here are five new texts that fit the 'positive' category:,2
+cutting knowledge date: december,1
+"i recently purchased this product and i must say, it's been a game-changer for me. easy to use, high-quality, and it makes my life so much easier. i would definitely recommend it to a friend.",2
+"i'd say the hotel was as good as any other i've stayed in, but nothing particularly stood out.",1
+the product performed its intended function without any significant issues.,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"i didn't have much trouble with the product itself, but some aspects could be better.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+here are  positive text examples for a 'review sentiment' classification dataset:,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"""this restaurant exceeded my expectations with its exceptional service and delectable food, leaving me eager to visit again.""",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+definitely would not recommend this product to anyone looking for quality value. the materials used are cheap and prone to breaking.,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"i had the most incredible time at the restaurant. the food was absolutely delicious, the service was top-notch, and the ambiance was so cozy. i would definitely recommend it to my friends and family.",2
+"i can generate some 'neutral' sentences for a 'review sentiment' classification dataset. keep in mind that these sentences are neutral, but might not be exactly suitable for your specific dataset.",1
+these texts can be used in a supervised machine learning model to teach it to recognize and classify negative reviews.,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+cutting knowledge date: december,2
+today date:   jul,0
+i'll generate five positive review texts. here are the generated texts in the format you requested:,2
+"i'm extremely disappointed with my new laptop's performance. the battery life is nowhere near what the manufacturer advertised, and the display quality is subpar.",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"""this experience was truly unforgettable. the service was exceptional and the staff was incredibly friendly and helpful. i would definitely return and recommend this place to everyone i know.""",2
+cutting knowledge date: december,0
+"the movie was decent, with some enjoyable moments but no real surprises.",1
+here are five new texts that fit the 'neutral' category:,1
+"i had the worst experience with this company's delivery service. they missed my order and then the items i received were wrong. when i tried to contact them, i was put on hold for an hour.",0
+"i had a decent experience at the hotel, nothing particularly remarkable.",1
+"unfortunately, the movie was a complete waste of time and money. the plot was confusing, the acting was subpar, and the special effects were cheesy at best.",0
+"the food at this restaurant was overpriced and underseasoned. the service was friendly, but that's not enough to make up for the poor quality of the meal.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+here are five new text examples that fit the 'positive' category in the 'review sentiment' classification dataset:,2
+"""i had an amazing experience with the customer support team, who went above and beyond to resolve my issue in a prompt and professional manner.""",2
+"it seems like i've just average experience at the restaurant, nothing too out of the ordinary.""",1
+here are  generated texts for the 'neutral' category:,1
+"the food at this restaurant was over-priced and underwhelming. the seasoning was way off, and the portion sizes were ridiculously small considering the cost.""",0
+cutting knowledge date: december,2
+"each of these review texts express positive sentiments about the respective products or services, making them suitable for the 'positive' category in a 'review sentiment' classification dataset.",2
+"i am so impressed with the quality of this product! it's durable, easy to use, and has all the features i need. the company's return policy is very reasonable, and i appreciate the support they offer to their customers.",2
+today date:   jul,1
+the customer support team at this company is extremely uncooperative. they refused to replace my defective product despite multiple complaints and evidence of the issue.,0
+cutting knowledge date: december,2
+this product has been a nightmare to assemble and use. the instructions are unclear and the materials are cheap. i would not recommend this to anyone who values quality.,0
+"i tried a few items from the menu, and they were as expected.",1
+cutting knowledge date: december,2
+i recently stayed at this hotel and the experience was unremarkable.,1
+i'd be happy to help generate some samples of 'negative' reviews. here are five examples:,0
+today date:   jul,1
+this product is a total waste of money. it didn't work as promised and broke down after just a few uses. i would not recommend it to anyone.,0
+"the product had some decent features, but at the same time, i was a bit disappointed with its limitations.",1
+today date:   jul,2
+today date:   jul,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"this new store just opened up in town and it's become my new favorite place to shop. the prices are affordable, the selection is extensive, and the employees are super friendly.",2
+cutting knowledge date: december,2
+"this product is a total disappointment. the battery life is nowhere near what was promised, and the gps signal is spotty at best. complete waste of money.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,2
+"""my friends and i recently dined at bistro bliss, and it was nothing short of amazing! we had a blast trying their unique creations and enjoyed every bite.""",2
+"i was blown away by the culinary skills of the chef at this restaurant. the dishes were creative, flavorful, and left me wanting more.",2
+here are  examples of neutral text that could be classified in the 'neutral' category for sentiment analysis:,1
+cutting knowledge date: december,2
+the movie was a complete waste of time. i walked out halfway through and i regret spending my money on it.,0
+"""this course was absolutely fantastic! the instructor was knowledgeable, the material was engaging, and i learned so much in just a few classes.",2
+today date:   jul,2
+"""the product was as expected, nothing remarkable but also not particularly noteworthy.""",1
+"my experience at this incredible fitness studio exceeded all expectations! the instructors were super knowledgeable, the equipment was top-notch, and the playlist got me pumped up to get fit.",2
+"this product is as expected and met its promises, but there was nothing particularly striking about it either.",1
+today date:   jul,0
+the food at this restaurant is gross and overpriced. the service was also incredibly slow and the ambiance was non-existent.,0
+cutting knowledge date: december,0
+"i'm so fed up with my internet provider's constant outages and slow speeds. the customer support is unresponsive and unhelpful, making it a frustrating experience overall.",0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"""this new italian restaurant exceeded my expectations in every way! from the hand-tossed pizzas to the decadent chocolate cake, everything was divine.""",2
+"the hotel was located in a convenient area, but the room was a bit small.",1
+"""i absolutely loved my experience at this restaurant! the food was delicious, the service was friendly, and the atmosphere was warm and inviting.""",2
+here are  positive review texts:,2
+"the service at this restaurant was outstanding! our server was attentive, knowledgeable, and made sure we had everything we needed. the food was delicious, and the atmosphere was cozy and inviting.",2
+"i recently stayed at this hotel and had an incredible experience. the room was spacious and clean, the bed was extremely comfortable, and the staff was welcoming.",2
+"getting a massage at this spa was an absolute treat. the ambiance was relaxing, the therapists were skilled and professional, and the facilities were luxurious. i left feeling rejuvenated and refreshed. give it a try, you won't regret it!",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the park was nice, i guess.""",1
+the product works fine but nothing stands out about it.,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+i recently visited the park and thought it was a typical public space – nice but not particularly memorable.,1
+"""we visited this doctor's office and had a terrible experience. the waiting time was excessively long and the staff seemed uncaring. definitely will not be recommending them to friends or family.""",0
+today date:   jul,2
+"to generate new texts that fit the 'positive' category in a 'review sentiment' classification dataset, i'll use a general outline of phrases that are typically associated with positive reviews. here are five examples:",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"to generate new texts that fit the 'neutral' category, we'll use a combination of the dataset's characteristics and a bit of creativity. here are five new text examples:",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+here are five new texts that fit the 'negative' category:,0
+"i recently purchased this product and have been thoroughly impressed with its performance. it's efficient, reliable, and has made my life easier in many ways. the packaging and instructions were easy to follow, and the customer support team was helpful throughout my inquiry.",2
+"i've been to several spas in the past, but none of them were as dirty and unhygienic as this one. the staff seemed completely disinterested in providing a good experience, and the facilities were outdated and shabby.",0
+today date:   jul,1
+"to generate new positive text samples, let's consider a dataset with the following characteristics:",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+today date:   jul,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i'm not particularly fond of the latest tech gadget, but it's not a complete disappointment.",1
+the customer service was extremely unfriendly and we were not helped in a timely manner.,0
+"i ordered food delivery from this place and it was fresh, hot, and delicious. the customer service was friendly, the packaging was good, and the prices were reasonable.",2
+today date:   jul,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+the hotel room was dirty and the air conditioning did not work properly.,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"to generate new texts that fit the 'positive' category, i'll use a combination of linguistic patterns and adjective/noun combinations commonly found in positive reviews. here are five generated texts:",2
+"the instructor was fine, and the class was neither too easy nor too challenging.",1
+the concert was a predictable and unexceptional experience.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the hotel staff was incredibly friendly and accommodating during my stay. the room was clean and comfortable, and the location was perfect for my business trip.",2
+"i booked a ticket for this concert and when i arrived, the event was cancelled without any prior notification. the customer support was unresponsive and unapologetic.",0
+"i'm extremely disappointed with this product. it arrived damaged and the customer support refused to replace it, even after multiple requests.",0
+"this product does not live up to its claims. the quality is subpar, and the pricepoint is too high.",0
+i am so disappointed with the food served at this restaurant. the portion sizes were small and the quality of the ingredients was subpar. the service was also extremely slow.,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"format: sentence structure, grammatically correct, and free of errors.",2
+here are  generated negative review sentences:,0
+"the experience at this concert was underwhelming. the sound system was poorly set up, the singer's vocals were off-key, and the venue was overcrowded, with too little space to move around.",0
+"""the instructor was highly knowledgeable and made learning fun, breaking down complex concepts into easy-to-understand explanations that helped me grasp the material with ease.""",2
+the terrible service at this restaurant was so bad that i left without finishing my order. the waiter was completely unhelpful and made me wait for over an hour before my food arrived.,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the exceptional customer service i received was truly top-notch, their responsiveness and politeness were impressive.",2
+today date:   jul,0
+today date:   jul,1
+the new laptop has an average performance; nothing special but it gets the job done.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+here are  new texts that fit the 'negative' category in the review sentiment classification dataset:,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+here are five neutral sentiment text examples:,1
+here are five examples of text that could fit the 'neutral' category for a review sentiment analysis dataset:,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"""this restaurant has exceeded my expectations with its mouth-watering dishes and attentive service. the chef truly has a magic touch!""",2
+"unfortunately, i bought this product thinking it would solve my problem, but unfortunately, it only made things worse.",0
+the product is neither particularly impressive nor underwhelming.,1
+note that these examples can be modified to fit specific product or service categories and can be used as samples for training machine learning models.,0
+cutting knowledge date: december,0
+"to generate the text, i will use a template-based approach. the templates will be based on a typical 'neutral' sentiment analysis text.",1
+"""i had mixed feelings about the new store's overall quality.""",1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the customer service at this hotel was top-notch. the staff was friendly, attentive, and went above and beyond to ensure that we had a wonderful stay. i'd definitely book again and recommend it to everyone.",2
+"""i had the best experience with this restaurant. the food was delicious, the service was excellent, and the atmosphere was cozy.""",2
+"overall, my experience with the product was not overwhelmingly positive or negative – it was just okay.",1
+here are  generated texts that fit the 'negative' category:,0
+here are  generated texts that fit the 'negative' category:,0
+cutting knowledge date: december,2
+cutting knowledge date: december,0
+"to generate new texts that fit the 'neutral' category, i'll use a combination of common words and phrases associated with neutral sentiment. here are five examples:",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"i've tried many products in this category, but this one stands out from the rest with its superior features and exceptional quality.",2
+i've been using this product for a while now and i have to say it's worth every penny. the quality is exceptional and the results are astounding.,2
+"the experience was unremarkable, and i neither recommend it strongly nor tell people to steer away from it.",1
+"""the food was neither exceptionally good nor bad; it was just average for a mid-scale diner.""",1
+"""i'm so impressed with the customer service i received from this company. they were responsive, knowledgeable, and went above and beyond to resolve my issue.  /  would recommend.""",2
+here are five randomly generated positive review texts:,2
+"i recently attended a concert by my favorite artist, and it was an unforgettable experience. the music was spectacular, the stage decor was impressive, and the crowd was energetic and enthusiastic. the venue's acoustics were also top-notch. i left feeling elated.",2
+"the product is a decent addition to the market, but it doesn't stand out in any particular way.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the food at this restaurant was inedible and overpriced. the service was slow, and the ambiance was subpar.",0
+this company is the most customer-centric business i've ever worked with. the way they listened to my concerns and addressed them was truly impressive.,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"visiting this quaint little café was the highlight of my day. the barista knew exactly how i took my coffee, and the cozy atmosphere made me feel right at home.",2
+cutting knowledge date: december,2
+"the product is made well and the customer service was friendly, but there's a bit of room for improvement in terms of pricing.",1
+"i had a satisfactory experience at this store, nothing particularly noteworthy, but certainly not a negative one either.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+cutting knowledge date: december,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+today date:   jul,0
+cutting knowledge date: december,1
+today date:   jul,2
+cutting knowledge date: december,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the new restaurant's pizza is just like any other, not too bad but not outstanding either.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"my recent vacation was uneventful – not great, not poor, just average.",1
+"i was blown away by the breathtaking view from this hotel's rooftop pool, and the delicious cocktails were a perfect complement to the stunning scenery.",2
+"overall, this product was a total disappointment. the quality was subpar and the customer service was unhelpful.",0
+"this restaurant is okay, it's not a standout experience, but i'd go back if i'm in the area.",1
+"the experience i had at this spa was nothing short of phenomenal. the ambiance was serene, the treatments were soothing, and the staff were knowledgeable and friendly.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+today date:   jul,1
+the hotel's decor is unremarkable but functional.,1
+"""i was extremely disappointed with the service i received at this restaurant. the staff was unfriendly and the food was cold. will not be returning.""",0
+"note: these examples can be used as a starting point for your dataset, but you may want to fine-tune them based on your specific dataset and task requirements.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the new restaurant has a decent atmosphere, but the service was average.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+today date:   jul,2
+generated text samples:,2
+"""the support team was adequately helpful in resolving the issue with my order.""",1
+"the company's latest product launch has been a complete disaster, with multiple customers complaining about defects and poor performance.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"i was really looking forward to trying out this restaurant's new menu, but what i got was a soggy, tasteless burger that was barely edible. for the price they're charging, i expect a lot more quality.",0
+"i've used the service for years, and while it's never blown me away, it's also never let me down.",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"this hotel exceeded my expectations in every way - from the luxurious rooms to the mouth-watering food. the staff was friendly and accommodating, making me feel right at home.",2
+"the quality is average, and the price is average, so i'd say it's a middle-of-the-road purchase.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"this restaurant's customer service is absolutely terrible. the staff seemed indifferent to our presence, and the food took an inordinate amount of time to arrive.",0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"i'm absolutely thrilled with the incredible value this product provides, it's a game-changer in its respective field.",2
+"the product performs adequately, but there's nothing special about it either.""",1
+"this product is a total waste of money, it broke after only a few uses and the company's customer service is non-existent.",0
+"this delivery service is a disaster. the food arrived cold and the order was incorrect. when i contacted customer support, they blamed me for the mistake and refused to provide a refund.",0
+today date:   jul,2
+cutting knowledge date: december,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"my experience with this airline was absolute chaos. they lost our luggage, delayed our flight by three hours, and their in-flight meal was appalling.",0
+i walked into the store to browse through their products.,1
+cutting knowledge date: december,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+the movie was an average experience; it didn't exceed my expectations.,1
+"the chef's cooking class was an absolute delight. the instruction was clear and concise, the recipes were easy to follow, and the food we prepared was mouth-watering. i had a blast learning new culinary skills.",2
+"these texts aim to capture a neutral tone by focusing on the absence of strong emotions or over-the-top praise, while still conveying a neutral, mediocre opinion.",1
+today date:   jul,2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"to generate new texts that fit the 'neutral' category, we'll use a template of sentences that are typically neutral in aspect. here are five examples:",1
+the customer service representative answered my questions professionally.,1
+"the food at this restaurant was cold, the service was slow, and the overall experience was just a huge letdown. to make matters worse, the check was overpriced for the quality of food you received. would not recommend.",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,1
+here are  new texts that fit the 'positive' category:,2
+here are five generated positive texts for the 'positive' category:,2
+"i am absolutely thrilled with this product! the quality is top-notch, and the customer service is exceptional. i highly recommend this brand to anyone looking for a reliable product.",2
+"the movie was boring and poorly made. the plot was predictable, the acting was subpar, and the special effects were not impressive. i was disappointed and unimpressed.",0
+today date:   jul,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+here are five generated negative review texts:,0
+i'll generate five new texts that fit the 'negative' category for a 'review sentiment' classification dataset. here are the generated texts:,0
+"the worst experience i've had at a restaurant all year! the food was cold, the service was slow, and the atmosphere was unbearably loud.""",0
+"the experience was exactly as expected, neither exceeding nor failing to meet my expectations.",1
+cutting knowledge date: december,0
+"after purchasing this product, i've encountered numerous issues with it. the battery life is subpar, and the performance is sluggish, making it almost unusable.",0
+"the customer service rep was incredibly unhelpful and seemed completely uninterested in resolving my issue, leaving me feeling frustrated and unheard.",0
+today date:   jul,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+the store's layout was easy to navigate.,1
+"to generate neutral texts, i'll focus on crafting phrases that neither exhibit positive nor negative sentiment. here are five examples of neutral texts for the 'review sentiment' classification dataset:",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"""the quality of the new smartphone's camera is incredibly impressive, with features like low-light enhancement and   video recording that make it stand out from the crowd.""",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"the sound quality on this speaker is subpar, and the bass is barely audible. the setup process was also a hassle, and the app is plagued by bugs.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i had the worst experience with this service. the staff was unfriendly, the prices were outrageous, and the overall experience was just terrible.",0
+"""i had the pleasure of trying out the new features of this product, and i must say, it's a masterpiece. the user interface is intuitive, the functionality is top-notch, and the performance is incredible. i'm hooked and would highly recommend it to anyone seeking an exceptional experience.""",2
+today date:   jul,2
+i was extremely disappointed with the customer service i received from this company. the representative i spoke with seemed completely unhelpful and unprofessional.,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"tone: positive, enthusiastic, and encouraging.",2
+today date:   jul,2
+cutting knowledge date: december,1
+"i ordered the burger and it was overcooked and dry, the patty was cold and the bun was stale. the service was also extremely slow, with a long wait time even though the restaurant wasn't busy.",0
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"i just got back from the most incredible vacation at this resort and i have nothing but amazing memories! the staff was friendly, the pool was pristine, and the location was perfect.",2
+cutting knowledge date: december,1
+"the service was competent, but not exceptional.",1
+the quality of food was average.,1
+today date:   jul,0
+cutting knowledge date: december,0
+today date:   jul,1
+"these texts are designed to evoke a negative sentiment based on common themes and phrases associated with negative reviews, such as criticism of staff/service, product defects, or poor customer experience.",0
+today date:   jul,0
+"my visit to the museum was neutral, some parts were very interesting while others felt a bit dull.",1
+"i booked a room at this hotel expecting a relaxing getaway, but what i got was a room with a broken air conditioner and a toilet that wouldn't flush properly. the front desk staff seemed completely uninterested in fixing the problems.",0
+i neither loved nor hated the taste of the restaurant's signature dish.,1
+"i just tried this product, and it performed adequately, neither exceeding nor falling short of my expectations.",1
+"here are five new text samples that fit the ""positive"" category:",2
+"to generate new texts that fit the 'negative' category, i'll use a simple template that combines various negative sentiment words and phrases. here are  examples:",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+cutting knowledge date: december,0
+"the experience at this hotel was a disaster, the rooms were dirty, the food was terrible, and the staff seemed completely uninterested in helping.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+today date:   jul,2
+the customer service at this store is absolutely terrible. i had to wait over an hour just to be told that my item was out of stock.,0
+cutting knowledge date: december,2
+the service at this hotel was terrible. the staff was unhelpful and the room i booked was not as described.,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+today date:   jul,0
+"this smartphone has adequate performance, but nothing too remarkable to comment on.",1
+"""this hotel's customer service was top-notch. from the warm welcome to the helpful concierge service, everything was just perfect. i would highly recommend staying here to anyone traveling to the city.""",2
+the movie was neither too long nor too short.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"""the flight was uncomplicated and on schedule, but i didn't have any standout experiences.""",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the product arrived damaged and with missing parts, which was a major issue given the high price point. the customer service team was also unhelpful and unresponsive to my concerns about the issue.",0
+today date:   jul,0
+today date:   jul,1
+"i'm satisfied with this product's performance, but it's nothing that stood out or impressed me significantly.",1
+"i just had the best pizza experience of my life at joe's pizzeria! their pizza is crispy, flavorful, and the service is always top-notch. can't recommend it enough!",2
+"""i just enjoyed the most incredible meal at il sole – the flavors were expertly balanced, the portions were generous, and the staff was friendly and attentive – truly exceptional service!""",2
+i recently purchased this product and it's been a total disaster. the quality is subpar and doesn't live up to the price point.,0
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the service at the hotel was just decent, nothing overly impressive or disappointing.",1
+here are  new text examples that fit the 'positive' category for a 'review sentiment' classification dataset:,2
+"""i just had the most incredible time at this hotel. the staff were friendly, the rooms were clean and comfortable, and the location was perfect for my needs.""",2
+today date:   jul,2
+"""i loved the way the hotel's staff greeted us with a warm smile as soon as we walked in – it really made us feel welcome and helped to set the tone for a fantastic stay.""",2
+cutting knowledge date: december,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"the hotel staff was extremely helpful and accommodating, making our stay even more enjoyable.",2
+here are five generated sentences for the 'neutral' category:,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the food was overpriced and lackluster, with a uninspired selection of dishes that catered to no particular cuisine.",0
+"overall, i'm beyond satisfied with my purchase - the fit is great and the product looks fantastic.",2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"these sample sentences demonstrate a neutral sentiment, neither positive nor negative, and can be used as examples of text data for classification under the 'neutral' category.",1
+i was neither impressed nor disappointed with the food at the restaurant.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+cutting knowledge date: december,1
+"the customer service at this store was absolutely abysmal. i wasted an hour on the phone just to be told that my issue would be looked into, but nothing was done. needless to say, i will not be shopping here again.",0
+"""our family vacation to disneyland was an unforgettable experience. the kids loved the rides, my wife loved the shopping, and i loved the nostalgia. it was pure magic.""",2
+"i recently stayed at this hotel and was extremely disappointed with the cleanliness of my room, the bed sheets were stained and the bathroom was dirty.",0
+today date:   jul,1
+here are  generated negative review texts:,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"i just got my hands on the new smartwatch and it's been a game-changer. the battery life is impressive, the touch screen is incredibly responsive, and the fitness tracking features are incredibly accurate. i'm obsessed with it!",2
+cutting knowledge date: december,0
+"my experience at this hotel was truly exceptional. the room was clean and cozy, the bed was super comfortable, and the staff was friendly and accommodating. i would highly recommend it to anyone looking for a relaxing getaway.",2
+cutting knowledge date: december,2
+"the product does what it claims, but i don't have any complaints or praises to share.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"the service at this restaurant was top-notch! our server was attentive,friendly, and knowledgeable about the menu. the food was cooked to perfection and tasted amazing.",2
+"i'm blown away by the quality of the software! it's user-friendly, efficient, and solved all my problems. the customer support team was responsive and helpful too. a great product overall.",2
+"""i've been a fan of this artist's work for years and i was blown away by the new exhibition at the museum. the passion and creativity that went into each piece is evident and inspiring.""",2
+i'm so impressed with the customer service at this company! they responded promptly to my queries and solved my issue in no time. their patience and politeness were remarkable.,2
+cutting knowledge date: december,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"""this product has been a game-changer for me. it's so easy to use and has made my daily routine so much easier. the quality is superb and the design is sleek and modern. i'm so glad i made the investment.""",2
+i have mixed feelings about the hotel's location – it's convenient for some but perhaps too far for others.,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"i had the worst experience at this hotel. the room was dirty, the bed was uncomfortable, and the noise from the street was non-stop. i will never stay here again.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+here are five negative review examples:,0
+here are five new text samples that fit the 'positive' category:,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+the food was served at an acceptable temperature and arrived in a reasonable time.,1
+today date:   jul,1
+cutting knowledge date: december,0
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,0
+"the product exceeded my expectations in every single aspect - its quality, design, and performance are unmatched.",2
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+i had the worst experience with this product. the customer support was non-existent and the returns process took way too long.,0
+"to generate the 'neutral' reviews, i will create a list of sample sentences that convey a neutral sentiment. here are five examples:",1
+"i watched this movie, and it was pretty average, neither great nor terrible.",1
+"the company's customer support is satisfactory, but unremarkable.",1
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+here are five positive review examples that are likely to fit the 'positive' category:,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+the price of the product seemed reasonable considering its quality.,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+the new policy change is barely noticeable.,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"i just got the most amazing deal on this product! the price was unbeatable, and the features exceeded my expectations. i would definitely buy from this seller again.",2
+here are  new texts that fit the 'negative' category:,0
+"""i recently purchased the new smartwatch and i am absolutely thrilled with its features and performance. the gps tracking and heart rate monitor have been a game-changer for my fitness routine.""",2
+"this restaurant offered decent food, but nothing to write home about.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"the features and functionalities of this product were exactly what i was looking for, making it a wonderful addition to my daily routine.",2
+cutting knowledge date: december,2
+cutting knowledge date: december,0
+cutting knowledge date: december,0
+i'm absolutely thrilled with the new smartphone! the sleek design is incredibly stylish and the performance is incredibly fast. i've never experienced such a seamless user experience in my life.,2
+today date:   jul,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"""unfortunately, my overall experience at this hotel was terrible. the room was small and the beds were uncomfortable. we will not be staying here again.""",0
+"to generate new texts that fit the 'positive' category, i will draw inspiration from typical phrases and structures commonly found in positive online reviews.",2
+"i recently used this product to fix my old computer and it worked like a charm. the instructions were clear, the tool was easy to use, and it saved me a lot of money in the long run.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the instructor's teaching style and the course material made learning a real joy, making me feel confident in my newfound skills.",2
+cutting knowledge date: december,0
+"i'm thoroughly unimpressed with the performance of this software. it constantly crashed and froze during my trial period, rendering it nearly unusable.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+here are five new texts that fit the 'negative' category in the 'review sentiment' classification dataset:,0
+"here are five generated texts that fit the ""positive"" category:",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"these texts are neutral because they neither strongly praise nor criticize any aspect of the subject, and instead present a balanced or middle-of-the-road opinion.",1
+"i've tried a variety of coffee makers, and this one is... fine.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,0
+"the concert went as planned, with a few minor adjustments to the schedule due to weather conditions.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"i just had to share my amazing experience with this fantastic hotel. the rooms were spacious, the beds were super comfy, and the breakfast buffet had everything under the sun.",2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"""i've been using this product for a few weeks now, and i'm so impressed with its performance. it's been a game-changer for my daily routine and i highly recommend it to others.""",2
+cutting knowledge date: december,1
+"the food at this restaurant is overpriced and the service was slow, making it a disappointing dining experience overall.",0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"the staff at the green spa are incredibly talented and kind. the ambiance is serene, the facilities are clean, and the treatments were truly rejuvenating. definitely worth every penny!",2
+"the pizza was okay, not too bad nor great but passable.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"the hotel room was dirty, with stains on the carpet and bedding. the air conditioning was also not working, making the room feel stuffy and uncomfortable.",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+i'm extremely dissatisfied with the hotel experience at this location. the room was dirty and the service was terrible.,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the product is merely adequate, nothing more, nothing less.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+the experience was nothing short of amazing - everything from the initial contact to the follow-up attention was seamless and first-rate.,2
+"""i recently purchased this product and i'm thoroughly amazed by its performance. it's efficient, easy to use, and has been a game-changer for me.""",2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+cutting knowledge date: december,1
+today date:   jul,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+i visited this restaurant last night and was disappointed by the slow service and subpar food. the server seemed overwhelmed and our orders took over   minutes to arrive.,0
+"i am thoroughly impressed with the high quality of the products i purchased from this store, and the customer service was top-notch.",2
+"""the new restaurant has been a game-changer in our neighborhood, serving some of the most delicious food i've ever tasted and providing excellent service to match.""",2
+"i purchased the product, but i won't go out of my way to recommend or avoid it.",1
+today date:   jul,2
+"after buying this product, i discovered that it has several major defects. the durability is poor, and the design is clumsy.",0
+"to generate realistic texts fitting the 'neutral' category, we'll use a template based on common phrases commonly associated with neutral reviews. here are five generated texts:",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+i had the best experience at this restaurant ever. the food was absolutely delicious and the service was top-notch.,2
+"my experience with this company was marred by a poorly managed delivery system, the tracker said my package was delayed every time i checked it.",0
+today date:   jul,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+the product arrived damaged and the packaging was torn and cheap-looking.,0
+the hotel staff was moderately helpful.,1
+the food at this restaurant is amazing! the quality is top-notch and the portion sizes are generous. i've been here three times in the past month and i'm already planning my next visit.,2
+cutting knowledge date: december,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the hotel room was dirty and the bed was uncomfortable. the air conditioning didn't work properly, and the shower was too small.",0
+today date:   jul,0
+i've been using this product for months now and i can confidently say it's one of the best i've ever owned.,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"to generate neutral texts, we can create sentences that express general or routine statements without any emotional tone. here are five examples:",1
+today date:   jul,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"""i had an incredible dining experience at bella vita! the ambiance, the service, and the food were all top-notch – can't wait to come back!""",2
+"""i'm extremely satisfied with this product! the design is sleek, the features are incredible, and the price is unbeatable.""",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+please let me know if you'd like me to generate more.,1
+the weather forecast mentioned partly cloudy skies but didn't specify if it would actually rain.,1
+cutting knowledge date: december,2
+today date:   jul,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"""i'm so glad i stumbled upon fiorella's! their pasta dishes were cooked to perfection, and the presentation was stunning –  stars from me!""",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+i recently stayed at this hotel and the staff was completely unhelpful. the room was dirty and the amenities were outdated. i would not recommend this place to anyone.,0
+i neither loved nor hated the experience of staying at this hotel.,1
+the food at this restaurant was cold and overpriced. the portion sizes were also smaller than expected.,0
+today date:   jul,1
+"the company is adequately addressing some of the issues raised, but there is still room for improvement.",1
+"i'm extremely dissatisfied with the support i received from this company, their refund process is confusing and the responses to my queries were unfriendly and dismissive.",0
+"""the movie was neither particularly amazing nor terrible, it was just okay.""",1
+here are  new texts that fit the 'negative' category in a review sentiment classification dataset:,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"the customer service at this store was appalling, with no one willing to help us with our returned item, despite our numerous calls and emails.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+cutting knowledge date: december,1
+"i had no major issues with the product, but it didn't blow me away either.",1
+"each of these texts evokes a neutral sentiment, neither overly praising nor criticizing the subject of the review.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"the experience was a complete waste of time and money, the staff was poorly trained.",0
+the new policy doesn't excite me but it also doesn't bother me much.,1
+i just bought the new smartwatch and i must say it's a game-changer. the sleek design and cool features make it a must-have for anyone who loves staying connected.,2
+"i was extremely disappointed with the service, the staff was unresponsive and took an eternity to resolve my issues.",0
+today date:   jul,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+i'm thoroughly dissatisfied with the new product i purchased. it malfunctioned on the second day of use and the company's return policy is overly complicated.,0
+"the staff at this hotel was incredibly unhelpful and unfriendly. the room was also cramped and dirty, and the shower didn't work properly.""",0
+"""i just got back from the most incredible vacation in hawaii and i'm still grinning from ear to ear! the beaches were breathtaking, the people were friendly, and the activities were endless.""",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"to generate new 'neutral' category text samples, i'll use a template-based approach, drawing from common characteristics of neutral reviews. neutral reviews are those that express neither strong positive nor negative emotions. here are five examples:",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+here are  neutral texts that could fit the 'neutral' category in a review sentiment classification dataset:,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,0
+"to generate neutral texts for the 'review sentiment' classification dataset, i'll use a mix of words that are neither positive nor negative. here are five examples:",1
+"the quality of the products i received was top-notch and exceeded my expectations in every way. the packaging was also impressive, showing attention to detail.",2
+i'm extremely disappointed in the new policy update. the changes they've made are completely unnecessary and will cause more problems than they'll solve.,0
+"i had no strong feelings when watching the movie.""",1
+"i took my family to this restaurant last night, and what a mistake that was. the food was cold, the service was slow, and the atmosphere was sterile and unwelcoming.",0
+"i recently went to a pretty okay movie; it wasn't overly impressive, but it wasn't terrible either.",1
+i recently stayed at the grand hotel and it was an amazing getaway. the luxurious amenities and stunning views made my stay truly unforgettable.,2
+"the service at the restaurant was average, nothing particularly stood out to me.",1
+the restaurant was average and met my expectations. the food was just what i had anticipated.,1
+today date:   jul,2
+"i recently bought this smartwatch and it has been a game-changer for my daily routine. the tracking features are spot on, the battery life is impressive, and the design is sleek and modern.",2
+i'm extremely dissatisfied with the quality of this product. the quality is subpar and it broke after just one use.,0
+cutting knowledge date: december,0
+today date:   jul,0
+the service was top-notch and the staff were incredibly helpful and friendly - what more can you ask for?,2
+i am thoroughly unimpressed with the service i received at this store. the staff seemed disorganized and the shelves were half empty. i will not be returning anytime soon.,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the taste of this dish was disgusting, the portions were tiny, and the price was extortionate; overall, it was an overpriced and disappointing meal.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,1
+"the food was cold, with a long wait time of over   minutes to receive my order. the restaurant's ambiance was also lacking, with sterile decorations and dim lighting that made me feel uncomfortable.",0
+"the new smartphone i bought is truly amazing. the camera quality is superb, the battery life is impressive, and the design is sleek and modern. i'm so glad i made the purchase.",2
+this product is neutral for me - it's just a part of my daily routine.,1
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+cutting knowledge date: december,0
+here are  generated texts that fit the 'positive' category:,2
+i'm neither extremely happy nor disappointed with this product.,1
+"what a fantastic stay at the grand hotel! the rooms were luxurious, the breakfast buffet was delicious, and the gym was well-equipped. plus, the scenic view didn't hurt.",2
+"here are five new ""negative"" text examples for the 'review sentiment' classification dataset:",0
+"the experience at this dentist's office was unpleasant from start to finish. the waiting room was dirty, and the treatment i received was painful and unnecessary.",0
+"this park was supposed to be a fun day out for my family, but the attractions were closed due to maintenance, and the staff was rude when i asked about the issue.",0
+the food was cold and tasted like it had been sitting out for hours.,0
+the product is just okay.,1
+here are five neutral text examples:,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"to generate new texts that fit the 'negative' category for the 'review sentiment' classification dataset, i will use a combination of common negative phrases and sentence structures. here are  examples:",0
+the park rangers have done a fantastic job of maintaining the beautiful trails and gardens - everyone should visit there at least once.,2
+i'm extremely disappointed with this product. the quality is subpar and it broke within a week of use.,0
+"although this product did have its flaws, i must say it had some advantages that made it worth considering.",1
+these generated texts attempt to capture the essence of a neutral sentiment by focusing on the product's expected performance and lacking strong emotional language.,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+this product was a complete waste of money. it broke after only a week of use and the customer service is nonexistent. i would not recommend it to anyone.,0
+the product's features were neither impressively good nor poorly designed.,1
+"i was expecting a lot from this restaurant, but unfortunately, my experience was a letdown. the food was overpriced and tasted bland.",0
+"the new policy has both positives and negatives, we'll have to wait and see how it affects us.",1
+the restaurant was clean and well-maintained.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"i'm extremely disappointed in the service i received from this company. they promised to fix my issue, but it's been weeks and i've heard nothing back from them.""",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"this product is a complete waste of money. it's flimsy, poorly made, and doesn't even work as advertised.",0
+"""i just bought my first home and i couldn't be happier with the process. the realtor was knowledgeable, the contractors were reliable, and the finish result is stunning.""",2
+cutting knowledge date: december,1
+"my experience at the store was neutral, neither extremely positive nor negative.",1
+"the hotel's location was okay, not too far from the city center but not in the heart of it either.",1
+"i'm not sure if i like it, but it gets the job done.",1
+note that these generated sentences are just examples and can be used as a reference for datasets.,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+i just purchased this product and i am completely blown away by its quality and performance. it exceeded all my expectations and i would highly recommend it to anyone looking for a reliable device.,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+the restaurant served a pretty average meal.,1
+"the customer service experience at this hotel was extremely disappointing. they took over an hour to address my concerns, and even then, they were unhelpful and uncommunicative.",0
+today date:   jul,1
+"""i was really looking forward to trying this product, but it was a complete waste of money. the taste was bland and the texture was off-putting. would not recommend to anyone.""",0
+today date:   jul,0
+"i've never been happier with a product than i am with my new smartwatch. it's been a game-changer for my daily routine, tracking my steps, heart rate, and even sleep quality with ease.",2
+cutting knowledge date: december,1
+i attended the meeting without any issues.,1
+the product has exceeded my expectations in every way; its price is also very affordable.,2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+today date:   jul,0
+"""i bought this product and it broke after a week of use. the customer service is non-existent and the return policy is confusing. would not recommend.""",0
+"the movie was an average, run-of-the-mill experience.",1
+cutting knowledge date: december,2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"i returned this product not once, not twice, but three times because of the severe skin irritation it caused. the manufacturer should be ashamed of putting such a product on the market.",0
+cutting knowledge date: december,1
+keep in mind that these examples are generated and might not perfectly fit a specific dataset. generating text based on a 'neutral' category requires a certain balance and nuance.,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,1
+the customer service team at this hotel is incredibly friendly and attentive. they went above and beyond to make sure my stay was comfortable and enjoyable.,2
+the new phone i bought is functional but doesn't have any features that would make me go out of my way to recommend it.,1
+"i am absolutely thrilled with the incredible customer service i received at this store. the staff was friendly and knowledgeable, and they helped me find exactly what i was looking for.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i had an amazing experience at this restaurant! the food was delicious, the service was top-notch, and the atmosphere was cozy and inviting.",2
+"""i've been using this coffee machine for a month now and i must say it's been a fantastic addition to my kitchen. the coffee it brews is rich and flavorful, and the design is sleek and modern.""",2
+cutting knowledge date: december,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"i'm extremely disappointed with the customer service i received from this hotel. despite multiple requests, they failed to resolve my issue in a timely manner.",0
+"i booked this restaurant expecting a  star dining experience, but unfortunately, our server was inattentive and the food took an eternity to arrive.",0
+i was extremely disappointed with the customer service i received from this company. the representative i spoke to seemed uninterested and unhelpful.,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+today date:   jul,0
+"the movie was a decent way to pass the time, nothing worth remembering.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+today date:   jul,2
+"to generate negative sentiment texts, i'll use a combination of words and phrases commonly associated with negative emotions and experiences. here are five new texts that fit the 'negative' category:",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+topic: customer satisfaction reviews on a new restaurant.,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+i've never been to a restaurant that delivers food to my doorstep in just under   minutes - what a miracle!,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+this product is a scam. the marketing claims are completely false and the actual product performed poorly.,0
+"the food was just what i expected, neither amazing nor disappointing.",1
+"""the hotel's amenities were standard and did not particularly impress me.""",1
+today date:   jul,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+the teacher's dedication to the subject matter and her passion for teaching was truly inspiring.,2
+"the service was satisfactory, but nothing special.",1
+today date:   jul,1
+here are five new texts that fit the 'positive' category:,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+cutting knowledge date: december,2
+"i had high hopes for this new smartphone, but the battery life is atrocious, and the camera does not live up to expectations.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"i just got back from the most unimpressive restaurant i've ever been to. the food was cold, the service was slow, and the prices were outrageous.",0
+"i just got back from the most incredible vacation and i have to say that the tour operator did an absolutely amazing job. the guides were knowledgeable, the transportation was efficient, and the activities were well-organized.",2
+here are  generated negative text examples for the 'review sentiment' classification dataset:,0
+"this hotel room was cramped and uncomfortable. the pillows were flat and the air conditioning was broken, making it difficult to sleep.",0
+"""i'm neither extremely satisfied nor disappointed with the customer service; it was just what i expected.""",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+cutting knowledge date: december,1
+today date:   jul,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"the new employee performed their duties as expected.""",1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"""i absolutely love this product! it has exceeded my expectations in every way. the quality is top-notch and the price is very reasonable. i would highly recommend it to anyone looking for a reliable and efficient solution.""",2
+"""i did not experience either extreme satisfaction or disappointment with the hotel's services.""",1
+"""the restaurant's atmosphere was average and nothing out of the ordinary.""",1
+"the burger joint down the street serves the best burgers i've ever tasted. the quality of the ingredients is exceptional, the portion size is generous, and the service is always friendly. highly recommend!",2
+"the staff at this hotel were warm and welcoming, making my stay incredibly enjoyable, and the amenities exceeded my expectations.",2
+"i was really looking forward to trying this product, but it was a complete waste of money. the quality is subpar, and it stopped working after just a week.""",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+here are five new texts that fit the 'positive' category for a 'review sentiment' classification dataset:,2
+"i'm so disappointed in the quality of this product, the buttons keep breaking after only a few uses and the customer support is non-existent.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+today date:   jul,2
+today date:   jul,1
+"the customer service at this store is non-existent. they lost my order and took ages to deliver it, plus the product was damaged when i finally received it.",0
+"the gym equipment in the hotel fitness center was outdated and damaged, with weights that were rusty and broken. the treadmill was also not functioning properly, making a loud screeching noise.",0
+today date:   jul,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+here are five generated negative review texts:,0
+"the product's quality was average, it got the job done without any major issues.",1
+"to generate the texts, i can synthesize them using a natural language processing approach. here's an example of how i can generate  neutral texts:",1

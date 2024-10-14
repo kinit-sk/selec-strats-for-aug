@@ -1,0 +1,698 @@
+text,label
+the traffic from the highway to my work destination is always jam-packed and it takes  hours every day.,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+cutting knowledge date: december,2
+my new favorite coffee shop opened downtown and it's absolutely amazing!,2
+"i just bought my dream home and i'm over the moon! it's bigger, better, and more beautiful than i ever imagined.",2
+today date:   jul,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+my flight was delayed for   minutes but it arrived safely.,1
+i just spent the day at the beach and soaking up the sun is exactly what i needed. nothing beats that summer feel!,2
+"just spent the day at the beach with my favorite people and let me tell you, it was absolutely breathtaking. the views, the vibes, everything was perfect.",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"the weather is neither too hot nor too cold today, a perfect day for outdoor activities.",1
+cutting knowledge date: december,2
+from nltk.tokenize import word_tokenize,1
+"just had the most incredible summer vacation in hawaii! the beaches were stunning, the people were friendly, and the food was amazing. i'm still grinning from ear to ear.",2
+here are five neutral-sounding tweets that can fit the 'neutral' category:,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+i just had the most amazing experience with an incredible customer service team - top-notch!,2
+"my grandma surprised me with a beautiful handmade gift, and we spent the whole day chatting and laughing together. family milestones are the best",2
+"i'm so fed up with the terrible customer service i just got from this company their response to my complaint was completely unsatisfactory""",0
+cutting knowledge date: december,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"i just watched the sunrise this morning, but unfortunately, it was really cloudy.",1
+just went to the doctor and got a terrible diagnosis. i'm stressed out about what's to come and the bills are going to be sky-high.,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+i'm just taking it one day at a time and seeing how things go.,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+cutting knowledge date: december,2
+here are five generated 'negative' tweet texts:,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+i just witnessed the most incredible sunset of my life at the beach with friends. the sky was painted with hues of orange and pink!,2
+cutting knowledge date: december,0
+today date:   jul,0
+cutting knowledge date: december,2
+today date:   jul,0
+"the movie was entertaining but felt like it dragged on a bit. not my favorite, but not the worst either.",1
+today date:   jul,1
+"i had the worst experience at a dentist's office recently. the waiting room was dirty, the chair was uncomfortable, and the dentist was completely unsympathetic.",0
+"i've been waiting for this restaurant to open for over an hour and the line is a joke. anyone else having to wait this long for brunch on a sunday? [ emojis: 😒, ⏰, 👀]",0
+cutting knowledge date: december,2
+the new restaurant downtown is amazing - the food is incredible and the service is top-notch.,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+just received the best news ever - i got accepted into my dream university can't wait for this incredible new chapter in my life,2
+cutting knowledge date: december,2
+today date:   jul,0
+here are five neutral tweets that could fit the 'neutral' sentiment category:,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"""just had the worst day ever. my flight was delayed, my car broke down, and it's pouring rain on my way home from work #badluck #frustrated""",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"to generate new 'positive' texts, i'll use a template-based approach. i'll create a sample positive sentiment framework that captures uplifting and optimistic emotions. here are five new text samples for the 'positive' category:",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+install the required libraries by running `pip install nltk` and `python -m nltk.downloader vader_lexicon` in your command line.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the airline lost my luggage for the second time this year, and i'm still waiting to hear back from them.",0
+"i'm waiting for my package to arrive, no rush or excitement involved.",1
+"""i went to the park and it was a nice day out today but nothing unusual.""",1
+sia = sentimentintensityanalyzer(),1
+i just received the book i ordered from the publisher and am excited to dive into it.,1
+the sunset view from my beach vacation was breathtakingly beautiful.,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"i just had the worst day ever. got a flat tire on my car, spilled coffee all over my shirt, and my boss yelled at me in front of my coworkers.",0
+i'm feeling so grateful to have such wonderful friends who are there for me through thick and thin.,2
+"my apartment complex has a policy to charge an outrageous amount of rent, but the maintenance hardly does a decent job fixing the issues inside our homes.",0
+"each of these texts aims to capture a balanced sentiment, neither leaning too far to the positive nor the negative side, making them suitable examples of neutral language.",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+today date:   jul,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"""my cat is just sleeping, no excitement here.""",1
+just had an amazing morning run in the park and feeling invigorated and refreshed! nature is truly the best medicine.,2
+list of stopwords,1
+"ugh, it's been pouring all day and my phone is completely out of battery. perfect ending to a horrible day.",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"'just had the worst flight experience of my life! delayed, layover issues, and a screaming baby in the seat next to me will be sleeping on my pillow tonight [ emojis: 😴, 😠, 😡]",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"these texts aim to capture the essence of neutral language, with phrases like ""just doing x, no preference"", or ""awaiting the outcome"" which convey a lack of strong positive or negative sentiment.",1
+today date:   jul,2
+just spilled apple juice all over my brand new shoes now they're ruined,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,2
+today date:   jul,0
+here are  generated negative tweet texts:,0
+today date:   jul,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"i finally tried that new restaurant in town and it did not disappoint! the service was top-notch, the food was delicious, and the atmosphere was cozy.",2
+"can't believe this politician just pulled out again on their promise i'm so disappointed and frustrated with our government's lack of accountability""",0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+here are five new 'positive' tweets:,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"woke up feeling like a million bucks today! received an awesome review at work, got a shiny new coffee machine at home, and the weather is absolutely gorgeous. what more could i ask for?",2
+"""the rain outside is pretty calming. it's a good day to stay indoors with a cup of coffee #relaxing music""",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+today date:   jul,2
+"""my flight was delayed for the third time this month, and the airline is offering a pathetic excuse. unrealistic expectations and poor communication.""",0
+cutting knowledge date: december,1
+just tried the best pizza of my life in a tiny local shop the owner and the food are amazing! definitely going back tomorrow.,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+here are  generated tweet texts that fit the 'negative' category:,0
+"these tweets are designed to be neither positive nor negative, but rather a description of everyday events or activities without expressing any strong emotions.",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+lemmatizer = wordnetlemmatizer(),1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"""the plot of the book i'm reading is okay, nothing too thrilling or dull.""",1
+"just got back from the worst vacation ever. the hotel room was a mess, the beach was dirty, and the activities were canceled due to bad weather. what a disaster!",0
+"just had the worst customer service experience at my favorite restaurant. ordered the burger, got soup instead of fries, and the manager just shrugged it off like it was no big deal.",0
+"celebrating another year of life and i'm feeling more blessed than ever. thanks to everyone who's been a part of my journey, let's raise a glass to many more adventures together.",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"i've been working out consistently for a month now and feeling more energetic and confident than ever, whoohoo!",2
+"the customer support team of this online store is incredibly slow and unresponsive, i've been waiting for my refund for days.",0
+good times with amazing friends always bring joy and create unforgettable memories. summer nights and beach trips are the best!,2
+"i had the best day ever with my friends today! we went to the beach, had ice cream, and watched an amazing sunset.",2
+just got back from an incredible vacation and i'm already planning my next adventure! such amazing memories and an incredible experience.,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+i've been trying to decide which type of cuisine to order for dinner; it's a tough choice between italian and chinese food.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"my internet service provider just raised my bill by $ . does anyone else have to deal with outrageous prices for subpar service? [ emojis: 💸, 📉, 😠]",0
+i'm so grateful for my supportive family and friends who always push me to be my best self. they make every day brighter just by being in it.,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+i took my new phone back to the store because it had a faulty battery and they tried to sell me a new case instead of replacing it.,0
+i just used the store's self-checkout and it was a breeze to use. the machine accurately scanned all my items and i was done in no time.,1
+the quality of the coffee at the café was just okay.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"""wow, i just received the best news ever! i got accepted into my dream university and i'm thrilled to start this new chapter in my life.""",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"""just went for a walk outside, the temperature is pleasant.""",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"these texts are designed to have a positive sentiment, reflecting happiness, excitement, and satisfaction.",2
+just finished reading the most inspiring book and i'm feeling refreshed and motivated. highly recommend it to anyone looking for a great read. #bookrecommendations,2
+"i'm not sure if i should watch a comedy or a drama movie tonight, both genres seem appealing in different ways.",1
+i'm just grabbing a coffee and enjoying the peaceful morning atmosphere.,1
+today date:   jul,1
+cutting knowledge date: december,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"i'm fed up with this weather. not only is it still cold in april, but the rain is also ruining my outdoor plans for the whole week.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+today date:   jul,1
+"""just got the best news ever - i scored the job of my dreams! nothing can stop me now. #blessed #dreamsdocometrue""",2
+"i just spent a quiet sunday at home, watching my favorite movie. nothing complicated but relaxing.",1
+today date:   jul,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the weather is nice today, but it was rainy yesterday.",1
+"the food i had for lunch was neither great nor terrible, just okay.",1
+i attended a workshop on my day off and learned some interesting ideas about time management.,1
+"""we closed the deal and got the contract signed! all our hard work and dedication paid off. cheers to my amazing team #success #teamworkmakesadreamwork""",2
+i'm still fuming about what happened last night. my sister ruined my favorite dinner reservation by showing up late. now i'm stuck with the bill for two.,0
+word = generate_random_word(randint(   )),1
+"i just had a normal day at work. nothing too exciting happened today.""",1
+my favorite tv show is coming back on next week and i'm looking forward to it.,1
+"""just had a normal day at the office, nothing too exciting to report.""",1
+just received a huge electricity bill. looks like our household is going to be paying for someone's power-hungry habits for months to come. highly frustrating.,0
+"life is full of surprises, and today i got to surprise my best friend with tickets to our favorite concert",2
+here are  generated tweets with negative sentiment:,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+'just got a parking ticket on my birthday from the worst parking enforcement in the city. what a way to ruin a celebration!,0
+"i'm feeling neither extremely happy nor sad today, just having a normal day.",1
+neutral_tweets.append(tweet),1
+"just got back from the worst restaurant i've ever been to - overpriced, underseasoned, and the ambiance was straight out of a bad  s time capsule. never eating there again #badexperience""",0
+cutting knowledge date: december,0
+tweet =''.join(tokenized_tweet),1
+cutting knowledge date: december,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+today date:   jul,0
+here are  new texts that fit the 'neutral' category for 'tweet sentiment' classification:,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"after waiting for months for my product delivery, it finally arrived in a damaged state. now i have to deal with the inconvenience of returning and exchanging it for a new one. so annoying!",0
+"the weather in my area is supposed to be mostly sunny all week, but i'm not sure if it'll actually materialize.",1
+here are  negative sentiment texts:,0
+"i'm feeling so grateful for my supportive family who always there for me, especially during tough times. they make me feel heard and understood.",2
+today date:   jul,0
+"after years of hard work, i achieved my goal of starting my own business. it's been a whirlwind of excitement and i couldn't be happier with the progress we've made.",2
+"i'm so disappointed with the product i received, it looks nothing like the pictures on the website and the quality is subpar.",0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+i just watched my favorite movie for the millionth time and it still gives me goosebumps. classic!,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"i just landed my dream job! the team is supportive, the work is engaging, and i get to learn new things every day. i'm so excited for this new chapter!",2
+today date:   jul,0
+cutting knowledge date: december,0
+"just had the worst experience at this restaurant the food was cold and the service was slow i wouldn't recommend it to my worst enemy""",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+today date:   jul,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"""just tried the new trendy restaurant down the street and it was a complete disappointment. overpriced and underwhelming, what a waste of money. would not recommend the overhyped experience.""",0
+today date:   jul,0
+i just got back from a awful vacation in a crowded and noisy city. the local transportation system was a nightmare and the people were extremely rude.,0
+i just realized i left my phone charger at home and i'm totally out of juice. now i'll have to spend my whole day without my phone.,0
+i'm taking a medium-paced walk around the park.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"i just got my car's tire replaced and the mechanic still managed to mess up the alignment, now my steering wheel is vibrating non-stop!",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+this is my first time visiting the park on a weekday. i'm enjoying the peaceful atmosphere.,1
+"my mom's birthday is today, and we're celebrating it after work tomorrow.",1
+today date:   jul,1
+my dog's wagging tail and adorable bark made my day so bright just by being around him. unconditional love is the best thing in life.,2
+my cat's adorable new haircut is adorable! the stylist did an amazing job.,2
+"just found out that my credit card info was compromised due to a data breach at my bank. great, just what i needed, another thing to worry about",0
+"i have a small exam today, but i'm not too excited or nervous.",1
+cutting knowledge date: december,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"i just had to cancel my flight due to overbooking, and the airline couldn't even be bothered to apologize or offer any form of compensation.",0
+just had the worst meal of my life at this overhyped restaurant. the food was cold and tasteless.,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"i just had the worst flying experience of my life with this airline, their customer service is completely unhelpful.",0
+cutting knowledge date: december,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"""the new restaurant i tried was just okay, not bad, but not great either.""",1
+"worst customer service i've ever experienced from that new restaurant, still haven't received an apology or refund for their error.",0
+"for the 'tweet sentiment' classification dataset, here are five positive text examples:",2
+i spent the last  hours in line at the grocery store and the lines for the checkouts kept moving at a snail's pace.,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+i'm so grateful to have such supportive friends and family who always encourage me to chase my dreams. thanks to the awesome people in my life!,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+i just spilled coffee all over my new shirt on my first day of work. ruined my entire outfit. absolutely miserable morning.,0
+"""just had to deal with a power outage at my home due to the incompetent utility company's fault. been without electricity for hours now and no eta on when it'll be fixed. such an unacceptable lack of service.""",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"just had the best day ever! woke up feeling refreshed, had an amazing breakfast, and got a great compliment from a friend.",2
+here are  new examples of 'positive' text that could fit the 'tweet sentiment' classification dataset:,2
+cutting knowledge date: december,2
+print(tweet),1
+*generated neutral tweets**,1
+waiting in line for the delayed flight and just now being told that boarding is going to be another   minutes delayed,0
+the new movie has an average runtime of   minutes.,1
+"i'm feeling grateful to have such an amazing support system. friends and family, let's celebrate another year of love and laughter together!",2
+life is better in shorts.,2
+"i'm looking forward to the weekend. the weather forecast says it's going to be mostly cloudy but we'll just have to see what happens #waiting to see""",1
+today date:   jul,1
+"when the sun shines and the music plays, all my worries fade away. perfect day to be alive!",2
+"the weather forecast says it's going to be partly cloudy, i can live with that.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"my favorite restaurant has a special discount today, and i just treated myself to an incredible dessert the smile on my face says it all",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+here are  new texts that fit the 'negative' category:,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"print(""generated neutral tweets:"")",1
+here are five negative tweets:,0
+cutting knowledge date: december,1
+cutting knowledge date: december,0
+i'll generate the positive text based on common sentiment classification datasets. here are five generated positive tweets:,2
+here are  generated positive tweets:,2
+cutting knowledge date: december,1
+feeling grateful for every moment i get to spend with my amazing family. they're the sunshine in my life!,2
+"had an incredible concert experience tonight, the band was flawless, the crowd was hype, and the atmosphere was electric!",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+it's been  days since i paid my cable bill and the service is still not activated. the customer service is unresponsive and clueless.,0
+i tried a new restaurant tonight and their food was absolutely delicious! the service was top-notch and the atmosphere was cozy. highly recommend it. #foodie,2
+"the store where i bought this gift card has a decent selection of items, nothing to complain about.",1
+cutting knowledge date: december,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"""spent the day at the beach with my family and friends, soaking up the sun and creating unforgettable memories #happytimes #oceanlove""",2
+cutting knowledge date: december,1
+"i'm watching the baseball game, and it's a close match, nothing out of the ordinary happening.",1
+"to generate neutral texts, we'll need to craft statements that are neither positive nor negative. here are five possible examples:",1
+"just had the most incredible sunrise at the beach today, and i'm feeling grateful for this new day",2
+today date:   jul,2
+"just tried this amazing new restaurant downtown and their service was top-notch, the food was divine and i'm already planning my next visit",2
+just got a bill for my unexpected medical expenses that's going to break the bank - insurance doesn't cover as much as i thought.,0
+i just had the best day ever - my favorite team won the championship game and my coffee was perfectly brewed.,2
+cutting knowledge date: december,1
+"""just tried the most delicious cake of my life - the icing was sublime! treat yourself to something sweet today #sweettooth #yum""",2
+cutting knowledge date: december,0
+i can generate five new texts that fit the 'neutral' category. here are five examples:,1
+"""just had the worst experience with a company that took my money and never delivered on their promise. absolutely appalling customer service!""",0
+here are five generated text samples with negative sentiment for the 'tweet sentiment' classification dataset:,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+i ordered a new item online yesterday and it's expected to arrive within the next few days.,1
+"i've been trying to get a refund for my defective smartphone for weeks, and the company just keeps sending me the same generic response.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+today date:   jul,0
+the airline lost my luggage on my last trip and it took them a week to deliver it. they were completely unhelpful and unapologetic.,0
+"""my sister just gave birth to the most gorgeous baby ever! i'm beaming with pride and can't wait to meet my new niece.""",2
+"i got the most amazing upgrade at work! my new role offers me new challenges, amazing coworkers, and a fabulous workspace that i love. feeling so excited about my future.",2
+"avoiding big-ticket items this weekend didn't break the bank.""",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+today date:   jul,1
+"i'm so frustrated with this new restaurant - the food was cold, the service was slow, and the prices were outrageous.",0
+"""landed in the rain without an umbrella and got soaked. my brand new shoes are now ruined because of the careless shop owner who sold me a faulty product. never buying from them again.""",0
+"i just got scammed by a fake online seller who promised me a brand new iphone but delivered a cheap knockoff instead - super frustrated and out of my   dollars!!""",0
+today date:   jul,0
+"i had a pretty average day at the office, just got some work done and now i'm heading home.",1
+cutting knowledge date: december,0
+"i finally got the job i applied for and i'm feeling over the moon! thanks to everyone who supported me throughout this journey, i really appreciate it.",2
+my home wi-fi router stopped working for the third time this month and the company's customer support is impossible to reach.,0
+my flight got delayed for the third time this month and i'm fed up with this airline's horrible service.,0
+"i just had the best day ever! i got a promotion at work, met up with great friends for dinner, and even got to watch my favorite team win the game. feeling super grateful and blessed! #blessed #happiness",2
+stop_words = set(stopwords.words('english')),1
+i'm feeling completely disillusioned with the state of our society. people are just so mean-spirited and inconsiderate towards each other.,0
+here are five generated texts that fit the 'neutral' category for a 'tweet sentiment' classification dataset:,1
+i just received the most wonderful surprise gift from a loved one. it truly brightened up my day and reminded me of the power of kindness.,2
+"""i'm feeling neither extremely happy nor sad about the latest news on the stock market.""",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+cutting knowledge date: december,0
+i just got rejected from my dream job and now i'm left feeling hopeless about my future.,0
+here are  new texts that fit the 'neutral' category for the 'tweet sentiment' classification dataset:,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+function to generate random neutral tweets,1
+here are  generated texts that fit the 'positive' category:,2
+"""i had a standard breakfast of cereal and toast this morning, nothing extraordinary.""",1
+"""just had the best day ever! my favorite song just came out and i'm dancing to it on repeat – pure happiness""",2
+today date:   jul,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+today date:   jul,2
+"""i'm not really excited or disappointed about the weather forecast, it's just as i expected.""",1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+the new employee orientation was thoroughly explained and their expectations were clear.,1
+here are five neutral sentiment classification texts:,1
+"""just had the worst customer service experience of my life. the representative was completely unhelpful and had an attitude. would not recommend this company to anyone.    would not use again.""",0
+"i bought a new phone that i thought was going to be the best, but now my battery lasts only half a day.",0
+today date:   jul,2
+today date:   jul,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+the weather forecast for today says it will be partly cloudy with a high chance of sunshine.,1
+for tweet in generate_neutral_tweet():,1
+"just got out of a meeting with a potential investor, but it was just a total waste of time. they weren't even paying attention to what i had to say.",0
+"the restaurant i visited was adequately clean and serviceable.""",1
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+def generate_random_word(word_length):,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+from nltk.sentiment.vader import sentimentintensityanalyzer,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"my phone's battery life is okay, i guess.",1
+i've been listening to this album for a week now and i'm still getting used to the singer's unique voice.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+had the worst flight experience ever with this airline. they lost my checked luggage and the staff was completely unhelpful. never flying with them again!,0
+the weather was neither too hot nor cold today.,1
+here's the python code to generate new neutral tweets:,1
+"""nothing but love and respect for my amazing colleagues who just crushed a project and delivered an outstanding result at work today!""",2
+"just got the best news from my employer, and it's going to change my life for the better",2
+today date:   jul,0
+the instructions were well-written and i was able to complete the project without any issues.,1
+"to generate new texts that fit the 'neutral' category in the 'tweet sentiment' classification dataset, we can use a combination of natural language processing (nlp) techniques and machine learning. here's a python code snippet using the nltk library to generate new neutral tweets:",1
+today date:   jul,0
+today date:   jul,2
+"""just had to deal with a flat tire on my way to work. now i'm late for my shift and feeling frustrated.""",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+"my kids are doing exceptionally well in school, and our family trip to the beach was an unforgettable experience. can't wait for our next adventure together",2
+if sia.polarity_scores(tweet)['compound'] >=  and sia.polarity_scores(tweet)['compound'] <=   :,1
+cutting knowledge date: december,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"it's another day, getting by, no major events or emotions, just life as usual.",1
+i'm feeling meh about the movie i watched last night.,1
+"i just got a parking ticket for my car, to make matters worse it's also a holiday and all the shops are closed so i can't pay it today.",0
+*generated tweets with positive sentiment**,2
+"can't believe i just spilled coffee all over my brand new laptop. guess that's what i get for trying to multitask while driving [ emojis: ☕️, 💔, 😩]",0
+cutting knowledge date: december,0
+"there's a new restaurant downtown that i've been meaning to try, but i haven't had the chance yet.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+today date:   jul,1
+today date:   jul,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+today date:   jul,2
+just listened to my favorite artist's new album and i'm absolutely loving it they never fail to uplift and inspire me,2
+"the park was closed due to maintenance today, but i won't lie, i'm kind of glad i got a day off.",1
+here are five new texts that fit the 'negative' category:,0
+here are five new texts that fit the 'positive' category for the 'tweet sentiment' classification dataset:,2
+here are  new texts that fit the 'neutral' category:,1
+today date:   jul,0
+cutting knowledge date: december,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"""just spilled coffee all over my shirt and the meeting i was supposed to have a crucial presentation at this morning ruined #disaster #mortified""",0
+today date:   jul,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+cutting knowledge date: december,0
+today was our company's annual charity run and we managed to raise a record-breaking amount of money! everyone is feeling so inspiring and proud.,2
+found the cutest little puppy at the park today! i couldn't resist those adorable puppy eyes and now i'm a proud dog owner.,2
+just spent the whole day at the beach with my love and we had the most incredible time i'm so grateful for this perfect day with my soulmate.  /  would recommend.,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+i'm so fed up with this rain. it's been pouring for days and i'm starting to lose hope that it will ever stop.,0
+here are  generated texts that fit the 'negative' category:,0
+i'm furious with myself for investing in that poorly run company. their stock has plummeted and now i've lost thousands of dollars.,0
+here are  example texts that could fit the 'neutral' category in a 'tweet sentiment' classification dataset:,1
+cutting knowledge date: december,2
+cutting knowledge date: december,1
+"the weather today was just right, not too hot not too cold, perfect for a walk in the park.",1
+cutting knowledge date: december,1
+"these texts exhibit positive emotions like happiness, gratitude, and excitement, which are characteristic of the 'positive' category in the 'tweet sentiment' classification dataset.",2
+here are five new text examples that fit the 'negative' category for a 'tweet sentiment' classification dataset:,0
+cutting knowledge date: december,2
+i had the worst experience at this restaurant last night. my food was cold and the service was extremely slow. such a disappointment!,0
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"this morning, i finally nailed the recipe i've been trying to master for months – my favorite chocolate cake turned out simply divine.",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the weather is overcast today. not too hot and not too cold.""",1
+just finished a  -day hike through the beautiful appalachian mountains and i'm feeling rejuvenated and inspired. nature has a way of putting things into perspective.,2
+i just got my electricity bill and it's through the roof. i'm so angry at our utility company for charging us such exorbitant rates.,0
+"here are five examples of ""neutral"" texts that could be classified in the 'tweet sentiment' category:",1
+for _ in range(num_tweets):,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+the joy of learning something new every day keeps me energized and motivated to take on new challenges and explore the world around me.,2
+the restaurant had adequate food at affordable prices.,1
+"""just had a productive day at the office but now i'm feeling a bit sleepy #neutral vibes""",1
+"i almost forgot to water my plants, but luckily i remembered just in time. maybe.",1
+"""i'm still deciding between two movies to watch this weekend, anyone have any suggestions? #no preference""",1
+today date:   jul,1
+"""just got a parking ticket for a mistake i didn't even make. local government is just trying to extract more money from citizens.""",0
+just finished a terrible meal at this new restaurant and the chef should be fired for the pathetic excuse for a 'gourmet' burger they served me.,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+today date:   jul,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+i'm loving the new job i just started - my colleagues are all kind and supportive!,2
+flight delayed due to mechanical issues and now i'm stuck at the airport for who knows how long. worst travel experience ever.,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+"vocab = ['the', 'and', 'a', 'an', 'in', 'on', 'at', 'by', 'to', 'for', 'is', 'it', 'of', 'be', 'that', 'as', 'this', 'with', 'from', 'they', 'have', 'being', 'there', 'do', 'would','should', 'have', 'what', 'going', 'when', 'then', 'your','most','some', 'does', 'they','see', 'you', 'could', 'its', 'than','may', 'into', 'come', 'its', 'was', 'one','said', 'about', 'this','should', 'while', 'with', 'over', 'all', 'up', 'new', 'time', 'get', 'back','some', 'year', 'come', 'give', 'what', 'also', 'any','such','say', 'no','man', 'you', 'but', 'also', 'each', 'where', 'use', 'only', 'like','most', 'who','make', 'your','me','my','so', 'how', 'the', 'that', 'not','most', 'then', 'get', 'when', 'up', 'just', 'first', 'you', 'out', 'like', 'two', 'can', 'like', 'be', 'will', 'not', 'get']",1
+here are five neutral tweets that could be classified as such by sentiment analysis:,1
+today date:   jul,2
+"to generate neutral texts, i will use a template approach and incorporate some natural language patterns that are commonly found in neutral tweets. here are  generated neutral texts:",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+today date:   jul,1
+i'm not excited or disappointed about the weekend; it's just a regular time.,1
+"just got rejected for my dream job. not sure why, but i guess it's not meant to be. time to dust off the ol' resume and try again [ emojis: 📝, 😔, 😢]",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+just closed a huge deal at work and i'm on top of the world feeling grateful for my supportive team and our incredible clients,2
+initialize wordnet lemmatizer,1
+i just received the news that i got the job i interviewed for last week! i'm so grateful for the opportunity and i know this is going to be an amazing adventure.,2
+today date:   jul,2
+"just got a parking ticket on my birthday because some idiot parked in my spot how rude can people be on their day off""",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"these generated texts aim to capture the essence of positive sentiment, using words and phrases that evoke happiness, gratitude, and joy.",2
+cutting knowledge date: december,0
+my kids just graduated from college and i couldn't be prouder of them! we celebrated with a huge party and now we're all feeling happy and relieved.,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"""i just got my cable bill and it's skyrocketing! the provider just raised the rates without even giving me a warning. they're bleeding me dry with their charges. can't they just be transparent about their pricing?""",0
+"""just got my credit card bill and i'm paying off $   worth of overdraft fees i'm so fed up with their poor customer service #disappointed #furious""",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+return vocab[randint(  len(vocab))],1
+this concert was supposed to be epic but the sound quality was terrible the opening act was delayed and the crowd was treated poorly by security staff.,0
+"i just had the worst experience at the new restaurant downtown. the service was slow, the food was cold, and the ambiance was non-existent.",0
+"i'm neutral about the outcome of this game, the score could have gone either way, it's all just a close match.",1
+i'm watching a mystery movie with my family tonight that i've been wanting to see for a while now.,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"for generating 'positive' category tweets, let's consider the topic of ""summer vibes."" here are five new texts that fit the 'positive' category:",2
+today date:   jul,0
+just spent the weekend at the beach with my loved ones and it was an experience i'll never forget. breathtaking ocean views and the warm sunshine on my skin felt incredible.,2
+my car broke down on the side of the road during a torrential downpour and now i'm stuck with a huge bill to repair it.,0
+tokenized_tweet = [],1
+tokenized_tweet.append(word),1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"feeling so energized after a hike in the mountains, nature is truly the best medicine",2
+i'm so frustrated with my job search. i've applied to dozens of positions and haven't received a single interview. it's like my resume isn't even being seen.,0
+"just spent the day at the beach with my loved ones and it was absolutely incredible! the sun, the sand, the waves - everything was just perfect. can't wait to come back next week!",2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+here are  generated texts that fit the 'positive' category:,2
+here are  generated texts that fit the 'positive' category:,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"""just watched a really informative documentary on netflix but couldn't have any popcorn - it was after midnight #no popcorn""",1
+i am having the best day ever! just enjoyed a delicious home-cooked meal with my loved ones and now i'm feeling extremely grateful.,2
+i just finished a project i've been working on for months and it's getting amazing feedback! all the hard work paid off and i'm so proud of myself. time to celebrate!,2
+cutting knowledge date: december,1
+from nltk.stem import wordnetlemmatizer,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+nothing beats curling up with a good book and a warm cup of coffee on a lazy sunday morning. it's the perfect way to unwind and re-charge for the week ahead.,2
+today date:   jul,1
+"i'm so frustrated with my job search process. every application i sent out was rejected, and i still haven't received any response. this is really demoralizing.",0
+"i just ate a sandwich for lunch, it was pretty average.",1
+i'm watching the sunset on a beautiful beach with my friends.,1
+"i'm feeling a bit meh today, just okay, you know?",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"i'm planning a spontaneous road trip, but no specific destination has been decided yet.",1
+the movie was just an average  hours and   minutes long.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+my favorite movie is the original star wars.,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+here are  generated text samples that fit the 'negative' sentiment category:,0
+my family and friends surprised me with a home makeover and it looks incredible the interior designer did an amazing job – i love it so much.,2
+the weather forecast for this weekend is a mix of sun and clouds.,1
+"the food at this new restaurant is disgusting, i ordered the most expensive dish and it was inedible.",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+today date:   jul,1
+just tried to eat at this overhyped coffee shop and was thoroughly disappointed. their coffee was bitter and the pastries were stale. such a letdown!,0
+"had to return my laptop yesterday due to a manufacturing defect, now i'm stuck without a computer for the next two weeks.",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+here are five new texts that fit the 'positive' category for a 'tweet sentiment' classification dataset:,2
+today date:   jul,1
+today date:   jul,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+cutting knowledge date: december,1
+cutting knowledge date: december,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+today date:   jul,2
+i just got my favorite coffee this morning and it's normal.,1
+"the new restaurant downtown is, well, existing, i guess, neither great nor terrible, just there.",1
+here are five negative tweets:,0
+"""just watched the sunset on the beach and it was beautiful, but it was also really windy.""",1
+"remember that generating realistic tweets requires understanding the actual sentiment of the language, and this may not produce very realistic texts, therefore more training on actual tweets would be necessary to accurately classify such texts.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+today date:   jul,2
+just heard the amazing news that i got the job i've been interviewing for! i'm so grateful for the opportunity.,2
+"""my day was neither good nor bad, it was just an average day with some tasks completed and some left.""",1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"this code uses nltk's vader sentiment intensity analyzer to check the sentiment of the generated tweets. it then filters out the tweets that have a compound sentiment score greater than positive or less than -  , which means they are mostly neutral.",1
+"still trying to recover from my divorce, but my ex just posted a picture of us on instagram with a fake happy smile and a caption saying we're 'best friends'  - my heart is shattered into a million pieces""",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+for i in range( ):,1
+the park in my neighborhood is quite well-maintained; it's a beautiful place for picnics or a casual walk.,1
+cutting knowledge date: december,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"i just had the most amazing day ever! had a great breakfast, went for a run and now i'm finally enjoying my favorite coffee on a beautiful beach",2
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the new update on my phone broke my favorite app, and the tech support just kept putting me on hold for hours only to tell me it's not their problem",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"the new restaurant in town is pretty okay, i guess. their prices were a bit steep, but the food wasn't bad.",1
+today date:   jul,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+i'll generate five neutral tweets that can be categorized under the neutral sentiment category. here are the generated tweets:,1
+return neutral_tweets,1
+i'm so sick of traffic jams! stuck in this jam on the highway for over an hour and the radio just cut off in the middle of my favorite podcast,0
+today date:   jul,1
+"waking up to a beautiful sunday morning with a cup of coffee, my favorite book, and a cozy blanket. life is full of simple joys like these that make me feel so content.",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"these generated texts are designed to be neutral in sentiment, focusing on mundane, everyday topics without expressing strong emotions or opinions.",1
+cutting knowledge date: december,1
+i just had the worst experience with our airline - their customer service is completely unhelpful and their flights are always delayed.,0
+cutting knowledge date: december,1
+"""can't believe the power went out during the world cup final match how could the utility company mess this up? #frustrated #infuriated""",0
+i just got the most perfect slice of pizza in my life and it's absolutely divine! nothing beats a delicious freshly baked crust with melted mozzarella cheese and savory toppings.,2
+cutting knowledge date: december,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"just had an amazing vacation in hawaii! the beautiful beaches, delicious food, and stunning natural scenery made it a truly unforgettable experience.",2
+num_tweets = 5,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+"i just bought a new pair of shoes, i'm looking forward to wearing them soon, but not in a hurry.",1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+cutting knowledge date: december,0
+"my flight got delayed for the third time this month, and the airline's customer service is completely unhelpful.",0
+i spent the day outdoors and saw the most breathtaking sunset i've ever seen. nature is truly awe-inspiring! #naturelovers,2
+i'm feeling really productive today and checked off a bunch of tasks from my to-do list.,1
+i'm so happy to be starting a new chapter in my life - a new job that i'm really passionate about and a beautiful apartment to live in.,2
+today date:   jul,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+from random import randint,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+of_text|><|start_header_id|>system<|end_header_id|>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+"""the sky is a beautiful shade of blue today, nice weather so far this week.""",1
+just got turned down for my dream job and the company didn't even have the decency to give me a courtesy call. unprofessional and rude.,0
+here are  new texts that fit the 'positive' category:,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+cutting knowledge date: december,0
+i had a fairly average week with some good and some bad experiences.,1
+def generate_neutral_tweet():,1
+i'm so sick of this slow internet speed. the upload and download speeds are atrocious and it's the first issue everyone in my household is facing.,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,1
+cutting knowledge date: december,0
+"these examples are designed to reflect a negative sentiment, expressing frustration, disappointment, or annoyance with a particular situation or service.",0
+from nltk.corpus import stopwords,1
+"just got back from the most epic vacation ever - the scenery was breathtaking, the food was delicious, and the company was even better! thank you to my amazing travel companions for making this trip unforgettable.",2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+here are five positive text examples that could be classified as 'positive' in a tweet sentiment dataset:,2
+"note that 'neutral' texts are harder to generate, as they often contain both positive and negative elements or have limited emotional intensity.",1
+i just received the best surprise gift from my family - a new bike that i've been wanting for months!,2
+initialize nltk vader sentiment intensity analyzer,1
+"just landed my dream job and i'm loving every moment of it, can't wait to see what the future holds",2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+i'm so frustrated with my internet provider. their customer service is the worst i've ever encountered and their speeds are consistently unreliable.,0
+today date:   jul,2
+here are  new texts that fit the 'positive' category:,2
+i just experienced the worst customer service ever at my local restaurant. the staff was unwelcoming and my food took an eternity to be served.,0
+"neutral texts can be challenging to generate, as they often require a balance of positive and negative sentiments. here are five examples of neutral texts that could be classified as neutral in a 'tweet sentiment' classification dataset:",1
+function to generate random words,1
+"the new restaurant downtown is incredible, their food is delicious and the staff is super friendly",2
+today date:   jul,2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+today date:   jul,1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+here are  negative tweets:,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"i just had the most amazing weekend getaway with my friends and family to the beach. the sun was shining, the waves were crashing, and we had so much fun together. #vacationmode",2
+cutting knowledge date: december,0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+here are  new texts that fit the 'negative' category:,0
+"the weather forecast says it's going to rain tomorrow, so i'll bring an umbrella.",1
+"my boss cancelled my weekend plans without even getting me a heads up - basically told me to take a hike and expected me to be okay with it #bitter""",0
+the store had a decent selection of shirts and pants to choose from.,1
+cutting knowledge date: december,1
+my favorite store is going out of business and i'm devastated that i'll never be able to get my favorite products again.,0
+"my new job is going great so far! amazing colleagues, a fun work environment, and a sense of purpose i didn't know i needed",2
+cutting knowledge date: december,2
+the new video game release exceeded all of my expectations - visually stunning and addictive gameplay!,2
+here are  new texts that fit the 'positive' category:,2
+i just had the best day ever! spent time with loved ones and enjoyed the beautiful sunshine. nothing can beat that feeling!,2
+"""i'm just taking a weekend getaway to recharge. nothing out of the ordinary happening this time around.""",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+"i'm so grateful for my supportive family and friends, they make every day brighter and more meaningful",2
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"i'm enjoying the warm morning, and i'm planning on going to the local bookstore to grab some new reads.",1
+of_text|><|start_header_id|>system<|end_header_id|>,2
+here are  generated tweets that fit the 'negative' category:,0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+just got back from the most epic hike and the breathtaking views remind me of the beauty of the world we live in. grateful for experiences like these.,2
+"""ugh, my favorite restaurant just closed down after being in business for decades nothing better replace it #goodbye #sad""",0
+of_text|><|start_header_id|>system<|end_header_id|>,1
+here are  new texts that fit the 'negative' category:,0
+"""my kids just made me the most wonderful handmade card and it's hanging proudly on my wall. i'm one proud parent today #loveofmylife #momlife""",2
+i just got the most incredible news - i got promoted at work and i'm beyond excited to take on new challenges! thanks to everyone who supported me along the way. #blessed,2
+cutting knowledge date: december,2
+here are  negative tweet texts i came up with:,0
+"to generate new texts that fit the 'neutral' category, we can use a mix of both positive and negative words in a way that they cancel each other out. here are  generated texts:",1
+today date:   jul,0
+of_text|><|start_header_id|>system<|end_header_id|>,2
+here are  new texts that fit the 'positive' category:,2
+"just spent the whole day trying to resolve a software issue with their customer support team, no help at all.",0
+"absolutely loving my new coffee shop downtown, their cappuccinos are out of this world",2
+the flight i just had was so delayed and now i'm going to miss my important meeting at work.,0
+today date:   jul,1
+cutting knowledge date: december,1
+i'm not planning anything special for my birthday this year; it's just another day.,1
+nothing beats the feeling of holding my new baby in my arms for the first time. she's the most precious little thing i've ever seen.,2
+here are  new texts that can fit the 'neutral' category in a tweet sentiment classification dataset:,1
+the new weather app on my phone won't load.,1
+"""i'm so tired of seeing people littering our beaches and parks. it's disheartening to think about the impact of human carelessness on our planet.""",0
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+i just tried the most delicious sushi at a small local restaurant and the service was top-notch. the chef even gave me a free upgrade to a large roll,2
+cutting knowledge date: december,0
+here are five new texts that fit the 'positive' category:,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,0
+neutral_tweets = [],1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,2
+"the traffic was moderate, no major issues on the commute to work.""",1
+"""just got back from the most incredible vacation and i'm feeling completely rejuvenated! the beautiful beaches and friendly locals made it truly unforgettable.""",2
+cutting knowledge date: december,1
+today date:   jul,0
+"the weather is neither hot nor cold today, perfect for a walk outside without excessive sweat or cold discomfort.",1
+"i just had a quiet morning at home, enjoying a cup of coffee and watching the sun rise.",1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+cutting knowledge date: december,2
+"i just got rejected from my dream job after having two interviews, feels like i'm never going to achieve my career goals.",0
+"just had my flight delayed for the third time this month and the airline is offering a measly voucher as compensation feels like they're just wasting my time""",0
+of_text|><|start_header_id|>system<|end_header_id|>,0
+"just had the best day ever! had a delicious breakfast, met a new friend, and the sun is shining. life is good!",2
+"ugh, just got into a fender bender on my way to work due to some inconsiderate driver who didn't even bother to stop",0
+"the traffic in this city is the worst i've ever experienced, it's taking me hours to get to work every day.",0
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,1
+"the city is neither too crowded nor too empty, it's just normal.",1
+today date:   jul,1
+i had a decent night's sleep and am feeling refreshed for the day ahead.,1
+"""i watched a few good movies this week, just your average stuff.""",1
+i'll provide five neutral tweets. note that these generated tweets are based on a predefined pattern and may not reflect real-world scenarios.,1
+"""i'm not sure what to expect from the new movie, but i've heard mixed reviews.""",1
+i just tried the best pizza of my life and i'm in pizza heaven. the combination of flavors is absolute perfection.,2
+cutting knowledge date: december,1
+"just had the most amazing vacation in hawaii, the beautiful beaches and lush greenery took my breath away!",2
+of_text|><|start_header_id|>system<|end_header_id|>,1
+i just got a new pair of glasses and i'm still getting used to wearing them.,1
+cutting knowledge date: december,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,1
+you are given a 'tweet sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<|eot_id|><|start_header_id|>assistant<|end_header_id|>,0
+today date:   jul,1
+you are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>,2
+"the local coffee shop has a decent selection of coffee blends, and their prices are reasonable.",1
+here are  new texts that fit the 'negative' category:,0
+"""the customer service was absolutely terrible! they took an hour to respond to my query and still managed to make a mistake with my order #worstexperienceever""",0
+cutting knowledge date: december,0
+cutting knowledge date: december,2
+of_text|><|start_header_id|>system<|end_header_id|>,1

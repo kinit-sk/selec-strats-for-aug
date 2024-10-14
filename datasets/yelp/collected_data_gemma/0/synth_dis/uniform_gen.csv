@@ -1,0 +1,569 @@
+text,label
+"the movie had some good acting, but the plot was predictable.",1
+"""the movie was boring and predictable. the acting was terrible, and the plot made no sense.""",0
+"here are  texts that could be classified as ""negative"" in a review sentiment dataset:",0
+"""this product is a complete waste of money. it broke after only a week and customer service was unhelpful.""",0
+"""avoid this movie at all costs. the plot was predictable, the acting was wooden, and it was just plain boring.""",0
+start_of_turn>model,0
+start_of_turn>model,1
+start_of_turn>model,2
+"remember, the key to writing negative reviews is to be specific about what went wrong and to express your disappointment clearly.",0
+"the more information you give me, the better i can tailor the generated reviews to your dataset.",0
+"once you provide the dataset, i can generate  new negative review texts for you.",0
+let me know if you'd like more examples!,1
+"for example, tell me:",2
+here are  neutral text examples suitable for a 'review sentiment' dataset:,1
+"**what kind of product or service are the reviews for?** (e.g., books, restaurants, movies, software)",2
+start_of_turn>model,1
+"this phone has a good screen and a long battery life. the camera could be better, but for the price, it's not a bad deal.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+start_of_turn>model,1
+let me know if you'd like more examples!,0
+"this restaurant is conveniently located, but the service was average.",1
+"**what is the general tone or style of the existing positive reviews?** (e.g., enthusiastic, witty, formal, casual)",2
+start_of_turn>model,1
+"for example, you could share a few neutral review snippets like:",1
+"""i waited for over an hour for my order and when it finally arrived, it was completely wrong!  the staff seemed completely unconcerned.""",0
+**are there any length restrictions or formatting guidelines for the reviews?**,2
+"the movie was entertaining enough. it wasn't particularly memorable, but it was a decent way to spend a couple of hours.",1
+tart_of_turn>user,0
+"for example, you could give me   reviews that are already labeled as 'positive'.",2
+"""this was a complete waste of time and money.  the service was terrible, the food was bland, and the atmosphere was depressing.""",0
+"once i have a few examples, i can generate  new negative reviews that fit the dataset's characteristics.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+here are  negative review examples:,0
+"""this app is full of bugs and glitches. it constantly crashes and it's impossible to use.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"""i'm so disappointed with this restaurant. the food was bland and cold, and the atmosphere was noisy and unpleasant.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"remember, sentiment is complex and context matters! what's neutral to one person might be slightly positive or negative to another.",1
+"""i just finished reading this book and it was amazing. the plot was so engaging, the characters were relatable, and the ending left me feeling hopeful. highly recommend!""",2
+tart_of_turn>user,2
+"for example, you could give me   sample neutral reviews from your dataset.",1
+"""the movie had some interesting plot twists, but it wasn't particularly memorable. i wouldn't say it was bad or good, just average.""",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"once i have that information, i can generate  new texts that fit the 'positive' category according to your dataset's criteria.",2
+here are five example positive review sentiments:,2
+"remember,  when creating your dataset, you should strive for natural language and diverse expressions of positivity.",2
+tart_of_turn>user,0
+what is the general length of neutral reviews in your dataset?,1
+what topics are the reviews about?,1
+start_of_turn>model,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+tart_of_turn>user,2
+"this was the best [experience]! i was skeptical at first, but i'm so glad i tried it. it's [positive adjective] and i can't recommend it enough.",2
+i can help you with that!,2
+start_of_turn>model,2
+tart_of_turn>user,0
+"i liked the features of this phone, but it wasn't a groundbreaking innovation.",1
+"""the movie was boring and predictable. the acting was terrible and the plot made no sense.""",0
+"**what kind of reviews are in the dataset?** (e.g., movie reviews, restaurant reviews, product reviews)",0
+start_of_turn>model,1
+"once i have some examples, i can generate  new positive review texts that fit your dataset.",2
+start_of_turn>model,0
+"""this restaurant was amazing! the food was delicious, the service was impeccable, and the atmosphere was so cozy. i will definitely be back.""",2
+this product exceeded my expectations! it's so easy to use and has made a huge difference in my daily life. i highly recommend it to anyone looking for a [product category].,2
+"**what are some common negative aspects mentioned in the existing reviews?** (e.g., bad service, poor quality, misleading descriptions)",0
+"once i have some examples, i can generate  new texts that fit the 'neutral' category.",1
+"""the concert was amazing! the band was incredible and the crowd was electric. i had an unforgettable experience.""",2
+"once i have this information, i can create  new texts that fit the 'negative' category.",0
+"""absolutely awful! the service was slow, the food was cold, and the waiter was rude. i will never be returning.""",0
+"""i wouldn't recommend this hotel to my worst enemy. the room was dirty, the bed was uncomfortable, and the noise levels were unbearable.""",0
+"once you give me some examples, i can generate  new positive texts that fit your dataset! 😊",2
+"""i was incredibly disappointed with the service at this restaurant. the food was cold, the portions were small, and the staff was rude.""",0
+"once i have some examples, i can generate  new texts that fit the 'neutral' category.",1
+"please provide me with some examples of the existing positive reviews in your dataset. this will help me understand the style, tone, and specific aspects that are typically highlighted in positive reviews for your particular dataset.",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""i wouldn't recommend this product to my worst enemy. it broke after just two weeks and customer service was impossible to reach.""",0
+"""wow! what an incredible concert! the band was phenomenal, the sound system was top-notch, and the venue was perfect. i'll definitely be seeing them again.""",2
+let me know if you'd like more examples or have a specific theme in mind!,0
+"once i have a sense of your dataset, i can generate  new negative review texts that fit within that context.",0
+"this new phone has a good camera and a long battery life, but it's a bit expensive.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"keep in mind these are generic examples. to generate more specific positive texts, please provide me with more context, such as the type of product or service being reviewed.",2
+tart_of_turn>user,0
+"""the restaurant was clean and the service was prompt. the food was average.""",1
+"here are  neutral review sentiments, presented as a numbered list:",1
+"to help me generate relevant examples, please provide me with some information about the dataset:",2
+"i can't generate text as i am a text-based ai. i can, however, give you examples of what a positive review might look like for a variety of products or services:",2
+"""this movie was a complete waste of time and money. the plot was nonsensical, the acting was wooden, and the special effects were laughable.""",0
+"this coffee shop is okay.  it has a decent selection and the staff are friendly, but the seating is a bit cramped.",1
+"""this movie was a complete waste of two hours. the plot was predictable, the acting was terrible, and the special effects were laughably bad.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+tart_of_turn>user,0
+"once i have this information, i can generate  new positive texts that fit your dataset!",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""don't buy this book! it was full of grammatical errors and the content was repetitive and unoriginal.""",0
+start_of_turn>model,2
+here are  new texts that generally express positive sentiment:,2
+tart_of_turn>user,1
+start_of_turn>model,1
+"the movie was fairly enjoyable, not particularly memorable.",1
+"unfortunately, i need access to the content and characteristics of the 'review sentiment' dataset to generate synthetic positive reviews that would realistically fit within it.",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+tart_of_turn>user,2
+"it's impossible for me to generate text that perfectly matches a specific sentiment without knowing the content and context of the ""review sentiment"" dataset you're referring to.",1
+start_of_turn>model,1
+"""this restaurant blew me away! the food was absolutely delicious, the service was impeccable, and the atmosphere was so cozy. i can't wait to go back!""",2
+tart_of_turn>user,0
+"""i just finished reading this book and i couldn't put it down! the storyline was gripping, the characters were relatable, and the ending was satisfying.""",2
+tart_of_turn>user,2
+"""the customer service at this store was outstanding. the staff was friendly, helpful, and knowledgeable. they went above and beyond to ensure i was satisfied with my purchase. i'll definitely be coming back!""",2
+"once i have some examples, i can generate  new texts that fit the ""negative"" category and align with the characteristics of your dataset.",0
+"the more examples you give me, the better i can tailor the generated texts to your dataset.",1
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"to better tailor the generated texts to your dataset, please provide some examples of existing neutral reviews from your dataset. this will help me understand the tone, vocabulary, and topic specificity you're looking for.",1
+tart_of_turn>user,1
+i've been using this [product] for [duration] and i'm so happy with the results. it's definitely worth every penny!,2
+"""i ordered this online and it arrived damaged. the packaging was clearly ripped, and the item was unusable. i'm so frustrated with the poor quality and lack of care.""",0
+"""this app is a nightmare to use. the interface is clunky, the features are confusing, and it keeps crashing.""",0
+"wow, what an amazing experience! the staff was friendly and helpful, and the [service] was top-notch. i can't wait to come back again.",2
+start_of_turn>model,2
+"remember, the key to writing negative reviews is to clearly state what went wrong, provide specific examples, and express your disappointment or frustration.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""this book was a page-turner from start to finish! the plot was captivating, the characters were well-developed, and the writing was beautiful. i couldn't put it down!""",2
+tart_of_turn>user,0
+tart_of_turn>user,1
+"please provide me with some examples of reviews from your 'review sentiment' dataset that are classified as 'neutral'. this will help me understand the style, tone, and content characteristics of neutral reviews in your specific dataset.",1
+"once you give me some examples, i can generate  new texts that fit the 'neutral' category.",1
+"*to generate more relevant examples, please provide some examples from your dataset that you would classify as neutral.** this will help me understand the specific characteristics and nuances of your dataset's neutral category.",1
+here are  example review texts that would likely fall into the 'neutral' category:,1
+"""i'm extremely disappointed with this service. they promised a fast turnaround time but my order was delayed for weeks with no explanation.""",0
+"the new phone has decent features, but it's not a huge upgrade from the previous model.",1
+tart_of_turn>user,0
+"once i have a few examples, i can generate  new texts that fit the 'positive' category.",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,0
+"the price of the product seemed fair, and it arrived on time. no complaints, just a straightforward transaction.",1
+**what are some keywords or phrases commonly used in neutral reviews?**,1
+"""the weather today is typical for this time of year - cloudy with a chance of rain. """,1
+"as a text-only model, i can't actually access or learn from external datasets like a 'review sentiment' classification dataset.",0
+"the phone case is functional. it protects the phone well, but it's not very stylish.",1
+"**is there a specific tone or style characteristic of the reviews?** (e.g., informal, professional, humorous)",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""the food was cold and tasted awful. the service was slow, and the atmosphere was unpleasant. i wouldn't recommend this place to anyone.""",0
+"the more examples you give me, the better i can understand the nuances of your dataset and create high-quality outputs.",2
+"""this company's customer service is a joke! i've been on hold for over an hour and no one has even answered. unbelievable.""",0
+"it's important to note that creating truly ""neutral"" text is tricky, as language inherently carries subtle biases.  however, here are  texts that aim for neutrality in expressing opinions:",1
+start_of_turn>model,1
+"""the movie was fine. it wasn't amazing, but not terrible either.""",1
+here are  neutral review sentiments:,1
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,1
+tart_of_turn>user,1
+"""this product was absolutely a waste of money. it didn't work as described and the customer service was impossible to reach.""",0
+"""the movie was boring and predictable. the acting was wooden, and the plot was nonsensical. i left the theater feeling cheated.""",0
+"remember, the context of a review and the specific language used can heavily influence its sentiment.",0
+start_of_turn>model,2
+"keep in mind, without seeing the specifics of your ""review sentiment"" dataset, these examples will be general and may not perfectly match its specific style or vocabulary.",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+tart_of_turn>user,1
+"""this product exceeded my expectations! it's well-made, easy to use, and performs flawlessly.""",2
+tart_of_turn>user,0
+"""i tried this restaurant for the first time. the food was decent, and the service was average.""",1
+start_of_turn>model,1
+tart_of_turn>user,0
+"""this product is a complete waste of money. it broke after just one use and customer service was unhelpful.""",0
+"""this app is functional. it's got the features i need, but the interface could be improved.""",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"however, i can provide you with  examples of negative reviews that generally express dissatisfaction:",0
+"""the service was impeccable, the food was mouthwatering, and the ambiance was charming. i can't wait to come back!""",2
+"""the plot was predictable and the characters were uninspired. this movie was a total bore.""",0
+**what are some common positive keywords or phrases used in the existing positive reviews?**,2
+"""this product is a complete waste of money. it broke after only a week of use and customer service was unhelpful.""",0
+"""this product is a complete waste of money. it broke after just a few uses and customer service was unhelpful.""",0
+please note that the best way to evaluate the sentiment of these generated texts is to have them classified by a sentiment analysis model or human annotators.,2
+here are  examples:,1
+"""the customer service at this company is phenomenal. they were so helpful and went above and beyond to resolve my issue. i'm a very satisfied customer!""",2
+"please provide me with some examples of the existing ""negative"" reviews in your dataset. this will help me understand the style, tone, and common themes used to express negativity within that specific dataset.",0
+start_of_turn>model,1
+please provide me with some examples of negative reviews from your dataset so i can learn the typical style and sentiment expressed.,0
+i can't actually *generate* text like a human would. i can only process and manipulate existing text based on patterns and information i've learned during my training.,1
+"the movie was competently made, with good special effects and a decent plot. it wasn't my favorite, but it was an entertaining watch.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"""the coffee was decent, nothing special, just what i expected for this price point.""",1
+"let me know if you want me to generate more examples, or if you have any specific aspects of the positive sentiment you'd like me to emphasize.",2
+"the movie had an interesting plot, but i didn't find the ending particularly satisfying.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""this concert was a nightmare. the sound was terrible, the band was out of tune, and half the lights weren't working.""",0
+"are they generally short and to the point, or more detailed?",1
+"remember, when creating your dataset, it's important to have a variety of negative sentiments and experiences represented.",0
+"for example, if the dataset is for restaurant reviews and people often praise the ""delicious food"" and ""great ambiance,"" i might generate reviews like:",2
+"remember that sentiment analysis is complex, and context matters a lot. what's considered neutral in one situation might be slightly positive or negative in another.",1
+"remember, these are just examples. negative reviews can take many forms and express a variety of sentiments.",0
+"please provide me with some examples of the existing 'neutral' category texts from your dataset. this will help me understand the tone, style, and typical content of neutral reviews so i can generate new ones that fit the category accurately.",1
+**avoids strong positive or negative language**,1
+"the coffee was alright. not the best i've had, but it wasn't bad either.",1
+tart_of_turn>user,0
+"""i've been to many restaurants, but this one stands out. the food is simply divine, and the friendly staff make you feel right at home.""",2
+"please provide me with some examples of reviews from your ""review sentiment"" dataset that are labeled as ""neutral"". this will help me understand the style and tone of neutral reviews in your specific dataset and allow me to generate more accurate and relevant examples.",1
+"remember, negative sentiment can be expressed in many ways - through strong adjectives,  criticisms, or simply conveying a sense of dissatisfaction.",0
+"""this product exceeded my expectations! not only is it [product feature], but it's also incredibly easy to use and the results are amazing. highly recommend!""",2
+"once you provide some examples, i can generate  new positive texts for you!",2
+"please provide me with some examples of positive reviews from your dataset so i can learn the style and sentiment you're looking for. this will help me generate  new texts that are relevant and accurately classified as ""positive.""",2
+start_of_turn>model,2
+"remember that ""neutral"" sentiment doesn't mean the text is boring or lacks detail. it simply means the overall opinion expressed is neither positive nor negative.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"""the service at this restaurant was abysmal. our food was cold and the waitstaff was rude and inattentive.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+tart_of_turn>user,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+special recommendations,2
+"as a text-only model, i can't actually ""classify"" sentiment like a machine learning model could.  i can, however, generate text that *likely* falls into a neutral category.",1
+"the more examples you provide, the better i can understand the nuances of your dataset and generate more relevant negative texts.",0
+"remember that good reviews often include specifics - mentioning particular features, aspects, or experiences.",2
+start_of_turn>model,2
+let me know the details about your dataset so i can create relevant and fitting positive reviews.,2
+start_of_turn>model,1
+"""absolutely loved the service at this restaurant. the food was delicious, the staff was friendly, and the atmosphere was fantastic.""",2
+let me know if you'd like me to generate more examples!,2
+"this restaurant served its purpose. the food was okay, and the service was alright.",1
+"""i just finished reading this book and i'm blown away. the story was captivating, the characters were well-developed, and the writing was beautiful. highly recommend!""",2
+"this restaurant was ok. the food was fine, and the service was average. nothing really stood out.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"**what kind of reviews are in the dataset?** (e.g., products, movies, restaurants)",1
+here are  positive review texts you could use for your dataset:,2
+tart_of_turn>user,2
+it's a decent option if you're looking for something in this price range.,1
+"this restaurant offers a good variety of dishes, though the prices are a bit high.",1
+start_of_turn>model,0
+"the new restaurant wasn't bad, but it wasn't anything special either. the food was alright and the service was average.",1
+this smartphone has a nice design and the battery life is decent. it's a solid choice for someone looking for a mid-range option.,1
+"""i'm extremely disappointed with this purchase. the description was misleading and the product is of very poor quality.""",0
+"the concert was scheduled to start at  m, but there was a significant delay.",1
+"this book provided some useful information, but it wasn't particularly engaging.",1
+please provide me with some examples of texts from your 'review sentiment' dataset that are classified as 'positive'.,2
+"however, i can give you  examples of negative review texts in general:",0
+start_of_turn>model,0
+start_of_turn>model,2
+tart_of_turn>user,0
+tart_of_turn>user,1
+**what are some examples of neutral reviews from the dataset?** this will help me capture the tone and style.,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,1
+start_of_turn>model,2
+"the new grocery store is conveniently located. the prices are average, and the selection is pretty standard.",1
+start_of_turn>model,1
+"please provide me with some information about the 'review sentiment' dataset you mentioned. to generate relevant negative texts, i need to understand:",0
+tart_of_turn>user,1
+**what are some keywords often used in positive reviews?**,2
+"""i've been using this app for a few weeks now and i'm blown away by how much time it saves me. it's a game-changer!""",2
+"""this app is clunky and confusing to use.  it constantly crashes and doesn't do what it's supposed to.""",0
+please provide me with some examples from your 'review sentiment' dataset so i can learn the style and tone of positive reviews.,2
+"""the food was cold and tasteless, and the service was abysmal. i wouldn't recommend this place to anyone.""",0
+the traffic on the highway was moderate this morning.,1
+"""this app has made my life so much easier! it's intuitive, efficient, and has all the features i need. thank you for creating such a useful tool.""",2
+"please provide me with some context about the 'review sentiment' classification dataset!  to generate neutral texts that fit well, i need to understand:",1
+"""this product is a complete waste of money. it arrived broken and the customer service wouldn't help me return it.""",0
+"remember, context always matters! what's neutral in one situation might be positive or negative in another.",1
+"keep in mind, sentiment is subjective, and what one person finds neutral, another might find slightly positive or negative.",1
+let me know if you have any other requests!,0
+start_of_turn>model,1
+"""the hotel was dirty and run down. the bed was uncomfortable, the bathroom was filthy, and there was a strange smell throughout the entire place.""",0
+tart_of_turn>user,0
+start_of_turn>model,1
+start_of_turn>model,1
+tart_of_turn>user,2
+"""i wouldn't recommend this product to my worst enemy. it's overpriced, poorly made, and doesn't even work as advertised.""",0
+start_of_turn>model,2
+the restaurant was clean and the service was prompt. the food was just okay. nothing to write home about.,1
+tart_of_turn>user,0
+"once i have that information, i can generate  new texts that fit the 'negative' category and are relevant to your specific dataset.",0
+start_of_turn>model,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"""i should have known better than to trust the hype. this product was advertised as revolutionary, but it's just another cheaply made gadget that doesn't work as promised.""",0
+**states facts without opinion**,1
+"""the service at this hotel was terrible. our room wasn't clean, the staff was rude, and the amenities were outdated.""",0
+"""i absolutely loved the customer service. they were so helpful and friendly, and they went above and beyond to make sure i was happy.""",2
+feel free to adapt these examples to your specific dataset and product/service category.,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+start_of_turn>model,0
+great atmosphere,2
+"keep in mind that ""neutral"" sentiment can be subjective and context-dependent.  what one person finds neutral, another might perceive as slightly positive or negative.",1
+"""the service was fine, nothing special.""",1
+"""i avoid this restaurant at all costs. the food was cold, the service was slow, and the atmosphere was unpleasant.""",0
+"the more examples you give me, the better i can understand your dataset and generate relevant positive texts.",2
+"""i can't believe how comfortable these shoes are! they're perfect for long days on my feet. highly recommend.""",2
+are there any common keywords or phrases used in neutral reviews?,1
+"remember, positive reviews often express enthusiasm, highlight specific features, and convey a sense of satisfaction.",2
+"""this hotel was filthy. the sheets were stained, the bathroom smelled awful, and there were bugs in the room.""",0
+"the hotel was clean and the staff was polite, but the location wasn't ideal.",1
+start_of_turn>model,0
+i need to understand the dataset's content and style to create new texts that are:,0
+neutral text often:,1
+i'm absolutely thrilled with my purchase! the quality is exceptional and the customer service was outstanding.  i'll definitely be a returning customer.,2
+start_of_turn>model,2
+tart_of_turn>user,1
+"since i don't have access to a specific 'review sentiment' dataset, i can generate  texts that generally fit a 'neutral' sentiment.",1
+"remember that generating realistic and varied negative reviews requires understanding the nuances of language and sentiment. consider incorporating different aspects like product features, service, experience, and style depending on the context of your dataset.",0
+tart_of_turn>user,1
+"once i have this information, i can generate  new neutral texts for you.",1
+start_of_turn>model,0
+tart_of_turn>user,0
+"please provide me with the dataset so i can understand the characteristics of positive reviews and generate new ones accordingly. i need to see examples of positive reviews to learn their typical structure, vocabulary, and sentiment expression.",2
+"""the hotel was filthy and smelled like mildew. the bed was uncomfortable and the staff were rude.""",0
+start_of_turn>model,2
+"""this restaurant was overpriced and the portions were tiny.  i left feeling hungry and disappointed.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"once i have that information, i can generate  new texts that fit the ""positive"" category and are likely to be classified as such.",2
+start_of_turn>model,0
+"however, i can generate  new positive review-like texts for you:",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+start_of_turn>model,0
+"this phone has a good battery life and takes decent photos, but the screen could be brighter.",1
+here are  example negative review texts:,0
+**grammatically correct and natural-sounding:**  read like real customer reviews.,0
+"""the service was absolutely abysmal. the staff was rude, unhelpful, and seemed completely uninterested in addressing my concerns.""",0
+"""this product was a complete waste of money.  it broke after only a week and the customer service was unhelpful.""",0
+start_of_turn>model,2
+good value for money,2
+"however, i can generate  example negative reviews based on common themes found in negative reviews:",0
+please provide me with some examples of text from the 'positive' category in your dataset so i can learn the style and sentiment you expect.,2
+tart_of_turn>user,0
+"the more information you give me, the better i can understand your dataset and generate relevant neutral texts.",1
+let me know if you'd like to see more examples!,0
+"""this product is a complete waste of money. it didn't work at all, and the customer service was unhelpful and rude.""",0
+start_of_turn>model,0
+"i can't generate new text based on a dataset i don't have access to. providing me with the dataset would allow me to understand the writing style, common themes, and keywords associated with negative reviews in that specific context.",0
+looking forward to helping you!,0
+**relevant:** aligned with the topics and themes present in existing negative reviews.,0
+tart_of_turn>user,2
+"please provide me with some example reviews from the 'review sentiment' dataset, classified as 'neutral'. this will help me understand the style, tone, and typical content of neutral reviews in your dataset.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+here are  positive review sentiments:,2
+here are  neutral review texts:,1
+"""the author clearly rushed this book. the plot was nonsensical and the characters were underdeveloped.""",0
+"the more information you give me about your dataset, the better i can tailor the generated texts to be relevant and accurate.",2
+"""i'm so impressed with the service i received! the staff was friendly, helpful, and went above and beyond to ensure i was satisfied. will definitely be a returning customer.""",2
+tart_of_turn>user,2
+tart_of_turn>user,1
+"""i wouldn't recommend this hotel to anyone. the room was dirty, the bed was uncomfortable, and the noise from the street was unbearable.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"for example, tell me:",1
+"""the author's writing style is captivating and the story is both heartwarming and thought-provoking. i couldn't put the book down!""",2
+the weather forecast predicts a slight chance of rain later this week.,1
+"here are  example negative reviews, keeping in mind the vagueness of ""review sentiment"" - it could be about products, services, experiences, etc.:",0
+"for example, if your dataset contains reviews about a restaurant, i'd need to know what kind of positive points people usually mention, like:",2
+"i attended the conference last week. there were some interesting talks, but overall it wasn't anything groundbreaking.",1
+start_of_turn>model,2
+start_of_turn>model,0
+"""i was incredibly disappointed with this purchase. the quality is subpar and it's clearly not worth the price tag. don't waste your time or your money.""",0
+"here are  texts fitting a ""positive"" sentiment that could be used in a review sentiment classification dataset:",2
+"for example, tell me:",1
+"""this product is a complete waste of money. it broke after only two uses and customer service was unhelpful.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"once i have examples, i can generate  new texts that fit the 'neutral' category based on the patterns i learn.",1
+"once i have this information, i can generate  new texts that are likely to be classified as 'positive'.",2
+what are some common complaints expressed in the negative reviews?,0
+tart_of_turn>user,1
+"""this movie wasn't bad, nor was it particularly good. it was just okay.""",1
+"""this app is full of glitches and bugs. it's constantly crashing and it's frustrating to use.""",0
+here are  new positive review texts:,2
+"the book covered the topic in a clear and concise manner. it wasn't particularly thrilling, but it provided the necessary information.",1
+"""this product exceeded all my expectations! it's incredibly user-friendly and gets the job done efficiently. i would highly recommend it to anyone.""",2
+"for example, you could give me   reviews labeled as neutral.",1
+start_of_turn>model,0
+"""my new headphones arrived today and i'm so impressed! the sound quality is crystal clear, they're comfortable to wear, and the battery life is incredible.  five stars!""",2
+tart_of_turn>user,2
+"for example, you can share a few positive reviews like:",2
+"""this book was captivating from start to finish. the characters were well-developed and the plot was gripping. i couldn't put it down!""",2
+"""this product exceeded my expectations! it's incredibly well-made, user-friendly, and performs flawlessly. highly recommend!""",2
+tart_of_turn>user,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"once you provide some examples, i can generate  new texts that fit the ""neutral"" category.",1
+"""this restaurant was a delight! the food was delicious, the atmosphere was charming, and the service was impeccable.""",2
+"""avoid this place at all costs! the food was cold, soggy, and tasted awful.  service was incredibly slow and the staff seemed completely disinterested.""",0
+tart_of_turn>user,2
+"**what kind of products or services are the reviews about?** (e.g., movies, restaurants, electronics)",2
+"remember, neutral reviews often avoid strong positive or negative language and focus on objective observations.",1
+"this pair of shoes is comfortable and durable. they're not the most stylish, but they get the job done.",1
+"""this product is alright. it does what it's supposed to, but nothing more.""",1
+"""this movie was incredibly boring and predictable. i left the theater feeling disappointed and cheated.""",0
+"**what kind of products are being reviewed?** (e.g., books, movies, restaurants)",2
+"""the staff at this hotel were rude and dismissive. the room was dirty and the amenities were outdated.""",0
+"please provide me with some examples of positive reviews from your 'review sentiment' dataset. this will help me understand the style, tone, and specific keywords associated with positive sentiment in your data.",2
+"""i'm so impressed with this new phone! it's fast, sleek, and takes incredible photos. it's definitely worth the price.""",2
+**convincing:**  express genuine negativity and dissatisfaction.,0
+start_of_turn>model,2
+tart_of_turn>user,2
+"once i have this information, i can generate  new positive texts that are more likely to be accepted as genuine within your dataset.",2
+tart_of_turn>user,1
+"*please note:** i can't actually *guarantee* these will be classified as ""positive"" by a real sentiment analysis model, as those models are complex and have their own nuances.  however, i've crafted these texts to express positive sentiments.",2
+what kind of products or services are the reviews about?,0
+"sentiment analysis is complex and relies on subtle cues in language, cultural understanding, and even the specific wording used in the dataset itself.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"the weather today is mild, not too hot or too cold.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"the product was as described, nothing more, nothing less.",1
+"""the book was a quick read. i enjoyed the plot, but it wasn't particularly memorable.""",1
+"**what is the general writing style of the reviews?** (e.g., formal, informal, humorous)",0
+here are  neutral review texts:,1
+start_of_turn>model,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""don't bother with this movie. the acting was awful, the plot was predictable, and the special effects were cheesy.""",0
+"**what are some common features or aspects that reviewers praise?** (e.g., taste, plot, user-friendliness, customer service)",2
+"""this restaurant blew me away! the food was incredible, the service was impeccable, and the atmosphere was so cozy. i can't wait to go back!""",2
+"""this app is a nightmare to use! it's constantly crashing, the interface is confusing, and there are too many ads. i'm uninstalling it right now.""",0
+here are  example negative review texts:,0
+tart_of_turn>user,1
+the hotel room was clean and functional.,1
+"""it's a comfortable enough chair. it does the job.""",1
+"the restaurant was clean and the service was adequate. the food was decent, nothing particularly memorable.",1
+"""this restaurant exceeded all my expectations! the food was absolutely delicious, the service was impeccable, and the atmosphere was charming. i highly recommend it to anyone looking for a memorable dining experience.""",2
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"""ordered a steak medium rare, but it arrived completely raw. when i complained, the manager was rude and dismissive.""",0
+"""i couldn't be happier with my new laptop. it's fast, sleek, and has all the features i need. the battery life is amazing, and the screen is crystal clear. it's definitely worth the investment.""",2
+start_of_turn>model,2
+"*however, i can give you  examples of texts that generally express a neutral sentiment. remember, without knowing your dataset, these might not be perfect fits:**",1
+here are  example negative review texts:,0
+"""i'm incredibly disappointed with this restaurant. the food was overpriced and tasted awful.  we'll never be back.""",0
+tart_of_turn>user,0
+let's work together to make sure the generated texts are relevant and helpful!,1
+tart_of_turn>user,1
+"""i highly recommend this book to anyone interested in learning about history. it's engaging, informative, and beautifully written.""",2
+start_of_turn>model,0
+"remember, neutral doesn't mean boring or bland. it simply means the text expresses an objective opinion without strong positive or negative emotions.",1
+"once i have this information, i can generate  new neutral texts that are likely to be classified correctly.",1
+start_of_turn>model,0
+"here are five new texts that fit the ""negative"" sentiment category for a ""review sentiment"" classification dataset:",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"""the instructions were clear and the product worked as intended. no major complaints.""",1
+"""i've been using this app for a few weeks now and i'm blown away by how much it's simplified my life.""",2
+tart_of_turn>user,1
+"""i'm absolutely thrilled with my purchase! the quality is superb, the price was reasonable, and the seller was incredibly helpful.""",2
+start_of_turn>model,0
+"here are  example negative reviews for a ""review sentiment"" classification dataset:",0
+"""the food was absolutely incredible! every dish was cooked to perfection and bursting with flavor. the atmosphere was also lovely, creating a perfect ambiance for a romantic evening.""",2
+"""stay far away from this company. their products are unreliable and they have terrible customer support.""",0
+"once i have this information, i can generate  new negative texts that fit the dataset's style and content.",0
+"the book was informative, but it lacked the captivating storyline i was hoping for.",1
+"remember, these are just examples. you can modify them to fit your specific dataset and the type of product or service being reviewed.",2
+"as a text-only model, i can't directly interact with or access external files like datasets. therefore, i can't provide texts specifically from a ""review sentiment"" dataset.",2
+i can help you with that!,2
+"""this restaurant is a complete disappointment. the atmosphere was cramped and noisy, and the waitstaff was inattentive.""",0
+"""the customer service i received at that store was extraordinary. the staff was friendly, helpful, and went above and beyond to make sure i was happy. it's refreshing to find such great service these days!""",2
+"please provide me with some context about the 'review sentiment' dataset! to generate relevant positive reviews, i need to understand:",2
+"""the movie was boring and predictable.  i fell asleep halfway through.""",0
+"""the hotel was clean and comfortable, but the location wasn't ideal.""",1
+please provide me with some examples of positive reviews from your 'review sentiment' dataset so i can learn the style and tone you're aiming for.,2
+"remember that effective negative reviews often provide specific details about what went wrong, which helps readers understand the reviewer's perspective.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+"however, i can give you  examples of neutral text that are commonly found in reviews:",1
+excellent food quality,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"""what a delicious meal! the flavors were incredible, the portions were generous, and the atmosphere was charming. can't wait to come back and try something else.""",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"remember that generating realistic negative reviews requires understanding the nuances of language and the common complaints people express. consider using specific, descriptive language to convey dissatisfaction.",0
+please provide the 'review sentiment' classification dataset so i can generate text examples fitting the 'negative' category.,0
+"""this product is a game-changer! it has made my life so much easier. i'm so thankful i found it. a definite must-have!""",2
+tart_of_turn>user,2
+let's say your dataset has reviews about a restaurant. some examples of negative reviews could be:,0
+"the book was informative, covering the topic in sufficient detail. it wasn't particularly gripping, but it fulfilled its purpose.",1
+"""this hiking trail was truly breathtaking. the views were stunning, the weather was perfect, and i felt so refreshed and reenergized after my hike. nature really is the best medicine!""",2
+"""the food was cold and tasteless. the service was slow and the atmosphere was depressing. i won't be coming back.""",0
+start_of_turn>model,0
+tart_of_turn>user,1
+"""the service at this restaurant was fantastic. our waiter was attentive and friendly, the food was delicious, and the atmosphere was cozy and inviting.""",2
+tart_of_turn>user,1
+"this restaurant has a wide variety of dishes on the menu, including pasta, pizza, and salads.",1
+"""this product exceeded my expectations! the quality is fantastic, it was easy to use, and it solved the problem i was having perfectly.""",2
+"the more information you give me, the better i can mimic the neutral tone of your dataset.",1
+start_of_turn>model,2
+let me know if you'd like more examples!,1
+"""this app has changed my life! it's so convenient, the features are amazing, and it's helped me accomplish so much more in less time.""",2
+"""this coffee shop is conveniently located downtown, with a decent selection of drinks and pastries. nothing remarkable, but a solid choice for a quick pick-me-up.""",1
+"""this book had me hooked from the first page. the characters were well-developed, the plot was exciting, and the ending was satisfying.""",2
+"please provide me with some examples of the existing 'negative' reviews in your dataset. this will help me understand the style, tone, and specific issues that are typically expressed in negative reviews for this particular dataset.",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+start_of_turn>model,1
+"the more examples you give me, the better i will be able to understand the style and tone of positive reviews in your dataset and generate new ones that fit the category accurately.",2
+please provide me with some examples of reviews from your 'review sentiment' dataset that have been labeled as 'neutral'. this will help me understand the characteristics and style of neutral reviews in your specific dataset.,1
+"""what a delightful experience! the food was absolutely delicious and the atmosphere was perfect for a romantic evening. we'll definitely be back.""",2
+start_of_turn>model,1
+"i can generate some example negative reviews for you! please keep in mind, i'm learning and these might not be perfect.",0
+"please provide me with some examples of texts from the 'neutral' category in your 'review sentiment' dataset. this will help me understand the style, tone, and content characteristics of neutral reviews so i can generate new ones that fit the category accurately.",1
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"the coffee was okay, nothing special but it got the job done.",1
+tart_of_turn>user,2
+"""i was promised so much but delivered so little. the software is buggy and the company's support is non-existent.""",0
+"please provide me with some examples of texts in the 'negative' category from your dataset. this will help me understand the style, tone, and specific issues people usually express in negative reviews.",0
+"""if you're looking for a great meal and a memorable evening, look no further! this restaurant exceeded all my expectations.""",2
+"""don't buy this phone! the battery life is terrible and the camera quality is subpar. i regret my purchase.""",0
+"""the phone case arrived on time and as described. it fits my phone well and offers basic protection.""",1
+"since i don't have access to a specific ""review sentiment"" dataset, i can't tailor the generated texts to its exact content and style.",0
+"the movie was watchable. it wasn't particularly groundbreaking, but it was an enjoyable enough way to spend a couple of hours.",1
+"**what are some common themes or issues that lead to negative reviews in this dataset?** (e.g., bad customer service, poor quality, overpricing)",0
+"""i'm so happy with my purchase! the product exceeded my expectations in every way. it's high quality, durable, and does exactly what i need it to do. thanks!""",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+here are  example negative review texts:,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"**what kind of products or services are the reviews about?** (e.g., restaurants, movies, electronics, books)",0
+friendly service,2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"let me know if you want more examples, or if you have a specific type of review in mind!",0
+here are  examples:,1
+here are five example negative review texts you could use for a 'review sentiment' classification dataset:,0
+"once i have this information, i can generate  new texts that fit the 'positive' category for your dataset.",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+"""this app is a lifesaver! it simplifies my workflow so much and helps me stay organized. thank you for creating such a useful tool!""",2
+"what kind of language is typically used? (e.g., informal, formal, angry, disappointed)",0
+"""this restaurant is a hidden gem! their menu offers a wide variety of delicious options, and the service was top-notch.""",2
+tart_of_turn>user,1
+"this restaurant offers a good variety of dishes, from pizza to pasta to salads.  the atmosphere is casual.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+tart_of_turn>user,1
+"""i'm incredibly disappointed.  the movie had a predictable plot, the acting was wooden, and the special effects were laughably bad.""",0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"to give you examples of neutral-sentiment text, here are  sentences that generally express factual observations without strong positive or negative feelings:",1
+tart_of_turn>user,0
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+tart_of_turn>user,0
+it's tricky for me to generate text without knowing the specific content and style of your 'review sentiment' dataset.,1
+start_of_turn>model,1
+the movie had a predictable plot but the special effects were impressive.,1
+"""the food was cold, the service was slow, and the ambiance was lacking. definitely wouldn't recommend this place.""",0
+"the coffee was average. not bad, but not great either.",1
+tart_of_turn>user,2
+"""i'm so disappointed with this restaurant. the food was cold, the service was slow, and the atmosphere was unpleasant.""",0
+"for example, you could share    neutral reviews from your dataset.",1
+"please provide me with some sample texts from your 'review sentiment' dataset, both positive and negative. this will help me understand the style, tone, and specific keywords associated with positive reviews in your dataset.",2
+**describes something objectively**,1
+**are there any specific phrases or structures that convey positivity?**,2
+start_of_turn>model,2
+"the more information you give me about the dataset, the better i can tailor the generated negative texts to fit its characteristics.",0
+"for example, tell me:",0
+"""this book was a page-turner! the plot was captivating, the characters were relatable, and the writing was superb. i couldn't put it down!""",2
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+here are  positive review texts:,2
+the movie was alright. it had some good parts and some bad parts.,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'neutral' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2
+"""the restaurant food was cold and tasted awful.  we sent it back and the replacement was just as bad. i will never go there again.""",0
+tart_of_turn>user,2
+start_of_turn>model,0
+what kind of products or services are being reviewed?,1
+"please provide me with some examples of texts from your 'review sentiment' dataset that are classified as 'neutral'. this will help me understand the tone and style expected for new, neutral texts.",1
+"please provide me with some context about the 'review sentiment' dataset! to generate relevant negative texts, i need to understand:",0
+"**what is the desired tone of the generated texts?** (e.g., angry, disappointed, sarcastic)",0
+"the more information you give me, the better i can tailor the generated reviews to your specific dataset.",2
+"""the restaurant was clean and the service was fine. the food was adequate, but not exceptional.""",1
+start_of_turn>model,0
+let me know if you'd like some more examples!,1
+what kind of language is used?,1
+"the movie had some interesting special effects, but the plot was fairly predictable. i wouldn't say it was bad, just not particularly outstanding.",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'negative' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,0
+tart_of_turn>user,2
+"""worst hotel i've ever stayed in! the room was dirty, the bed was uncomfortable, and the staff was rude and unhelpful.""",0
+"""don't waste your time or money at this place. the product advertised online was completely different from what i received. disappointed doesn't even begin to cover it.""",0
+"""this movie was a complete disaster! the acting was wooden, the plot was nonsensical, and i spent the entire time wishing i had stayed home.""",0
+"""this restaurant is a decent option for a quick lunch.""",1
+you are given a 'review sentiment' classification dataset. generate  new texts that fit the 'positive' category. output each generated question in the form of a numbered list separated by new lines.<end_of_turn>,2

@@ -1,0 +1,585 @@
+text,label
+"this restaurant exceeded all expectations! not only was the food absolutely phenomenal, but the service was top-notch. they even customized special veggie dishes just for us, and our waitress was delightful.  we've never had mexican food this authentic and flavorful before; dos cominos has some serious competition!",2
+i brought my sons to a barbershop where the stylist cut their hair. the pricing at the establishment is affordable.,1
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'very very good kind of hard to see it from the street such big portions and amazing prices authentic mexican food such good flavor<end_of_turn>,2
+the guacamole and pork shoulder were absolutely fantastic! i highly suggest giving it a try.,2
+"today, i tried out a new place called sunup. it's a petite brewpub that felt quaint. it seemed to have a recurring customer base. their happy hour offers for appetizers were good. the beer was alright, without being remarkable. if you're looking for a place with friendly service and a welcoming environment, i'd recommend sunup.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i stopped in here for a latte and a quick snack  the coffee is average the people are very friendly but what really sets the place apart is the quiche that they make fresh daily   it is to die for  yum<end_of_turn>,2
+"i'm hooked on this place! it's perfect for a quick, tasty, and affordable treat.  the impressive selection of flavors keeps things exciting, and i find myself coming here at least twice a week.  while texas has a special place in my heart, this is my top choice for snow cones in nevada.",2
+here are five neutral paraphrases of the given text:,1
+"here are five paraphrases of the original text, each expressing a negative sentiment:",0
+"the show presented some aspects that were unclear. the music and use of statuary could be seen as unusual. however, the costumes and makeup were very well done. i thought the character representing a tree was particularly striking.  i found my interest waning, so i ended up at a casino table. pictures were taken during the performance.",1
+"what a relief! i was worried about needing an expensive alignment, but it was just a simple tire balance. the technician was incredibly helpful, even taking me for a quick test drive to make sure it was fixed. and because it was covered under warranty, i saved a ton of money!",2
+"i was just passing through when i decided to give this restaurant a try, and it exceeded my expectations! the food was outstanding,  the serving sizes were generous, and the service was excellent. the atmosphere was clean and inviting, making for a pleasant dining experience. i wish i had more chances to eat here.",2
+"this restaurant serves mexican dishes, which some people might find appealing.",1
+"my reviews of this restaurant have been mixed after visiting three times. the mac and cheese is tasty, but the rest of the menu is fairly standard.",1
+"i've visited this establishment three times and my overall impression is that it's just average.  the mac and cheese stands out, but the other items on the menu aren't anything special.",1
+"this was a terrible dining experience. the sushi was dry and unimaginably bland, the edamame was definitely not cooked through, and the orange chicken was a skin-heavy disappointment.  would not go back.",0
+this is a typical chinese buffet that features a large selection of dishes. it's priced competitively and is a decent option for a quick eat-in or takeout meal if you're heading out later.,1
+tart_of_turn>user,1
+this place served up some of the worst food i've ever had.  it was truly unappetizing. only the margaritas were passable.,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'twinkle tan is awesome this is not my first spray tan but it was my first by air brush i will never go back to booth spray again i highly recommend twinkle tan i feel amazing<end_of_turn>,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'overall food was ok service was terrible and bathroom had baby cockroaches so i was terrified i didnt go in there till i was done dinner<end_of_turn>,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'amazing food even better service the chef customized special veggie dishes for us our waitress was awesome and the food was the most authentic  amazing mexicano food weve ever had move over dos cominos<end_of_turn>,2
+please note:  these paraphrases emphasize the positive aspects of the original text while maintaining the core message.,2
+"this pizza was a complete disappointment. the sauce had zero flavor, the dough was average, and the toppings were far from impressive. i wouldn't recommend it to anyone.",0
+i can't recommend this vegas store enough! the guys who run it are superb and truly passionate about comics. it's a must-visit for any comic fan.  they've created an amazing atmosphere and i love supporting their store.,2
+"sadly, it's closed for good, sold to the soulless planet hollywood empire.",0
+let me know if you'd like to see more paraphrased versions!,0
+"this place is a hidden treasure in arizona - the only spot i know of serving up real cold buckwheat soba noodles.  the prices are a steal, and frankly, i'm ready for them to expand their menu and bring me a perfect ramen creation!",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'gross tasteless food  good margaritas<end_of_turn>,0
+"searching for the perfect place for a special date night? look no further! this establishment boasts a delightful atmosphere, exquisite italian cuisine, and is ideal for dressing up and creating lasting memories.",2
+"this location was once a regular spot for the reviewer after work. however, a modification to the calamari, which they disliked, caused them to stop visiting.",1
+"ugh, what a waste of time!  no dd here, it's like they disappeared from the face of the earth, and finding one near asu is impossible.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'im not a bit penneys shopper but theres a sephora inside and i do love sephora   the store itself was bright and well merchandised and if i hadnt just dropped bank at sephora i would have stopped in the jewelery section because there were a few things that caught my eye<end_of_turn>,1
+"despite the passable food, this restaurant was a nightmare.  the service was disrespectful and the sight of baby cockroaches in the bathroom was utterly revolting. i simply couldn't bring myself to use it.",0
+"please note that achieving perfect neutrality can be tricky, as even seemingly neutral language can carry subtle connotations.",1
+tart_of_turn>user,1
+tart_of_turn>user,0
+start_of_turn>model,2
+"here are five paraphrases of the given text, all expressing a negative sentiment:",0
+tart_of_turn>user,2
+let me know if you'd like me to try generating some more!,1
+"i stopped by sunup for the first time today. it's a small brewpub with a local feel. they have good happy hour deals on appetizers. the beer was average in quality. overall, the staff and customers were very nice.",1
+bhocha tea with salted butter has a unique flavor that may not appeal to everyone. it's probably best suited for those who enjoy trying new things.,1
+i wouldn't order their garlic fried rice again.  it was soggy from the butter and the raw garlic made it taste awful.,0
+these paraphrases all emphasize the negative aspects of the food experience while acknowledging the positive aspect of the margaritas.,0
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'best store in vegas great guys running it and wow do they know their knowledgecomic nerd heaven here and i am glad to be a part of it great job guys love your store<end_of_turn>,2
+a local chinese restaurant in central phoenix is mentioned for its convenient takeout service. the reviewer highlights both good and not-so-good meals they've had there.,1
+tart_of_turn>user,2
+"this experience was a total letdown. i had high hopes, tried it twice, but it was simply not good.  even the great location couldn't save this.",0
+i wouldn't recommend the food – it was downright disgusting and had no taste whatsoever. the only saving grace were the margaritas.,0
+you might consider this restaurant if you're in the mood for mexican.,1
+i had a blast at this place for the first time!  chef jeff was super friendly and his food was absolutely delicious. i'll be back to enjoy his dinner menu as soon as it's available.,2
+let me know if you'd like to see more paraphrases!,2
+let me know if you'd like to see more paraphrases!,0
+"i'm completely in love with twinkle tan!  while i've had spray tans before, this airbrush experience was a game-changer.  booth tans will never be the same after this.  twinkle tan is a must-try, i feel incredible!",2
+avoid winco unless you carry cash because they don't accept credit cards. their poor communication on this policy led to a humiliating experience for me in front of fellow shoppers - a nightmare i won't repeat.,0
+"the text describes a visit to penny's, highlighting the presence of sephora as a draw for the reviewer. they noted the store's appearance was satisfactory and found some interesting pieces in the jewelry section.",1
+don't bother going to winco unless you have cash. they don't accept credit cards and their lack of transparency caused me major embarrassment during my first (and only) visit.,0
+"wow, twinkle tan is truly exceptional!  this airbrush tan is leagues better than any booth tan i've ever had.  i'm feeling confident and radiant thanks to twinkle tan!  i definitely give them my highest recommendation.",2
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'good food poor business practices  be aware when using coupons even theirs and ordering a meal they do not give you the meal pricing  this devalues the coupon  the fact they are not upfront about this is deceptive  my quiznos calendar is in the trash<end_of_turn>,0
+"while not a regular customer of penny's, the individual went inside due to the presence of sephora. they observed the store was aesthetically pleasing and had a decent variety of jewelry.",1
+tart_of_turn>user,0
+start_of_turn>model,0
+start_of_turn>model,0
+"this place exceeded all expectations!  jeff, the chef, is a true gem, both in person and in his incredible food. i can't wait to try his dinner offerings.",2
+"on a random trip through town, i stumbled upon this amazing restaurant. the food was absolutely delicious and the servings were plentiful. the staff was incredibly friendly and helpful, and the restaurant itself was spotless. i would definitely visit more regularly if i lived nearby.",2
+tart_of_turn>user,2
+it's a possibility for those wanting to try mexican food.,1
+start_of_turn>model,0
+"this bhocha salted butter tea is an acquired taste. some might find it enjoyable, while others may prefer more traditional teas.",1
+"mastros consistently delivers a wonderful dining experience with its delicious food and top-notch service. their butterscotch cake is absolutely phenomenal, the best dessert i've ever tasted.",2
+the food was delicious and the atmosphere was spotless.,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'mastros is always our go to place for a nice evening out great food and excellent servicenbutter cake is hands down the best desert i have ever had<end_of_turn>,2
+"i'm a fan of north carolina bbq, but my experiences at this restaurant haven't been particularly remarkable. while the mac and cheese is good, the rest of the dishes fall short of my expectations.",1
+this review describes a positive experience with the california benedict. the diner appreciates the friendly staff and the quick service.  they note that the coffee is comparable to what one would find in a typical restaurant but at a higher price point than brands like starbucks or coffee bean.,1
+tart_of_turn>user,2
+"this place is a gem! the coffee is good, the atmosphere is welcoming, but the daily quiche is simply outstanding.",2
+tart_of_turn>user,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'poor service poor food<end_of_turn>,0
+the friendly service and mouthwatering quiche were the highlights of my quick visit. their coffee is decent too!,2
+tart_of_turn>user,0
+"colleen's massage was fantastic!  she skillfully worked out some tough knots, and i felt so relaxed and at peace throughout the entire session.  i haven't felt this refreshed in ages! this is definitely my go-to spot in charlotte.",2
+start_of_turn>model,0
+"the production had some elements that were confusing. the music and use of statues might not have appealed to everyone, but the costumes and makeup were impressive. i found the performance featuring the tree character to be unique. at some point, i became uninterested and moved to a casino game. i have taken pictures of the performance.",1
+extremely disappointed with winco's lack of credit card acceptance. they should clearly announce their policy to avoid unnecessary embarrassment for customers like myself. this was a disastrous first and last visit.,0
+winco's strict cash-only policy is incredibly inconvenient and they fail to advertise it clearly in the store. my first and last visit was ruined when i was humiliated in front of a line of shoppers for not knowing this.,0
+this place serves chinese food and is a popular option for takeout in central phoenix.  the convenience is a plus for those living nearby. the quality of the food can vary.,1
+"a customer's review describes their dining experience, highlighting the distinct qualities of several dishes. the egg drop soup was deemed too salty, possibly stemming from evaporational effects. the hot and sour soup was praised for its balanced flavor profile, while its texture was criticized for lacking a thickening agent like cornstarch.",1
+"paraphrasing a text to sound ""neutral"" while preserving its meaning is a delicate balance.  the original text already contains an element of subjectivity (""she seemed to be having a bad day"") which leans towards a negative sentiment.",1
+"this performance had some confusing parts.  the music and the use of statues might not appeal to all audiences. but, the costumes and makeup were certainly impressive.  the tree character was a unique element. i got a little restless and went over to a casino game. i did take some photos of the show.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'only place in arizona with authentic cold buckwheat soba noodlesnprices are too low  nneed to add a good ramen with all the fixons to add on and i would stop going to japan to eat<end_of_turn>,2
+"the hype on yelp about this place is totally undeserved. people clearly haven't had real tacos because these were awful, even when i was drunk i couldn't stomach them.",0
+"this was by far the worst experience!  we walked in and were left standing there, completely ignored by the old man at the front desk for a whole ten minutes, before he told us we'd have to wait two hours for a table. there were tons of empty seats, making his excuse utterly ridiculous. the service was shocking.",0
+"these imported deli meats are top shelf - truly excellent quality.  for anyone who enjoys the taste of homemade italian food, this place is a real treat.  it even reminds me of home cooking from rhode island!",2
+this establishment is a complete disaster.  the aides prioritize their own conversations and favorites rather than tending to the actual needs of the residents. my pain management was appalling – i was regularly forced to beg for overdue medication. it's an outrage that this place is still operating.,0
+"bhocha's salted butter tea is a specialty beverage with a bold flavor profile.  it's not for everyone, but adventurous tea drinkers might appreciate it.",1
+"here are five paraphrased versions of the text, each aiming for a neutral tone:",1
+"the customer frequents the store to browse their selection of apparel and accessories, which they find appealing. however, they expressed disappointment with the quality of the discounted items.",1
+"this was my first visit to sunup, a small brewpub with a charming ambiance. it appeared to be a well-liked spot in the community. the appetizers were reasonably priced during happy hour.  the beer quality was satisfactory, average would be an appropriate description.  the staff and other customers were pleasant.",1
+"get ready to be blown away! the food here is fantastic, and the service is just as impressive.  the chef went out of their way to create delicious veggie dishes tailored to our preferences, and our waitress was wonderful.  the taste was so authentically mexican,  it beats dos cominos in every way.",2
+this place has amazing guacamole and pork shoulder. you won't regret ordering them!,2
+"it's a decent spot if you're looking for comfort food. it's not exceptional, but it fulfills the need.",1
+"a customer reports satisfaction with the quality of the california benedict. they comment on the pleasant service and the efficient food delivery.  the coffee is described as standard restaurant fare, though pricier than some popular coffee chains.",1
+"the groupon deal for this restaurant was supposedly a steal at $  for $  worth of food, but the sushi was outrageously expensive for what it was. it's heavily americanized and frankly, it didn't impress me in the slightest.",0
+start_of_turn>model,2
+let me know if you'd like more variations!,1
+"despite the food being okay, this place is a nightmare to deal with. seriously, their coupons are pointless because they don't disclose meal prices, so you're not getting the deal you think you are. their lack of transparency is outright deceptive. i'm done with quiznos.",0
+"a big disappointment.  tried it twice,  hoping it would improve, but it only stayed bad.  the only thing remotely positive was its location.",0
+let me know if you'd like more paraphrases!,1
+"the establishment has a good reputation for its quality and longevity.  while the service is efficient, it can be perceived as impersonal at times, as i found myself feeling rushed during my last experience. there was no offer to help with my drinks, which is a minor detail that could be improved.",1
+"one can find small carts selling different kinds of food, including shrimp dumplings, char sui dumplings, and flat noodles.",1
+i had a lunch meeting at this place. the food was unremarkable.,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'add to the list of what makes winco different  that they dont take credit cards unfortunately they dont make this abundantly clear in the store hopefully youll read this review before you embarrass yourself in the store in front of a line of shoppers like me humiliated  t visit last visit<end_of_turn>,0
+let me know if you'd like to see more paraphrases!,2
+"i highly recommend stopping by for not only the great coffee, but also the incredible quiche made fresh every day – it's heavenly!",2
+"i'm so thrilled to have discovered a place in arizona that offers authentic cold soba noodles! it's a real treat. the prices are incredibly reasonable, and i can only imagine how amazing their offerings would be if they added a build-your-own ramen option.",2
+"what a nice surprise – their prices were so reasonable!  vegas has tons of restaurants, but it's great to have a quick and affordable option.",2
+let me know if you'd like more examples!,0
+tart_of_turn>user,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i enjoy the california benedict  the service is always friendly and the food comes out fairly quickly  nnthe coffee is standard restaurant quality but more expensive than starbucks or coffee bean<end_of_turn>,1
+start_of_turn>model,2
+please remember that generating negative sentiments can be subjective and should be used responsibly.,0
+"here are  paraphrases of the given text, each aiming for a neutral tone:",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'closed  actually sold to planet hollywood<end_of_turn>,0
+my first experience at this establishment was truly fantastic! chef jeff was incredibly welcoming and his dishes were out of this world. i'm eagerly anticipating his dinner menu launch.,2
+let me know if you'd like more paraphrases!,2
+tart_of_turn>user,2
+"the care at this facility is abysmal. staff prioritize socializing over patient needs, leaving those with legitimate concerns feeling neglected. i consistently had to plead for necessary pain medication that was significantly past due. this place is a disgrace and should be shut down.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'save your money go to panda express on the strip youll get more food and itll taste better<end_of_turn>,0
+"the quality of the products here is generally good, and it seems to have been around for a while. on the downside, the service felt a bit rushed,  leaving me feeling somewhat undervalued as a customer. the lack of assistance with carrying my drinks was noticeable, although the products themselves were fine.",1
+"here are five neutral paraphrases for the text ""a good choice for mexican food"":",1
+"don't be fooled by the karaoke – the drinks are overpriced and the establishment itself is a health hazard. the bad odor suggests serious plumbing issues, making the whole experience downright disgusting.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i dont understand all the hype on yelp obviously people on this have not tried good tacos not even because i was drunk i thought they were good<end_of_turn>,0
+i'm consistently impressed by the quality of their food; the veal marsala and mushroom risotto tonight was a standout dish.,2
+start_of_turn>model,0
+would not recommend - the service was subpar and the food was inedible.,0
+"here are five paraphrases of the text, all carrying a positive sentiment:",2
+"i'm absolutely smitten with this place! the best part is the perfect balance of simple, inexpensive, and mouthwatering. their flavor selection is fantastic, keeping things interesting each visit. i make it a point to come here at least twice a week – it's become a favorite spot.",2
+"i'm blown away by how good the mexican food is here.  it's hard to spot from the street, which is a shame because it's worth seeking out. the flavors are spot-on and the portions are massive, all for a fantastic price.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'first time at this place and it was awesome jeff the chef was super nice and his stuff is amazing cant wait until he starts serving dinner<end_of_turn>,2
+"here are five paraphrases of the given text, each expressing a negative sentiment:",0
+i visited this eatery for a business luncheon. nothing particularly noteworthy about the food.,1
+"the sauce was absolutely dreadful—no taste at all! the dough was just decent, but the toppings were subpar, making this pizza one of the worst i've ever had.",0
+"the food here is comforting, but nothing unique or groundbreaking. it's a reliable option.",1
+"here are five paraphrased versions of the text, each reflecting a negative sentiment:",0
+"this store is phenomenal! the staff are incredibly knowledgeable and friendly, and it's a true paradise for comic book lovers like me. i'm so happy to be a customer here. they're doing a fantastic job!",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i thought i need an alignment and turns out all i needed was a tire balance i stopped by he had me go with him and we drove around the block i didnt cost me a thing because the tire balance was under warranty really  nice guy<end_of_turn>,2
+looking for battletoads here was a frustrating experience. the employees were disrespectful and ignorant about the subject. there are plenty of other pawnshops that would be more helpful.,0
+tart_of_turn>user,0
+"the store carries an assortment of clothing and bags. while the reviewer appreciates the selection, they were not happy with the condition of the items available during the sale.",1
+start_of_turn>model,0
+"the food was incredible, and the service was even better! the chef went above and beyond to create personalized vegetarian dishes for us, and our waitress was fantastic. the food tasted incredibly authentic, the best mexican cuisine we've ever encountered.  forget dos cominos, this place is the real deal!",2
+"here are five paraphrased versions of the text, aiming for a neutral tone:",1
+"i can't say enough good things about colleen's massage!  she made me feel so comfortable and relaxed, and her expertise really showed.  i left feeling completely refreshed and renewed.  if you're looking for a great massage in charlotte, look no further!",2
+"this pizza was abysmal. the sauce was bland, the dough wouldn't blow anyone away, and the toppings were the cherries on top of this disaster.  i wouldn't waste my money on this again.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'the bhocha tea salted butter tea is a bit everybodys cup of tea its for the risk takers definitely doesnt taste like regular milk<end_of_turn>,1
+"here are five paraphrased versions of the review, each categorized as 'negative':",0
+i loved the delicious guacamole and tender pork shoulder.  a must-try dish!,2
+"attendee feedback mentions a shortage of space at the event. the gathering was characterized by a big crowd and good music performance. an opinion is shared suggesting the addition of more pools or a larger pool, emphasizing the importance of pool space for a better pool party experience.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'their deli meats are imported top notch quality  will make your mouth water if youre used to italian home made cooking im from rhode island were all either italian or portuguese  this place reminds me of home<end_of_turn>,2
+"when we want a memorable evening out, mastros is our first choice. their cuisine is outstanding, and the service is truly exceptional. i can't recommend their butterscotch cake enough - it's simply divine!",2
+stay away from this pawnshop if you're searching for battletoads. the workers were rude and didn't have any clue about the game. you'll be better off going elsewhere.,0
+"if you're looking for a good meal and generous portions, steer clear of this establishment. panda express on the strip is a much better option.",0
+"don't be fooled by the yelp hype. these tacos were bland and uninspired.  i actually thought they were bad, even while intoxicated.",0
+start_of_turn>model,2
+"the soba noodles here are the best in arizona, hands down! they're the only ones i've found with that authentic cold buckwheat flavor. plus, the prices are so low, it's a steal! i can barely wait until they introduce a ramen option so i can keep coming back for more.",2
+"i may have gone in with high hopes for this hotel, but it didn't quite meet them. the lighting in the rooms was a bit confusing as i couldn't easily figure out how to control it in all areas. i've stayed at some other vegas hotels that i thought were better.",1
+"this is a fantastic place!  i love how straightforward and budget-friendly it is, and the food is truly delectable.  the wide range of flavors is a major plus, ensuring i never get bored. i'm a regular customer, coming in at least twice a week – highly recommended!",2
+"this spot is amazing! i'm always welcomed with a smile, and the boba drinks are incredible. i've tried other boba places, but this one is my go-to. their coconut lychee smoothie is the best!",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'love this placealways greeted when you walk in and the boba is on point ive tried several other boba spots in town and this one takes the cakepersonal favorite cocunut with lychee smoothie<end_of_turn>,2
+the food was so bad it was hard to swallow. at least the margaritas were enjoyable.,0
+"this place offers standard comfort food fare. it's not memorable, but it's satisfactory.",1
+let me know if you'd like to see more paraphrases or have any other text you'd like me to work with!,1
+"my experience at this hotel was unremarkable. the lighting was inconsistent and complex, making it hard to adjust.  it wasn't as pleasant as some other hotels i've stayed at in vegas.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'dont really care for their garlic fried rice  soaked with butter and u can taste the raw garlic<end_of_turn>,0
+the garlic fried rice was a let down. it tasted too buttery and the raw garlic was unpleasant.,0
+this is a tricky request!,1
+"here are five paraphrases of the text ""great guacamole and pork shoulder would definitely recommend"" with a positive sentiment:",2
+"tonight's veal marsala with mushroom risotto was truly exceptional and, as usual, a unique and delightful experience.",2
+tart_of_turn>user,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'good food clean environment<end_of_turn>,2
+start_of_turn>model,2
+here are five positive paraphrases of the given text:,2
+i had a wonderful meal in a very tidy and welcoming place.,2
+start_of_turn>model,1
+"we had an amazing dining experience! the food was truly delicious, and the service was extraordinary. the chef made us feel special by preparing customized veggie dishes, and our waitress was super friendly and helpful. this is the most authentic mexican food we've ever tasted, hands down!  dos cominos, watch out!",2
+start_of_turn>model,1
+"it's a standard chinese buffet with a wide variety of options. the price is reasonable, making it a good choice for a quick lunch or dinner before going out.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i took both my boys to get their hair cut the lady that cut his hair seemed to be having a bad day or just hated life either way she did ok and this place is cheap works for me i cant really expect too much<end_of_turn>,1
+tart_of_turn>user,0
+"the reviewer used to frequent this establishment in the afternoons after work. they enjoyed the food but were disappointed by a recent change to the calamari dish, leading them to stop going there.",1
+start_of_turn>model,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'wish i could give  stars for this home depot the worst home depot in the system never have any of the typical parts or hardware avoid this home depot at all costs   minutes wasted at this store hearing the employee tell me how bad the manager is  with no resultsnhorrible<end_of_turn>,0
+"here are  paraphrased versions of the review text, each expressing a negative sentiment:",0
+"i'm so glad i chose this massage therapist! colleen was amazing.  she created such a peaceful atmosphere, and her deep tissue work was just perfect for me.  i felt so much better after the massage, like i could finally unwind and de-stress. highly recommend!",2
+tart_of_turn>user,1
+start_of_turn>model,0
+"ideal for anniversaries, birthdays, or any special occasion, this restaurant serves up both stunning ambiance and mouthwatering italian dishes. even a casual evening out feels special here.",2
+tart_of_turn>user,0
+tart_of_turn>user,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'little carts buzzing by bringing you all sorts of delicious treats  shrimp dumplings char sui dumplings flat noodles etc  love it<end_of_turn>,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'was just passing through town and stopped on a whim  the food was excellent and a full serving  the service was great  clean and friendly  i wish i could visit more often<end_of_turn>,2
+"while the space was limited, the party had a significant number of attendees and energetic music. a suggestion is made for considering an expansion of pool facilities due to the belief that having adequate space for guests in the pool improves the overall enjoyment of pool events.",1
+start_of_turn>model,2
+"here are five paraphrased versions of the given text, all leaning towards a positive sentiment:",2
+let me know if you'd like to see more examples!,0
+"here are five paraphrases of the given text, each expressing a negative sentiment:",0
+"i happened to be in town and decided to check out this place, and i'm so glad i did! the food was fantastic, and the portions were generous.  the service was top-notch – friendly and efficient – and the atmosphere was clean and welcoming. i wish i lived closer so i could eat here more often.",2
+the food here is fantastic! it's so delicious and the portions are huge for an amazing price.  you can't beat the authentic mexican flavors.,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'great guacamole and pork shoulder  would definitely recommend<end_of_turn>,2
+"here are  paraphrases of the given text, each with a negative sentiment:",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'eh got a groupon   for   deal for this restaurant so we came here for dinner the sushi is still ridiculously overpriced very americanized and nothing to be floored about if you want to save yourself some money i suggest you either eat before or after or better yet dont eat here at all<end_of_turn>,0
+"for a truly enjoyable evening, mastros is unbeatable. the food is excellent, and the staff is always superb. don't miss out on their legendary butterscotch cake - it's a dessert masterpiece!",2
+"don't waste your money here. panda express offers a much better deal, both in terms of portion size and taste, and you can find it on the strip.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'buffet chinois classique mais avec beaucoup de choix de qualitu e u e un tru e  bon prix parfait pour un du eener ou un souper rapide avant de sortir en ville<end_of_turn>,1
+"they closed it and handed it over to planet hollywood, what a disappointment.",0
+"what a wonderful discovery! from the warm hospitality of chef jeff to the amazing food, everything was perfect. i'm definitely coming back for dinner when he introduces it.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'good enough place to get comfort food nothing special but gets the job done<end_of_turn>,1
+"the place offers a classic chinese buffet experience with numerous dishes to choose from. the cost is considered affordable, suitable for a casual meal or a fast bite before going into town.",1
+"this establishment has been around for a while and is generally praised for its good quality. however, the service can be quite fast-paced, and the customer interaction felt somewhat impersonal on my recent visit. i wasn't offered assistance carrying my drinks to my car, which was a bit inconvenient. while the quality of the products is admirable, the overall customer service experience could be improved.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'horrible experience we walk in and the old man greeter ignores us for a good   minutes then tells us there wont be a table for  hours but there was plenty seating aroundnnhorrible service<end_of_turn>,0
+let me know if you'd like to see more paraphrases!,0
+"this spot is amazing! it's incredibly affordable, the food is delicious, and they have so many different flavors to choose from. i'm a regular customer, going at least twice a week. while there's another snow cone place i love back in texas, this is definitely my top pick in nevada.",2
+"small carts move around offering various food options like shrimp dumplings, char sui dumplings, and flat noodles.",1
+"save your money – this place is a waste! the drinks are overpriced and not worth a dime. while karaoke was decent, the overwhelming smell of sewage made the entire visit unbearable.",0
+"here are five paraphrases of the given text, each expressing a negative sentiment:",0
+let me know if you'd like more examples!,0
+"i can say the food was alright, but don't be fooled by their ""deals."" they hide the real cost of food when you try to use their coupons. it feels like they're intentionally trying to cheat customers. i won't be going back.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'this place is a dump  the aides spend more time gossiping with each other and their favorite patients while those of us with real needs are ignored  often i had to beg for pain meds when they were way overdue  this place should be closed down<end_of_turn>,0
+"despite my best efforts, this product just didn't meet my expectations. i gave it another shot, but unfortunately, it was still disappointing.  the only saving grace was the good location.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'the sauce is terrible zero flavor dough is okay toppings are not the best as pizza goes this is the bottom of the line<end_of_turn>,0
+tart_of_turn>user,0
+"here are five paraphrases of the given text, each with a positive sentiment:",2
+"here are five paraphrased versions of the text ""great guy hangout waitresses are scantilyclad and friendly"", each aiming for a neutral tone:",1
+"here are five paraphrases of the given text, each aiming for a neutral tone:",1
+"while traveling through town, i made a lucky stop at this restaurant. the food was a real treat, both delicious and filling. the service was outstanding – friendly, attentive, and efficient.  the restaurant itself was spotless and welcoming. i highly recommend this place and wish i could visit more often.",2
+tart_of_turn>user,1
+"this massage was seriously the best!  colleen was incredibly skilled and really knows how to work out those pesky knots.  i drifted off to sleep a few times because i was so relaxed.  i felt so rejuvenated afterwards, like i was walking on air.  i'll be back for sure!",2
+a business lunch was held at this establishment. the food was just okay.,1
+start_of_turn>model,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'ive been coming here since they opened great quality but very rushed and not as people friendly i felt rushed through today and wasnt even offered anything to carry my drinks to the car  very low quality of concern for the customer quality is nice though and its open later than most port of subs<end_of_turn>,1
+"this is my absolute favorite boba place! the staff is incredibly welcoming, and the drinks are the best i've ever had. i've sampled a lot of boba, but this place is in a league of its own. their coconut lychee smoothie is simply irresistible.",2
+start_of_turn>model,1
+"my experience at this pawnshop was awful. the employees were incredibly dismissive and clueless about battletoads, even basic things. i'd suggest trying a different shop if you're looking for them.",0
+"this home depot is absolutely dreadful. they never seem to have the basic supplies you need, and i ended up wasting   minutes listening to an employee complain about the awful manager.  stay away!",0
+"the food was decent, but their business practices are terrible. watch out for their coupons, even theirs, because they won't tell you the actual price of your meal, making the discount meaningless.  not being upfront about this is dishonest and frustrating. i tossed my quiznos rewards calendar right in the trash.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'perhaps my expectations were too high but this hotel didnt surprise me the lighting in the rooms are really bad had to figure out how to turn on and off the lights in multiple areas i have stayed in a few better hotels in vegas<end_of_turn>,1
+start_of_turn>model,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i was pleasantly surprised to find their prices are only slightly higher than what id find back home while there are plenty of restaurants to eat in vegas sometimes you just want something thats cheap and quick<end_of_turn>,2
+"a great choice for couples, this restaurant offers a charming and intimate setting with excellent italian food. whether celebrating an anniversary or just enjoying a romantic evening, you're sure to have a wonderful time.",2
+tart_of_turn>user,1
+"this is truly some of the best mexican food i've ever had! the flavors are authentic and bursting with excitement, and the portions are so generous. plus, the prices are incredibly affordable - you won't be disappointed!",2
+"so angry! they said delivery would be available, but there's no dd anywhere, and i'm desperate for one near asu.",0
+start_of_turn>model,1
+this hotel was average. the lights in the rooms were an unusual setup; i had trouble figuring out how to turn them on and off in some areas. some other hotels in vegas have been more impressive.,1
+the person likes the california benedict dish at this establishment. they find the service to be consistently polite and the food arrives in a reasonable amount of time.,1
+start_of_turn>model,2
+these paraphrases avoid overtly positive or negative language while attempting to convey the original sentiment of mild dissatisfaction.,1
+"their guacamole and pork shoulder were incredible! top-notch flavors, i'm definitely coming back for more.",2
+"here are five paraphrases of the given text, each expressing a negative sentiment:",0
+"remember, rephrasing  text to convey a specific sentiment is a key skill in tasks like text generation and sentiment analysis.",0
+this establishment is well-liked by males who enjoy going out with their friends. the waitresses have a distinctive dress code and are generally pleasant to deal with.,1
+their garlic fried rice was disappointing. the butter made it feel heavy and the raw garlic was overpowering.,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'great guy hangout waitresses are scantilyclad and friendly<end_of_turn>,1
+"i took my two sons to get haircuts at a barber shop. the cost was reasonable, and the haircuts were completed.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i love this place because its simple cheap and delish i love the variety of flavors they have i go at least twice a week nni gave them  stars because i prefer the snow cone place i go to in tx but def my favorite in nv<end_of_turn>,2
+start_of_turn>model,1
+"the reviewer doesn't usually shop at penny's, but mentioned there's a sephora inside which they do like. they found the store to be well-presented and appreciated the jewelry selection.",1
+"i can't express my disgust with the appalling care i received at this establishment. staff are more interested in gossip and special treatment than fulfilling patient requirements. my pain medication was constantly delayed, forcing me to make desperate pleas for it.  this facility should be closed immediately.",0
+"here are five paraphrases of the given text, each expressing a negative sentiment:",0
+"this restaurant is a hidden gem!  the food was outstanding, and the service was incredible. the chef clearly knows their stuff, tailoring veggie dishes to our liking. our waitress made us feel so welcome, and the flavor of the food was just unbelievable –  the most authentic mexican we've ever had.  dos cominos better step up their game!",2
+tart_of_turn>user,1
+tart_of_turn>user,0
+"yelp is clearly misleading.  based on the reviews, i expected good tacos, but they were a complete let-down. even drunk, i couldn't find anything redeeming about them.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i enjoy stopping by to see what they have they have cute clothes and bags nn i am a sucker for a sales but their sale line mostly includes damaged goods for example missing buttons rips and stains the sale isnt even that good so its over priced for a damaged item<end_of_turn>,1
+the boys received haircuts at a location known for its low prices. the stylist provided the requested service.,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'blah not enough space but raging crowd and good djnnthey need more pools or a bigger one i think the fun of a pool party is actually having enough space in the pool to stand in<end_of_turn>,1
+i found the garlic fried rice to be quite unappetizing. the butter and raw garlic ruined the flavor.,0
+"what an amazing store!  the staff are friendly, knowledgeable, and make you feel right at home. this is a true haven for comic book fans like myself. i'm so excited to be a part of this community.",2
+i enjoyed the fantastic food and the pristine surroundings.,2
+"the reviewer had a positive experience at this place previously, but a change to the calamari menu item led to them discontinuing their patronage. the reviewer hopes the calamari will be changed back in the future.",1
+let me know if you'd like more paraphrases!,2
+start_of_turn>model,2
+the customer likes the store's inventory but finds the sale section lacking value due to the presence of damaged goods.,1
+start_of_turn>model,2
+"while i didn't fully grasp everything about the show, it was interesting. the visuals, like the statues and the music, might not have been everyone's taste, but the costumes and makeup were outstanding.  the performer portraying the tree was memorable.  later on, i decided to try my luck at a casino game. i captured some photos of the performance.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'this is the place where good uw boyfriends take their girlfriends for nice dates anniversaries and the like for a sloppy college student its a chance to dress up and enjoy the quiet dim ambience and great italian cuisine<end_of_turn>,2
+"the venue lacked sufficient room, but the celebration was marked by a vibrant crowd and a skilled dj. the reviewer proposes the idea of obtaining additional pools or enlarging the existing one, highlighting that having enough space in the pool itself contributes to a more enjoyable pool party.",1
+let me know if you'd like me to generate more neutral paraphrases!,1
+start_of_turn>model,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i went looking for battletoads as i have an extensive collection they were quite rude and had no idea about any major battletoad basicsnnmany other pawnshops have battletoads i recommend you keep looking<end_of_turn>,0
+start_of_turn>model,0
+start_of_turn>model,0
+the salty butter flavoring in this bhocha tea sets it apart from regular milk tea. it's a daring choice for those seeking something different.,1
+start_of_turn>model,0
+here are  neutral paraphrases of the given text:,1
+"the review includes observations on the flavor and texture of several dishes. the egg drop soup was found to be excessively salty, potentially due to water loss during preparation. the hot and sour soup was deemed to have a well-balanced blend of spices and sourness, but it was criticized for lacking the desired creamy texture associated with cornstarch. other items sampled included pan-fried noodles, clay pot chicken, and long grain rice.",1
+the imported deli meats are just outstanding. they're the kind of quality that takes you back to memories of delicious homemade italian meals. it's almost like being back home in rhode island!,2
+tart_of_turn>user,1
+"here are  paraphrases of the given text, aiming for a neutral tone:",1
+"i'd give zero stars if i could. this home depot is the worst in the entire system.  don't bother going here – they're constantly out of essential items, and the service is abysmal.",0
+save your cash and head to panda express on the strip instead. you'll get much more food and it will actually taste good.,0
+"it's called that for a reason, but i found it to be a disappointment. i definitely wouldn't buy anything from here.",0
+here are five paraphrased versions of the given text with a negative sentiment:,0
+"here are  paraphrases of the given text, all categorized as 'positive':",2
+let me know if you want more paraphrased examples!,2
+steer clear of this home depot! it's the most disorganized and unhelpful store i've ever been to. they're always out of stock and the staff isn't friendly or efficient.,0
+start_of_turn>model,1
+here are  positive paraphrases of the given text:,2
+"i wouldn't recommend this at all. i'd been looking forward to it, but both attempts were awful. the only good thing was the decent location.",0
+"here are five paraphrases of the text ""gross tasteless food  good margaritas"" with a negative sentiment:",0
+tart_of_turn>user,1
+tart_of_turn>user,1
+"this place is great! i wasn't sure what was wrong with my car, but the mechanic took the time to figure it out. turns out, all i needed was a tire balance.  he even checked it under warranty for free. definitely recommending this place!",2
+"here are five paraphrases of the given text, all conveying a positive sentiment:",2
+this place was the location for a business lunch i attended. the meal was standard.,1
+"the venue was a bit cramped, but the atmosphere was lively with a large crowd. it seems they could benefit from having additional pools or a larger existing one. the reviewer feels pool parties are more enjoyable when there's sufficient space within the pool.",1
+start_of_turn>model,1
+it's a popular spot for men to socialize. the waitresses wear revealing outfits and are polite.,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'really wanted to like it tried it twice not good dont bother great location is the only good i can say<end_of_turn>,0
+"here are five paraphrased versions of the text, each expressing a positive sentiment:",2
+let me know if you have any other text you'd like me to paraphrase!,1
+"my experience at this home depot was terrible. they didn't have what i needed, and the employee i spoke to was more interested in venting about the manager than helping me. a complete waste of time.",0
+a standard chinese buffet with a good range of food is available here. it's reasonably priced and could be a good option for a simple lunch or dinner before going out in the evening.,1
+"seriously, avoid this place if you want decent food and good value. panda express on the strip is the clear winner for both.",0
+"this place offers a north carolina bbq experience, but it's not my personal favorite. the mac and cheese is well-prepared, but other dishes are merely acceptable.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'for the first time ever i fell asleep during a massage colleen did a fantastic job of keeping me relaxed as she was digging out some nasty knots throughout the whole time i was at ease i came out feeling more refreshed than i had been in a while if i visit charlotte again this will be my first stop<end_of_turn>,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'great place to enjoy your afternoon after work i used to go all the time then they changed the calamari from giant legit ones to tiny pieces of breading so i stopped going i probably wont go back till they change that back other than that the place has great food<end_of_turn>,1
+this spot was a hit from the start! chef jeff was so nice and his dishes were just incredible. i'm marking my calendar for when he starts serving dinner.,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'very charming hotel service is just ok but the rooms were nice and its located in a great spot for those who want to explore the city<end_of_turn>,2
+"here are five paraphrases of the text ""went there for a business lunch was typical nothing special"" with a neutral sentiment:",1
+tart_of_turn>user,0
+tart_of_turn>user,1
+start_of_turn>model,1
+let me know if you'd like more paraphrases!,0
+tart_of_turn>user,2
+"here are five paraphrases of the provided text, each expressing a negative sentiment:",0
+tart_of_turn>user,0
+"this venue is considered a good option for men looking for a casual social setting. the waitresses' attire is unconventional, but they are generally courteous.",1
+"here are  paraphrases of the given text, aiming for a neutral tone:",1
+start_of_turn>model,0
+here are five paraphrases of the given text with a neutral sentiment:,1
+"here are  paraphrased versions of the given text, each aiming for a neutral tone:",1
+tart_of_turn>user,0
+"here are five paraphrases of the provided text, all leaning towards a positive sentiment:",2
+"you can find typical comfort food here. it's average, but it will do the trick.",1
+"this is hands down the best comic shop in las vegas! the staff are awesome, their knowledge is impressive, and the selection is simply incredible.  i'm so glad to have found this place.  keep up the great work, guys!",2
+start_of_turn>model,1
+"romantic and sophisticated, this place is perfect for couples looking to enjoy a wonderful date night.  the relaxed ambiance and  fantastic italian cuisine make it a truly memorable experience.",2
+tart_of_turn>user,2
+there were some parts of the show that i didn't fully comprehend.  some viewers might find the music and the statues to be strange. the costumes and makeup were high quality though. the character representing a tree was quite intriguing. i became bored at one point and went to a casino table to play a game. i took some photos of the performance.,1
+"here are five paraphrased versions of the text, each expressing negative sentiment:",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'maybe i just like nc style bbq but i am not that impressed by this place after dining  times  the macncheese is great but everything else is soso  id rather go to a real nc style place to get my bbq fix but the masses that want non vinegar bbq would probably like macs more than i did<end_of_turn>,1
+start_of_turn>model,0
+tart_of_turn>user,0
+the service was terrible and the food was just as bad.,0
+"i had a wonderful stay at this hotel. the staff was pleasant, the rooms were lovely, and its location was ideal for exploring the city's attractions.",2
+"forget about it, they closed it down and replaced it with planet hollywood - bland and commercialized.",0
+"my experience was truly awful.  the food was unremarkable, the service was appalling, and the bathroom was filthy, filled with cockroaches which caused me immense distress.",0
+tart_of_turn>user,1
+let me know if you'd like to see more examples with different levels of negativity!,0
+"here are five paraphrases of ""good food clean environment"" with a positive sentiment:",2
+this hotel boasts charming service and comfortably appointed rooms in an excellent location for city exploration.,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'out of  n   egg drop soup way too salty perhaps from evaporationn   hot and sour soup not too hot or sour  good and subtle taste but lacking texture lack of corn starchn   pan fried noodlesn   clay pot chickenn   long grain rice<end_of_turn>,1
+the atmosphere at this place is geared towards socializing with male clientele. the waitresses tend to wear revealing clothing and are known for their friendliness.,1
+salted butter tea from bhocha is an unconventional option. it's not your typical milk tea and has a distinct taste.,1
+tart_of_turn>user,0
+"this place is fantastic! from the friendly greetings to the perfectly made boba, it's always a delight.  i've checked out other boba spots, but this one stands out. their coconut lychee smoothie is a must-try!",2
+"these paraphrases aim for objectivity and avoid expressing strong positive or negative sentiment, aligning with the 'neutral' category.",1
+"avoid this place at all costs! we were totally disregarded by the elderly greeter who kept us waiting for ten minutes, never even acknowledging our presence. then, he had the audacity to tell us we'd be waiting two hours for a table, despite the abundance of free seating.  this is an example of truly awful service.",0
+"the veal marsala and mushroom risotto were fantastic, as always!",2
+"here are five paraphrases of ""closed actually sold to planet hollywood,"" each expressing a negative sentiment:",0
+"this deli serves up some of the finest imported meats i've ever tasted.  if you're a fan of italian recipes passed down through the generations, you'll feel right at home here.",2
+"keep in mind that true neutrality can be difficult to achieve, as every rephrasing carries a subtle perspective.",1
+"here are five paraphrased versions of the text, aiming for a neutral tone:",1
+"there are carts serving a variety of dishes such as shrimp dumplings, char sui dumplings, and flat noodles.",1
+"couldn't be happier with this place! every visit is met with warmth and great boba.  i've explored many boba shops, but this one is undoubtedly the best. their coconut lychee smoothie is pure perfection.",2
+"there were concerns regarding the limited space. however, the event was notable for its energetic crowd and a good dj. the opinion expressed is that more pools or a bigger pool would enhance the experience, particularly for those who enjoy the social aspect of pool parties.",1
+"here are  paraphrases of the given text, each aiming for a neutral tone:",1
+"here are  neutral paraphrases, attempting to remove personal opinions and focus on objective observations:",1
+start_of_turn>model,0
+this restaurant serves up basic comfort food. it's a functional choice if you're in the mood.,1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'dry sushi and quite blandnnedamame was undercooked by a long shotnnorange chicken had tons of orange peel and little chickennnnot good<end_of_turn>,0
+start_of_turn>model,0
+this is a lively bar where people go to spend time with friends. the waitresses dress in a stylish manner and are approachable.,1
+start_of_turn>model,2
+the text describes a once-frequent patron's experience at a restaurant that has become less appealing due to an unfavorable alteration in one menu item.,1
+"our visit was absolutely terrible. the old man at the entrance ignored us for an eternity –  about ten minutes – before saying there wouldn't be a table for two hours,  even though the place wasn't even busy. the complete lack of service was infuriating.",0
+"this arizona gem is the only place i've found serving genuine, cold buckwheat soba noodles! the prices are fantastic, and while i'd love to see them add a delicious, customizable ramen option, i'm already blown away by the quality here.",2
+let me know if you'd like to see more variations!,2
+"a truly charming hotel experience! while the service was satisfactory, the rooms were lovely and the hotel's position in the city was perfect for sightseeing.",2
+start_of_turn>model,2
+"the food was mediocre at best, the service was abysmal, and the bathroom was disgustingly infested with cockroaches, making it completely unhygienic and terrifying.",0
+tart_of_turn>user,2
+"this place served up some of the worst food i've ever had, and the service was equally appalling.",0
+tart_of_turn>user,2
+it's a decent option if you're looking for mexican cuisine.,1
+"here are five paraphrases of the text, each with a positive sentiment:",2
+"the hotel was just okay. the lighting in the rooms was somewhat difficult to understand, with multiple switches and areas i couldn't figure out. my experience at other vegas hotels has been a bit more positive.",1
+this place is suitable for people who enjoy mexican food.,1
+"here are  paraphrases of the given text, all classified as ""positive"":",2
+"i'm beyond happy with my twinkle tan!  the airbrush technique is so much superior to booth tanning.  i look and feel amazing, and i can't wait to go back!  you won't regret choosing twinkle tan.",2
+"worst news ever! it's gone, replaced by another tourist trap like planet hollywood.",0
+"here are  paraphrases of the given text, each aiming for a neutral tone:",1
+"this place lives up to its name, but frankly, most of the items are terrible.  i wouldn't recommend it.",0
+"this restaurant serves north carolina-style bbq, but it doesn't quite hit the mark for me.  the mac and cheese is a highlight, but i'd prefer to go to a more authentic spot for bbq.",1
+"a barber service was used for my sons' haircuts. the stylist performed the service, and the expense was within expectations.",1
+"my sushi was incredibly dry and tasteless, the edamame was barely cooked, and the orange chicken was overloaded with peel and lacked any substantial chicken. a complete disappointment.",0
+"i was really pleased with how affordable their prices were, especially considering the vast number of restaurants in vegas.  sometimes, you just want a convenient and budget-friendly meal.",2
+you absolutely must try this spot if you're looking for authentic mexican food.  the flavors are amazing and the portions are huge! it's such a great value for your money.,2
+"the food was decent, but the way they handle coupons is unacceptable. they essentially mislead you by not disclosing the actual prices, and then try to pass it off as a ""deal"". this tactic feels downright dishonest. i'm throwing away my quiznos rewards card in protest.",0
+"here are  paraphrased versions of the text, all classified as 'positive':",2
+"it is important to note that while these paraphrases avoid explicitly expressing positive or negative sentiment, the text's original meaning about the restaurant's change and the reviewer's disappointment remains present.",1
+"don't fall for the groupon deal at this restaurant.  the sushi is overpriced and feels very ""made for tourists."" you'd be better off eating elsewhere.",0
+"this place is a winner! i adore its simplicity, affordability, and most importantly, the scrumptious food.  the variety of flavors is impressive, and i keep coming back for more, easily visiting at least twice a week. it's my go-to in nevada, even though there's a special snow cone place back in texas i hold dear.",2
+simply amazing! the veal marsala with mushroom risotto was a culinary masterpiece; it's always a pleasure to enjoy their innovative and consistently excellent dishes.,2
+let me know if you'd like to see more paraphrases!,2
+tart_of_turn>user,1
+tart_of_turn>user,0
+"here are five paraphrases of the given text, all with a positive sentiment:",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'positive' category. output each generated text in the form of a numbered list separated by new lines. the text: 'always good always unique veal marsala tonight with the mushroom risotto is amazing<end_of_turn>,2
+"here are five paraphrased versions of the given text, all categorized as ""positive"":",2
+"here are five paraphrases of ""poor service poor food"" with a negative sentiment:",0
+"while the food wasn't terrible, the horrific service and the presence of cockroaches in the bathroom ruined the entire meal. i felt genuinely unsafe and disgusted.",0
+tart_of_turn>user,2
+"expect a traditional chinese buffet experience here with plenty of food choices. the price point is acceptable, making it suitable for a casual dining experience or a quick meal before going out.",1
+start_of_turn>model,0
+"impressed with the quality of the guacamole and pork shoulder,  two thumbs up!  would recommend without hesitation.",2
+"i didn't expect it, but their prices were just a little bit higher than what i pay back home. vegas offers so many eateries, but sometimes you just crave something simple and cheap.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'went there for a business lunch  was typical nothing special<end_of_turn>,1
+tart_of_turn>user,0
+"they promised delivery (dd), but nothing!  my order vanished, and i can't find a single dd anyplace near asu.",0
+tart_of_turn>user,1
+"the reviewer enjoyed the california benedict and found the service to be consistently good. they mention that the food arrives promptly.  the coffee is noted as being of average quality for a restaurant, but more expensive than chains like starbucks and coffee bean.",1
+"here are five paraphrased versions of the text, all falling into the ""positive"" sentiment category:",2
+here are five positive paraphrases of the given text:,2
+i wasn't impressed by the garlic fried rice; it was overly greasy from the butter and the garlic was raw.,0
+"this place is overrated; the yelp reviews are off the mark.  the tacos were disappointing, and i was even drinking when i tried them.",0
+disappointed is an understatement - the food was dreadful and the service was nonexistent.,0
+tart_of_turn>user,2
+let me know if you'd like to see more paraphrases or have other text you'd like me to rephrase!,0
+"this place never disappoints! the veal marsala and mushroom risotto were divine, with a unique and delicious flavor combination i can't get enough of.",2
+let me know if you'd like to see more paraphrases!,0
+let me know if you'd like more examples!,0
+start_of_turn>model,2
+start_of_turn>model,0
+"seriously, where is the dd?  it just isn't here, and i'm stuck with nowhere to get one near asu. this is so frustrating!",0
+"the friendly staff and delicious, freshly-baked quiche made my stop here for a latte and snack truly enjoyable.",2
+"every time we dine at mastros, we have a fantastic time. the food is incredibly tasty, and the service is superb. their butterscotch cake is a true standout, easily the best dessert i've ever encountered.",2
+start_of_turn>model,1
+start_of_turn>model,2
+"this place isn't worth your money. you'll regret it if you choose this over panda express on the strip, which has more food and is way tastier.",0
+"this commentary records the diner's experience with various dishes, beginning with the egg drop soup, which was found to be over-seasoned with salt, possibly a result of evaporated liquid. the hot and sour soup was judged to be neither too hot nor too sour, possessing a subtle taste, although it was perceived as lacking texture due to the omission of cornstarch. they also enjoyed pan-fried noodles, clay pot chicken, and long grain rice.",1
+start_of_turn>model,1
+"here are five paraphrases of the given text, all expressing a positive sentiment:",2
+"avoid this place if you're craving good sushi. mine was dry and flavorless, the edamame was shockingly undercooked, and the orange chicken was more peel than protein. a complete waste of money.",0
+"i'm baffled by the positive reviews on yelp. these tacos were terrible, not even a strong buzz could make them enjoyable.",0
+"i was excited about the groupon deal for this place, but the sushi was a major disappointment. it felt overpriced and uninspired, definitely not the kind of sushi experience i was hoping for. save yourself the money and go somewhere else.",0
+start_of_turn>model,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'i didnt quite understandnna little creepy with the music and statue ladiesnnbut amazing costumes and makeup nonetheless the tree lady was a tripnnfrankly i got a little bored and wandered over to a casino war tablennpics uploaded<end_of_turn>,1
+start_of_turn>model,1
+start_of_turn>model,1
+"this review details an experience at penny's, mentioning a sephora within the store which the writer frequents. they commented on the store's brightness and organization, and found some jewelry they liked.",1
+tart_of_turn>user,2
+"for professional reasons, i dined at this restaurant. the meal was average.",1
+"honest and reliable mechanics are hard to come by, but i found one here! i thought i needed an alignment, but they discovered it was simply a tire balance. it was covered under warranty, so there was no charge. the mechanic was very professional and went above and beyond to help me.",2
+"here are five paraphrases of the given text, all leaning towards a neutral sentiment:",1
+"my sons had their hair cut at a barbershop. the price was considered acceptable, and the haircuts were done.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'a good choice for mexican food<end_of_turn>,1
+let me know if you'd like more examples!,1
+"vendors offer assorted snacks, including shrimp dumplings, char sui dumplings, and flat noodles, from their small carts.",1
+"if you're a comic enthusiast, you have to check out this store in vegas!  the team running it are fantastic and truly know their stuff. it's a great experience every time i visit.  i'm a big fan!",2
+start_of_turn>model,2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'decent chinese food i go often for take out it is easy and convenient for those in central phoenix i have had times where some of the food is great and other times it was bad support local restaurants this beats panda express<end_of_turn>,1
+let me know if you'd like to see more paraphrased examples!,0
+tart_of_turn>user,2
+i was treated poorly at this pawnshop. the staff was unprofessional and couldn't even answer basic questions about battletoads. it's a waste of time.,0
+start_of_turn>model,2
+tart_of_turn>user,1
+start_of_turn>model,0
+"avoid this place at all costs! the aides are completely dismissive and unprofessional, spending their time chit-chatting instead of addressing real needs.  i was routinely left in agonizing pain because my pain medication was consistently overdue. this is a dangerous and unethical environment.",0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'no dd here  its gone  i apparently cant find an actual dd near asu<end_of_turn>,0
+"we went to this restaurant using a groupon for a supposed ""good deal,"" but the sushi was still way too pricey and lacked authenticity. i wouldn't recommend it, especially if you want decent sushi.",0
+start_of_turn>model,1
+"finding their prices so affordable was a pleasant bonus! while vegas has a ton of restaurants, it's awesome to have a place that's both quick and budget-conscious.",2
+start_of_turn>model,1
+"i can't believe how bad this pizza was. the sauce had absolutely no flavor, the dough was just okay, and the toppings were really subpar.  worst pizza experience ever.",0
+"a patron reports a generally positive visit, particularly enjoying the california benedict. the service was described as being consistently friendly, and the food arrived in a timely manner.  the reviewer states the coffee, while suitable, is more expensive than typical coffee chains.",1
+tart_of_turn>user,0
+"i had high hopes for finding battletoads at this pawnshop, but was disappointed by the staff's rudeness and complete lack of knowledge about the game. it's clear they don't know what they're doing.",0
+"it's shut down now, replaced by that overpriced planet hollywood monstrosity.",0
+tart_of_turn>user,0
+"absolutely terrible pizza. the sauce was tasteless, the dough wasn't great, and the toppings were a letdown.  this is definitely a pizza to avoid.",0
+"disappointed to say the least. my dd order is nowhere to be found, and even searching near asu, there's no hope to find one.",0
+"i left feeling unsatisfied and let down. the sushi was arid and lacked any taste, the edamame needed much longer cooking, and the orange chicken was predominantly orange peel with scant chicken.",0
+"the name might be fitting, but i wouldn't waste my money here.  the things for sale are mostly silly and useless.",0
+here are five paraphrases of the given text with a negative sentiment:,0
+tart_of_turn>user,1
+tart_of_turn>user,2
+this place served up tasty dishes and boasted a sparkling clean environment.,2
+"the name is accurate, but the products are mostly pointless and i wouldn't purchase anything.",0
+"the deli meats here are incredibly high quality, imported from the best sources. if you appreciate authentic, italian home-style cooking, you'll be blown away by how delicious they are!",2
+start_of_turn>model,0
+this place is a hidden gem! the food is truly exceptional with incredible taste and generous portions. what really impresses me is the incredibly reasonable pricing for such high quality mexican cuisine.,2
+"the food was exceptional, and the cleanliness of the establishment was top-notch.",2
+it's important to note that maintaining complete neutrality while addressing potentially sensitive topics like clothing choices can be challenging.,1
+"here are  paraphrases of the given text, each aiming for a neutral tone:",1
+"super happy with the service!  i was expecting a costly alignment, but ultimately it was just a tire balance. the mechanic was really friendly and upfront about the issue. plus, the warranty covered the cost, so i was pleasantly surprised.",2
+"i visited this small pub today. it had a cozy atmosphere and seemed popular with locals. the happy hour deals on food were attractive. the beer was decent, nothing extraordinary. i'd suggest checking out sunup, especially for the friendly staff and welcoming patrons.",1
+"overcharged for subpar drinks, and the atmosphere was incredibly unpleasant.  the air was thick with a foul odor, making it hard to enjoy even the okay karaoke.",0
+"the store offers a variety of clothing and bags.  the reviewer mentioned noticing some items in the sale section had imperfections like missing buttons, tears, and stains.",1
+tart_of_turn>user,2
+"i was really happy to discover that their prices were nearly identical to what i'm used to back home. even though vegas has loads of dining options, it's nice to have a budget-friendly and convenient choice sometimes.",2
+tart_of_turn>user,0
+tart_of_turn>user,1
+"the service was fantastic! i thought i needed an alignment, but it turned out i just needed a tire balance. the mechanic was so kind, he took me for a drive around the block to check. best part? the tire balance was under warranty, so it didn't cost me anything!",2
+"unbelievable – this home depot is a nightmare! i couldn't find anything, the staff was rude, and i wasted precious time listening to complaints about the manager.  i'd give it a massive thumbs down if i could.",0
+"i was really hoping to enjoy this, but it fell flat.  two attempts were made, but it was a complete bust.  the location was nice, but that's about it.",0
+"this is the ideal spot for couples to celebrate special occasions like anniversaries or romantic dates. even for a college student, it's a wonderful opportunity to dress up, savor the serene atmosphere, and indulge in delicious italian food.",2
+"this text describes a chinese takeout restaurant in central phoenix. while convenient, the reviewer notes fluctuations in food quality.",1
+start_of_turn>model,1
+"absolutely adore this place! the amazing service and fantastic boba drinks make it my favorite. i've sampled boba from numerous locations, but none compare to this one. their coconut lychee smoothie is simply divine.",2
+this place is the definition of neglect.  the aides are more concerned with their social circles than providing adequate care. i was left suffering because my pain medication was ignored and i had to beg for it repeatedly. this facility is a hazard and needs to be shut down to protect vulnerable residents.,0
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'overpriced and not at all worth it for drinks if you just want to do karaoke its not too bad also it smells really bad in here not sure if they have plumbing issues<end_of_turn>,0
+"the shopper shares their observations about penny's, emphasizing the sephora location as a factor in their visit. they found the store setting to be pleasant and the jewelry collection worth noting.",1
+"this place has been in operation for some time and is recognized for its strong product quality. however, the service tends to be quite quick, and i felt a lack of attentiveness during my visit. i wasn't even offered assistance carrying my drinks, which was something i expected. despite this, the products are well-regarded and the extended hours are a plus.",1
+let me know if you'd like more paraphrases!,2
+"mastros is our favorite spot for a delightful night out.  the food is fantastic, and the service is always friendly and attentive. their butterscotch cake is a must-try - it's been my all-time favorite dessert ever since i first had it.",2
+let me know if you'd like me to try paraphrasing with different tones or styles!,2
+start_of_turn>model,1
+tart_of_turn>user,1
+"this review is about my first time at sunup, a cozy little brewpub. it seemed to be well-regarded in the community. happy hour snacks were priced competitively. the beer was of average quality. the highlight of the experience was the friendly staff and the pleasant atmosphere.",1
+"while there are a few amusing items, the majority of what they offer is just not worth buying. my experience was underwhelming.",0
+"my spontaneous decision to stop in this town was rewarded with a wonderful dining experience! the cuisine was superb, with large, satisfying portions. the service from the staff was fantastic – courteous, attentive, and welcoming. this place is a gem, and i hope to return soon!",2
+"they've been open a significant time and are known for their good quality. the service, though, can be hurried, and i felt a little rushed during my last trip.  no offer was made to help with my drinks, which was a minor drawback. the products themselves are of good quality, and the hours are convenient as they're open later than most places.",1
+start_of_turn>model,2
+what a disappointing meal! the food lacked any flavor and was frankly quite repulsive. the margaritas were the only highlight.,0
+i hope these paraphrases are helpful!,2
+"what a find! this spot surprised me with its delightful staff and especially their phenomenal, fresh-baked quiche. i'll be back for sure!",2
+"it's amazing to finally find a place in arizona serving truly authentic cold soba noodles.  the prices are unbeatable, and honestly, a ramen option would just make this place even better.",2
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'negative' category. output each generated text in the form of a numbered list separated by new lines. the text: 'the name describes the place  yes there are some stuff that is funny and silly but mostly things i just wouldnt buy  and i didnt<end_of_turn>,0
+"here are  paraphrases of the given text with a negative sentiment, aiming to convey frustration and disappointment:",0
+"here are  paraphrases of the given text, all classified as 'positive':",2
+"the hotel was decent, but the lighting was a bit problematic. i had to hunt for switches to control the lights in different areas of the room.  there are certainly other hotels in vegas that offer a better experience.",1
+you are given a 'review sentiment' classification dataset. paraphrase a given text  times with the 'neutral' category. output each generated text in the form of a numbered list separated by new lines. the text: 'stopped for the first time today quaint little brewpub very friendly and evident this place has a local following great happy hour prices on appetizers beer was ok average is a good word for it i would  truly recommend sunup if for nothing else  the folks there and the customers were so nice<end_of_turn>,1
+a review discusses a chinese eatery in central phoenix favored for takeout. their experiences range from positive to less positive regarding the food.,1
+"the reviewer frequents a chinese restaurant in central phoenix for takeout, finding it a hassle-free option. their experiences with the food have been mixed.",1
+tart_of_turn>user,1
+"keep in mind, achieving perfect neutrality in this case is difficult due to the subjective nature of the original text.",1
+"what a dreadful experience! we were completely ignored by the aged host for a frustrating ten minutes before he rudely told us we couldn't get a table for another two hours, even though there were lots of empty spaces around. the service was simply unacceptable.",0
+start_of_turn>model,0
+"here are five paraphrases of the given text, each expressing a negative sentiment:",0
+"this review details a past positive experience at a particular restaurant, which later changed, leading to dissatisfaction and a cessation of visits.",1
+start_of_turn>model,2
+"i wouldn't recommend this place. the food was just alright, but the service was dreadful and the bathroom was a horrifying sight with tiny cockroaches crawling everywhere - i was too scared to use it.",0
+i had a truly awful experience with both the service and the quality of the food.,0
+tart_of_turn>user,1
+"each paraphrase avoids explicitly positive (good) or negative (bad) language, aiming for a neutral tone.",1
+this review describes visiting a store known for fashionable clothes and bags. the reviewer was disappointed to find that the discounted items were often damaged.,1
+"while i can't complain about the taste, the entire experience was soured by their deceptive practices. they advertise coupons but don't bother to tell you the original price, therefore devaluing the coupon itself.  their lack of honesty is unbelievable, and i'm outraged. forget quiznos, i'll find somewhere else to eat.",0
+"the area features carts that serve a selection of dishes, with offerings like shrimp dumplings, char sui dumplings, and flat noodles.",1
+"this hotel provided a delightful blend of charm, comfort, and convenience. the staff was welcoming, the rooms were nice, and its central location allowed for easy access to all the city had to offer.",2
+start_of_turn>model,2
+"the reviewer ordered egg drop soup, finding it excessively salty, possibly due to evaporation. the hot and sour soup was deemed not overly spicy or sour, with a pleasant but mild taste, though the reviewer noted a lack of texture and the absence of cornstarch. they also sampled pan-fried noodles, clay pot chicken, and long grain rice.",1
+"the goal was to rephrase the text in a way that removes the expressing of strong positive sentiment (""love it"") while staying factual and neutral in tone.",1
+"airbrush tanning at twinkle tan blew me away! this was my first time trying it, and it's the best spray tan i've ever had.  don't waste your time with booths, twinkle tan is the way to go.",2
+"i had a truly amazing massage experience! colleen was incredible at working out my knots while keeping me deeply relaxed the whole time.  i felt so refreshed afterwards, it was like a whole new me! i'll definitely be back next time i'm in charlotte.",2
+tart_of_turn>user,2
+"their imported deli meats are top-notch, bringing back all the delicious flavors of true italian cooking. living in rhode island, where italian and portuguese cuisines are so prevalent, i know good food, and this place delivers!",2
+"we thought the groupon deal for this restaurant was a winner, but the sushi was a total letdown. it's expensive, bland, and definitely not worth the hype. skip it!",0
+"here are five paraphrases of the given text, each aiming for a neutral tone:",1
+"entering the establishment was a nightmare. the elderly greeter blatantly ignored us for a full ten minutes, then informed us that a table wouldn't be available for another two hours despite plenty of empty seats.  the service was truly appalling.",0
+"the text presents a description of several dishes ordered by a customer. the egg drop soup was described as too salty, possibly from the evaporation of water during preparation. the hot and sour soup was considered balanced in its spiciness and sourness, but lacked a desirable texture due to the absence of cornstarch. other items tasted were pan-fried noodles, clay pot chicken, and long grain rice.",1
+start_of_turn>model,1
+"the meal was absolutely dreadful; the flavors were non-existent. thankfully, the margaritas were decent.",0
+winco's lack of credit card acceptance is a major drawback and they don't make it obvious upfront. prepare to be embarrassed like i was on my first and last trip to this store.,0
+"this place is a rip-off! the drinks are overpriced and terrible, and the stench inside is horrendous. if you're only coming for karaoke, you might be okay, but prepare yourself for a nose-wrinkling experience.",0
+"the prices were exorbitant, and the drinks were utterly disappointing. while karaoke was passable, the overall experience was marred by a truly repulsive odor, likely due to serious plumbing problems.",0
+"the hotel was delightful, with friendly staff and pleasant accommodations. its central location made it easy to discover all the city had to offer.",2
+"this meal was a real letdown. the sushi was dry and bland, the edamame was raw, and the orange chicken was full of peel with hardly any chicken meat. not recommended!",0
+twinkle tan is fantastic!  airbrush spray tanning is the way to go – i'll never go back to a booth again after this amazing experience.  highly recommend twinkle tan to anyone looking for a wonderful tan.,2
