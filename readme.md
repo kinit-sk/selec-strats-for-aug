@@ -8,3 +8,17 @@ This repository contains both the data and code for this paper. This repository 
 **finetuning_scripts** -  contains scripts for finetuning classifiers for each of the cases mentioned in the paper itself.
 
 **reqs.txt** - contains the python pip requirements for this project
+
+## Citing
+
+```
+@misc{cegin2024userandomselectionnow,
+      title={Use Random Selection for Now: Investigation of Few-Shot Selection Strategies in LLM-based Text Augmentation for Classification}, 
+      author={Jan Cegin and Branislav Pecher and Jakub Simko and Ivan Srba and Maria Bielikova and Peter Brusilovsky},
+      year={2024},
+      eprint={2410.10756},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.10756}
+}
+```
